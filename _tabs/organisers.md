@@ -7,7 +7,7 @@ title: "Meet the team"
 
 <div class="row"> 
   <div class="col-md-2" markdown="1">
-  <img class="center-block" src="../assets/YRA_Logo.svg">
+  <img height="150px" class="center-block" src="../assets/YRA_Logo.svg">
   </div>
   <div class="col-md-10" markdown="1">
   **Sinem Hacıosmanoğlu** (Universität Tübingen)  
@@ -17,7 +17,7 @@ title: "Meet the team"
 
 <div class="row"> 
   <div class="col-md-2" markdown="1">
-  <img class="center-block" src="../assets/YRA_Logo.svg">
+  <img height="150px" class="center-block" src="../assets/YRA_Logo.svg">
   </div>
   <div class="col-md-10" markdown="1">
   **Baptiste Solard** (Universität Tübingen)  
@@ -27,7 +27,7 @@ title: "Meet the team"
 
 <div class="row"> 
   <div class="col-md-2" markdown="1">
-  <img class="center-block" src="../assets/YRA_Logo.svg">
+  <img height="150px" class="center-block" src="../assets/YRA_Logo.svg">
   </div>
   <div class="col-md-10" markdown="1">
   **Thomas Rose** (Goethe-Universität Frankfurt)  
