@@ -7,7 +7,7 @@ title: "Meet the team"
 
 <div class="row"> 
   <div class="col-md-2" markdown="1">
-  <img height="150px" class="center-block" src="../assets/YRA_Logo.svg">
+  ![](../assets/YRA_Logo.svg)
   </div>
   <div class="col-md-10" markdown="1">
   **Sinem Hacıosmanoğlu** (Universität Tübingen)  
