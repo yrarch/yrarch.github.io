@@ -5,7 +5,7 @@ order: 2
 title: "Meet the team"
 ---
 
-Any questions? Drop us a mail at [youngresearchersarch@gmail.com](youngresearchersarch@gmail.com)
+Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngresearchersarch@gmail.com)
 
 <div class="row"> 
   <div class="col-md-2" markdown="1">
