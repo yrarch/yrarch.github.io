@@ -14,7 +14,7 @@ website:
       - href: index.qmd
         text: "Home"
       - href: current.qmd
-        text: "2023 | YRA 6"
+        text: "YRA 6 | 2023"
       - href: team.qmd
         text: "Organisers"
       - href: archive.qmd

@@ -4,7 +4,15 @@ title: "Young Researchers in Archaeometry 6"
 
 ::: {.column-margin}
 
-:::: {.callout-note icon=false}
+:::: {.callout}
+
+## Mailing list
+Want to get in contact with other ECRs in Archaeometry and stay tuned about YRA?  
+[Subscribe to our mailing list!](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry){target="_blank"}
+
+::::
+
+:::: {.callout}
 
 ## Contact
 Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngresearchersarch@gmail.com)
@@ -12,3 +20,4 @@ Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngre
 ::::
 
 :::
+
