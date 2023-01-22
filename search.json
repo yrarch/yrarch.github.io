@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Provider according to § 5 TMG is:\nThomas Rose\nAm Satz 8\n60437 Frankfurt\nGermany\nPhone +49 1522 3176524\nE-Mail: thomas.rose [at] daad-alumni.de"
-  },
-  {
-    "objectID": "about.html#privacy",
-    "href": "about.html#privacy",
-    "title": "About",
-    "section": "Privacy",
-    "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
-  },
-  {
     "objectID": "current.html",
     "href": "current.html",
     "title": "Young Researchers in Archaeometry 6",
@@ -47,5 +33,19 @@
     "title": "Meet the team",
     "section": "Past editions",
     "text": "Past editions\n\n\n\nEdition\nTeam\nHosting Institution\n\n\n\n\nYRA 5 | 2022\nVasiliki Anevlavi  Thorsten Jakobitsch  Magdalena Srienc-Sciesiek  Emmanouil Anevlavis  Thomas Rose\nÖAW/ÖAI\n\n\nYRA 4 | 2021\n\n\n\n\nYRA 3 | 2019\n\n\n\n\nYRA 2 | 2018\n\n\n\n\nYRACS | 2017"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Provider according to § 5 TMG is:\nThomas Rose\nAm Satz 8\n60437 Frankfurt\nGermany\nPhone +49 1522 3176524\nE-Mail: thomas.rose [at] daad-alumni.de"
+  },
+  {
+    "objectID": "about.html#privacy",
+    "href": "about.html#privacy",
+    "title": "About",
+    "section": "Privacy",
+    "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
   }
 ]
