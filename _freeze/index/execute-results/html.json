@@ -1,0 +1,14 @@
+{
+  "hash": "a36b763609553ee5de8dbf9ab82b2a3b",
+  "result": {
+    "markdown": "---\ntitle: \"Historical Metallurgy Society\"\n---\n\n\n## Research in Progress Meeting 2023\nThe [Historical Metallurgy Society](https://historicalmetallurgy.org/) cordially invites you to their Research in Progress Meeting 2023. \n\n### Key information\n\n**When?** April 22, 2023\n**Where?** online via Zoom\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

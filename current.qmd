@@ -1,0 +1,14 @@
+---
+title: "Young Researchers in Archaeometry 6"
+---
+
+::: {.column-margin}
+
+:::: {.callout-note icon=false}
+
+## Contact
+Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngresearchersarch@gmail.com)
+
+::::
+
+:::

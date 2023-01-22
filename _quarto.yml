@@ -1,0 +1,37 @@
+project:
+  type: website
+    
+website:
+  site-url: https://yrarch.github.io/
+  repo-url: https://github.com/yrarch/yrarch.github.io
+  favicon: assets/img/favicons/favicon-32x32.png
+  title: "![Logo YRA](assets/YRA_Logo.svg){height=60px}"
+  description: "Young Researchers in Archaeometry is a workshop series organised by ECRs for ECRs"
+  navbar:
+    background: light
+    foreground: dark
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: current.qmd
+        text: "2023 | YRA 6"
+      - href: team.qmd
+        text: "Organisers"
+      - href: archive.qmd
+        text: "Archive"
+      - href: tutorials.qmd
+        text: "Tutorials"
+    right: 
+      - about.qmd
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    linkcolor: "#b93657" # "#57266d" 
+    toc: true
+    toc-location: left
+
+execute:
+  freeze: auto
+  

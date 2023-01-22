@@ -1,0 +1,18 @@
+---
+title: "About"
+---
+
+## Legal Notice
+
+Provider according to § 5 TMG is:  
+Thomas Rose  
+Am Satz 8  
+60437 Frankfurt  
+Germany  
+
+Phone +49 1522 3176524  
+E-Mail: thomas.rose [at] daad-alumni.de
+
+## Privacy
+
+This webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by [GitHub Inc.]() using [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages). The privacy statement of Github is available [here](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement). 
