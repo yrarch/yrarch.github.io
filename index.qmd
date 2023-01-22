@@ -8,7 +8,7 @@ title: "Young Researchers in Archaeometry"
 
 ## Mailing list
 Want to get in contact with other ECRs in Archaeometry and stay tuned about YRA?  
-[Subscribe to our mailing list!](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry)
+[Subscribe to our mailing list!](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry){target="_blank"}
 
 ::::
 
