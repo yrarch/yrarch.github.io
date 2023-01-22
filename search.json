@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Provider according to § 5 TMG is:\nThomas Rose\nAm Satz 8\n60437 Frankfurt\nGermany\nPhone +49 1522 3176524\nE-Mail: thomas.rose [at] daad-alumni.de"
-  },
-  {
-    "objectID": "about.html#privacy",
-    "href": "about.html#privacy",
-    "title": "About",
-    "section": "Privacy",
-    "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
-  },
-  {
-    "objectID": "archive.html",
-    "href": "archive.html",
-    "title": "Previous editions",
-    "section": "",
-    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com\n\n\n\n\n\n\n\n\nUnder construction\n\n\n\nIn the meanwhile you can get information about previous editions here."
-  },
-  {
     "objectID": "current.html",
     "href": "current.html",
     "title": "Young Researchers in Archaeometry 6",
@@ -42,11 +21,11 @@
     "text": "A workshops series from ECRs for ECRs\nYRA aims to give young archaeometry researchers the opportunity to present their research in a friendly environment surrounded only by young students from the same field. We welcome all persons involved in archaeometry research of different nationalities and levels, from master students to first postdoctoral fellows."
   },
   {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Meet the team",
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Previous editions",
     "section": "",
-    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com\n\n\n\nYRA 6 | 2023 is organised by\n\n\n\n\nSinem Hacıosmanoğlu (Universität Tübingen)  Sinem is a PhD candidate at the University of Tübingen, Germany, Department of Geoscience, Institute for Archeological Sciences. She completed her bachelor (BA) and master (MSc) at Istanbul Technical University (Turkey) in the Department of Geological Engineering. In her PhD project, she investigates clay resources and ancient ceramics from the Late Bronze Age and the Iron Age in Cilicia, Southeast Anatolia, Eastern Mediterranean by using several disciplines, such as mineralogy, petrography, geochemistry and field geology. In addition, she is working as a research assistant on several projects funded by the German Research Foundation (DFG) and hosted at the Competence Center Archaeometry - Baden-Württemberg (CCA-BW).\n\n\n\nBaptiste Solard (Universität Tübingen)  Baptiste completed his Diplôme d’ingénieur chimiste (BSc and MSc equivalent) in Material Sciences at the National Graduate School of Chemistry of Montpellier, France (ENSCM) in November 2019. In October 2021, he successfully finished his master of Archaeological Sciences with specialisation in archaeometry (MSc) at the University of Tübingen (Germany), Department of Geoscience, Institute for Archeological Sciences with a thesis on Atticising Black Gloss ceramics from the 4th century BCE. Since December 2019, he is a research assistant at the Competence Center Archaeometry - Baden-Württemberg (CCA-BW), working in various projects on ancient ceramic technology. In 2023, he will start his PhD at the University of Tübingen on Merovingian pigmented glass production in Switzerland.\n\n\n\nThomas Rose (Goethe-Universität Frankfurt)  Thomas is a coordinator in the NDFI4Earth at Goethe University Frankfurt, PhD student at Ben-Gurion University of the Negev and La Sapienza - Universitá di Roma within the MSCA-ITN Project ED-ARCHMAT, and visiting scientist of the Deutsches Bergbau-Museum Bochum. He gained expertise in ancient copper smelting technologies and stable metal isotopes. In addition, he is member of the GlobaLID Core Team and developer of the R package ChronochRt. More info at copper-smelting.com.\n\n\n\n\n\nOrganisers of previous editions\n\n\n\n\n\n\n\n\nEdition\nTeam\nLocation\n\n\n\n\nYRA 5 | 2022\nVasiliki Anevlavi  Thorsten Jakobitsch  Magdalena Srienc-Sciesiek  Emmanouil Anevlavis  Thomas Rose\nÖsterreichische Akademie der Wissenschaften – Österreichisches Archäologisches Institut (Austria/online)\n\n\nYRA 4 | 2021\nCécile Fossé  Louise Chassouant  Roshan Paladugu  Sergio Lins  Thomas Rose\nUniversidade de Évora (Portugal/hybrid)\n\n\nYRA 3 | 2019\nManon Gosselin  Mélissa Cadet  Thomas Rose\nUniversité Paris Nanterre – Maison Archéologie Ethnologie (France)\n\n\nYRA 2 | 2018\nKatharina Kuntz  Ralf Milke  Thomas Rose\nFreie Universität Berlin (Germany)\n\n\nYRACS | 2017\nKatrin J. Westner  Thomas Rose  Florian Ströbele  Marc Holly\nGoethe Universität Frankfurt (Germany)"
+    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com\n\n\n\n\n\n\n\n\nUnder construction\n\n\n\nIn the meanwhile you can get information about previous editions here."
   },
   {
     "objectID": "tutorials.html",
@@ -75,5 +54,26 @@
     "title": "Video tutorials",
     "section": "Methods",
     "text": "Methods\n\nEleni Palamara (University of Peloponnese):  Electron Microscopy techniques – Applications in archaeological research\nWalter Prochaska (ÖAI/ÖAW):  Application of the ion chromatography in archaeology\nKatrin J. Westner (ENS Lyon):  ICP-MS techniques and their applications in archaeometry"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Meet the team",
+    "section": "",
+    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com\n\n\n\nYRA 6 | 2023 is organised by\n\n\n\n\nSinem Hacıosmanoğlu (Universität Tübingen)  Sinem is a PhD candidate at the University of Tübingen, Germany, Department of Geoscience, Institute for Archeological Sciences. She completed her bachelor (BA) and master (MSc) at Istanbul Technical University (Turkey) in the Department of Geological Engineering. In her PhD project, she investigates clay resources and ancient ceramics from the Late Bronze Age and the Iron Age in Cilicia, Southeast Anatolia, Eastern Mediterranean by using several disciplines, such as mineralogy, petrography, geochemistry and field geology. In addition, she is working as a research assistant on several projects funded by the German Research Foundation (DFG) and hosted at the Competence Center Archaeometry - Baden-Württemberg (CCA-BW).\n\n\n\nBaptiste Solard (Universität Tübingen)  Baptiste completed his Diplôme d’ingénieur chimiste (BSc and MSc equivalent) in Material Sciences at the National Graduate School of Chemistry of Montpellier, France (ENSCM) in November 2019. In October 2021, he successfully finished his master of Archaeological Sciences with specialisation in archaeometry (MSc) at the University of Tübingen (Germany), Department of Geoscience, Institute for Archeological Sciences with a thesis on Atticising Black Gloss ceramics from the 4th century BCE. Since December 2019, he is a research assistant at the Competence Center Archaeometry - Baden-Württemberg (CCA-BW), working in various projects on ancient ceramic technology. In 2023, he will start his PhD at the University of Tübingen on Merovingian pigmented glass production in Switzerland.\n\n\n\nThomas Rose (Goethe-Universität Frankfurt)  Thomas is a coordinator in the NDFI4Earth at Goethe University Frankfurt, PhD student at Ben-Gurion University of the Negev and La Sapienza - Universitá di Roma within the MSCA-ITN Project ED-ARCHMAT, and visiting scientist of the Deutsches Bergbau-Museum Bochum. He gained expertise in ancient copper smelting technologies and stable metal isotopes. In addition, he is member of the GlobaLID Core Team and developer of the R package ChronochRt. More info at copper-smelting.com.\n\n\n\n\n\nOrganisers of previous editions\n\n\n\n\n\n\n\n\nEdition\nTeam\nLocation\n\n\n\n\nYRA 5 | 2022\nVasiliki Anevlavi  Thorsten Jakobitsch  Magdalena Srienc-Sciesiek  Emmanouil Anevlavis  Thomas Rose\nÖsterreichische Akademie der Wissenschaften – Österreichisches Archäologisches Institut (Austria/online)\n\n\nYRA 4 | 2021\nCécile Fossé  Louise Chassouant  Roshan Paladugu  Sergio Lins  Thomas Rose\nUniversidade de Évora (Portugal/hybrid)\n\n\nYRA 3 | 2019\nManon Gosselin  Mélissa Cadet  Thomas Rose\nUniversité Paris Nanterre – Maison Archéologie Ethnologie (France)\n\n\nYRA 2 | 2018\nKatharina Kuntz  Ralf Milke  Thomas Rose\nFreie Universität Berlin (Germany)\n\n\nYRACS | 2017\nKatrin J. Westner  Thomas Rose  Florian Ströbele  Marc Holly\nGoethe Universität Frankfurt (Germany)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Provider according to § 5 TMG is:\nThomas Rose\nAm Satz 8\n60437 Frankfurt\nGermany\nPhone +49 1522 3176524\nE-Mail: thomas.rose [at] daad-alumni.de"
+  },
+  {
+    "objectID": "about.html#privacy",
+    "href": "about.html#privacy",
+    "title": "About",
+    "section": "Privacy",
+    "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
   }
 ]
