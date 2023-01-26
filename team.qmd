@@ -30,11 +30,11 @@ Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngre
 | ![Portrait of Thomas](assets/img/TRose.png)<img width=150/> | **Thomas Rose** (Goethe-Universität Frankfurt) <br> Thomas is a coordinator in the NDFI4Earth at Goethe University Frankfurt, PhD student at Ben-Gurion University of the Negev and La Sapienza - Universitá di Roma within the MSCA-ITN Project ED-ARCHMAT, and visiting scientist of the Deutsches Bergbau-Museum Bochum. He gained expertise in ancient copper smelting technologies and stable metal isotopes. In addition, he is member of the GlobaLID Core Team and developer of the R package ChronochRt. More info at [copper-smelting.com](https://copper-smelting.com/){target="_blank"}. |
 
 ### Organisers of previous editions
-|Edition | Team | Location|
+|Year | Team | Location|
 |-----|------|------|
-|YRA 5 \| 2022 | Vasiliki Anevlavi <br> Thorsten Jakobitsch <br> Magdalena Srienc-Sciesiek <br> Emmanouil Anevlavis  <br> Thomas Rose | Österreichische Akademie der Wissenschaften -- Österreichisches Archäologisches Institut (Austria/online)|
-|YRA 4 \| 2021 | Cécile Fossé <br> Louise Chassouant <br> Roshan Paladugu <br> Sergio Lins <br> Thomas Rose | Universidade de Évora (Portugal/hybrid)|
-|YRA 3 \| 2019 | Manon Gosselin <br> Mélissa Cadet <br> Thomas Rose | Université Paris Nanterre -- Maison Archéologie Ethnologie (France)|
-|YRA 2 \| 2018 | Katharina Kuntz <br> Ralf Milke <br> Thomas Rose| Freie Universität Berlin (Germany)|
-|YRACS \| 2017 | Katrin J. Westner <br> Thomas Rose <br> Florian Ströbele <br> Marc Holly | Goethe Universität Frankfurt (Germany)|
+| 2022 | Vasiliki Anevlavi <br> Thorsten Jakobitsch <br> Magdalena Srienc-Sciesiek <br> Emmanouil Anevlavis  <br> Thomas Rose | Österreichische Akademie der Wissenschaften -- Österreichisches Archäologisches Institut (Austria/online)|
+| 2021 | Cécile Fossé <br> Louise Chassouant <br> Roshan Paladugu <br> Sergio Lins <br> Thomas Rose | Universidade de Évora (Portugal/hybrid)|
+| 2019 | Manon Gosselin <br> Mélissa Cadet <br> Thomas Rose | Université Paris Nanterre -- Maison Archéologie Ethnologie (France)|
+| 2018 | Katharina Kuntz <br> Ralf Milke <br> Thomas Rose| Freie Universität Berlin (Germany)|
+| 2017 | Katrin J. Westner <br> Thomas Rose <br> Florian Ströbele <br> Marc Holly | Goethe Universität Frankfurt (Germany)|
 
