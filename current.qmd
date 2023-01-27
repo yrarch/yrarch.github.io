@@ -23,7 +23,7 @@ Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngre
 
 ## Save the date!
 
-[Hosted at [![Logo University of Tübingen](https://uni-tuebingen.de/typo3conf/ext/project/Resources/Public/Images/Logo_Universitaet_Tuebingen.svg)](https://uni-tuebingen.de/en/)]{.aside}
+[Hosted at [![Logo University of Tübingen](https://uni-tuebingen.de/typo3conf/ext/project/Resources/Public/Images/Logo_Universitaet_Tuebingen.svg)](https://uni-tuebingen.de/en/){target="_blank"}]{.aside}
 
 We are happy to announce that the **6^th^ Workshop Young Researchers in Archaeometry** will be held in **hybrid format** at the **University of Tübingen**, Germany from **October 4^th^ to 6^th^, 2023**. The workshop will once again welcome early career researchers (master, PhD, first postdoc) in archaeological sciences and cultural heritage studies.
 
