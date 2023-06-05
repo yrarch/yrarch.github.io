@@ -24,7 +24,7 @@ Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngre
 ::: {.callout-note}
 ## YRA 2023 Key dates
 ~~**May 15^th^** – Deadline for [abstract submission](https://forms.gle/vki7aE9LgHKM1AN27){target="_blank"}~~  
-**May 31^th^** – **EXTENDED** Deadline for [abstract submission](https://forms.gle/vki7aE9LgHKM1AN27){target="_blank"}    
+~~**May 31^th^** – **EXTENDED** Deadline for [abstract submission](https://forms.gle/vki7aE9LgHKM1AN27){target="_blank"}~~    
 **June 15^th^** – Announcement of abstracts decisions & Opening for registration   
 **Aug. 15^th^** – Preliminary program    
 **Sept. 15^th^** – Deadline for in-presence registration   
@@ -37,7 +37,9 @@ Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngre
 
 [Hosted at [![Logo University of Tübingen](https://uni-tuebingen.de/typo3conf/ext/project/Resources/Public/Images/Logo_Universitaet_Tuebingen.svg)](https://uni-tuebingen.de/en/){target="_blank"}]{.aside}
 
-Send us your abstract (max. 250 words) until  ~~May 15^th^, 2023~~ **May 31^st^ 2023** (extended deadline) via the [submission form](https://forms.gle/vki7aE9LgHKM1AN27){target="_blank"}.  
+Abstract submission is closed. The submitted abstracts are now evaluated. 
+
+<!-- Send us your abstract (max. 250 words) until  ~~May 15^th^, 2023~~ **May 31^st^ 2023** (extended deadline) via the [submission form](https://forms.gle/vki7aE9LgHKM1AN27){target="_blank"}. -->  
 
 Presentations can be either a 5 min digital poster or a 15 min oral presentation, with additional time for questions. Online presentations will be scheduled in a way that considers the different presenters' time zones.
 
