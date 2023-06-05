@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Meet the team",
+    "section": "",
+    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com\n\n\n\nYRA 2023 is organised by\n\n\n\n\nSinem Hacıosmanoğlu (Universität Tübingen)  Sinem is a PhD candidate at the University of Tübingen, Germany, Department of Geoscience, Institute for Archeological Sciences. She completed her bachelor (BA) and master (MSc) at Istanbul Technical University (Turkey) in the Department of Geological Engineering. In her PhD project, she investigates clay resources and ancient ceramics from the Late Bronze Age and the Iron Age in Cilicia, Southeast Anatolia, Eastern Mediterranean by using several disciplines, such as mineralogy, petrography, geochemistry and field geology. In addition, she is working as a research assistant on several projects funded by the German Research Foundation (DFG) and hosted at the Competence Center Archaeometry - Baden-Württemberg (CCA-BW).\n\n\n\nBaptiste Solard (Universität Tübingen)  Baptiste completed his Diplôme d’ingénieur chimiste (BSc and MSc equivalent) in Material Sciences at the National Graduate School of Chemistry of Montpellier, France (ENSCM) in November 2019. In October 2021, he successfully finished his master of Archaeological Sciences with specialisation in archaeometry (MSc) at the University of Tübingen (Germany), Department of Geoscience, Institute for Archeological Sciences with a thesis on Atticising Black Gloss ceramics from the 4th century BCE. Since December 2019, he is a research assistant at the Competence Center Archaeometry - Baden-Württemberg (CCA-BW), working in various projects on ancient ceramic technology. In 2023, he will start his PhD at the University of Tübingen on Merovingian pigmented glass production in Switzerland.\n\n\n\nThomas Rose (Goethe-Universität Frankfurt)  Thomas is a coordinator in the NDFI4Earth at Goethe University Frankfurt, PhD student at Ben-Gurion University of the Negev and La Sapienza - Universitá di Roma within the MSCA-ITN Project ED-ARCHMAT, and visiting scientist of the Deutsches Bergbau-Museum Bochum. He gained expertise in ancient copper smelting technologies and stable metal isotopes. In addition, he is member of the GlobaLID Core Team and developer of the R package ChronochRt. More info at copper-smelting.com.\n\n\n\n\n\nOrganisers of previous editions\n\n\n\n\n\n\n\n\nYear\nTeam\nLocation\n\n\n\n\n2022\nVasiliki Anevlavi  Thorsten Jakobitsch  Magdalena Srienc-Sciesiek  Emmanouil Anevlavis  Thomas Rose\nÖsterreichische Akademie der Wissenschaften – Österreichisches Archäologisches Institut (Austria/online)\n\n\n2021\nCécile Fossé  Louise Chassouant  Roshan Paladugu  Sergio Lins  Thomas Rose\nUniversidade de Évora (Portugal/hybrid)\n\n\n2019\nManon Gosselin  Mélissa Cadet  Thomas Rose\nUniversité Paris Nanterre – Maison Archéologie Ethnologie (France)\n\n\n2018\nKatharina Kuntz  Ralf Milke  Thomas Rose\nFreie Universität Berlin (Germany)\n\n\n2017\nKatrin J. Westner  Thomas Rose  Florian Ströbele  Marc Holly\nGoethe Universität Frankfurt (Germany)"
+  },
+  {
     "objectID": "tutorials.html",
     "href": "tutorials.html",
     "title": "Video tutorials",
@@ -26,55 +33,6 @@
     "title": "Video tutorials",
     "section": "Methods",
     "text": "Methods\n\nEleni Palamara (University of Peloponnese):  Electron Microscopy techniques – Applications in archaeological research\nWalter Prochaska (ÖAI/ÖAW):  Application of the ion chromatography in archaeology\nKatrin J. Westner (ENS Lyon):  ICP-MS techniques and their applications in archaeometry"
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Meet the team",
-    "section": "",
-    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com\n\n\n\nYRA 2023 is organised by\n\n\n\n\nSinem Hacıosmanoğlu (Universität Tübingen)  Sinem is a PhD candidate at the University of Tübingen, Germany, Department of Geoscience, Institute for Archeological Sciences. She completed her bachelor (BA) and master (MSc) at Istanbul Technical University (Turkey) in the Department of Geological Engineering. In her PhD project, she investigates clay resources and ancient ceramics from the Late Bronze Age and the Iron Age in Cilicia, Southeast Anatolia, Eastern Mediterranean by using several disciplines, such as mineralogy, petrography, geochemistry and field geology. In addition, she is working as a research assistant on several projects funded by the German Research Foundation (DFG) and hosted at the Competence Center Archaeometry - Baden-Württemberg (CCA-BW).\n\n\n\nBaptiste Solard (Universität Tübingen)  Baptiste completed his Diplôme d’ingénieur chimiste (BSc and MSc equivalent) in Material Sciences at the National Graduate School of Chemistry of Montpellier, France (ENSCM) in November 2019. In October 2021, he successfully finished his master of Archaeological Sciences with specialisation in archaeometry (MSc) at the University of Tübingen (Germany), Department of Geoscience, Institute for Archeological Sciences with a thesis on Atticising Black Gloss ceramics from the 4th century BCE. Since December 2019, he is a research assistant at the Competence Center Archaeometry - Baden-Württemberg (CCA-BW), working in various projects on ancient ceramic technology. In 2023, he will start his PhD at the University of Tübingen on Merovingian pigmented glass production in Switzerland.\n\n\n\nThomas Rose (Goethe-Universität Frankfurt)  Thomas is a coordinator in the NDFI4Earth at Goethe University Frankfurt, PhD student at Ben-Gurion University of the Negev and La Sapienza - Universitá di Roma within the MSCA-ITN Project ED-ARCHMAT, and visiting scientist of the Deutsches Bergbau-Museum Bochum. He gained expertise in ancient copper smelting technologies and stable metal isotopes. In addition, he is member of the GlobaLID Core Team and developer of the R package ChronochRt. More info at copper-smelting.com.\n\n\n\n\n\nOrganisers of previous editions\n\n\n\n\n\n\n\n\nYear\nTeam\nLocation\n\n\n\n\n2022\nVasiliki Anevlavi  Thorsten Jakobitsch  Magdalena Srienc-Sciesiek  Emmanouil Anevlavis  Thomas Rose\nÖsterreichische Akademie der Wissenschaften – Österreichisches Archäologisches Institut (Austria/online)\n\n\n2021\nCécile Fossé  Louise Chassouant  Roshan Paladugu  Sergio Lins  Thomas Rose\nUniversidade de Évora (Portugal/hybrid)\n\n\n2019\nManon Gosselin  Mélissa Cadet  Thomas Rose\nUniversité Paris Nanterre – Maison Archéologie Ethnologie (France)\n\n\n2018\nKatharina Kuntz  Ralf Milke  Thomas Rose\nFreie Universität Berlin (Germany)\n\n\n2017\nKatrin J. Westner  Thomas Rose  Florian Ströbele  Marc Holly\nGoethe Universität Frankfurt (Germany)"
-  },
-  {
-    "objectID": "current.html",
-    "href": "current.html",
-    "title": "Young Researchers in Archaeometry 2023",
-    "section": "",
-    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com"
-  },
-  {
-    "objectID": "current.html#abstract-submission",
-    "href": "current.html#abstract-submission",
-    "title": "Young Researchers in Archaeometry 2023",
-    "section": "Abstract submission",
-    "text": "Abstract submission\nHosted at \nSend us your abstract (max. 250 words) until May 15th, 2023 May 31st 2023 (extended deadline) via the submission form.\nPresentations can be either a 5 min digital poster or a 15 min oral presentation, with additional time for questions. Online presentations will be scheduled in a way that considers the different presenters’ time zones."
-  },
-  {
-    "objectID": "current.html#registration",
-    "href": "current.html#registration",
-    "title": "Young Researchers in Archaeometry 2023",
-    "section": "Registration",
-    "text": "Registration\nwill open in June. Stay tuned via our mailing list.\nThe registration fees for in-presence participation are fixed at 30 €. Participation online is free."
-  },
-  {
-    "objectID": "current.html#call-for-abstracts",
-    "href": "current.html#call-for-abstracts",
-    "title": "Young Researchers in Archaeometry 2023",
-    "section": "Call for Abstracts",
-    "text": "Call for Abstracts\nWe are happy to announce that the 6th Workshop Young Researchers in Archaeometry will be held in hybrid format at the University of Tübingen, Germany from October 4th to 6th, 2023. The workshop will once again welcome early career researchers (master, PhD, first postdoc) in archaeological sciences and cultural heritage studies.\nWith this workshop we aim to offer a relaxed atmosphere to encourage interdisciplinary exchange between early career researchers. With a hybrid format, we are happy to welcome participants in person, as well as those online from all around the world, who cannot come to Tübingen. We are pleased to invite you for oral contributions in all kinds of natural sciences about archaeological and anthropological topics. In particular, early career researchers in archaeology, art history, anthropology, biology, chemistry, conservation, cultural heritage, earth science, material science, medicine, physics are welcome to submit an abstract.\n\n\n\n\n\n\nPreliminary Program\n\n\n\nOct. 3rd\nEvening - Icebreaker\nOct. 4th\nMorning - Opening of the conference - Presentations\nAfternoon - Presentations\nOct. 5th\nDay - Presentations\nEvening - Dinner\nOct. 6th\nMorning - Presentations\nAfternoon - Round table - Closing of the conference"
-  },
-  {
-    "objectID": "current.html#how-to-get-to-tübingen",
-    "href": "current.html#how-to-get-to-tübingen",
-    "title": "Young Researchers in Archaeometry 2023",
-    "section": "How to get to Tübingen",
-    "text": "How to get to Tübingen\nTübingen is a university city in south-western Germany, at the centre of the state Baden-Württemberg. It is located ca. 30 km south of Stuttgart, the state capital.\nYou can easily access Tübingen via direct train from Stuttgart central station (IRE6, MEX12, and MEX18), or via bus lines 828 and X82 from Stuttgart Airport (STR). You can find information about connections with trains and regional buses here. Several long distance bus lines operated by e.g. Flixbus stop at Tübingen. With a car you reach Tübingen best via the B27 and B28.\nYRA 2023 will take place in Hohentübingen Castle, in Tübingen’s historical city centre. Please be aware that the castle is located on a small but steep hill. Access for persons with reduced mobility is possible but require arrangements in advance regarding e.g. parking. Please contact us if this should be the case. We are happy to make all necessary arrangements for you."
-  },
-  {
-    "objectID": "current.html#code-of-conduct",
-    "href": "current.html#code-of-conduct",
-    "title": "Young Researchers in Archaeometry 2023",
-    "section": "Code of conduct",
-    "text": "Code of conduct\nAll participants at YRA 2023 agree to conduct themselves in a professional and appropriate manner and to ensure that all can enjoy a harassment-free event. The workshop organisers are dedicated to providing an inclusive, respectful, safe, friendly, and welcoming hybrid meeting for all participants.\nWe do not tolerate disruptive or disrespectful behaviour, personal messages, images, or interactions by any participant, in any form, at any aspect of the program including business and social activities, regardless of mode of participation and location.\nPhotography, video, recording or screen-captures of session content or presentations in any format are prohibited unless this right is granted on the slides of the respective presentation. We encourage everyone to assist in creating a welcoming and safe environment.\nIf a participant engages in harassing behaviour, the event organisers may take any action they deem appropriate, including warning the offender and/or expulsion from the event. If you are being harassed, if you notice that someone else is being harassed, or have any other concerns, please contact one of the organisers immediately.\nWe value your attendance and want YRA 2023 to be a safe place for everybody."
   },
   {
     "objectID": "index.html",
@@ -105,6 +63,55 @@
     "text": "The YRA logo\nDesigning a logo for YRA was not an easy task. Without doubt, the biggest challenge was to create a logo that represents the huge breadth of disciplines working together in the archaeological sciences and represents the target group. As a consequence, decisions were made for a very abstract logo and we are aware it is not very intuitive.\nThe logo writes “YRA” embedded in a spectra-like line with each letter having a different colour and the grey coloured parts as connecting lines. The trowel-shaped arrows outline the negative space (“hole”) of the letters R and A and are inspired by the markers for characteristic peaks. The colours do not have a special meaning. They were chosen because this combination is colour-blind friendly and pleasing to the eyes of the persons involved in the design process."
   },
   {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Previous editions",
+    "section": "",
+    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com\n\n\n\n\n\n\n\n\nUnder construction\n\n\n\nIn the meanwhile you can get information about previous editions here."
+  },
+  {
+    "objectID": "current.html",
+    "href": "current.html",
+    "title": "Young Researchers in Archaeometry 2023",
+    "section": "",
+    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com"
+  },
+  {
+    "objectID": "current.html#abstract-submission",
+    "href": "current.html#abstract-submission",
+    "title": "Young Researchers in Archaeometry 2023",
+    "section": "Abstract submission",
+    "text": "Abstract submission\nHosted at \nAbstract submission is closed. The submitted abstracts are now evaluated.\n\nPresentations can be either a 5 min digital poster or a 15 min oral presentation, with additional time for questions. Online presentations will be scheduled in a way that considers the different presenters’ time zones."
+  },
+  {
+    "objectID": "current.html#registration",
+    "href": "current.html#registration",
+    "title": "Young Researchers in Archaeometry 2023",
+    "section": "Registration",
+    "text": "Registration\nwill open in June. Stay tuned via our mailing list.\nThe registration fees for in-presence participation are fixed at 30 €. Participation online is free."
+  },
+  {
+    "objectID": "current.html#call-for-abstracts",
+    "href": "current.html#call-for-abstracts",
+    "title": "Young Researchers in Archaeometry 2023",
+    "section": "Call for Abstracts",
+    "text": "Call for Abstracts\nWe are happy to announce that the 6th Workshop Young Researchers in Archaeometry will be held in hybrid format at the University of Tübingen, Germany from October 4th to 6th, 2023. The workshop will once again welcome early career researchers (master, PhD, first postdoc) in archaeological sciences and cultural heritage studies.\nWith this workshop we aim to offer a relaxed atmosphere to encourage interdisciplinary exchange between early career researchers. With a hybrid format, we are happy to welcome participants in person, as well as those online from all around the world, who cannot come to Tübingen. We are pleased to invite you for oral contributions in all kinds of natural sciences about archaeological and anthropological topics. In particular, early career researchers in archaeology, art history, anthropology, biology, chemistry, conservation, cultural heritage, earth science, material science, medicine, physics are welcome to submit an abstract.\n\n\n\n\n\n\nPreliminary Program\n\n\n\nOct. 3rd\nEvening - Icebreaker\nOct. 4th\nMorning - Opening of the conference - Presentations\nAfternoon - Presentations\nOct. 5th\nDay - Presentations\nEvening - Dinner\nOct. 6th\nMorning - Presentations\nAfternoon - Round table - Closing of the conference"
+  },
+  {
+    "objectID": "current.html#how-to-get-to-tübingen",
+    "href": "current.html#how-to-get-to-tübingen",
+    "title": "Young Researchers in Archaeometry 2023",
+    "section": "How to get to Tübingen",
+    "text": "How to get to Tübingen\nTübingen is a university city in south-western Germany, at the centre of the state Baden-Württemberg. It is located ca. 30 km south of Stuttgart, the state capital.\nYou can easily access Tübingen via direct train from Stuttgart central station (IRE6, MEX12, and MEX18), or via bus lines 828 and X82 from Stuttgart Airport (STR). You can find information about connections with trains and regional buses here. Several long distance bus lines operated by e.g. Flixbus stop at Tübingen. With a car you reach Tübingen best via the B27 and B28.\nYRA 2023 will take place in Hohentübingen Castle, in Tübingen’s historical city centre. Please be aware that the castle is located on a small but steep hill. Access for persons with reduced mobility is possible but require arrangements in advance regarding e.g. parking. Please contact us if this should be the case. We are happy to make all necessary arrangements for you."
+  },
+  {
+    "objectID": "current.html#code-of-conduct",
+    "href": "current.html#code-of-conduct",
+    "title": "Young Researchers in Archaeometry 2023",
+    "section": "Code of conduct",
+    "text": "Code of conduct\nAll participants at YRA 2023 agree to conduct themselves in a professional and appropriate manner and to ensure that all can enjoy a harassment-free event. The workshop organisers are dedicated to providing an inclusive, respectful, safe, friendly, and welcoming hybrid meeting for all participants.\nWe do not tolerate disruptive or disrespectful behaviour, personal messages, images, or interactions by any participant, in any form, at any aspect of the program including business and social activities, regardless of mode of participation and location.\nPhotography, video, recording or screen-captures of session content or presentations in any format are prohibited unless this right is granted on the slides of the respective presentation. We encourage everyone to assist in creating a welcoming and safe environment.\nIf a participant engages in harassing behaviour, the event organisers may take any action they deem appropriate, including warning the offender and/or expulsion from the event. If you are being harassed, if you notice that someone else is being harassed, or have any other concerns, please contact one of the organisers immediately.\nWe value your attendance and want YRA 2023 to be a safe place for everybody."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -124,12 +131,5 @@
     "title": "About",
     "section": "Privacy",
     "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
-  },
-  {
-    "objectID": "archive.html",
-    "href": "archive.html",
-    "title": "Previous editions",
-    "section": "",
-    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com\n\n\n\n\n\n\n\n\nUnder construction\n\n\n\nIn the meanwhile you can get information about previous editions here."
   }
 ]
