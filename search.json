@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Provider according to § 5 TMG is:\nThomas Rose\nAm Satz 8\n60437 Frankfurt\nGermany\nPhone +49 1522 3176524\nE-Mail: thomas.rose [at] daad-alumni.de"
+  },
+  {
+    "objectID": "about.html#privacy",
+    "href": "about.html#privacy",
+    "title": "About",
+    "section": "Privacy",
+    "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
+  },
+  {
     "objectID": "archive.html",
     "href": "archive.html",
     "title": "Previous editions",
@@ -103,26 +117,5 @@
     "title": "Video tutorials",
     "section": "Methods",
     "text": "Methods\n\nEleni Palamara (University of Peloponnese):  Electron Microscopy techniques – Applications in archaeological research\nWalter Prochaska (ÖAI/ÖAW):  Application of the ion chromatography in archaeology\nKatrin J. Westner (ENS Lyon):  ICP-MS techniques and their applications in archaeometry"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Provider according to § 5 TMG is:\nThomas Rose\nAm Satz 8\n60437 Frankfurt\nGermany\nPhone +49 1522 3176524\nE-Mail: thomas.rose [at] daad-alumni.de"
-  },
-  {
-    "objectID": "about.html#legal-notice",
-    "href": "about.html#legal-notice",
-    "title": "About",
-    "section": "",
-    "text": "Provider according to § 5 TMG is:\nThomas Rose\nAm Satz 8\n60437 Frankfurt\nGermany\nPhone +49 1522 3176524\nE-Mail: thomas.rose [at] daad-alumni.de"
-  },
-  {
-    "objectID": "about.html#privacy",
-    "href": "about.html#privacy",
-    "title": "About",
-    "section": "Privacy",
-    "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
   }
 ]
