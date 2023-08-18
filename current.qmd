@@ -27,8 +27,8 @@ Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngre
 ~~**May 31^th^** – **EXTENDED** Deadline for abstract submission~~    
 ~~**June 15^th^** – Announcement of abstracts decisions & Opening for registration~~   
 ~~**Aug. 15^th^** – Preliminary program~~    
-**Sept. 15^th^** – Deadline for in-presence [registration](https://forms.gle/vJCm7feYgBijP4FGA)  
-**Sept. 25^th^** – Deadline for online [registration](https://forms.gle/vJCm7feYgBijP4FGA)  
+**Sept. 15^th^** – Deadline for in-presence [registration](https://forms.gle/vJCm7feYgBijP4FGA){target="_blank"}  
+**Sept. 25^th^** – Deadline for online [registration](https://forms.gle/vJCm7feYgBijP4FGA){target="_blank"}  
 **Sept. 26^th^** – Meeting details and final program   
 **Oct. 4^th^–6^th^** – YRA 2023 Workshop in Tübingen   
 :::
@@ -57,6 +57,10 @@ You will receive the Zoom link and abstract booklet on September 26.
 
 ## Program
 
+All times are given in Central European Time (UTC+2). 
+
+[You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20231004T090000&p1=37){target="_blank"}.]{.aside}
+
 ::: {.panel-tabset}
 
 ## **Oct. 3^rd^**
@@ -77,7 +81,7 @@ You will receive the Zoom link and abstract booklet on September 26.
 |||
 ||**Session 1: Ceramics I and Architecture**|
 |10:10 – 10:30|*Tracing the cultural and trade relations of the Spanish Empire and the Lesser Caribbean Antilles in the 16^th^ and 17^th^ centuries through ceramic analysis*<br />**Sonia Pujals Blanch**, Jaume Buxeda i Garrigós, Roberta  Mentesana|
-|10:30 – 10:50|*“Between the pots” - Archaeometric approach to a set of Iron Age kiln’s spacers*<br />**Elena Paralovo**, Nikolaos Zacharias|
+|10:30 – 10:50|*“Between the pots” -- Archaeometric approach to a set of Iron Age kiln’s spacers*<br />**Elena Paralovo**, Nikolaos Zacharias|
 |10:50 – 11:10|*Sacaojos (León, Spain): Archaeometric studies on earthen construction remains at the beginning of early Iron Age*<br />**Alejandra Sánchez Polo**|
 |11:10 – 11:30|*Testing chitosan nano composite as eco-friendly hydrophobic coatings for lime and sandstone*<br />**Mahmoud Shehab Eldin Mohamed Ibrahim**|
 |||
@@ -166,7 +170,7 @@ You will receive the Zoom link and abstract booklet on September 26.
 |||
 ||**Session 8: Metals II**|
 |09:45 – 10:05|*Preliminary research on Angkorian copper smelting processes: Typological and analytical study of copper slags from the Chhaep mining and metallurgical complex, Preah Vihear Province, Cambodia*<br />**Sébastien Clouet**, David Bourgarit, Brice Vincent|
-|10:05 – 10:25|*Angkorian copper hammering: An experimental approach*<br />**César Delomosne**, David Bourgarit, Manon Gosselin, Clotilde Berdin,Thierry Baudin|
+|10:05 – 10:25|*Angkorian copper hammering: An experimental approach*<br />**César Delomosne**, David Bourgarit, Manon Gosselin, Clotilde Berdin, Thierry Baudin|
 |10:25 – 10:45|*When elemental analysis and GIS meet in medieval buildings: A contribution to the study of the cathedral Saint-Pierre of Beauvais (Oise, France)*<br />**Léa Chanal**, Guillaume Sarah, Maxime L'Héritier, Diane Daussy, Aurélia Azéma|
 |10:45 – 11:05|*Fighting the data kraken: GlobaLID as example for a modern approach to research data management and curation in archaeometry*<br />**Thomas Rose**, Sabine Klein, Katrin J. Westner, Yiu-Kang Hsu|
 |||
