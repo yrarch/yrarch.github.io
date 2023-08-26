@@ -117,7 +117,7 @@ All times are given in Central European Time (UTC+2).
 ||**Session 5: Diet and Mobility**|
 |09:00 – 09:20|*Tracing animal herding patterns of central Anatolian Neolithic populations with carbon and nitrogen isotope analysis*<br />**Gökçe Öztürk**|
 |09:20 – 09:40|*Variability in feeding practices during the Neolithic in the western Iberian Peninsula: An isotopic approach*<br />**Sopio Paatashvili**, Vanessa Navarrete|
-|09:40 – 10:00|*The Bronze Age communities from southern Spain: Cape Trafalgar*<br />**Pablo González Fernández**|
+|09:40 – 10:00|*The Bronze Age communities from southern Spain: Cape Trafalgar*<br />**Pablo González Fernández**, Marta Díaz-Zorita Bonilla, Alexandros-Foitos Karakostis, Eduardo Vijande Vila, Juan Jesús Cantillo Duarte, Adolfo Moreno Márquez|
 |10:00 – 10:20|*Multiproxy isotopic analysis of diet and mobility from western Mediterranean: The Biniadrís Cave (Menorca)*<br />**Mauricio Marciales Daza**, Marta Díaz-Zorita Bonilla, Eva Alarcón García, Auxilio Moreno Onorato, Monice Timm, Jörg Baten, Javier Escudero, Damiá Ramis, Dereck Hamilton|
 |||
 |10:20 – 10:40|*Coffee break*|
@@ -126,13 +126,13 @@ All times are given in Central European Time (UTC+2).
 |10:40 – 11:00|*Nordic blades and northern trades? Exploring the metal sources of the early Nordic Bronze Age through a multi-proxy approach*<br />**Bart Cornelis**, Andreas Wittke, Daniel Berger|
 |11:00 – 11:20|*Resilience and innovation in craft knowledge during horizons of exceptional societal change in the Bronze Age Carpathian Basin*<br />**Lauren E. F. Brown**|
 |11:20 – 11:40|*Archaeometry study and restoration of a roman bronze vessel*<br />**Violeta Karailieva**|
-|10:00 – 12:00|*Following the identification of traces of Iron Age belts, towards metallurgical analysis*<br />**Rita Solazzo**, François Giligny|
+|11:40 – 12:00|*Following the identification of traces of Iron Age belts, towards metallurgical analysis*<br />**Rita Solazzo**, François Giligny|
 |||
 |12:00 – 13:30|*Lunch break*|
 |||
 ||**Session 7: Pigments and Painting**|
 |13:30 – 13:50|*Advancements in analyzing pigment materials in Indonesian rock art: Scientific approaches and their impact*<br />**Moh. Mu'alliful Ilmi**, Ismunandar, Pindi Setiawan, Sofwan Noerwidi|
-|13:50 – 13:10|*Archaeometric study of the Roman wall paintings of Limonum (Poitiers, France)*<br />**Adriana Iuliano**, Francesca Galluzzi, Isabelle Pianet, Mathilde Carrive|
+|13:50 – 14:10|*Archaeometric study of the Roman wall paintings of Limonum (Poitiers, France)*<br />**Adriana Iuliano**, Francesca Galluzzi, Isabelle Pianet, Mathilde Carrive|
 |14:10 – 14:30|*Terahertz continuous wave spectroscopy (THz-CW) for the characterization of pure pigments and binary mixtures: An innovative approach*<br />**Candida Moffa**|
 |14:30 – 14:50|*To color technology and beyond: First archaeometric analysis of pigments from SW Chubut, Argentine Patagonia*<br />**Lucía Alejandra Gutiérrez**, María Ana Castro, Analía Castro Esnal|
 |||
