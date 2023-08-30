@@ -26,12 +26,15 @@ website:
 
 format:
   html:
-    theme: lumen
+    theme: 
+      - lumen
+      - custom.scss
     css: styles.css
-    linkcolor: "#b93657" # "#57266d" 
+    #linkcolor: 
     toc: true
     toc-location: left
 
 execute:
   freeze: auto
-  
+
+# colours: "#b93657", "#57266d" 
