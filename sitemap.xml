@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://yrarch.github.io/about.html</loc>
-    <lastmod>2023-08-30T08:17:46.840Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yrarch.github.io/archive.html</loc>
-    <lastmod>2023-08-30T08:17:47.250Z</lastmod>
+    <lastmod>2023-09-04T22:08:43.875Z</lastmod>
   </url>
   <url>
     <loc>https://yrarch.github.io/current.html</loc>
-    <lastmod>2023-08-30T08:17:48.022Z</lastmod>
+    <lastmod>2023-09-04T22:08:42.943Z</lastmod>
   </url>
   <url>
     <loc>https://yrarch.github.io/index.html</loc>
-    <lastmod>2023-08-30T08:17:48.509Z</lastmod>
+    <lastmod>2023-09-04T22:08:41.059Z</lastmod>
   </url>
   <url>
-    <loc>https://yrarch.github.io/team.html</loc>
-    <lastmod>2023-08-30T08:17:49.156Z</lastmod>
+    <loc>https://yrarch.github.io/archive.html</loc>
+    <lastmod>2023-09-04T22:08:40.122Z</lastmod>
   </url>
   <url>
     <loc>https://yrarch.github.io/tutorials.html</loc>
-    <lastmod>2023-08-30T08:17:49.825Z</lastmod>
+    <lastmod>2023-09-04T22:08:41.535Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yrarch.github.io/team.html</loc>
+    <lastmod>2023-09-04T22:08:43.511Z</lastmod>
   </url>
 </urlset>
