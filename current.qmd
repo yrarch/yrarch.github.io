@@ -99,15 +99,15 @@ All times are given in Central European Time (UTC+2).
 |14:30 – 14:50|*Fashion for the dead. Assessment of beads variability within a Chalcolithic grave from the Sultana-Malu Roșu necropolis (Romania), by means of archaeometric analysis*<br />**Daniel Stoicescu**, Sebastian Dumitrescu, Valentin Radu, Monica Mărgărit, Viorel Atudorei, Bogdan Manea, Cătălin Lazăr|
 |14:50 – 15:10|*Hidden traces in brown layers. Analysis of early medieval waterlogged textiles and other organic remains*<br />**Tracy Niepold**|
 |15:10 – 15:30|*14C geochronology applied to gut strings of modern musical instruments*<br />**Marie-Gabrielle Durier**|
-|15:30 – 15:50|*Unveiling human behavior through magnetism: Applications in archaeology at meso- and micro-scale deposits*<br />**Ada Dinckal**|
+||~~*Unveiling human behavior through magnetism: Applications in archaeology at meso- and micro-scale deposits*<br />**Ada Dinckal**~~|
 |||
-|15:50 – 16:10|*Coffee break*|
+|15:30 – 15:50|*Coffee break*|
 |||
 ||**Session 4: Palaeoenvironment and Archaeobotany**|
-|16:10 – 16:30|*Using fauna identified by ZooMS and stable carbon and nitrogen isotopes to infer the palaeoenvironment at Grassridge Rockshelter, Eastern Cape, South Africa during the late Pleistocene to mid-Holocene*<br />**Bacara Ashleigh Spruit**, Jerome Reynard, Benjamin Collins, Christopher Ames, Michael Buckley|
-|16:30 – 16:50|*Herbivores don't lie: Stable isotope analysis on Magdalenian herbivore fauna from Gnirshöhle cave site*<br />**Theoni Panagiotopoulou**|
-|16:50 – 17:10|*Exploring human-woodland interactions in Classical, Hellenistic and early Roman Greece: Insights from wood charcoal analysis in ancient Corinth*<br />**Panagiotis Koullouros**|
-|17:10 – 17:30|*Beyond the domestic: Ritual practices and plant assemblages in the 8^th^ century temple of Poseidon, at Nikoleika (Greece)*<br />**Kyriaki Tsirtsi**, Panagiotis Koullouros, Georgia Kasapidou, Evi Margaritis |
+|15:50 – 16:10|*Using fauna identified by ZooMS and stable carbon and nitrogen isotopes to infer the palaeoenvironment at Grassridge Rockshelter, Eastern Cape, South Africa during the late Pleistocene to mid-Holocene*<br />**Bacara Ashleigh Spruit**, Jerome Reynard, Benjamin Collins, Christopher Ames, Michael Buckley|
+|16:10 – 16:30|*Herbivores don't lie: Stable isotope analysis on Magdalenian herbivore fauna from Gnirshöhle cave site*<br />**Theoni Panagiotopoulou**|
+|16:30 – 16:50|*Exploring human-woodland interactions in Classical, Hellenistic and early Roman Greece: Insights from wood charcoal analysis in ancient Corinth*<br />**Panagiotis Koullouros**|
+|16:50 – 17:10|*Beyond the domestic: Ritual practices and plant assemblages in the Nothern Peloponnese during the 1^st^ millennium BCE*<br />**Kyriaki Tsirtsi**, Panagiotis Koullouros, Georgia Kasapidou, Evi Margaritis |
 
 
 ## **Oct. 5^th^**
@@ -177,7 +177,7 @@ All times are given in Central European Time (UTC+2).
 |11:05 – 11:30|*Coffee break*|
 |||
 ||**Session 9: Ceramics II**|
-|11:30 – 11:50|*Neolithic pottery production in the Adige Valley: The case studies from Riparo Gaban and La Vela (north-eastern Italy)*<br />**Giulia Deimichiei**, Silvia Amicone, Annaluisa Pedrotti|
+|11:30 – 11:50|*Neolithic pottery production in the Adige Valley: The case studies from Riparo Gaban and La Vela (north-eastern Italy)*<br />**Giulia Deimichei**, Silvia Amicone, Annaluisa Pedrotti|
 |11:50 – 12:10|*Technological analysis of ceramic fabrication in early and middle Copper Age eastern Hungary: A case study from Rákóczifalva microregion*<br />**Eszter Solnay**, Zita Hrabák, Anthony Borel|
 |12:10 – 12:30|*Pottery traditions and raw materials used for the ancient production of ceramics in Istria, Croatia*<br />**Natali Neral**, Andreja Kudelić|
 |12:30 – 12:50|*From macro to micro: Advanced and experimental methods for the analysis of finishing techniques and post-firing treatments on ancient ceramics*<br />**Eirini Koutouvaki**, Massimo Vidale, Silvia Amicone, Eleni Aloupi, Lara Maritan|
