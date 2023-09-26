@@ -8,7 +8,7 @@ title: "Young Researchers in Archaeometry 2023"
 
 ## Mailing list
 Want to get in contact with other ECRs in Archaeometry and stay tuned about YRA?  
-[Subscribe to our mailing list!](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry){target="_blank"}
+[Subscribe to our mailing list!](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry)
 
 ::::
 
@@ -28,8 +28,8 @@ Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngre
 ~~**June 15^th^** – Announcement of abstracts decisions & Opening for registration~~   
 ~~**Aug. 15^th^** – Preliminary program~~    
 ~~**Sept. 15^th^** – Deadline for in-presence registration~~  
-**Sept. 25^th^** – Deadline for online [registration](https://forms.gle/vJCm7feYgBijP4FGA){target="_blank"}  
-**Sept. 26^th^** – Meeting details and final program   
+~~**Sept. 25^th^** – Deadline for online [registration](https://forms.gle/vJCm7feYgBijP4FGA)~~  
+~~**Sept. 26^th^** – Meeting details and final program~~   
 **Oct. 4^th^–6^th^** – YRA 2023 Workshop in Tübingen   
 :::
 
@@ -39,7 +39,7 @@ Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngre
 
 Abstract submission is closed. The submitted abstracts are now evaluated. 
 
-Send us your abstract (max. 250 words) until  ~~May 15^th^, 2023~~ **May 31^st^ 2023** (extended deadline) via the [submission form](https://forms.gle/vki7aE9LgHKM1AN27){target="_blank"}. 
+Send us your abstract (max. 250 words) until  ~~May 15^th^, 2023~~ **May 31^st^ 2023** (extended deadline) via the [submission form](https://forms.gle/vki7aE9LgHKM1AN27). 
 
 Presentations can be either a 5 min digital poster or a 15 min oral presentation, with additional time for questions. Online presentations will be scheduled in a way that considers the different presenters' time zones.
 
@@ -47,7 +47,7 @@ Presentations can be either a 5 min digital poster or a 15 min oral presentation
 
 ## Registration
 
-[Hosted at [![Logo University of Tübingen](https://uni-tuebingen.de/typo3conf/ext/project/Resources/Public/Images/Logo_Universitaet_Tuebingen.svg)](https://uni-tuebingen.de/en/){target="_blank"}]{.aside}
+[Hosted at [![Logo University of Tübingen](https://uni-tuebingen.de/typo3conf/ext/project/Resources/Public/Images/Logo_Universitaet_Tuebingen.svg)](https://uni-tuebingen.de/en/)]{.aside}
 
 Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Registration is possible for everyone, also if you are not presenting. 
 
@@ -59,7 +59,7 @@ You will receive the Zoom link and abstract booklet on September 26.
 
 All times are given in Central European Time (UTC+2). 
 
-[You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20231004T090000&p1=37){target="_blank"}.]{.aside}
+[You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20231004T090000&p1=37).]{.aside}
 
 ::: {.panel-tabset}
 
@@ -67,7 +67,7 @@ All times are given in Central European Time (UTC+2).
 
 |||
 |--|--------|
-|20:00|Icebreaker<br />*[Ratskeller](https://maps.app.goo.gl/yMbpg2o1NwAJbnCU7){target="_blank"} (Haaggasse 4, 72070 Tübingen)*|
+|20:00|Icebreaker<br />*[Ratskeller](https://maps.app.goo.gl/yMbpg2o1NwAJbnCU7) (Haaggasse 4, 72070 Tübingen)*|
 
 ## **Oct. 4^th^**
 
@@ -148,13 +148,13 @@ All times are given in Central European Time (UTC+2).
 |||
 ||**Poster Session 2: Ceramics and Binders**|
 |16:00 – 16:05|*Archaeometric analysis to identify the provenance of pinkish-redware of Pattanam site (Kerala, India)*<br />**Uthara Babu**, Sarath Chandrababu|
-|16:05 – 16:10|*The archaeology of production in Taranto: New research perspectives*<br />**Serena D'Alfonso**|
-|16:10 – 16:15|*Neolithic under the microscope: Early pottery of inland Iberia*<br />**Estíbaliz Espada-Martín**|
-|16:15 – 16:20|*Ceramic analysis of a Bronze Age burial ground at Maklár-Koszpérium (NE Hungary): Raw material and firing technique*<br />**Ákos Mengyán**|
-|16:20 – 16:25|*Lime on the Cantabrian façade: Complex pyrotechnological processes in recent Prehistory*<br />**Lucía Ruano Posada**|
-|16:25 – 16:45|Discussion|
+||~~*The archaeology of production in Taranto: New research perspectives*<br />**Serena D'Alfonso**~~|
+|16:05 – 16:10|*Neolithic under the microscope: Early pottery of inland Iberia*<br />**Estíbaliz Espada-Martín**|
+|16:10 – 16:15|*Ceramic analysis of a Bronze Age burial ground at Maklár-Koszpérium (NE Hungary): Raw material and firing technique*<br />**Ákos Mengyán**|
+|16:15 – 16:20|*Lime on the Cantabrian façade: Complex pyrotechnological processes in recent Prehistory*<br />**Lucía Ruano Posada**|
+|16:20 – 16:40|Discussion|
 |||
-|20:00|Dinner<br />*[Gasthausbrauerei Neckarmüller](https://www.google.de/maps/place/Gasthausbrauerei+Neckarm%C3%BCller/@48.5194157,9.058297,19.79z/data=!4m6!3m5!1s0x4799fad239cb8085:0x5eecc5943d38e2f!8m2!3d48.519357!4d9.058623!16s%2Fg%2F1tfb5jq9?entry=ttu){target="_blank"} (Gartenstraße 4, 72074 Tübingen)*|
+|20:00|Dinner<br />*[Gasthausbrauerei Neckarmüller](https://maps.app.goo.gl/HyhmV8q2grHUXYwM7) (Gartenstraße 4, 72074 Tübingen)*|
 
 ## **Oct. 6^th^**
 
@@ -209,7 +209,7 @@ With this workshop we aim to offer a relaxed atmosphere to encourage interdiscip
 
 ## Financial support by the GNAA
 
-For the participation in presence at the workshop, members of the Gesellschaft für Naturwissenschaftliche Archäologie ARCHAEOMETRIE e.V. ([GNAA](www.archaeometrie.de){target="_blank"}) as students (Bachelor, Master, Diploma, Doctorate) receive a subsidy of 30 € upon presentation of the corresponding confirmation of participation. This also applies if you currently become a member of the GNAA.
+For the participation in presence at the workshop, members of the Gesellschaft für Naturwissenschaftliche Archäologie ARCHAEOMETRIE e.V. ([GNAA](www.archaeometrie.de)) as students (Bachelor, Master, Diploma, Doctorate) receive a subsidy of 30 € upon presentation of the corresponding confirmation of participation. This also applies if you currently become a member of the GNAA.
 
 For this purpose, the confirmation of participation in the workshop must be submitted to the GNAA by e-mail with the bank account data and the GNAA membership number or an application for a corresponding GNAA membership.
 
@@ -217,9 +217,9 @@ For this purpose, the confirmation of participation in the workshop must be subm
 
 Tübingen is a university city in south-western Germany, at the centre of the state Baden-Württemberg. It is located ca. 30 km south of Stuttgart, the state capital.
 
-You can easily access Tübingen via direct train from Stuttgart central station (IRE6, MEX12, and MEX18), or via bus lines 828 and X82 from Stuttgart Airport (STR). You can find information about connections with trains and regional buses [here](https://www.bahn.com/en){target="_blank"}. Several long distance bus lines operated by e.g. [Flixbus](https://www.flixbus.de/){target="_blank"} stop at Tübingen. With a car you reach Tübingen best via the B27 and B28. 
+You can easily access Tübingen via direct train from Stuttgart central station (IRE6, MEX12, and MEX18), or via bus lines 828 and X82 from Stuttgart Airport (STR). You can find information about connections with trains and regional buses [here](https://www.bahn.com/en). Several long distance bus lines operated by e.g. [Flixbus](https://www.flixbus.de/) stop at Tübingen. With a car you reach Tübingen best via the B27 and B28. 
 
-YRA 2023 will take place in [Hohentübingen Castle](https://goo.gl/maps/WivDsmVgp2eYTCGs5){target="_blank"}, in Tübingen’s historical city centre. Please be aware that the castle is located on a small but steep hill. Access for persons with reduced mobility is possible but require arrangements in advance regarding e.g. parking. Please [contact us](mailto:youngresearchersarch@gmail.com) if this should be the case. We are happy to make all necessary arrangements for you. 
+YRA 2023 will take place in [Hohentübingen Castle](https://goo.gl/maps/WivDsmVgp2eYTCGs5), in Tübingen’s historical city centre. Please be aware that the castle is located on a small but steep hill. Access for persons with reduced mobility is possible but require arrangements in advance regarding e.g. parking. Please [contact us](mailto:youngresearchersarch@gmail.com) if this should be the case. We are happy to make all necessary arrangements for you. 
 
 ## Code of conduct
 
