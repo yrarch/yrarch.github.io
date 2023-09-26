@@ -33,6 +33,7 @@ format:
     #linkcolor: 
     toc: true
     toc-location: left
+    link-external-newwindow: true
 
 execute:
   freeze: auto
