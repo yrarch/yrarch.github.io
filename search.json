@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Provider according to § 5 TMG is:\nThomas Rose\nAm Satz 8\n60437 Frankfurt\nGermany\nPhone +49 1522 3176524\nE-Mail: thomas.rose [at] daad-alumni.de"
-  },
-  {
-    "objectID": "about.html#legal-notice",
-    "href": "about.html#legal-notice",
-    "title": "About",
-    "section": "",
-    "text": "Provider according to § 5 TMG is:\nThomas Rose\nAm Satz 8\n60437 Frankfurt\nGermany\nPhone +49 1522 3176524\nE-Mail: thomas.rose [at] daad-alumni.de"
-  },
-  {
-    "objectID": "about.html#privacy",
-    "href": "about.html#privacy",
-    "title": "About",
-    "section": "Privacy",
-    "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Meet the team",
-    "section": "",
-    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com\n\n\n\nYRA 2023 is organised by\n\n\n\n\nSinem Hacıosmanoğlu (Universität Tübingen)  Sinem is a PhD candidate at the University of Tübingen, Germany, Department of Geoscience, Institute for Archeological Sciences. She completed her bachelor (BA) and master (MSc) at Istanbul Technical University (Turkey) in the Department of Geological Engineering. In her PhD project, she investigates clay resources and ancient ceramics from the Late Bronze Age and the Iron Age in Cilicia, Southeast Anatolia, Eastern Mediterranean by using several disciplines, such as mineralogy, petrography, geochemistry and field geology. In addition, she is working as a research assistant on several projects funded by the German Research Foundation (DFG) and hosted at the Competence Center Archaeometry - Baden-Württemberg (CCA-BW).\n\n\n\nBaptiste Solard (Universität Tübingen)  Baptiste completed his Diplôme d’ingénieur chimiste (BSc and MSc equivalent) in Material Sciences at the National Graduate School of Chemistry of Montpellier, France (ENSCM) in November 2019. In October 2021, he successfully finished his master of Archaeological Sciences with specialisation in archaeometry (MSc) at the University of Tübingen (Germany), Department of Geoscience, Institute for Archeological Sciences with a thesis on Atticising Black Gloss ceramics from the 4th century BCE. Since December 2019, he is a research assistant at the Competence Center Archaeometry - Baden-Württemberg (CCA-BW), working in various projects on ancient ceramic technology. In April 2023, he started his PhD at the University of Tübingen on Merovingian opaque coloured glass production in Zürich, Switzerland.\n\n\n\nThomas Rose (Goethe-Universität Frankfurt)  Thomas is a coordinator in the NDFI4Earth at Goethe University Frankfurt and visiting scientist of the Deutsches Bergbau-Museum Bochum. He gained expertise in ancient copper metallurgy with focus on the Chalcolithic Southern Levant and various metal isotope systems. In addition, he is member of the GlobaLID Core Team and developer of the R package ChronochRt. More info at copper-smelting.com.\n\n\n\n\n\nOrganisers of previous editions\n\n\n\n\n\n\n\n\nYear\nTeam\nLocation\n\n\n\n\n2022\nVasiliki Anevlavi  Thorsten Jakobitsch  Magdalena Srienc-Sciesiek  Emmanouil Anevlavis  Thomas Rose\nÖsterreichische Akademie der Wissenschaften – Österreichisches Archäologisches Institut (Austria/online)\n\n\n2021\nCécile Fossé  Louise Chassouant  Roshan Paladugu  Sergio Lins  Thomas Rose\nUniversidade de Évora (Portugal/hybrid)\n\n\n2019\nManon Gosselin  Mélissa Cadet  Thomas Rose\nUniversité Paris Nanterre – Maison Archéologie Ethnologie (France)\n\n\n2018\nKatharina Kuntz  Ralf Milke  Thomas Rose\nFreie Universität Berlin (Germany)\n\n\n2017\nKatrin J. Westner  Thomas Rose  Florian Ströbele  Marc Holly\nGoethe Universität Frankfurt (Germany)"
-  },
-  {
     "objectID": "archive.html",
     "href": "archive.html",
     "title": "Previous editions",
@@ -77,27 +49,6 @@
     "text": "Methods\n\nEleni Palamara (University of Peloponnese):  Electron Microscopy techniques – Applications in archaeological research\nWalter Prochaska (ÖAI/ÖAW):  Application of the ion chromatography in archaeology\nKatrin J. Westner (ENS Lyon):  ICP-MS techniques and their applications in archaeometry"
   },
   {
-    "objectID": "current.html",
-    "href": "current.html",
-    "title": "Young Researchers in Archaeometry 2024",
-    "section": "",
-    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com"
-  },
-  {
-    "objectID": "current.html#yra-2024",
-    "href": "current.html#yra-2024",
-    "title": "Young Researchers in Archaeometry 2024",
-    "section": "YRA 2024",
-    "text": "YRA 2024\nYRA2024 will take place at the Cyprus Institute, Nicosia (Cyprus) in autumn 2024 as an in-person only meeting. In addition, a series of Zoom meetings will be scheduled in early 2024 to discuss the future of YRA.\nFurther information will be announced here and through the mailing list as soon as available. Stay tuned!"
-  },
-  {
-    "objectID": "current.html#code-of-conduct",
-    "href": "current.html#code-of-conduct",
-    "title": "Young Researchers in Archaeometry 2024",
-    "section": "Code of conduct",
-    "text": "Code of conduct\nAll participants at the YRA workshops agree to conduct themselves in a professional and appropriate manner and to ensure that all can enjoy a harassment-free event. The workshop organisers are dedicated to providing an inclusive, respectful, safe, friendly, and welcoming hybrid meeting for all participants.\nWe do not tolerate disruptive or disrespectful behaviour, personal messages, images, or interactions by any participant, in any form, at any aspect of the program including business and social activities, regardless of mode of participation and location.\nPhotography, video, recording or screen-captures of session content or presentations in any format are prohibited unless this right is granted on the slides of the respective presentation. We encourage everyone to assist in creating a welcoming and safe environment.\nIf a participant engages in harassing behaviour, the event organisers may take any action they deem appropriate, including warning the offender and/or expulsion from the event. If you are being harassed, if you notice that someone else is being harassed, or have any other concerns, please contact one of the organisers immediately.\nWe value your attendance and want the YRA workshops to be a safe place for everybody."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Young Researchers in Archaeometry",
@@ -124,5 +75,54 @@
     "title": "Young Researchers in Archaeometry",
     "section": "The YRA logo",
     "text": "The YRA logo\nDesigning a logo for YRA was not an easy task. Without doubt, the biggest challenge was to create a logo that represents the huge breadth of disciplines working together in the archaeological sciences and represents the target group. As a consequence, decisions were made for a very abstract logo and we are aware it is not very intuitive.\nThe logo writes “YRA” embedded in a spectra-like line with each letter having a different colour and the grey coloured parts as connecting lines. The trowel-shaped arrows outline the negative space (“hole”) of the letters R and A and are inspired by the markers for characteristic peaks. The colours do not have a special meaning. They were chosen because this combination is colour-blind friendly and pleasing to the eyes of the persons involved in the design process."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Provider according to § 5 TMG is:\nThomas Rose\nFahrenheitstraße 52\n44879 Bochum\nGermany\nPhone +49 1522 3176524\nE-Mail: thomas.rose [at] daad-alumni.de"
+  },
+  {
+    "objectID": "about.html#legal-notice",
+    "href": "about.html#legal-notice",
+    "title": "About",
+    "section": "",
+    "text": "Provider according to § 5 TMG is:\nThomas Rose\nFahrenheitstraße 52\n44879 Bochum\nGermany\nPhone +49 1522 3176524\nE-Mail: thomas.rose [at] daad-alumni.de"
+  },
+  {
+    "objectID": "about.html#privacy",
+    "href": "about.html#privacy",
+    "title": "About",
+    "section": "Privacy",
+    "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
+  },
+  {
+    "objectID": "current.html",
+    "href": "current.html",
+    "title": "Young Researchers in Archaeometry 2024",
+    "section": "",
+    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com"
+  },
+  {
+    "objectID": "current.html#yra-2024",
+    "href": "current.html#yra-2024",
+    "title": "Young Researchers in Archaeometry 2024",
+    "section": "YRA 2024",
+    "text": "YRA 2024\nYRA2024 will take place at the Cyprus Institute, Nicosia (Cyprus) in autumn 2024 as an in-person only meeting. In addition, a series of Zoom meetings will be scheduled in early 2024 to discuss the future of YRA.\nFurther information will be announced here and through the mailing list as soon as available. Stay tuned!"
+  },
+  {
+    "objectID": "current.html#code-of-conduct",
+    "href": "current.html#code-of-conduct",
+    "title": "Young Researchers in Archaeometry 2024",
+    "section": "Code of conduct",
+    "text": "Code of conduct\nAll participants at the YRA workshops agree to conduct themselves in a professional and appropriate manner and to ensure that all can enjoy a harassment-free event. The workshop organisers are dedicated to providing an inclusive, respectful, safe, friendly, and welcoming hybrid meeting for all participants.\nWe do not tolerate disruptive or disrespectful behaviour, personal messages, images, or interactions by any participant, in any form, at any aspect of the program including business and social activities, regardless of mode of participation and location.\nPhotography, video, recording or screen-captures of session content or presentations in any format are prohibited unless this right is granted on the slides of the respective presentation. We encourage everyone to assist in creating a welcoming and safe environment.\nIf a participant engages in harassing behaviour, the event organisers may take any action they deem appropriate, including warning the offender and/or expulsion from the event. If you are being harassed, if you notice that someone else is being harassed, or have any other concerns, please contact one of the organisers immediately.\nWe value your attendance and want the YRA workshops to be a safe place for everybody."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Meet the team",
+    "section": "",
+    "text": "Mailing list\n\n\n\nWant to get in contact with other ECRs in Archaeometry and stay tuned about YRA?\nSubscribe to our mailing list!\n\n\n\n\n\n\n\n\nContact\n\n\n\nAny questions? Drop us a mail at youngresearchersarch@gmail.com\n\n\n\nYRA 2024 is organised by\n\n\n\n\nKyriaki Tsirtsi (Cyprus Institute)  Dr Kyriaki Tsirtsi has extensive experience in archaeobotanical research, both in the field and in the laboratory. For her PhD research, defended in November 2022, Kyriaki combined different archaeobotanical and scientific techniques in understanding the agricultural and domestic economies of Classical Sikyon (Greece). During her PhD studies, she was fully embedded in the field team, designing recovery protocols, supervising recovery in the field, and analysing resulting material, thereby becoming an expert in the flora of the Aegean and the current models of the economy and social organization of the first millennium BCE.  Throughout her PhD studies she was also awarded two Erasmus+ Programs; one took place in 2018, in the School of Archaeology of the University of Oxford and the second in 2021 in the Humana, IMF-SCIC Institute, in Barcelona. Both Erasmus programs focused on microbotanical studies and specifically the analysis of starch granules retrieved from the interior of ceramic pots, in order to reconstruct cooking and consumption patterns in the 1st millennium BCE in Greece. She has also held the British School of Athens Centenary Bursary in order to conduct similar research in Oxford related to the Keros research and excavation project of the University of Cambridge (2019).  In MedisFood, Kyriaki holds a Post-Doctorate position where she explores the long durée of plant choices of the 3rd/2nd millennium BCE, the varieties of grapes and olives exploited in the biggest islands of the Eastern Mediterranean, Crete and Cyprus, and addresses key questions related to the rise of complex societies in both islands. The simultaneous analysis of both islands allows not only the understanding of the unique social and agricultural structures of each island, but also the definition of patterns and tendencies that may have appeared at the same time on both regions and which may reflect adaptations, influences and ultimately connections with other areas, or even directly between Crete and Cyprus.\n\n\n\nAnna Karligkioti (Cyprus Institute)  Anna is a PhD candidate in Bioarchaeology, funded by the A.G. Leventis Chair for Archaeological Sciences. In her Ph.D titled Biocultural transformations in central mainland Greece from the Classical to the Roman era, under the supervision of Associate Professor E. Nikita, Anna is combining osteoarchaeological evidence, mortuary data and historical information, aiming to examine biocultural determinants of identity and social differentiation, expressed through health inequalities, differential access to dietary resources, genetic affiliation and activity patterns in the Greco-Roman world. Anna joined the Cyprus Institute in July 2018 after studying Prehistoric Archaeology at Aristotle University of Thessaloniki, Greece (2018), Human Osteology and Funerary Archaeology at the University of Sheffield, UK (2014) and History and Archaeology at the University of Ioannina, Greece (2010). Since then, she got engaged with projects examining population dynamics and mobility of past populations, spanning classical and late antiquity until post-medieval/Ottoman era Cyprus. In addition, she is currently a research associate at the Phaleron Bioarchaeology project of the American School of Classical Studies at Athens in Greece.\n\n\n\nChase Minos (Cyprus Institute)  Chase is a PhD candidate in the Science and Technology in Archaeology and Culture Research Centre. He completed his undergraduate degree at the University of St Andrews, and has an MPhil from the University of Cambridge as well as an MSc in experimental archaeology from University College Dublin. Chase is currently a Marie Skłodowska-Curie doctoral fellow part of the premodern plasters and ceramics international training network (PlaCe-ITN). In his PhD, he investigates how raw materials and clay recipes were affected by the use of a new technology, the potter’s wheel, during the Late Bronze Age on Cyprus, and uses an integrated approach involving thin-section petrography, chemical analyses and experimental archaeology.\n\n\n\nThomas Rose (Goethe-Universität Frankfurt)  Thomas is a coordinator in the NDFI4Earth at Goethe University Frankfurt and visiting scientist of the Deutsches Bergbau-Museum Bochum. He gained expertise in ancient copper metallurgy with focus on the Chalcolithic Southern Levant and various metal isotope systems. In addition, he is member of the GlobaLID Core Team and developer of the R package ChronochRt. More info at copper-smelting.com.\n\n\n\n\n\nOrganisers of previous editions\n\n\n\n\n\n\n\n\nYear\nTeam\nLocation\n\n\n\n\n2023\nSinem Hacıosmanoğlu  Baptiste Solard  Thomas Rose\nUniversity of Tübingen\n\n\n2022\nVasiliki Anevlavi  Thorsten Jakobitsch  Magdalena Srienc-Sciesiek  Emmanouil Anevlavis  Thomas Rose\nÖsterreichische Akademie der Wissenschaften – Österreichisches Archäologisches Institut (Austria/online)\n\n\n2021\nCécile Fossé  Louise Chassouant  Roshan Paladugu  Sergio Lins  Thomas Rose\nUniversidade de Évora (Portugal/hybrid)\n\n\n2019\nManon Gosselin  Mélissa Cadet  Thomas Rose\nUniversité Paris Nanterre – Maison Archéologie Ethnologie (France)\n\n\n2018\nKatharina Kuntz  Ralf Milke  Thomas Rose\nFreie Universität Berlin (Germany)\n\n\n2017\nKatrin J. Westner  Thomas Rose  Florian Ströbele  Marc Holly\nGoethe Universität Frankfurt (Germany)"
   }
 ]
