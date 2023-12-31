@@ -2,42 +2,23 @@
 title: "Video tutorials"
 ---
 
-::: {.column-margin}
-
-:::: {.callout}
-
-## Mailing list
-Want to get in contact with other ECRs in Archaeometry and stay tuned about YRA?  
-[Subscribe to our mailing list!](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry){target="_blank"}
-
-::::
-
-:::: {.callout}
-
-## Contact
-Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngresearchersarch@gmail.com)
-
-::::
-
-:::
-
-Video tutorials were produced by international experts for YRA 2022 as an adaptation of the highly demanded in-person tutorials of YRA 2021 to the online-only format. They are hosted on YouTube in our [channel](https://www.youtube.com/@youngresearchersarchaeomet3034){target="_blank"}. Originally presented at [this edition's webpage](https://yrarchaeometry.weebly.com/tutorials.html){target="_blank"}, they are listed here for convenience. 
+Video tutorials were produced by international experts for YRA 2022 as an adaptation of the highly demanded in-person tutorials of YRA 2021 to the online-only format of the 2022 edition. They are hosted on YouTube in our [channel](https://www.youtube.com/@youngresearchersarchaeomet3034). Originally presented at [this edition's webpage](https://yrarchaeometry.weebly.com/tutorials.html), they are listed here for convenience. 
 
 We are happy to extent the collection! If you have a tutorial you want to include, please [reach out to us](mailto:youngresearchersarch@gmail.com).  
 
 ## Bioarchaeology
 
-* Kelly Blevins (Durham University): <br> [aDNA in Bioarchaeology -- Applications and sampling strategies](https://www.youtube.com/watch?v=m6rmqxKpi4c){target="_blank"}
-* Friðgeir Grímsson (University of Vienna): <br> [Is pollen useful for archaeological research? The what, why, and how!](https://www.youtube.com/watch?v=y0L5fc927VI){target="_blank"}
+* Kelly Blevins (Durham University): <br> [aDNA in Bioarchaeology -- Applications and sampling strategies](https://www.youtube.com/watch?v=m6rmqxKpi4c)
+* Friðgeir Grímsson (University of Vienna): <br> [Is pollen useful for archaeological research? The what, why, and how!](https://www.youtube.com/watch?v=y0L5fc927VI)
 
 ## Archaeological Materials
 
-* Sabine Klein (Deutsches Bergbau-Museum Bochum): <br> [Archaeometallurgy - What metals tell us about the past](https://www.youtube.com/watch?v=jF_Q89RAVVY){target="_blank"}
-* Artemios Oikonomou (Cyprus Institute): <br> [Reflecting into ancient glass technology](https://www.youtube.com/watch?v=PY3ujT7w_OE){target="_blank"}
-* Alexandra Rodler (ÖAI/ÖAW): <br> [Colorful Indications of (Ex)Change -- pigment provenance and processing in Roman Noricum](https://www.youtube.com/watch?v=WUkHoZNE3ug){target="_blank"}
+* Sabine Klein (Deutsches Bergbau-Museum Bochum): <br> [Archaeometallurgy - What metals tell us about the past](https://www.youtube.com/watch?v=jF_Q89RAVVY)
+* Artemios Oikonomou (Cyprus Institute): <br> [Reflecting into ancient glass technology](https://www.youtube.com/watch?v=PY3ujT7w_OE)
+* Alexandra Rodler (ÖAI/ÖAW): <br> [Colorful Indications of (Ex)Change -- pigment provenance and processing in Roman Noricum](https://www.youtube.com/watch?v=WUkHoZNE3ug)
 
 ## Methods
 
-* Eleni Palamara (University of Peloponnese): <br> [Electron Microscopy techniques -- Applications in archaeological research](https://www.youtube.com/watch?v=ptyI4c1TDFs){target="_blank"}
-* Walter Prochaska (ÖAI/ÖAW): <br> [Application of the ion chromatography in archaeology](https://www.youtube.com/watch?v=61220eQKBrw){target="_blank"}
-* Katrin J. Westner (ENS Lyon): <br> [ICP-MS techniques and their applications in archaeometry](https://www.youtube.com/watch?v=aJKa_33aF14){target="_blank"}
+* Eleni Palamara (University of Peloponnese): <br> [Electron Microscopy techniques -- Applications in archaeological research](https://www.youtube.com/watch?v=ptyI4c1TDFs)
+* Walter Prochaska (ÖAI/ÖAW): <br> [Application of the ion chromatography in archaeology](https://www.youtube.com/watch?v=61220eQKBrw)
+* Katrin J. Westner (ENS Lyon): <br> [ICP-MS techniques and their applications in archaeometry](https://www.youtube.com/watch?v=aJKa_33aF14)

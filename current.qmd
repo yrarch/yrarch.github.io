@@ -2,25 +2,6 @@
 title: "Young Researchers in Archaeometry 2024"
 ---
 
-::: {.column-margin}
-
-:::: {.callout}
-
-## Mailing list
-Want to get in contact with other ECRs in Archaeometry and stay tuned about YRA?  
-[Subscribe to our mailing list!](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry)
-
-::::
-
-:::: {.callout}
-
-## Contact
-Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngresearchersarch@gmail.com)
-
-::::
-
-:::
-
 ## YRA 2024
 
 YRA2024 will take place at the Cyprus Institute, Nicosia (Cyprus) in autumn 2024 as an in-person only meeting. In addition, a series of Zoom meetings will be scheduled in early 2024 to discuss the future of YRA. 

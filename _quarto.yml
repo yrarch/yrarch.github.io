@@ -30,10 +30,19 @@ format:
       - lumen
       - custom.scss
     css: styles.css
-    #linkcolor: 
     toc: true
     toc-location: left
     link-external-newwindow: true
+    margin-header: |
+      ::: {.callout}
+      ## Mailing list
+      Want to get in contact with other ECRs in Archaeometry and stay tuned about YRA?  
+      [Subscribe to our mailing list!](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry)
+      :::
+      ::: {.callout}
+      ## Contact
+      Any questions? Drop us a mail at [youngresearchersarch [at] gmail.com](mailto:youngresearchersarch@gmail.com)
+      :::
 
 execute:
   freeze: auto

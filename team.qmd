@@ -2,25 +2,6 @@
 title: "Meet the team"
 ---
 
-::: {.column-margin}
-
-:::: {.callout}
-
-## Mailing list
-Want to get in contact with other ECRs in Archaeometry and stay tuned about YRA?  
-[Subscribe to our mailing list!](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry){target="_blank"}
-
-::::
-
-:::: {.callout}
-
-## Contact
-Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngresearchersarch@gmail.com)
-
-::::
-
-:::
-
 ### YRA 2024 is organised by 
 
 |||

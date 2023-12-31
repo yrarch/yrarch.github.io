@@ -2,25 +2,6 @@
 title: "Young Researchers in Archaeometry"
 ---
 
-::: {.column-margin}
-
-:::: {.callout}
-
-## Mailing list
-Want to get in contact with other ECRs in Archaeometry and stay tuned about YRA?  
-[Subscribe to our mailing list!](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry){target="_blank"}
-
-::::
-
-:::: {.callout}
-
-## Contact
-Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngresearchersarch@gmail.com)
-
-::::
-
-:::
-
 ## A workshops series for ECRs by ECRs
 
 YRA aims to give early career researchers (ECRs) in the archaeological sciences the opportunity to present their research in a friendly environment surrounded only by young students from the same field. We welcome all persons involved in archaeometry research of different nationalities and levels, from master students to first postdoctoral fellows.  
