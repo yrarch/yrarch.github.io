@@ -2,26 +2,7 @@
 title: "Previous editions"
 ---
 
-::: {.column-margin}
-
-:::: {.callout}
-
-## Mailing list
-Want to get in contact with other ECRs in Archaeometry and stay tuned about YRA?  
-[Subscribe to our mailing list!](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry){target="_blank"}
-
-::::
-
-:::: {.callout}
-
-## Contact
-Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngresearchersarch@gmail.com)
-
-::::
-
-:::
-
-## 2023, Tübingen/online
+## 2023, Tübingen/hybrid
 
 ### Programme
 
@@ -31,7 +12,7 @@ Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngre
 
 |||
 |--|--------|
-|20:00|Icebreaker<br />*[Ratskeller](https://maps.app.goo.gl/yMbpg2o1NwAJbnCU7) (Haaggasse 4, 72070 Tübingen)*|
+|20:00|Icebreaker<br>*[Ratskeller](https://maps.app.goo.gl/yMbpg2o1NwAJbnCU7) (Haaggasse 4, 72070 Tübingen)*|
 
 ## **Oct. 4^th^**
 
@@ -39,39 +20,39 @@ Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngre
 |--|--------|
 |08:30 – 09:00|Welcoming and registration|
 |09:00 – 09:15|Opening|
-|09:15 – 09:50|Keynote: **Susanne Greiff**<br />*TBA*|
+|09:15 – 09:50|Keynote: **Susanne Greiff**<br>*TBA*|
 |||
 |09:50 – 10:10|*Coffee break*|
 |||
 ||**Session 1: Ceramics I and Architecture**|
-|10:10 – 10:30|*Tracing the cultural and trade relations of the Spanish Empire and the Lesser Caribbean Antilles in the 16^th^ and 17^th^ centuries through ceramic analysis*<br />**Sonia Pujals Blanch**, Jaume Buxeda i Garrigós, Roberta  Mentesana|
-|10:30 – 10:50|*“Between the pots” -- Archaeometric approach to a set of Iron Age kiln’s spacers*<br />**Elena Paralovo**, Nikolaos Zacharias|
-|10:50 – 11:10|*Sacaojos (León, Spain): Archaeometric studies on earthen construction remains at the beginning of early Iron Age*<br />**Alejandra Sánchez Polo**|
-|11:10 – 11:30|*Testing chitosan nano composite as eco-friendly hydrophobic coatings for lime and sandstone*<br />**Mahmoud Shehab Eldin Mohamed Ibrahim**|
+|10:10 – 10:30|*Tracing the cultural and trade relations of the Spanish Empire and the Lesser Caribbean Antilles in the 16^th^ and 17^th^ centuries through ceramic analysis*<br>**Sonia Pujals Blanch**, Jaume Buxeda i Garrigós, Roberta  Mentesana|
+|10:30 – 10:50|*“Between the pots” -- Archaeometric approach to a set of Iron Age kiln’s spacers*<br>**Elena Paralovo**, Nikolaos Zacharias|
+|10:50 – 11:10|*Sacaojos (León, Spain): Archaeometric studies on earthen construction remains at the beginning of early Iron Age*<br>**Alejandra Sánchez Polo**|
+|11:10 – 11:30|*Testing chitosan nano composite as eco-friendly hydrophobic coatings for lime and sandstone*<br>**Mahmoud Shehab Eldin Mohamed Ibrahim**|
 |||
 |11:30 – 11:50|*Coffee break*|
 |||
 ||**Session 2: Stone and Binders – Glass and Gemstones**|
-|11:50 – 12:10|*New method for characterization and radiocarbon dating of lime mortar*<br />**Nicolas Herreyre**|
-|12:10 – 12:30|*Mineral thermometry of carbonates in medieval mortar binders: Burned or not burned?*<br />**Moritz Takeru Zöllner**, Thomas Schmid, Petra Dariz|
-|12:30 – 12:50|*Between Sri Lanka and Bohemia – Garnet as a common inlaying material in the 5^th^-6^th^ centuries AD polychrome fine metalwork from the Carpathian Basin*<br />**Viktória Mozgai**, Eszter Horváth, Bernadett Bajnóczi|
-|12:50 – 13:10|*Chemical characterization of ancient glassy materials from southeast Hungary*<br />**Zsófia Sz. Osváth**, Bernadett Bajnóczi, Máté Szabó|
+|11:50 – 12:10|*New method for characterization and radiocarbon dating of lime mortar*<br>**Nicolas Herreyre**|
+|12:10 – 12:30|*Mineral thermometry of carbonates in medieval mortar binders: Burned or not burned?*<br>**Moritz Takeru Zöllner**, Thomas Schmid, Petra Dariz|
+|12:30 – 12:50|*Between Sri Lanka and Bohemia – Garnet as a common inlaying material in the 5^th^-6^th^ centuries AD polychrome fine metalwork from the Carpathian Basin*<br>**Viktória Mozgai**, Eszter Horváth, Bernadett Bajnóczi|
+|12:50 – 13:10|*Chemical characterization of ancient glassy materials from southeast Hungary*<br>**Zsófia Sz. Osváth**, Bernadett Bajnóczi, Máté Szabó|
 |||
 |13:10 – 14:30|*Lunch break*|
 |||
 ||**Session 3: Organic materials and Geoarchaeology**|
-|14:30 – 14:50|*Fashion for the dead. Assessment of beads variability within a Chalcolithic grave from the Sultana-Malu Roșu necropolis (Romania), by means of archaeometric analysis*<br />**Daniel Stoicescu**, Sebastian Dumitrescu, Valentin Radu, Monica Mărgărit, Viorel Atudorei, Bogdan Manea, Cătălin Lazăr|
-|14:50 – 15:10|*Hidden traces in brown layers. Analysis of early medieval waterlogged textiles and other organic remains*<br />**Tracy Niepold**|
-|15:10 – 15:30|*14C geochronology applied to gut strings of modern musical instruments*<br />**Marie-Gabrielle Durier**|
-||~~*Unveiling human behavior through magnetism: Applications in archaeology at meso- and micro-scale deposits*<br />**Ada Dinckal**~~|
+|14:30 – 14:50|*Fashion for the dead. Assessment of beads variability within a Chalcolithic grave from the Sultana-Malu Roșu necropolis (Romania), by means of archaeometric analysis*<br>**Daniel Stoicescu**, Sebastian Dumitrescu, Valentin Radu, Monica Mărgărit, Viorel Atudorei, Bogdan Manea, Cătălin Lazăr|
+|14:50 – 15:10|*Hidden traces in brown layers. Analysis of early medieval waterlogged textiles and other organic remains*<br>**Tracy Niepold**|
+|15:10 – 15:30|*14C geochronology applied to gut strings of modern musical instruments*<br>**Marie-Gabrielle Durier**|
+||~~*Unveiling human behavior through magnetism: Applications in archaeology at meso- and micro-scale deposits*<br>**Ada Dinckal**~~|
 |||
 |15:30 – 15:50|*Coffee break*|
 |||
 ||**Session 4: Palaeoenvironment and Archaeobotany**|
-|15:50 – 16:10|*Using fauna identified by ZooMS and stable carbon and nitrogen isotopes to infer the palaeoenvironment at Grassridge Rockshelter, Eastern Cape, South Africa during the late Pleistocene to mid-Holocene*<br />**Bacara Ashleigh Spruit**, Jerome Reynard, Benjamin Collins, Christopher Ames, Michael Buckley|
-|16:10 – 16:30|*Herbivores don't lie: Stable isotope analysis on Magdalenian herbivore fauna from Gnirshöhle cave site*<br />**Theoni Panagiotopoulou**|
-|16:30 – 16:50|*Exploring human-woodland interactions in Classical, Hellenistic and early Roman Greece: Insights from wood charcoal analysis in ancient Corinth*<br />**Panagiotis Koullouros**|
-|16:50 – 17:10|*Beyond the domestic: Ritual practices and plant assemblages in the Nothern Peloponnese during the 1^st^ millennium BCE*<br />**Kyriaki Tsirtsi**, Panagiotis Koullouros, Georgia Kasapidou, Evi Margaritis |
+|15:50 – 16:10|*Using fauna identified by ZooMS and stable carbon and nitrogen isotopes to infer the palaeoenvironment at Grassridge Rockshelter, Eastern Cape, South Africa during the late Pleistocene to mid-Holocene*<br>**Bacara Ashleigh Spruit**, Jerome Reynard, Benjamin Collins, Christopher Ames, Michael Buckley|
+|16:10 – 16:30|*Herbivores don't lie: Stable isotope analysis on Magdalenian herbivore fauna from Gnirshöhle cave site*<br>**Theoni Panagiotopoulou**|
+|16:30 – 16:50|*Exploring human-woodland interactions in Classical, Hellenistic and early Roman Greece: Insights from wood charcoal analysis in ancient Corinth*<br>**Panagiotis Koullouros**|
+|16:50 – 17:10|*Beyond the domestic: Ritual practices and plant assemblages in the Nothern Peloponnese during the 1^st^ millennium BCE*<br>**Kyriaki Tsirtsi**, Panagiotis Koullouros, Georgia Kasapidou, Evi Margaritis |
 
 
 ## **Oct. 5^th^**
@@ -79,84 +60,84 @@ Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngre
 |||
 |--|--------|
 ||**Session 5: Diet and Mobility**|
-|09:00 – 09:20|*Tracing animal herding patterns of central Anatolian Neolithic populations with carbon and nitrogen isotope analysis*<br />**Gökçe Öztürk**|
-|09:20 – 09:40|*Variability in feeding practices during the Neolithic in the western Iberian Peninsula: An isotopic approach*<br />**Sopio Paatashvili**, Vanessa Navarrete|
-|09:40 – 10:00|*The Bronze Age communities from southern Spain: Cape Trafalgar*<br />**Pablo González Fernández**, Marta Díaz-Zorita Bonilla, Alexandros-Foitos Karakostis, Eduardo Vijande Vila, Juan Jesús Cantillo Duarte, Adolfo Moreno Márquez|
-|10:00 – 10:20|*Multiproxy isotopic analysis of diet and mobility from western Mediterranean: The Biniadrís Cave (Menorca)*<br />**Mauricio Marciales Daza**, Marta Díaz-Zorita Bonilla, Eva Alarcón García, Auxilio Moreno Onorato, Monice Timm, Jörg Baten, Javier Escudero, Damiá Ramis, Dereck Hamilton|
+|09:00 – 09:20|*Tracing animal herding patterns of central Anatolian Neolithic populations with carbon and nitrogen isotope analysis*<br>**Gökçe Öztürk**|
+|09:20 – 09:40|*Variability in feeding practices during the Neolithic in the western Iberian Peninsula: An isotopic approach*<br>**Sopio Paatashvili**, Vanessa Navarrete|
+|09:40 – 10:00|*The Bronze Age communities from southern Spain: Cape Trafalgar*<br>**Pablo González Fernández**, Marta Díaz-Zorita Bonilla, Alexandros-Foitos Karakostis, Eduardo Vijande Vila, Juan Jesús Cantillo Duarte, Adolfo Moreno Márquez|
+|10:00 – 10:20|*Multiproxy isotopic analysis of diet and mobility from western Mediterranean: The Biniadrís Cave (Menorca)*<br>**Mauricio Marciales Daza**, Marta Díaz-Zorita Bonilla, Eva Alarcón García, Auxilio Moreno Onorato, Monice Timm, Jörg Baten, Javier Escudero, Damiá Ramis, Dereck Hamilton|
 |||
 |10:20 – 10:40|*Coffee break*|
 |||
 ||**Session 6: Metals I**|
-|10:40 – 11:00|*Angkorian copper hammering: An experimental approach*<br />**César Delomosne**, David Bourgarit, Manon Gosselin, Clotilde Berdin, Thierry Baudin|
-|11:00 – 11:20|*Resilience and innovation in craft knowledge during horizons of exceptional societal change in the Bronze Age Carpathian Basin*<br />**Lauren E. F. Brown**|
-|11:20 – 11:40|*Archaeometry study and restoration of a roman bronze vessel*<br />**Violeta Karailieva**|
-|11:40 – 12:00|*Following the identification of traces of Iron Age belts, towards metallurgical analysis*<br />**Rita Solazzo**, François Giligny|
+|10:40 – 11:00|*Angkorian copper hammering: An experimental approach*<br>**César Delomosne**, David Bourgarit, Manon Gosselin, Clotilde Berdin, Thierry Baudin|
+|11:00 – 11:20|*Resilience and innovation in craft knowledge during horizons of exceptional societal change in the Bronze Age Carpathian Basin*<br>**Lauren E. F. Brown**|
+|11:20 – 11:40|*Archaeometry study and restoration of a roman bronze vessel*<br>**Violeta Karailieva**|
+|11:40 – 12:00|*Following the identification of traces of Iron Age belts, towards metallurgical analysis*<br>**Rita Solazzo**, François Giligny|
 |||
 |12:00 – 13:30|*Lunch break*|
 |||
 ||**Session 7: Pigments and Painting**|
-|13:30 – 13:50|*Advancements in analyzing pigment materials in Indonesian rock art: Scientific approaches and their impact*<br />**Moh. Mu'alliful Ilmi**, Ismunandar, Pindi Setiawan, Sofwan Noerwidi|
-|13:50 – 14:10|*Archaeometric study of the Roman wall paintings of Limonum (Poitiers, France)*<br />**Adriana Iuliano**, Francesca Galluzzi, Isabelle Pianet, Mathilde Carrive|
-|14:10 – 14:30|*Terahertz continuous wave spectroscopy (THz-CW) for the characterization of pure pigments and binary mixtures: An innovative approach*<br />**Candida Moffa**|
-|14:30 – 14:50|*To color technology and beyond: First archaeometric analysis of pigments from SW Chubut, Argentine Patagonia*<br />**Lucía Alejandra Gutiérrez**, María Ana Castro, Analía Castro Esnal|
+|13:30 – 13:50|*Advancements in analyzing pigment materials in Indonesian rock art: Scientific approaches and their impact*<br>**Moh. Mu'alliful Ilmi**, Ismunandar, Pindi Setiawan, Sofwan Noerwidi|
+|13:50 – 14:10|*Archaeometric study of the Roman wall paintings of Limonum (Poitiers, France)*<br>**Adriana Iuliano**, Francesca Galluzzi, Isabelle Pianet, Mathilde Carrive|
+|14:10 – 14:30|*Terahertz continuous wave spectroscopy (THz-CW) for the characterization of pure pigments and binary mixtures: An innovative approach*<br>**Candida Moffa**|
+|14:30 – 14:50|*To color technology and beyond: First archaeometric analysis of pigments from SW Chubut, Argentine Patagonia*<br>**Lucía Alejandra Gutiérrez**, María Ana Castro, Analía Castro Esnal|
 |||
 |14:50 – 15:10|*Coffee break*|
 |||
 ||**Poster Session 1: Metals**|
-|15:10 – 15:15|*Elemental and mineralogical study of copper slags from early Bronze Age I at Arslantepe, eastern Anatolia, Turkey*<br />**Sabikun Naher**|
-|15:15 – 15:20|*An archaeometric pilot study on indigenous conservation techniques of Indian bronze images*<br />**Sadhish Sharma**|
-|15:20 – 15:25|*How much metal is produced? An interdisciplinary approach combining LiDAR, field archaeology and portable X-ray fluorescence analysis to reconstruct production volumes*<br />**Margaux Herbrich**, Marion Berranger|
-|15:25 – 15:30|*Application of Ag, Cu and Pb isotopes in determining the origin of the ore for metals from Castillo de Huarmey (Peru)*<br />**Maciej Kałaska**, Ryan Mathur, George Kamenov, Julia Chyla, Patrycja Prządka-Giersz, Miłosz Giersz|
-|15:30 – 15:35|*The origin of lead artifacts from Novae – Applications of Pb isotopes in research on the provenance of artifacts from N Bulgaria*<br />**Paula Sierpień**, Maciej Kałaska, Janusz  Recław, George Kamenov|
+|15:10 – 15:15|*Elemental and mineralogical study of copper slags from early Bronze Age I at Arslantepe, eastern Anatolia, Turkey*<br>**Sabikun Naher**|
+|15:15 – 15:20|*An archaeometric pilot study on indigenous conservation techniques of Indian bronze images*<br>**Sadhish Sharma**|
+|15:20 – 15:25|*How much metal is produced? An interdisciplinary approach combining LiDAR, field archaeology and portable X-ray fluorescence analysis to reconstruct production volumes*<br>**Margaux Herbrich**, Marion Berranger|
+|15:25 – 15:30|*Application of Ag, Cu and Pb isotopes in determining the origin of the ore for metals from Castillo de Huarmey (Peru)*<br>**Maciej Kałaska**, Ryan Mathur, George Kamenov, Julia Chyla, Patrycja Prządka-Giersz, Miłosz Giersz|
+|15:30 – 15:35|*The origin of lead artifacts from Novae – Applications of Pb isotopes in research on the provenance of artifacts from N Bulgaria*<br>**Paula Sierpień**, Maciej Kałaska, Janusz  Recław, George Kamenov|
 |15:35 – 16:00|Discussion|
 |||
 ||**Poster Session 2: Ceramics and Binders**|
-|16:00 – 16:05|*Archaeometric analysis to identify the provenance of pinkish-redware of Pattanam site (Kerala, India)*<br />**Uthara Babu**, Sarath Chandrababu|
-||~~*The archaeology of production in Taranto: New research perspectives*<br />**Serena D'Alfonso**~~|
-|16:05 – 16:10|*Neolithic under the microscope: Early pottery of inland Iberia*<br />**Estíbaliz Espada-Martín**|
-|16:10 – 16:15|*Ceramic analysis of a Bronze Age burial ground at Maklár-Koszpérium (NE Hungary): Raw material and firing technique*<br />**Ákos Mengyán**|
-|16:15 – 16:20|*Lime on the Cantabrian façade: Complex pyrotechnological processes in recent Prehistory*<br />**Lucía Ruano Posada**|
+|16:00 – 16:05|*Archaeometric analysis to identify the provenance of pinkish-redware of Pattanam site (Kerala, India)*<br>**Uthara Babu**, Sarath Chandrababu|
+||~~*The archaeology of production in Taranto: New research perspectives*<br>**Serena D'Alfonso**~~|
+|16:05 – 16:10|*Neolithic under the microscope: Early pottery of inland Iberia*<br>**Estíbaliz Espada-Martín**|
+|16:10 – 16:15|*Ceramic analysis of a Bronze Age burial ground at Maklár-Koszpérium (NE Hungary): Raw material and firing technique*<br>**Ákos Mengyán**|
+|16:15 – 16:20|*Lime on the Cantabrian façade: Complex pyrotechnological processes in recent Prehistory*<br>**Lucía Ruano Posada**|
 |16:20 – 16:40|Discussion|
 |||
-|20:00|Dinner<br />*[Gasthausbrauerei Neckarmüller](https://maps.app.goo.gl/HyhmV8q2grHUXYwM7) (Gartenstraße 4, 72074 Tübingen)*|
+|20:00|Dinner<br>*[Gasthausbrauerei Neckarmüller](https://maps.app.goo.gl/HyhmV8q2grHUXYwM7) (Gartenstraße 4, 72074 Tübingen)*|
 
 ## **Oct. 6^th^**
 
 |||
 |--|--------|
 ||**Poster Session 3: Geoarchaeology and Zooarchaeology**|
-|09:00 – 09:05|*Geoarcheology of erosive crises and sedimentary clogging in the Lower Seine Valley: The case of small tributary valleys and the variability of anthropic forcing since the Neolithic*<br />**Léa Mairaville**, Damase Mouralis, Dominique Todisco, Stoil Chapkanski|
-|09:05 – 09:10|*A high-resolution approach to the site formation processes of Tinshemet Cave, Israel*<br />**Pedro García Villa**, Cristiano Nicosia, Yossi Zaidner, Ruth Shahack-Gross|
-|09:10 – 09:15|*Microfossils as environmental proxies: A case study of Math Pimpri, Ahmednagar district, Maharashtra, India*<br />**Arva Nizami**|
-|09:15 – 09:20|*Fossil fauna of Gopnath, Gujarat, India: A taphonomic study*<br />**Adrija Chaudhuri**, August G. Costa, K. Krishnan, P. Ajithprasad, Sharada Channarayapatna|
-|09:20 – 09:25|*Comparative crystallographic study and thin section analysis of faunal fossils of central Narmada Valley*<br />**Sakina Halvadwala**, Prateek Chakraborty|
+|09:00 – 09:05|*Geoarcheology of erosive crises and sedimentary clogging in the Lower Seine Valley: The case of small tributary valleys and the variability of anthropic forcing since the Neolithic*<br>**Léa Mairaville**, Damase Mouralis, Dominique Todisco, Stoil Chapkanski|
+|09:05 – 09:10|*A high-resolution approach to the site formation processes of Tinshemet Cave, Israel*<br>**Pedro García Villa**, Cristiano Nicosia, Yossi Zaidner, Ruth Shahack-Gross|
+|09:10 – 09:15|*Microfossils as environmental proxies: A case study of Math Pimpri, Ahmednagar district, Maharashtra, India*<br>**Arva Nizami**|
+|09:15 – 09:20|*Fossil fauna of Gopnath, Gujarat, India: A taphonomic study*<br>**Adrija Chaudhuri**, August G. Costa, K. Krishnan, P. Ajithprasad, Sharada Channarayapatna|
+|09:20 – 09:25|*Comparative crystallographic study and thin section analysis of faunal fossils of central Narmada Valley*<br>**Sakina Halvadwala**, Prateek Chakraborty|
 |09:25 – 09:45|Discussion|
 |||
 ||**Session 8: Metals II**|
-|09:45 – 10:05|*Preliminary research on Angkorian copper smelting processes: Typological and analytical study of copper slags from the Chhaep mining and metallurgical complex, Preah Vihear Province, Cambodia*<br />**Sébastien Clouet**, David Bourgarit, Brice Vincent|
-|10:05 – 10:25|*Nordic blades and northern trades? Exploring the metal sources of the early Nordic Bronze Age through a multi-proxy approach*<br />**Bart Cornelis**, Andreas Wittke, Daniel Berger|
-|10:25 – 10:45|*When elemental analysis and GIS meet in medieval buildings: A contribution to the study of the cathedral Saint-Pierre of Beauvais (Oise, France)*<br />**Léa Chanal**, Guillaume Sarah, Maxime L'Héritier, Diane Daussy, Aurélia Azéma|
-|10:45 – 11:05|*Fighting the data kraken: GlobaLID as example for a modern approach to research data management and curation in archaeometry*<br />**Thomas Rose**, Sabine Klein, Katrin J. Westner, Yiu-Kang Hsu|
+|09:45 – 10:05|*Preliminary research on Angkorian copper smelting processes: Typological and analytical study of copper slags from the Chhaep mining and metallurgical complex, Preah Vihear Province, Cambodia*<br>**Sébastien Clouet**, David Bourgarit, Brice Vincent|
+|10:05 – 10:25|*Nordic blades and northern trades? Exploring the metal sources of the early Nordic Bronze Age through a multi-proxy approach*<br>**Bart Cornelis**, Andreas Wittke, Daniel Berger|
+|10:25 – 10:45|*When elemental analysis and GIS meet in medieval buildings: A contribution to the study of the cathedral Saint-Pierre of Beauvais (Oise, France)*<br>**Léa Chanal**, Guillaume Sarah, Maxime L'Héritier, Diane Daussy, Aurélia Azéma|
+|10:45 – 11:05|*Fighting the data kraken: GlobaLID as example for a modern approach to research data management and curation in archaeometry*<br>**Thomas Rose**, Sabine Klein, Katrin J. Westner, Yiu-Kang Hsu|
 |||
 |11:05 – 11:30|*Coffee break*|
 |||
 ||**Session 9: Ceramics II**|
-|11:30 – 11:50|*Neolithic pottery production in the Adige Valley: The case studies from Riparo Gaban and La Vela (north-eastern Italy)*<br />**Giulia Deimichei**, Silvia Amicone, Annaluisa Pedrotti|
-|11:50 – 12:10|*Technological analysis of ceramic fabrication in early and middle Copper Age eastern Hungary: A case study from Rákóczifalva microregion*<br />**Eszter Solnay**, Zita Hrabák, Anthony Borel|
-|12:10 – 12:30|*Pottery traditions and raw materials used for the ancient production of ceramics in Istria, Croatia*<br />**Natali Neral**, Andreja Kudelić|
-|12:30 – 12:50|*From macro to micro: Advanced and experimental methods for the analysis of finishing techniques and post-firing treatments on ancient ceramics*<br />**Eirini Koutouvaki**, Massimo Vidale, Silvia Amicone, Eleni Aloupi, Lara Maritan|
+|11:30 – 11:50|*Neolithic pottery production in the Adige Valley: The case studies from Riparo Gaban and La Vela (north-eastern Italy)*<br>**Giulia Deimichei**, Silvia Amicone, Annaluisa Pedrotti|
+|11:50 – 12:10|*Technological analysis of ceramic fabrication in early and middle Copper Age eastern Hungary: A case study from Rákóczifalva microregion*<br>**Eszter Solnay**, Zita Hrabák, Anthony Borel|
+|12:10 – 12:30|*Pottery traditions and raw materials used for the ancient production of ceramics in Istria, Croatia*<br>**Natali Neral**, Andreja Kudelić|
+|12:30 – 12:50|*From macro to micro: Advanced and experimental methods for the analysis of finishing techniques and post-firing treatments on ancient ceramics*<br>**Eirini Koutouvaki**, Massimo Vidale, Silvia Amicone, Eleni Aloupi, Lara Maritan|
 |||
 |12:50 – 14:20|*Lunch break*|
 |||
 ||**Session 10: Organic Residues**|
-|14:20 – 14:40|*Towards a multi-analytical methodology based on molecular spectroscopic techniques for the detection and characterization of organic residues in archaeological findings*<br />**Maria Eleni Konstantinou**, Evangelia Ralli, Ioanna Misyri, Maria Roumpou, Aggelos Philippidis, Sophia Sotiropoulou, Apostolos Spyros, Demetrios Anglos|
-|14:40 – 15:00|*Feasting at the Ness of Brodgar? Tracing subsistence patterns during the late Neolithic, Britain using organic residue analysis*<br />**Julia Becher**, Martine Regert, Mark Edmonds, Nick Card, Alexandre Lucquin, Ann MacSween, Anne Mitchell, Helen Talbot, Oliver E. Craig|
-|15:00 – 15:20|*A multi-analytical approach for lithic residue analysis from the Chalcolithic site of Torre Della Chiesaccia, Italy*<br />**Leanne Thothiyil**, Cristina Lemorini|
-|15:20 – 15:40|*Minoan cooking vessels: An interdisciplinary approach on their function and use*<br />**Evgenia Tsafou**|
+|14:20 – 14:40|*Towards a multi-analytical methodology based on molecular spectroscopic techniques for the detection and characterization of organic residues in archaeological findings*<br>**Maria Eleni Konstantinou**, Evangelia Ralli, Ioanna Misyri, Maria Roumpou, Aggelos Philippidis, Sophia Sotiropoulou, Apostolos Spyros, Demetrios Anglos|
+|14:40 – 15:00|*Feasting at the Ness of Brodgar? Tracing subsistence patterns during the late Neolithic, Britain using organic residue analysis*<br>**Julia Becher**, Martine Regert, Mark Edmonds, Nick Card, Alexandre Lucquin, Ann MacSween, Anne Mitchell, Helen Talbot, Oliver E. Craig|
+|15:00 – 15:20|*A multi-analytical approach for lithic residue analysis from the Chalcolithic site of Torre Della Chiesaccia, Italy*<br>**Leanne Thothiyil**, Cristina Lemorini|
+|15:20 – 15:40|*Minoan cooking vessels: An interdisciplinary approach on their function and use*<br>**Evgenia Tsafou**|
 |||
 |15:40 – 16:00|*Coffee break*|
 |||
-|16:00 – 17:00|Round table<br />*How to produce high quality data and to deal with the high amount of data produced in archaeometric research?*|
+|16:00 – 17:00|Round table<br>*How to produce high quality data and to deal with the high amount of data produced in archaeometric research?*|
 |17:00 – 17:15|Closing|
 
 :::
@@ -165,12 +146,91 @@ Any questions? Drop us a mail at [youngresearchersarch@gmail.com](mailto:youngre
 
 ![The in-person participants of YRA 2023.](assets/img/YRA2023_group.jpg){fig-alt="Group picture of the in-person participants of YRA 2023."}
 
-## Previous editions
+## 2022, online
+Originally presented at [the 2022 edition's webpage](https://yrarchaeometry.weebly.com/tutorials.html), the programme is listed here for the sake of completeness. 
 
-::: {.callout-caution}
+[Download abstract book](https://yrarchaeometry.weebly.com/uploads/1/4/0/7/140767467/yra5_book_of_abstracts.pdf) (from the 2022 edition's webpage)
 
-## Under construction 
+### Programme
+::: {.panel-tabset}
 
-Information to previous editions will be edited in due time. In the meanwhile you can get information about them [here](https://yrarchaeometry.weebly.com/previous-events.html). 
+## **Sep. 5^th^**
+
+|||
+|--|--------|
+|09:00 – 09:15|*Opening*|
+|09:15 – 09:50|**Keynote** <br> *Technological and archaeometric study of ancient ceramics*<br>**Pamela Fragnoli**|
+|||
+|09:50 – 10:00|*Coffee break*|
+|||
+||**Session 1: Pottery 1**|
+|10:00 – 10:20|*Production and Trade of 4^th^--3^rd^ c. BC Cooking Ware. A Case Study from the Palatine Hill, Rome*<br>**Barbara Borgers**, Antonio Ferrandes, Matilde Fortunato, A. Vivona|
+|10:20 – 10:40|*Pottery as a witness of commercialization: The case of 9^th^-century 'Great Moravia'*<br>**Karel Slavíček**, Michal Hlavica|
+|10:40 – 11:00|*The preliminary study of the early bronze age pottery from a stronghold in Ratzersdorf, Lower Austria.The first petrographic observations and pXRF measurements*<br>**Wioletta Tenczar**|
+|11:00 – 11:20|*Thick-section in reconstruction of pottery forming techniques*<br>**Bogusław Franczyk**|
+|11:20 – 11:40|*Playing with dirt: clayey raw materials and ancient pottery analysis from three case studies in Northern Peloponnese, South Epirus and West Crete, Greece*<br>**Vayia Xanthopoulou**, Eleni Nodarou, Ioannis Iliopoulos, Marillia Antonopoulou|
+|||
+|11:40 – 12:00|*Coffee break*|
+|||
+||**Session 2: Archaeobotany and Environmental Archaeology**|
+|12:00 – 12:20|*Land-use evolution and change in five settlements of Northeastern Messenia, Greece: an interdisciplinary approach from prehistory to modern times with the contribution of new technologies*<br>**Eleni Vallianatou**|
+|12:20 – 12:40|*New methods to explore past agriculture: Modern Experimental Cultivations and 3D Geometric Morphometrics*<br>**Alexandra Eleftheria Theodora Kriti**, Alexandra Livarda, Ioannis Mylonas, Elissavet Ninou, Hector Orengo|
+|12:40 – 13:00|*What can bryophytes reveal? A case study of the Neolithic pile dwelling site Mooswinkel (Austria)*<br>**Thorsten Jakobitsch**|
+|13:00 – 13:20|*Agricultural practices and dietary patterns in the late Classical-early Hellenistic Period: the evidence from archaeobotanical remains*<br>**Kyriaki Tsirtsi**, Evi Margaritis|
+|||
+|13:20 – 14:20|*Lunch break*|
+|||
+||**Session 3: Stones and mortars**|
+|14:20 – 14:40|*Databases of archaeological materials: A case study of ancient marble at the Austrian Archaeological Institute*<br>**Emmanouil Anevlavis**|
+|14:40 – 15:00|*White marble provenance studies in restoration, the case study of the Domitian temple in Ephesos*<br>**Vasiliki Anevlavi**, Sabine Ladstätter, Walter Prochaska|
+|15:00 – 15:20|*Micropetrographic analysis of limestone for provenance studies in the Istrian Antiquity, Croatia*<br>**Katarina Šprem**|
+|15:20 – 15:40|*Ceramic and plaster technologies and traditions at Neolithic Makri, Thrace, Greece*<br>**Archontoula Barouda**|
+|15:40 – 16:00|*The coastal fortification of Samos. A mortar case study*<br>**Georgia Delli**|
+
+## **Sep. 6^th^**
+
+|||
+|--|--------|
+||**Session 4: Methods and Experimental Archaeology**|
+|09:00: – 09:20|*Determination of loss-on-ignition (loi) in x-ray fluorescence spectroscopy to analyse archaeological ceramic materials*<br>**Anna Tsoupra**, Joao Fontiela, Jose Mirao|
+|09:20 – 09:40|*THz-FDS identification of potentially damaging VOCs in the cultural heritage field*<br>**Candida Moffa**|
+|09:40 – 10:00|*Fire and Sand: An archaeometric analysis of the Roman architectonic glass found during the excavation of Lamia’s Gardens*<br>**Martha Parasoglou**, Laura Medeghini, Pedro Barrulas, Michela Botticelli|
+|10:00 – 10:20|*Understanding past technology through an experimental approach: Case study of pottery techniques, bone tool making and iron smelting process*<br>**Udaya Kumar**|
+|10:20 – 10:40|*An archaeo-technological experimental approach to ancient copper smelting*<br>**Diya Mukherjee**|
+|||
+|10:40 – 11:00| *Coffee break*|
+|||
+||**Session 5: Bioarchaeology**|
+|11:00 – 11:20|*Old problems, new approaches and bigger challenges: a transdisciplinarityapproach in the human skeletal analysis on Late Prehistory sites in Southwestern Iberia*<br>**Maria João Neves**|
+|11:20 – 11:40|*Human Diet Pattern on Macro Observations on the Occlusal of Paleometalic Human Isolation Tooth in Leang Codong, Soppeng Regency, South Sulawesi, Indonesia*<br>**Muh Hafdal**|
+|11:40 – 12:00|*Early medieval health, diet, and mobility in the eastern Alpine region in Austria and interdisciplinary applications*<br>**Magdalena Srienc-Ściesiek**|
+|12:00 – 12:20|*Show me the value of dirt! Some thoughts on the analyses of visible organic amorphous remains*<br>**Ana Fundurulic**|
+|||
+|12:20 – 13:20|*Lunch break*|
+|||
+||**Session 6: Metals**|
+|13:20 – 13:40|*Regional and Local Alloying Habits in the Bronze Age Western and Central Balkans*<br>**Nicole Mittermair**|
+|13:40 – 14:00|*Early efforts for ironmaking in Central Anatolia: analysis of iron artefacts from the Bronze Age in Kaman-Kalehöyük*<br>**Nurcan Kucukarslan**, Tsutomu Ota, Katsura Kobayashi, Eizo Nakamura, Sachihiro Omura|
+|14:00 – 14:20|*From OXALID to GlobaLID: Towards a community-standard for lead isotope data in archaeology*<br>**Thomas Rose**, Sabine Klein, Katrin J. Westner, Yiu-Kang Hsu|
+|14:20 – 14:40|*Iron Technology in Medieval Kerala: Scientific Analysis of Iron Artifacts from Triprangode*<br>**Mo Rizwan Ahmad Qureshi**, Alok Kumar Kanungo, Amit Arora, Krishnaraj K.|
+|14:40 – 15:00|*Identification and characterization of gilding in 16th and 17th c. paintings*<br>**Ariane Pinto**|
+|||
+|15:00 – 15:20|*Coffee break*|
+|||
+||**Session 7: Pottery 2**|
+|15:20 – 15:40|*Unveiling the Pottery Manufacturing from the Middle Euphrates Site of Zeytinli Bahçe Höyük, during the Late Chalcolithic*<br>**Rosa Crocco**|
+|15:40 – 16:00|*Late Roman lamp production in Ptolemais*<br>**Maria Jaworska**, Małgorzata Daszkiewicz|
+|16:00 – 16:20|*New Insights into the Provenance and Technology -Applying Ceramic Petrography Analysis to Ancient Pottery Studies*<br>**Marcio Teixeira-Bastos**|
+|16:20 – 16:40|*Back to Black: A Mineralogical and Chemical Characterisation of Atticising 4th Century BCE Black Gloss*<br>**Baptiste Solard**, Silvia Amicone, Eleni Aloupi-Siotis, Beatrice Boese, Lars Heinze, Claudia Lambrugo, Christoph Berthold|
+|||
+|16:40 – 17:00|*Conclusions*|
 
 :::
+
+## Previous editions
+The first editions did not had a dedicated webpage or the webpage did not include the programme and/or abstract book The list below provides a record on what is still available on the internet. 
+
+* 2021 edition (Évora/hybrid): [Webpage (without programme)](http://www.yra4.uevora.pt/)
+* 2019 edition (Nanterre): [Call for Papers on ResearchGate](https://www.researchgate.net/publication/332973931_CfP_Young_researchers_in_Archaeometry_3)
+* 2018 edition (Berlin): [Event announcement with call for papers (in German)](https://www.berliner-antike-kolleg.org/bak/aktuelles/2018_06_15.html)
+* 2017 edition (Frankfurt): [Report (in German)](https://www.dmg-home.org/1/sektionen-arbeitskreise-kommissionen-und-projektgruppen/ak-archaeometrie-und-denkmalpflege/tagungen-des-ak/vorherige-tagungen/workshop-2017/) with [abstract book](https://www.dmg-home.org/fileadmin/user_upload/Archeometrie/pdfs/Abstractbook_workshop2017.pdf)
