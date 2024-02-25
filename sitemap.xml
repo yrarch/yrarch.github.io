@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yrarch.github.io/tutorials.html</loc>
-    <lastmod>2024-01-28T10:25:12.569Z</lastmod>
-  </url>
-  <url>
     <loc>https://yrarch.github.io/current.html</loc>
-    <lastmod>2024-01-28T10:25:12.569Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yrarch.github.io/about.html</loc>
-    <lastmod>2024-01-28T10:25:12.565Z</lastmod>
+    <lastmod>2024-02-25T21:09:28.446Z</lastmod>
   </url>
   <url>
     <loc>https://yrarch.github.io/index.html</loc>
-    <lastmod>2024-01-28T10:25:12.569Z</lastmod>
+    <lastmod>2024-02-25T21:09:28.446Z</lastmod>
   </url>
   <url>
     <loc>https://yrarch.github.io/archive.html</loc>
-    <lastmod>2024-01-28T10:25:12.565Z</lastmod>
+    <lastmod>2024-02-25T21:09:28.442Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yrarch.github.io/about.html</loc>
+    <lastmod>2024-02-25T21:09:28.442Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yrarch.github.io/tutorials.html</loc>
+    <lastmod>2024-02-25T21:09:28.446Z</lastmod>
   </url>
   <url>
     <loc>https://yrarch.github.io/team.html</loc>
-    <lastmod>2024-01-28T10:25:12.569Z</lastmod>
+    <lastmod>2024-02-25T21:09:28.446Z</lastmod>
   </url>
 </urlset>
