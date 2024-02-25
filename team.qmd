@@ -2,7 +2,7 @@
 title: "Meet the team"
 ---
 
-## Anna Karligkioti
+## Anna Karligkioti [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9237-7830)
 
 ::: {layout="[ 25 , 75 ]"}
 
@@ -16,7 +16,7 @@ Anna (Cyprus Institute) is a PhD candidate in Bioarchaeology, funded by the A.G.
 
 :::
 
-## Baptiste Solard
+## Baptiste Solard [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8215-5721)
 
 ::: {layout="[ 25 , 75 ]"}
 
@@ -31,7 +31,7 @@ Baptiste (Universität Tübingen) completed his Diplôme d’ingénieur chimiste
 :::
 
 
-## Chase Minos
+## Chase Minos [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8880-880X)
 
 ::: {layout="[ 25 , 75 ]"}
 
@@ -46,7 +46,7 @@ Chase (Cyprus Institute) is a PhD candidate in the Science and Technology in Arc
 :::
 
 
-## Kyriaki Tsirtsi
+## Kyriaki Tsirtsi [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-1861-7987)
 
 ::: {layout="[ 25 , 75 ]"}
 
@@ -65,7 +65,7 @@ In MedisFood, Kyriaki holds a Post-Doctorate position where she explores the lon
 :::
 
 
-## Sinem Hacıosmanoğlu
+## Sinem Hacıosmanoğlu [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-2913-1007)
 
 ::: {layout="[ 25 , 75 ]"}
 
@@ -80,7 +80,7 @@ Sinem (Universität Tübingen) is a PhD candidate at the University of Tübingen
 :::
 
 
-## Thomas Rose
+## Thomas Rose [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
 
 ::: {layout="[ 25 , 75 ]"}
 
@@ -95,7 +95,7 @@ Thomas (Deutsches Bergbau-Museum Bochum) is researcher at the research area Arch
 :::
 
 
-## Vasiliki Anevlavi
+## Vasiliki Anevlavi [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-7332-1129)
 
 ::: {layout="[ 25 , 75 ]"}
 
