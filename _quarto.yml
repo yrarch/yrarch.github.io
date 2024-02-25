@@ -16,7 +16,7 @@ website:
       - href: current.qmd
         text: "YRA 2024"
       - href: team.qmd
-        text: "Organisers"
+        text: "Team"
       - href: archive.qmd
         text: "Archive"
       - href: tutorials.qmd

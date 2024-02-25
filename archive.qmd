@@ -2,7 +2,10 @@
 title: "Previous editions"
 ---
 
-## 2023, Tübingen/hybrid
+## 2023, Tübingen/hybrid 
+
+Organisers: Sinem Hacıosmanoğlu, Baptiste Solard, Thomas Rose  
+Location: University of Tübingen
 
 ### Programme
 
@@ -147,6 +150,10 @@ title: "Previous editions"
 ![The in-person participants of YRA 2023.](assets/img/YRA2023_group.jpg){fig-alt="Group picture of the in-person participants of YRA 2023."}
 
 ## 2022, online
+
+Organisers: Vasiliki Anevlavi, Thorsten Jakobitsch, Magdalena Srienc-Sciesiek, Emmanouil Anevlavis, Thomas Rose  
+Location: Österreichische Akademie der Wissenschaften -- Österreichisches Archäologisches Institut (Austria/online)
+
 Originally presented at [the 2022 edition's webpage](https://yrarchaeometry.weebly.com/tutorials.html), the programme is listed here for the sake of completeness. 
 
 [Download abstract book](https://yrarchaeometry.weebly.com/uploads/1/4/0/7/140767467/yra5_book_of_abstracts.pdf) (from the 2022 edition's webpage)
@@ -230,7 +237,7 @@ Originally presented at [the 2022 edition's webpage](https://yrarchaeometry.weeb
 ## Previous editions
 The first editions did not had a dedicated webpage or the webpage did not include the programme and/or abstract book The list below provides a record on what is still available on the internet. 
 
-* 2021 edition (Évora/hybrid): [Webpage (without programme)](http://www.yra4.uevora.pt/)
-* 2019 edition (Nanterre): [Call for Papers on ResearchGate](https://www.researchgate.net/publication/332973931_CfP_Young_researchers_in_Archaeometry_3)
-* 2018 edition (Berlin): [Event announcement with call for papers (in German)](https://www.berliner-antike-kolleg.org/bak/aktuelles/2018_06_15.html)
-* 2017 edition (Frankfurt): [Report (in German)](https://www.dmg-home.org/1/sektionen-arbeitskreise-kommissionen-und-projektgruppen/ak-archaeometrie-und-denkmalpflege/tagungen-des-ak/vorherige-tagungen/workshop-2017/) with [abstract book](https://www.dmg-home.org/fileadmin/user_upload/Archeometrie/pdfs/Abstractbook_workshop2017.pdf)
+* 2021 edition (Évora/hybrid): [Webpage (without programme)](http://www.yra4.uevora.pt/) <br> Organisers: Cécile Fossé, Louise Chassouant, Roshan Paladugu, Sergio Lins, Thomas Rose <br> Location: Universidade de Évora (Portugal)
+* 2019 edition (Nanterre): [Call for Papers on ResearchGate](https://www.researchgate.net/publication/332973931_CfP_Young_researchers_in_Archaeometry_3) <br> Organisers: Manon Gosselin, Mélissa Cadet, Thomas Rose <br> Location: Université Paris Nanterre -- Maison Archéologie Ethnologie (France)
+* 2018 edition (Berlin): [Event announcement with call for papers (in German)](https://www.berliner-antike-kolleg.org/bak/aktuelles/2018_06_15.html) <br> Organisers: Katharina Kuntz, Ralf Milke, Thomas Rose <br> Location: Freie Universität Berlin (Germany)
+* 2017 edition (Frankfurt): [Report (in German)](https://www.dmg-home.org/1/sektionen-arbeitskreise-kommissionen-und-projektgruppen/ak-archaeometrie-und-denkmalpflege/tagungen-des-ak/vorherige-tagungen/workshop-2017/) with [abstract book](https://www.dmg-home.org/fileadmin/user_upload/Archeometrie/pdfs/Abstractbook_workshop2017.pdf) <br> Organisers: Katrin J. Westner, Thomas Rose, Florian Ströbele, Marc Holly <br> Location: Goethe Universität Frankfurt (Germany)
