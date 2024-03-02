@@ -79,6 +79,19 @@ Sinem (Universität Tübingen) is a PhD candidate at the University of Tübingen
 
 :::
 
+## Tamanna Jahan Keya 
+
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/img/TJahan.png)
+:::
+
+::: {#column-text}
+Tamanna (Jahangirnagar University) is a post-graduate student in the Department of Archaeology at Jahangirnagar University, a well-known public university in Bangladesh. She completed her Bachelor of Social Science at Jahangirnagar University in the Department of Archaeology. In her master's thesis, she investigates the chemical composition of uninscribed cast copper coins, their minting process and the nature of the copper coins’ corrosion. Currently, she is working as a graduate researcher in the Department of Archaeology, Jahangirnagar University. Moreover, she worked as an assistant researcher in several archaeometry research projects funded by the Faculty of Arts and Humanities, Jahangirnagar University. Since her 2^nd^ year of undergraduate education, she participated in several archaeological excavations across various regions of Bangladesh. Her research focusing area is archaeometallurgy, more specifically ancient copper metallurgy. Her research works attempt to fill the scientific gap existing in the analysis of ancient metal artifacts in the Bangladesh context.
+:::
+
+:::
 
 ## Thomas Rose [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
 
@@ -89,7 +102,7 @@ Sinem (Universität Tübingen) is a PhD candidate at the University of Tübingen
 :::
 
 ::: {#column-text}
-Thomas (Deutsches Bergbau-Museum Bochum) is researcher at the research area Archaeometallurgy of the Deutsches Bergbau-Museum Bochum in the DFG-funded project "GlobaLID -- Building an interface between geochemistry and archaeometry to create a new research infrastructure with a global perspective". He gained expertise in ancient copper metallurgy with focus on the Chalcolithic Southern Levant and various metal isotope systems and is maintainer of the R package ChronochRt. He is executive board member of the Gesellschaft für Naturwissenschaftliche Archäologie ARCHAEOMETRIE e.V and council member of the Historical Metallurgy Society. More info at [copper-smelting.com](https://copper-smelting.com/). 
+Thomas (Deutsches Bergbau-Museum Bochum) is researcher at the research area Archaeometallurgy of the Deutsches Bergbau-Museum Bochum in the DFG-funded project "GlobaLID -- Building an interface between geochemistry and archaeometry to create a new research infrastructure with a global perspective". He gained expertise in ancient copper metallurgy with focus on the Chalcolithic Southern Levant and stable metal isotope systems and is maintainer of the R package ChronochRt. He is executive board member of the Gesellschaft für Naturwissenschaftliche Archäologie ARCHAEOMETRIE e.V and council member of the Historical Metallurgy Society. More info at [copper-smelting.com](https://copper-smelting.com/). 
 :::
 
 :::
