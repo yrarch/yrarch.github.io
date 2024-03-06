@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="floating nav-fixed">
+<body class="floating nav-fixed slimcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -130,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#yra-2024" id="toc-yra-2024" class="nav-link active" data-scroll-target="#yra-2024">YRA 2024</a></li>
+  <li><a href="#call-for-abstracts" id="toc-call-for-abstracts" class="nav-link active" data-scroll-target="#call-for-abstracts">Call for Abstracts</a></li>
   </ul>
 </nav>
 </nav>
@@ -167,7 +167,7 @@ Contact
 </div></div>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -188,9 +188,34 @@ Contact
 </header>
 
 
-<section id="yra-2024" class="level2">
-<h2 class="anchored" data-anchor-id="yra-2024">YRA 2024</h2>
-<p>YRA2024 will take place at the Cyprus Institute, Nicosia (Cyprus) from October, 15 to 18 as an in-person only meeting. More info will follow soon.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+YRA2024 Key dates
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>March 15<sup>th</sup></strong> – <a href="">Abstract submission</a> opens<br>
+<strong>May 31<sup>th</sup></strong> – Deadline for <a href="">abstract submission</a><br>
+<!--**June 15^th^** – **EXTENDED** Deadline for abstract submission --> <strong>July, 1<sup>st</sup></strong> – Announcement of abstracts decisions<br>
+<strong>July, 1<sup>st</sup></strong> – Registration opens<br>
+<strong>Aug.&nbsp;1<sup>st</sup></strong> – Preliminary program available<br>
+<strong>Sept.&nbsp;15<sup>th</sup></strong> – Registration closes<br>
+<strong>Oct.&nbsp;1<sup>st</sup></strong> – Meeting details and final program available<br>
+<strong>Oct.&nbsp;14<sup>th</sup>–18<sup>th</sup></strong> – YRA2024 in Nicosia<br>
+<strong>Oct, 31<sup>st</sup></strong> – Certificates sent to participants</p>
+</div>
+</div>
+<section id="call-for-abstracts" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="call-for-abstracts">Call for Abstracts</h2>
+<div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class="margin-aside">Hosted at <a href="https://www.cyi.ac.cy/"><img src="https://www.cyi.ac.cy/templates/gk_rockwall/images/logo_cy_og_image.jpg" class="img-fluid" alt="Cyprus institute"></a></span></div></div>
+<p>We are happy to announce that the 7<sup>th</sup> Workshop Young Researchers in Archaeometry will be held at The Cyprus Institute, in Nicosia, Cyprus. The conference will be held in person from October 15<sup>th</sup> to 18<sup>th</sup>, 2024 and will welcome early career researchers (masters, PhD, post-docs up to six years after their PhD) in archaeological sciences and cultural heritage studies.</p>
+<p>With this workshop, we aim to offer a relaxed atmosphere to encourage interdisciplinary exchange between early career researchers. We are pleased to invite you for oral and poster contributions in all fields of natural sciences about archaeological and anthropological topics. In particular, early career researchers in archaeology, art history, anthropology, biological anthropology, environmental archaeology, chemistry, conservation, cultural heritage, earth science, and material science are welcome to submit an abstract for an oral presentation or poster.</p>
+<p>Send us your abstract (max. 250 words) until May 31<sup>st</sup>, 2024 <!--**June 15^th^ 2024** (extended deadline)--> via the <a href="https://forms.gle/vki7aE9LgHKM1AN27">submission form</a>.</p>
+<p>More information and a first programme with information about the social events will follow soon.</p>
 <!-- 
 The text blocks below can be used as template for upcoming announcements 
 -->
@@ -267,13 +292,6 @@ All times are given in Central European Time (UTC+2).
 |10:10 – 10:30|*Tracing the cultural and trade relations of the Spanish Empire and the Lesser Caribbean Antilles in the 16^th^ and 17^th^ centuries through ceramic analysis*<br />**Sonia Pujals Blanch**, Jaume Buxeda i Garrigós, Roberta  Mentesana|
 
 :::
--->
-<!--
-## Financial support by the GNAA
-
-For the participation in presence at the workshop, members of the Gesellschaft für Naturwissenschaftliche Archäologie ARCHAEOMETRIE e.V. ([GNAA](www.archaeometrie.de)) as students (Bachelor, Master, Diploma, Doctorate) receive a subsidy of 30 € upon presentation of the corresponding confirmation of participation. This also applies if you currently become a member of the GNAA.
-
-For this purpose, the confirmation of participation in the workshop must be submitted to the GNAA by e-mail with the bank account data and the GNAA membership number or an application for a corresponding GNAA membership.
 -->
 <!--
 ## How to get to Tübingen
@@ -379,6 +397,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {
@@ -420,7 +443,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
