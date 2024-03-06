@@ -6,7 +6,7 @@ title: "Young Researchers in Archaeometry"
 
 YRA aims to give early career researchers (ECRs) in the archaeological sciences the opportunity to present their research in a friendly environment surrounded only by young students from the same field. We welcome all persons involved in archaeometry research of different nationalities and levels, from master students to first postdoctoral fellows.  
 
-With our [mailing list](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry){target="_blank"}, we offer ECRs an possibility to interact with each other between the workshops. While announced here as the major communication outlet for the YRA workshops beside the webpage, any subscriber is welcomed to use it for, e.g., sharing job advertisements, searching for collaborators, or having discussions about any topic related to archaeological sciences and/or being an early career researcher. 
+With our [mailing list](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry), we offer ECRs an possibility to interact with each other between the workshops. While announced here as the major communication outlet for the YRA workshops beside the webpage, any subscriber is welcomed to use it for, e.g., sharing job advertisements, searching for collaborators, or having discussions about any topic related to archaeological sciences and/or being an early career researcher. 
 
 ## The journey
 The idea for the workshop was born in 2016 in an discussion about why so few ECRs are joining the German archaeological sciences conference "Archäometrie & Denkmalpflege" (Archaeometry & preservation of historic monuments). Beside the psychological barrier of delivering the first conference presentation in front of very distinguished researchers, it was realised that the archaeological sciences are often dispersed among many different institutes and work groups, making it very difficult for ECRs to get in contact with peers.  
@@ -21,3 +21,15 @@ If you are interested in organising the next workshop or have ideas for addition
 Designing a logo for YRA was not an easy task. Without doubt, the biggest challenge was to create a logo that represents the huge breadth of disciplines working together in the archaeological sciences and represents the target group. As a consequence, decisions were made for a very abstract logo and we are aware it is not very intuitive.  
 
 The logo writes "YRA" embedded in a spectra-like line with each letter having a different colour and the grey coloured parts as connecting lines. The trowel-shaped arrows outline the negative space ("hole") of the letters R and A and are inspired by the markers for characteristic peaks. The colours do not have a special meaning. They were chosen because this combination is colour-blind friendly and pleasing to the eyes of the persons involved in the design process. 
+
+## Code of conduct
+
+Participants of all YRa-organised events agree to conduct themselves in a professional and appropriate manner and to ensure that all can enjoy a harassment-free event. The workshop organisers are dedicated to maintaining an inclusive, respectful, safe, friendly, and welcoming environment for all participants.
+
+We do not tolerate disruptive or disrespectful behaviour, personal messages, images, or interactions by any participant, in any form, at any aspect of the program including business and social activities, regardless of mode of participation and location.
+
+Photography, video, recording or screen-captures of session content or presentations in any format are prohibited unless this right is granted on the slides of the respective presentation. We encourage everyone to assist in creating a welcoming and safe environment.
+
+If a participant engages in harassing behaviour, the event organisers may take any action they deem appropriate, including warning the offender and/or expulsion from the event. If you are being harassed, if you notice that someone else is being harassed, or have any other concerns, please contact one of the organisers immediately.
+
+We value your attendance and want the YRA events to be a safe place for everybody.

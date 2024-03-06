@@ -2,9 +2,31 @@
 title: "Young Researchers in Archaeometry 2024"
 ---
 
-## YRA 2024
+::: {.callout-note}
+## YRA2024 Key dates
+**March 15^th^** – [Abstract submission]() opens  
+**May 31^th^** – Deadline for [abstract submission]()  
+<!--**June 15^th^** – **EXTENDED** Deadline for abstract submission -->
+**July, 1^st^** – Announcement of abstracts decisions  
+**July, 1^st^** – Registration opens  
+**Aug. 1^st^** – Preliminary program available  
+**Sept. 15^th^** – Registration closes  
+**Oct. 1^st^** – Meeting details and final program available  
+**Oct. 14^th^–18^th^** – YRA2024 in Nicosia   
+**Oct, 31^st^** – Certificates sent to participants
+:::
 
-YRA2024 will take place at the Cyprus Institute, Nicosia (Cyprus) from October, 15 to 18 as an in-person only meeting. More info will follow soon.  
+## Call for Abstracts 
+
+[Hosted at [![Cyprus institute](https://www.cyi.ac.cy/templates/gk_rockwall/images/logo_cy_og_image.jpg)](https://www.cyi.ac.cy/)]{.aside}
+
+We are happy to announce that the 7^th^ Workshop Young Researchers in Archaeometry will be held at The Cyprus Institute, in Nicosia, Cyprus. The conference will be held in person from October 15^th^ to 18^th^, 2024 and will welcome early career researchers (masters, PhD, post-docs up to six years after their PhD) in archaeological sciences and cultural heritage studies.
+
+With this workshop, we aim to offer a relaxed atmosphere to encourage interdisciplinary exchange between early career researchers. We are pleased to invite you for oral and poster contributions in all fields of natural sciences about archaeological and anthropological topics. In particular, early career researchers in archaeology, art history, anthropology, biological anthropology, environmental archaeology, chemistry, conservation, cultural heritage, earth science, and material science are welcome to submit an abstract for an oral presentation or poster.
+
+Send us your abstract (max. 250 words) until  May 31^st^, 2024 <!--**June 15^th^ 2024** (extended deadline)--> via the [submission form](https://forms.gle/vki7aE9LgHKM1AN27). 
+
+More information and a first programme with information about the social events will follow soon. 
 
 <!-- 
 The text blocks below can be used as template for upcoming announcements 
@@ -87,16 +109,6 @@ All times are given in Central European Time (UTC+2).
 |10:10 – 10:30|*Tracing the cultural and trade relations of the Spanish Empire and the Lesser Caribbean Antilles in the 16^th^ and 17^th^ centuries through ceramic analysis*<br />**Sonia Pujals Blanch**, Jaume Buxeda i Garrigós, Roberta  Mentesana|
 
 :::
--->
-
-
-
-<!--
-## Financial support by the GNAA
-
-For the participation in presence at the workshop, members of the Gesellschaft für Naturwissenschaftliche Archäologie ARCHAEOMETRIE e.V. ([GNAA](www.archaeometrie.de)) as students (Bachelor, Master, Diploma, Doctorate) receive a subsidy of 30 € upon presentation of the corresponding confirmation of participation. This also applies if you currently become a member of the GNAA.
-
-For this purpose, the confirmation of participation in the workshop must be submitted to the GNAA by e-mail with the bank account data and the GNAA membership number or an application for a corresponding GNAA membership.
 -->
 
 <!--
