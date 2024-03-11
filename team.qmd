@@ -113,7 +113,7 @@ Thomas (Deutsches Bergbau-Museum Bochum) is researcher at the research area Arch
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](https://yrarchaeometry.weebly.com/uploads/1/4/0/7/140767467/published/795232694.jpg)
+![](assets/img/VAnevlavi.png)
 :::
 
 ::: {#column-text}
