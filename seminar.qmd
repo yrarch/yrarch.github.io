@@ -1,0 +1,11 @@
+---
+title: "Seminar"
+---
+
+::: {.callout-caution}
+
+## Under construction 
+
+YRA will organise a seminar series to highlight exciting research of ECRs! More information will become available soon, stay tuned! 
+
+:::
