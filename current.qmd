@@ -7,18 +7,24 @@ title: "Young Researchers in Archaeometry 2024"
 **March 15^th^** – [Abstract submission]() opens  
 **May 31^th^** – Deadline for [abstract submission]()  
 <!--**June 15^th^** – **EXTENDED** Deadline for abstract submission -->
-**July, 1^st^** – Announcement of abstracts decisions  
-**July, 1^st^** – Registration opens  
+**July 1^st^** – Announcement of abstracts decisions  
+**July 1^st^** – Registration opens  
 **Aug. 1^st^** – Preliminary program available  
 **Sept. 15^th^** – Registration closes  
 **Oct. 1^st^** – Meeting details and final program available  
 **Oct. 14^th^–18^th^** – YRA2024 in Nicosia   
-**Oct, 31^st^** – Certificates sent to participants
+**Oct. 31^st^** – Certificates sent to participants
 :::
 
 ## Call for Abstracts 
 
-[Hosted at [![Cyprus institute](https://www.cyi.ac.cy/templates/gk_rockwall/images/logo_cy_og_image.jpg)](https://www.cyi.ac.cy/)]{.aside}
+[Hosted at: [![Cyprus institute](https://www.cyi.ac.cy/templates/gk_rockwall/images/logo_cy_og_image.jpg)](https://www.cyi.ac.cy/)]{.aside} 
+
+[Organised by:  
+[Anna Karligkioti](https://yrarch.github.io/team.html#anna-karligkioti)  
+[Chase Minos](https://yrarch.github.io/team.html#chase-minos)  
+[Kyriaki Tsirtsi](https://yrarch.github.io/team.html#kyriaki-tsirtsi)  
+[Thomas Rose](https://yrarch.github.io/team.html#thomas-rose)]{.aside}
 
 We are happy to announce that the 7^th^ Workshop Young Researchers in Archaeometry will be held at The Cyprus Institute, in Nicosia, Cyprus. The conference will be held in person from October 15^th^ to 18^th^, 2024 and will welcome early career researchers (masters, PhD, post-docs up to six years after their PhD) in archaeological sciences and cultural heritage studies.
 
