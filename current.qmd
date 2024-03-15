@@ -121,12 +121,38 @@ All times are given in Central European Time (UTC+2).
 :::
 -->
 
-<!--
-## How to get to Tübingen
 
-Tübingen is a university city in south-western Germany, at the centre of the state Baden-Württemberg. It is located ca. 30 km south of Stuttgart, the state capital.
+## How to get to the venue
 
-You can easily access Tübingen via direct train from Stuttgart central station (IRE6, MEX12, and MEX18), or via bus lines 828 and X82 from Stuttgart Airport (STR). You can find information about connections with trains and regional buses [here](https://www.bahn.com/en). Several long distance bus lines operated by e.g. [Flixbus](https://www.flixbus.de/) stop at Tübingen. With a car you reach Tübingen best via the B27 and B28. 
+### Transportation from and to the airports
 
-YRA 2023 will take place in [Hohentübingen Castle](https://goo.gl/maps/WivDsmVgp2eYTCGs5), in Tübingen’s historical city centre. Please be aware that the castle is located on a small but steep hill. Access for persons with reduced mobility is possible but require arrangements in advance regarding e.g. parking. Please [contact us](mailto:youngresearchersarch@gmail.com) if this should be the case. We are happy to make all necessary arrangements for you. 
--->
+[Kapnos Airport Shuttle](https://kapnosairportshuttle.com) operates direct bus shuttles between Larnaca International Airport and Nicosia and between Paphos International Airport and Nicosia. At the exit of the arrivals, you will see “Kapnos Airport Shuttle”. You can purchase tickets for the shuttle either there or online. The bus takes about half an hour from/to Larnaca airport and around 100 minutes from/to Paphos airport. The stop in Nicosia is located at Kyrenias, Nicosia 2112, Cyprus ([show in GoogleMaps](https://maps.app.goo.gl/32Gud8zQgbpPVB6NA)). You will find taxis on the spot to take you to your hotel. 
+
+Timetables (will be updated by October): 
+
+* Larnaca International Airport <--> Nicosia
+  * [To Nicosia](https://kapnosairportshuttle.com/routes/4/en/1)
+  * [From Nicosia](https://kapnosairportshuttle.com/routes/5/en/1)
+* Paphos International Airport <--> Nicosia
+  * [To Nicosia](https://kapnosairportshuttle.com/routes/10/en/1)
+  * [From Nicosia](https://kapnosairportshuttle.com/routes/11/en/1)
+
+It is advised to be at the airport at least one and a half to two hours before departure of your flight.
+
+### Getting to the Cyprus institute and around in Nicosia
+
+Solomou Square is the main bus station in the old city ([show in GoogleMaps](https://maps.app.goo.gl/sfRhBE3N72Bd9DiF7)). Routes no. 3 and 4 are departing at Solomou square to the Cyprus Institute. Please check the homepage of the public transport (<https://www.publictransport.com.cy/home/page/home>) for timetables and fares. 
+
+Taxi Service: You can contact PRIMO Taxi Mr. Fotis (phone: 00357 99419378) for any taxi service you may need.
+
+The address of the Cyprus Institute is:  
+
+The Cyprus Institute  
+20 Konstantinou Kavafi Street 2121, Aglantzia  
+Nicosia  
+Tel: 00357 22208700 / 00357 22208629  
+[Show in GoogleMaps](https://maps.app.goo.gl/UUH5qhus6TgY1XVv6)
+
+### Touristic activities
+
+Information an touristic activities in Nicosia can be found at <https://www.visitnicosia.com.cy/>. This page also provides a [list of museums](https://www.visitnicosia.com.cy/museums/) you can visit and the [Must Visit Landmarks of the Old Town](https://www.visitnicosia.com.cy/the-must-visit-landmarks-of-old-town/)
