@@ -19,15 +19,25 @@ title: "Young Researchers in Archaeometry 2024"
 ## Call for Abstracts 
 
 ::: {.column-margin}
-Hosted at: [![Cyprus institute](https://www.cyi.ac.cy/templates/gk_rockwall/images/logo_cy_og_image.jpg)](https://www.cyi.ac.cy/)
+Hosted at: [![Cyprus institute](https://www.cyi.ac.cy/templates/gk_rockwall/images/logo_cy_og_image.jpg)](https://www.cyi.ac.cy/)  
+&nbsp;  
+
+::: {layout="[ 55 , 45 ]"}
+
+::: {#column-empty}
+Sponsored by: [![](assets/img/SAS_logo.png)](https://socarchsci.org)
 :::
 
-::: {.column-margin}
+::: {#column-empty}
 Organised by:  
 [Anna Karligkioti](team.qmd#anna-karligkioti)  
 [Kyriaki Tsirtsi](team.qmd#kyriaki-tsirtsi)  
 [Chase Minos](team.qmd#chase-minos)  
-[Thomas Rose](team.qmd#thomas-rose)  
+[Thomas Rose](team.qmd#thomas-rose) 
+:::
+
+:::
+
 :::
 
 We are happy to announce that the 7^th^ Workshop Young Researchers in Archaeometry will be held at The Cyprus Institute, in Nicosia, Cyprus. The conference will be held in person from October 15^th^ to 18^th^, 2024 and will welcome early career researchers (masters, PhD, post-docs up to six years after their PhD) in archaeological sciences and cultural heritage studies.
@@ -37,6 +47,12 @@ With this workshop, we aim to offer a relaxed atmosphere to encourage interdisci
 Send us your abstract (max. 250 words) until  May 31^st^, 2024 <!--**June 15^th^ 2024** (extended deadline)--> via the [submission form](https://forms.gle/txhdzYgtvHt5LEoh6). 
 
 More information and a first programme with information about the social events will follow soon. 
+
+## SAS Travel Award 
+
+The [Society for Archaeological Sciences](https://socarchsci.org) (SAS) sponsors a single travel award of USD 200 to support one student/ECR from [low and middle income countries](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) and/or with financial need.  
+
+The application for the SAS Travel award is integrated in the [abstract submission form](https://forms.gle/txhdzYgtvHt5LEoh6). Applications will be evaluated after abstract submission closed. The evaluation will be based on the applicant's career status, location of affiliation, availability of alternative funding sources, and an motivation letter of 300 to 400 words. 
 
 <!-- 
 The text blocks below can be used as template for upcoming announcements 
