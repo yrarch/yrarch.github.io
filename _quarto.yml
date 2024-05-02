@@ -24,6 +24,10 @@ website:
       - href: tutorials.qmd
         text: "Tutorials"
     right: 
+      - icon: facebook
+        href: https://www.facebook.com/profile.php?id=61559076328370
+      - icon: twitter
+        href: https://twitter.com/yrarchaeometry 
       - about.qmd
 
 format:

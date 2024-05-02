@@ -1,5 +1,6 @@
 ---
 title: "Meet the team"
+lightbox: true
 ---
 
 ## Anna Karligkioti [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9237-7830)

@@ -1,5 +1,6 @@
 ---
 title: "Previous editions"
+lightbox: true
 ---
 
 ## 2023, Tübingen/hybrid 

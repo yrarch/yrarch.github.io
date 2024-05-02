@@ -1,5 +1,6 @@
 ---
 title: "Young Researchers in Archaeometry 2024"
+lightbox: true
 ---
 
 ::: {.callout-note}
