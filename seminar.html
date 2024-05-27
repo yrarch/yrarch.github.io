@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.4.554">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -40,13 +40,22 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -55,6 +64,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -69,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title"><img src="assets/YRA_Logo.svg" height="60" alt="Logo YRA"></span>
     </a>
@@ -83,56 +93,56 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./current.html" rel="" target="">
- <span class="menu-text">YRA 2024</span></a>
+    <a class="nav-link" href="./current.html"> 
+<span class="menu-text">YRA 2024</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./seminar.html" rel="" target="" aria-current="page">
- <span class="menu-text">Seminar</span></a>
+    <a class="nav-link active" href="./seminar.html" aria-current="page"> 
+<span class="menu-text">Seminar</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./team.html" rel="" target="">
- <span class="menu-text">Team</span></a>
+    <a class="nav-link" href="./team.html"> 
+<span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./archive.html" rel="" target="">
- <span class="menu-text">Archive</span></a>
+    <a class="nav-link" href="./archive.html"> 
+<span class="menu-text">Archive</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./tutorials.html" rel="" target="">
- <span class="menu-text">Tutorials</span></a>
+    <a class="nav-link" href="./tutorials.html"> 
+<span class="menu-text">Tutorials</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.facebook.com/profile.php?id=61559076328370" rel="" target=""><i class="bi bi-facebook" role="img">
+    <a class="nav-link" href="https://www.facebook.com/profile.php?id=61559076328370"> <i class="bi bi-facebook" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/yrarchaeometry" rel="" target=""><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/yrarchaeometry"> <i class="bi bi-twitter" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
@@ -143,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
   </ul>
 </nav>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
 <div class="callout callout-style-simple callout-none no-icon callout-titled">
@@ -193,7 +203,9 @@ Contact
   </div>
   
 
+
 </header>
+
 
 <section id="new-seminar-series" class="level2">
 <h2 class="anchored" data-anchor-id="new-seminar-series">New Seminar Series</h2>
@@ -204,14 +216,14 @@ The time slots of each presentation will be accommodated to be the most comforta
 </section>
 <section id="next-presentation-june-3rd-at-830-am-utc" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="next-presentation-june-3rd-at-830-am-utc">Next presentation: June 3rd, at 8:30 am (UTC)</h2>
-<div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class="">You can convert to your local time zone with, e.g., <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20240502T130000">timeanddate.com</a>.</span></div></div>
+<div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class="margin-aside">You can convert to your local time zone with, e.g., <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20240502T130000">timeanddate.com</a>.</span></div></div>
 <p><em>Copper technologies in Taiwan and the Philippines during the Metal Age</em><br>
 <strong>Mélissa Cadet</strong> (Academia Sinica, Taiwan)</p>
 <p><strong>Keywords:</strong> Copper-based metallurgy; South-East Asia; Metal Age; Maritime exchange</p>
 <p><strong>Abstract:</strong><br>
 In the island contexts of South-East Asia and Taiwan, the development of metallurgy followed a different time-period and pattern compared to the Mainland. Indeed, in Taiwan and the Philippines, there is no mention of a Bronze and Iron Age but of a Metal Age (or directly an Iron Age) since iron, copper-based, glass and precious metal technologies seem to appear together in archaeological context. The first signs of metallurgy in the island contexts of Taiwan and the Philippines appear to have followed similar patterns; no Bronze Age, no sign of primary production, only secondary production and where maritime exchange is a central issue in the development of these technologies. Metallurgy would probably have reached the islands through maritime contacts with mainland Southeast Asia, where metallurgical practices took place earlier (11-13<sup>th</sup> BC) and maritime contacts have been known since the Neolithic period, notably through nephrite objects. Current evidence seems to support that Taiwan and the Philippines did not have any primary production of copper during the Metal Age but still needs to be proved by future studies. It has been proposed that raw materials and some finish objects were imported. However, secondary production activities are attested with molds, both in Taiwan and the Philippines.</p>
 <p>Copper and its alloys are one of the materials thought to come from the maritime interactions and thus represent an important proxy to study the movements of goods/communities/technologies between the different areas around the South China Sea. Regarding the similarities observed between Taiwan and the Philippines as well as the ancient exchanges attested between the two areas, the current project aims to collect data in order to start discussing the copper-based traditions and the potential exchange networks. We also hope that the data can contribute to understand the origin, timing and development of copper-based metallurgy in Taiwan and the Philippines and its link to other regions for the acquisition of raw materials/finish objects. Around 50 scientific samples, mainly in Taiwan so far, have been collected to be studied following an archaeometric approach (Optical Microscopy, SEM-EDS and ongoing lead isotope analyses). In Taiwan, the current results show that artefacts are diverse, both in terms of their forms (such as bells, vessels, knife handles, Chinese coins, unidentified fragments) and composition (alloys), including bronze, leaded-bronze, high-tin bronze, unalloyed copper, leaded copper and brass. Some artefacts result probably from oversea exports. In Taiwan, differences can also be observed between sites, probably as a result of the different metallurgical practices identified during the excavations, such as secondary production activities.</p>
-<p><img src="assets/img/Seminar/2024-07_Cadet_copyright.png" class="img-fluid"></p>
+<p><a href="assets/img/Seminar/2024-07_Cadet_copyright.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="assets/img/Seminar/2024-07_Cadet_copyright.png" class="img-fluid"></a></p>
 </section>
 <section id="programme" class="level2">
 <h2 class="anchored" data-anchor-id="programme">Programme</h2>
@@ -248,7 +260,7 @@ July 1st – Alkiviadis Sideridis (University of Athens, Greece)
 <div id="callout-4" class="callout-4-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Time:</strong> 8:00 am (UTC)<br>
-<strong>Title:</strong> Tinos’ lost ancient serpentinite quarry (Cyclades, Greece): an interdisciplinary approach.<br>
+<strong>Title:</strong> Tinos’ lost ancient serpentinite quarry (Cyclades, Greece): an interdisciplinary approach. <strong>Keywords:</strong> Stone analysis; Serpentinite; Cyclades Greece; Ancient quarry<br>
 <strong>Abstract:</strong> The study of marble and coloured-stone production centres of antiquity carries a significant role in the scientific community, being a subject where natural and archaeological sciences may interweave, aiming to decipher quarrying methods, trade and the unique geological fingerprint of the stones. Contemporary quarrying activity on Tinos Island, Greece, is focused on ophicalcites (metasomatic rock consisting of serpentine and carbonates), however, the studied ancient quarry of Ag. Georgios Ras (Ras serpentinite) consist of a distinctive serpentinite, with no carbonate participation when compared to the neighbouring ophicalcite. Ras serpentinite was quarried from two small-scale open pits demonstrating tool marks, grooves, as well as holes for inserting wedges. The serpentinite consists of, macroscopically and mineralogically, two serpentine varieties, a dark green demonstrating massive texture and a light green forming a network of fibrous serpentine. Research efforts on serpentinite provenance are limited and lack information and data when compared to the study of white marble. This study aims to enrich the present database using a variety of techniques, including XRD, LA-ICP-MS and physicomechanical tests to determine the geochemistry, geotectonic environment of formation and strength characteristics of the Ras serpentinite. The geological study is framed, in an interdisciplinary approach, by archaeological and lichenometrical data and observation to further shed light upon the newly explored Ras serpentinite quarry.</p>
 </div>
 </div>
@@ -409,10 +421,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/yrarch\.github\.io\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -422,8 +456,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -435,7 +478,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -479,6 +645,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -504,6 +671,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -561,23 +754,35 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/yrarch\.github\.io\/");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-      }
-    }
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom","selector":".lightbox","loop":false});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
+
 
 
 
