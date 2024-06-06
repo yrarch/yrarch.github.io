@@ -138,6 +138,21 @@ All times are given in Central European Time (UTC+2).
 :::
 -->
 
+## Archaeological experiment: Food for the Gods
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-text}
+On the occasion of YRA2024, the archaeological experiment "Food for the Gods: Sacrifical Pyres in the Archaeological Record" will be carried out by a team from the Cyprus institute. The experiments aims to reproduce the archaeological remains of pyres. An altar will be build based on archaeological data, ancient iconography and contemporaneous written sources and different materials places as offerings. The pyre will be carefully lit, its temperature evolution recorded, and after being burned down completely carefully excavated.  
+:::
+
+::: {#column-image}
+[![](assets/img/YRA2024_pyre.png)  (Click on image for full size)](assets/img/YRA2024_pyre.png)  
+ 
+:::
+
+
+:::
+
 
 ## How to get to the venue
 
