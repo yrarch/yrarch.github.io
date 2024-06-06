@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yrarch.github.io/tutorials.html</loc>
-    <lastmod>2024-06-01T09:05:47.254Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yrarch.github.io/seminar.html</loc>
-    <lastmod>2024-06-01T09:05:45.915Z</lastmod>
-  </url>
-  <url>
     <loc>https://yrarch.github.io/current.html</loc>
-    <lastmod>2024-06-01T09:05:44.786Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yrarch.github.io/about.html</loc>
-    <lastmod>2024-06-01T09:05:42.823Z</lastmod>
+    <lastmod>2024-06-06T21:33:07.902Z</lastmod>
   </url>
   <url>
     <loc>https://yrarch.github.io/archive.html</loc>
-    <lastmod>2024-06-01T09:05:44.214Z</lastmod>
+    <lastmod>2024-06-06T21:33:07.874Z</lastmod>
   </url>
   <url>
-    <loc>https://yrarch.github.io/index.html</loc>
-    <lastmod>2024-06-01T09:05:45.286Z</lastmod>
+    <loc>https://yrarch.github.io/seminar.html</loc>
+    <lastmod>2024-06-06T21:33:07.902Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yrarch.github.io/about.html</loc>
+    <lastmod>2024-06-06T21:33:07.870Z</lastmod>
   </url>
   <url>
     <loc>https://yrarch.github.io/team.html</loc>
-    <lastmod>2024-06-01T09:05:46.584Z</lastmod>
+    <lastmod>2024-06-06T21:33:07.902Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yrarch.github.io/index.html</loc>
+    <lastmod>2024-06-06T21:33:07.902Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yrarch.github.io/tutorials.html</loc>
+    <lastmod>2024-06-06T21:33:07.902Z</lastmod>
   </url>
 </urlset>
