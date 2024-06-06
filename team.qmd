@@ -80,6 +80,20 @@ Sinem (Universität Tübingen) is a PhD candidate at the University of Tübingen
 
 :::
 
+## Prudence Robert [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-4133-6734)
+
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/img/PRobert.png)
+:::
+
+::: {#column-text}
+Prudence (Ghent University) is a PhD candidate in bioarchaeology at Archeos, the Research Laboratory for Biological Anthropology. She earned her bachelor's degree in archaeological science from the University of Bordeaux, including an Erasmus year at Durham University. There, she later completed her master's degree focusing on ancient DNA and isotope analysis on human remains. Since 2022, Prudence has been part of the ROAM project (Regional Outlook in Ancient Migration) for her PhD, studying human and faunal remains from the Late Prehistory (Late Palaeolithic and early Holocene) in modern-day Belgium. Her research aims to reconstruct past life-ways using multi-isotope analysis and to improve the related methodologies.
+:::
+
+:::
+
 ## Tamanna Jahan Keya 
 
 ::: {layout="[ 25 , 75 ]"}
