@@ -9,11 +9,20 @@ We are happy to announce a new Seminar Series with monthly presentations highlig
 Each month, we will host an online 1-hour meeting, with about 30 minutes presentations followed by a discussion on the topic. ECRs from around the globe will be invited to present diverse topics, reflecting the multidisciplinary character of archaeological sciences. We aim to have these talks in a relaxed atmosphere, with discussions around a cup of morning coffee, a lunch break, or an afternoon tea depending on the time zone of the participants.  
 The time slots of each presentation will be accommodated to be the most comfortable for the presenter and listeners from their targeted research area.
 
-The talks will be held online via Zoom. Links to each online meeting will be communicated via email shortly beforehand. Subscribe to our mailing list [here](https://www.listserv.dfn.de/sympa/subscribe/yrarchaeometry).
+The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=dWMyVkNIT0NrNjBTUlp1Z0phOGl3UT09) to join the Zoom meeting.
 
 ## Next presentation: July 1st, at 8:00 am (UTC)
 
-[You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20240502T130000).]{.aside}
+::: {.column-margin}
+
+::: {.callout}
+## Seminar Zoom link 
+Click [here](https://zoom.us/j/98869145922?pwd=dWMyVkNIT0NrNjBTUlp1Z0phOGl3UT09) to join the Zoom meeting.
+:::
+
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20240502T130000).
+
+:::
 
 *Tinos’ lost ancient serpentinite quarry (Cyclades, Greece): an interdisciplinary approach*  
 **Alkiviadis Sideridis** (University of Athens, Greece)
