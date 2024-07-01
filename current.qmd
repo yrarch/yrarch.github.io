@@ -9,15 +9,15 @@ lightbox: true
 ~~**May 31^th^** – Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
 ~~**June 15^th^** – **EXTENDED** Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
 **July 1^st^** – Announcement of abstracts decisions  
-**July 1^st^** – Registration opens  
+**July 1^st^** – [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens  
 **Aug. 1^st^** – Preliminary program available  
-**Sept. 15^th^** – Registration closes  
+**Sept. 15^th^** – [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes  
 **Oct. 1^st^** – Meeting details and final program available  
 **Oct. 14^th^–18^th^** – YRA2024 in Nicosia   
 **Oct. 31^st^** – Certificates sent to participants
 :::
 
-## Call for Abstracts 
+## General information 
 
 ::: {.column-margin}
 Hosted at: [![Cyprus institute](https://www.cyi.ac.cy/templates/gk_rockwall/images/logo_cy_og_image.jpg)](https://www.cyi.ac.cy/)  
@@ -45,9 +45,9 @@ We are happy to announce that the 7^th^ Workshop Young Researchers in Archaeomet
 
 With this workshop, we aim to offer a relaxed atmosphere to encourage interdisciplinary exchange between early career researchers. We are pleased to invite you for oral and poster contributions in all fields of natural sciences about archaeological and anthropological topics. In particular, early career researchers in archaeology, art history, anthropology, biological anthropology, environmental archaeology, chemistry, conservation, cultural heritage, earth science, and material science are welcome to submit an abstract for an oral presentation or poster.
 
-Send us your abstract (max. 250 words) until  May 31^st^, 2024 <!--**June 15^th^ 2024** (extended deadline)--> via the [submission form](https://forms.gle/txhdzYgtvHt5LEoh6). 
+Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Registration is possible for everyone, also if you are not presenting. 
 
-More information and a first programme with information about the social events will follow soon. 
+Registration fees are 20 € for students (bachelor, master, PhD) and 30 € for everyone else. SAS member receive a 5 € discount. You can join SAS until 15 September to benefit from the discount. 
 
 ## Travel awards
 
@@ -143,6 +143,12 @@ All times are given in Central European Time (UTC+2).
 
 :::
 -->
+## Social Events
+
+* 15 October: Ice breaker (self-paid)
+* 16 October: Movie night (screening of an movie about an important Cycladic settlement). Drinks and snacks will be provided
+* 17 October: Dinner (self-paid, around 20 € expected)
+* 19 October, morning: Tour of the Cyprus Museum (self-paid)
 
 ## Archaeological experiment: Food for the Gods
 ::: {layout="[ 25 , 75 ]"}
