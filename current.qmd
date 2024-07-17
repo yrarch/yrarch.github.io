@@ -53,7 +53,7 @@ Registration fees are 20 € for students (bachelor, master, PhD) and 30 € for
 
 All times are given in Eastern European Summer Time (UTC+3). 
 
-[You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241014T090000&p1=680).]{.aside}
+[You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241015T090000&p1=680).]{.aside}
 
 ::: {.panel-tabset}
 
@@ -85,8 +85,6 @@ All times are given in Eastern European Summer Time (UTC+3).
 |tbd | Keynote by [Thilo Rehren](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/943-thilo-rehren.html) (Cyprus Institute, Nicosia, Cyprus) |
 
 ## **Oct. 19^th^**
-
-### Morning
 
 |Morning||
 |--|--------|
