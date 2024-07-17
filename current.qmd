@@ -8,12 +8,12 @@ lightbox: true
 ~~**March 15^th^** – [Abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6) opens~~  
 ~~**May 31^th^** – Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
 ~~**June 15^th^** – **EXTENDED** Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
-**July 1^st^** – Announcement of abstracts decisions  
+~~**July 1^st^** – Announcement of abstracts decisions~~  
 **July 1^st^** – [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens  
 **Aug. 1^st^** – Preliminary program available  
 **Sept. 15^th^** – [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes  
 **Oct. 1^st^** – Meeting details and final program available  
-**Oct. 14^th^–18^th^** – YRA2024 in Nicosia   
+**Oct. 15^th^–18^th^** – YRA2024 in Nicosia   
 **Oct. 31^st^** – Certificates sent to participants
 :::
 
@@ -48,6 +48,54 @@ With this workshop, we aim to offer a relaxed atmosphere to encourage interdisci
 Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Registration is possible for everyone, also if you are not presenting. 
 
 Registration fees are 20 € for students (bachelor, master, PhD) and 30 € for everyone else. SAS members receive a 5 € discount. You can join SAS before 15 September to benefit from the discount. 
+
+## Program and social events
+
+All times are given in Eastern European Summer Time (UTC+3). 
+
+[You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241014T090000&p1=680).]{.aside}
+
+::: {.panel-tabset}
+
+## **Oct. 15^th^**
+
+|Evening||
+|--|--------|
+|tbd | Ice breaker (self-paid) |
+
+## **Oct. 16^th^**
+
+|Evening||
+|--|--------|
+|tbd| Keynote by [Evi Margaritis](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/161-Evi-Margaritis.html) (Cyprus Institute, Nicosia, Cyprus)|
+|tbd| Keynote by [Michael Boyd](https://www.arch.cam.ac.uk/directory/mjb235) (University of Cambridge, Cambridge, UK)|
+|tbd| Movie night (screening of an movie about an important Cycladic settlement). Drinks and snacks will be provided. |
+
+## **Oct. 17^th^**
+
+|Evening||
+|--|--------|
+|tbd | Keynote by [Juan José García-Granero](https://www.researchgate.net/profile/Juan-Jose-Garcia-Granero) (Consejo Superior de Investigaciones Científicas, Barcelona, Spain)|
+|tbd | Dinner with live music (self-paid, 25 € incl. unlimited soft-drinks, wine, beer) |
+
+## **Oct. 18^th^**
+
+|Morning||
+|--|--------|
+|tbd | Keynote by [Thilo Rehren](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/943-thilo-rehren.html) (Cyprus Institute, Nicosia, Cyprus) |
+
+## **Oct. 19^th^**
+
+### Morning
+
+|Morning||
+|--|--------|
+|tbd | Tour of the Cyprus Museum (self-paid) |
+
+:::
+
+
+
 
 ## Travel awards
 
@@ -143,13 +191,6 @@ All times are given in Central European Time (UTC+2).
 
 :::
 -->
-## Social Events
-
-* 15 October: Ice breaker (self-paid)
-* 16 October: Movie night (screening of an movie about an important Cycladic settlement). Drinks and snacks will be provided
-* 17 October: Dinner (self-paid, around 20 € expected)
-* 19 October, morning: Tour of the Cyprus Museum (self-paid)
-
 ## Archaeological experiment: Food for the Gods
 ::: {layout="[ 25 , 75 ]"}
 
