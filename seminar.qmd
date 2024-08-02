@@ -11,7 +11,7 @@ The time slots of each presentation will be accommodated to be the most comforta
 
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=dWMyVkNIT0NrNjBTUlp1Z0phOGl3UT09) to join the Zoom meeting.
 
-## Next presentation: July 1st, at 8:00 am (UTC)
+## Next presentation: September 3rd, at 8:00 am (UTC)
 
 ::: {.column-margin}
 
@@ -26,18 +26,15 @@ You can convert to your local time zone with, e.g., [timeanddate.com](https://ww
 
 :::
 
-*Tinos’ lost ancient serpentinite quarry (Cyclades, Greece): an interdisciplinary approach*  
-**Alkiviadis Sideridis** (University of Athens, Greece)
+*Plant and insect remains as indicators for waterlogged dung layers – The example of the Neolithic lakeshore settlement Mooswinkel in the Austrian Alps*  
+**Thorsten Jakobitsch** (Austrian Archaeological Insitute, Austria)
 
-**Keywords:** Stone analysis; Serpentinite; Cyclades Greece; Ancient quarry      
+**Keywords:** Stable manure; Pile dwelling; Archaeobotany; Archaeoentomology; Late Neolithic  
 
 **Abstract:**  
-The study of marble and coloured-stone production centres of antiquity carries a significant role in the scientific community, being a subject where natural and archaeological sciences may interweave, aiming to decipher quarrying methods, trade and the unique geological fingerprint of the stones. Contemporary quarrying activity on Tinos Island, Greece, is focused on ophicalcites (metasomatic rock consisting of serpentine and carbonates), however, the studied ancient quarry of Ag. Georgios Ras (Ras serpentinite) consist of a distinctive serpentinite, with no carbonate participation when compared to the neighbouring ophicalcite. Ras serpentinite was quarried from two small-scale open pits demonstrating tool marks, grooves, as well as holes for inserting wedges. The serpentinite consists of, macroscopically and mineralogically, two serpentine varieties, a dark green demonstrating massive texture and a light green forming a network of fibrous serpentine. Research efforts on serpentinite provenance are limited and lack information and data when compared to the study of white marble. This study aims to enrich the present database using a variety of techniques, including XRD, LA-ICP-MS and physicomechanical tests to determine the geochemistry, geotectonic environment of formation and strength characteristics of the Ras serpentinite. The geological study is framed, in an interdisciplinary approach, by archaeological and lichenometrical data and observation to further shed light upon the newly explored Ras serpentinite quarry. 
+Stable manure preserves well in waterlogged archaeological sediments. The organic refuse provides a wealth of information about the site’s economy, forest resources, and impact on the environment. However, the recognition of middens and manure in sediment layers in not always straightforward. In the case study of the Late Neolithic pile dwelling Mooswinkel at the lake Mondsee in Austria, dung, botanical macro- and microremains, as well as invertebrates identified the sediment as stable manure from goat, sheep and cattle farming. Furthermore, the season of the layer formation could be recognized. Materials investigated included pollen, bryophytes, plant fruits and seeds, leaves, branches and bud scales of woody plants, as well as insect remains. In addition, plant microremains in dung were analysed. The results of this multi-material study show that leaf hay and grass hay were used as fodder during the winter season. The impact of fodder acquisition and pasturing on the forest could be reconstructed, showing the formation of a mosaic landscape of natural and semi-natural habitats. 
 
-![](assets/img/Seminar/2024-07_Sideridis.png)  
-a) Macroscopic texture of Ras serpentinite with dark-green mass and light-green network;  
-b) photomicrograph of the two serpentine varieties, namely chrysotile and lizardite;  
-c) backscattered electron image depicting the minnesotaite (mns) and magnetite © A. Sideridis.
+![](assets/img/Seminar/2024-09_Jakobitsch_copyright.png)  
 
 ## Programme
 
@@ -60,8 +57,11 @@ Copper and its alloys are one of the materials thought to come from the maritime
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## September – Sibylle Manya (Centre de Recherche et de Restauration des Musées de France, France)
-**Title:** Chrysocolla at high temperatures: understanding Pre-Hispanic metallurgy through Collahuasi slag analysis (Tarapaca, Chile).
+## September – Thorsten Jakobitsch (Austrian Archaeological Insitute, Austria)  
+**Time:** 8:00 am (UTC)  
+**Title:** Plant and insect remains as indicators for waterlogged dung layers – The example of the Neolithic lakeshore settlement Mooswinkel in the Austrian Alps  
+**Keywords:** Stable manure; Pile dwelling; Archaeobotany; Archaeoentomology; Late Neolithic  
+**Abstract:** Stable manure preserves well in waterlogged archaeological sediments. The organic refuse provides a wealth of information about the site’s economy, forest resources, and impact on the environment. However, the recognition of middens and manure in sediment layers in not always straightforward. In the case study of the Late Neolithic pile dwelling Mooswinkel at the lake Mondsee in Austria, dung, botanical macro- and microremains, as well as invertebrates identified the sediment as stable manure from goat, sheep and cattle farming. Furthermore, the season of the layer formation could be recognized. Materials investigated included pollen, bryophytes, plant fruits and seeds, leaves, branches and bud scales of woody plants, as well as insect remains. In addition, plant microremains in dung were analysed. The results of this multi-material study show that leaf hay and grass hay were used as fodder during the winter season. The impact of fodder acquisition and pasturing on the forest could be reconstructed, showing the formation of a mosaic landscape of natural and semi-natural habitats.
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
@@ -70,14 +70,20 @@ Copper and its alloys are one of the materials thought to come from the maritime
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## November – Veronica Occari
+## November – Veronica Occari (University College London, UK)
 To be announced.
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## December – To be announced
- 
 :::
+
+<!--
+::: {.callout-note collapse="true" appearance="minimal"}
+## December – Sibylle Manya (Centre de Recherche et de Restauration des Musées de France, France)
+**Title:** Chrysocolla at high temperatures: understanding Pre-Hispanic metallurgy through Collahuasi slag analysis (Tarapaca, Chile).
+:::
+-->
 
 <!--
 ::: {.callout-note collapse="true" appearance="minimal"}
