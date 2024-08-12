@@ -5,16 +5,16 @@ lightbox: true
 
 ::: {.callout-note}
 ## YRA2024 Key dates
-~~**March 15^th^** – [Abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6) opens~~  
-~~**May 31^th^** – Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
-~~**June 15^th^** – **EXTENDED** Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
-~~**July 1^st^** – Announcement of abstracts decisions~~  
-**July 1^st^** – [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens  
-**Aug. 1^st^** – Preliminary program available  
-**Sept. 15^th^** – [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes  
-**Oct. 1^st^** – Meeting details and final program available  
-**Oct. 15^th^–18^th^** – YRA2024 in Nicosia   
-**Oct. 31^st^** – Certificates sent to participants
+~~**March 15^th^** -- [Abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6) opens~~  
+~~**May 31^th^** -- Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
+~~**June 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
+~~**July 1^st^** -- Announcement of abstracts decisions~~  
+~~**July 1^st^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens~~  
+~~**Aug. 1^st^** -- Preliminary program available~~  
+**Sept. 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes  
+**Oct. 1^st^** -- Meeting details and final program available  
+**Oct. 15^th^--18^th^** -- YRA2024 in Nicosia   
+**Oct. 31^st^** -- Certificates sent to participants
 :::
 
 ## General information 
@@ -51,38 +51,124 @@ Registration fees are 20 € for students (bachelor, master, PhD) and 30 € for
 
 ## Programme and social events
 
+[You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241015T090000&p1=680).]{.aside}
+
 All times are given in Eastern European Summer Time (UTC+3). 
 
-[You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241015T090000&p1=680).]{.aside}
+Lecture halls: 
+
+* Mouskos Auditorium (all sessions) 
+* Fresnel Auditorium (movie screening on Wednesday 16^th^ of October, poster session, and keynote lecture on Thursday 17^th^ of October)
+
+Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.cyi.ac.cy/index.php/contact.html)
 
 ::: {.panel-tabset}
 
 ## **Oct. 15^th^**
 
-|Evening||
+|||
 |--|--------|
-|tbd | Ice breaker (self-paid) |
+|20:00 | Ice breaker (self-paid)<br> *Old town of Nicosia (meeting point TBA)*|
 
 ## **Oct. 16^th^**
 
-|Evening||
+|||
 |--|--------|
-|tbd| Keynote by [Evi Margaritis](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/161-Evi-Margaritis.html) (The Cyprus Institute, Nicosia, Cyprus)|
-|tbd| Keynote by [Michael Boyd](https://www.arch.cam.ac.uk/directory/mjb235) (University of Cambridge, Cambridge, UK)|
-|tbd| Movie night (screening of an movie about an important Cycladic settlement). Drinks and snacks will be provided. |
+|08:45 -- 09:15| Welcoming and registration |
+|09:15 -- 09:30| Opening/Welcome speech addressed by the Director of STARC, Prof. Michel  Menu |
+|||
+||**Session 1: Cultural heritage/non-invasive methods**|
+|09:30 -- 09:50| *Archaeometric analysis of the inks in two 15th century Greek paper manuscripts: a preliminary comparative study*<br>**Katerina Grigoriadou**|
+|09:50 -- 10:10| *Non-invasive material analysis of Egyptian Shabtis by XRF, Raman spectroscopy and CT Scanning*<br>**Stelios Aspiotis, Olivier Bonnerot, Samaneh Ehteram, Leah Mascia**|
+|10:10 -- 10:30| *Multi-analytical investigation on the carved oriental lacquerwares*<br>**Shang-ying Liu, Patrizia Tomasin, Luca Nodari, Marta Boscolo Marchi, Alfonso Zoleo**|
+|||
+|10:30 -- 10:50| *Coffee break*|
+|||
+|10:50 -- 11:10| *Revealing Hidden Histories: Using High-Resolution Portable Computed Tomography for Closed Cuneiform Tablets*<br>**Samaneh Ehteram**|
+|11:10 -- 11:30| *3D Visualization and Digital Recording of Sculptures through Photogrammetry: An Iconometric Examination of the Hoysala Sculptures*<br>**Poorva Salvi**|
+|11:30 -- 11:50| *Shallow Offshore Archaeological Prospection in Ancient Olous, Crete*<br>**Angelos Plageras, Dimitrios Oikonomou, Nikos Papadopoulos**|
+|11:50 -- 12.10| *Breaking into the “Black Box”: The contribution of ethnographic work in decoding Late Cypriot household structures*<br>**Chara Theotokatou**| 
+|12:10 --12:30| *KWAMTENG: Sustaining  And Promoting an  Intangible Cultural Heritage for future generations*<br>**Paul Nkwap**|
+|||
+||**Session 2: Ceramics, part 1**|
+|12:30 -- 12:50| *Clay for pots. Raw Material Determination of Sântana "Cetatea Veche" Ceramics and Determination of Firing Methods in Late Bronze Age*<br>**Alexandra Stache, Ágnes Gál, Florin Gogâltan**|
+|12:50 -- 13:00| *The Master, PhD, training Programs offered by The Cyprus Institute*<br>**Graduate School, CyI**|
+|||
+|13:00 -- 14.00| *Lunch break*|
+|||
+|14:00 --14.20| *A Dangerous Tradition: Asbestos-tempered Pottery in Prehistoric and Modern Eskişehir, Türkiye*<br>**Ashley Cercone**|
+|14:20 -- 14:40| *Disclosing Production Process by the Archaeometric Analysis of Bronze to Iron Age Ceramic Jars from Qatna (Central Syria)*<br>**Bianca Costi Farias, Lara Maritan, Claudio Mazzoli, Marco Iamoni, Daniele Morandi**|
+|14.40 -- 15.10| *Materials Analysis of Medieval Islamic Ceramics from Petra Valley -- Production and Consumption Dynamics*<br>**Salama Kassem**|
+|||
+||**Session 3: Environmental Archaeology and Bioarchaeology**| 
+|15:10 -- 15:30| *Ongoing Archaeobotanical Research in Mycenaean Iklaina, Messenia, Greece*<br>**Symeon Gkinoudis, Evi Margaritis**|  
+|15:30 -- 15:50| *Phytolith analysis for the investigation of plant exploitation in Bronze Age Cyprus*<br>**Georgia Kasapidou**|
+|15:50 -- 16:10| *Fuelling Ancient Idalion: Charcoal Analysis and Insights into 1st Millennium BCE Cyprus*<br>**Panagiotis Koullouros**| 
+|||
+|16:10 -- 16:30| *Coffee break*|
+|||
+|16:30 -- 17:00| *Keynote: TBA*<br>**[Assoc. Prof. Evi Margaritis](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/161-Evi-Margaritis.html) and [Dr. Michael Boyd](https://www.arch.cam.ac.uk/directory/mjb235) (The Cyprus Institute) **|
+|||
+|17:30 -- 19:00| *Screening of the movie: Buried Secrets of Keros*, **National Geographic, UK**<br>([Watch the official trailer on Youtube](https://www.youtube.com/watch?v=_5ShqeNk-J4)) <br> Fresnel Auditorium|
 
 ## **Oct. 17^th^**
 
-|Evening||
+
+||**Session 4: Ceramics, part 2**|
 |--|--------|
-|tbd | Keynote by [Juan José García-Granero](https://www.researchgate.net/profile/Juan-Jose-Garcia-Granero) (Consejo Superior de Investigaciones Científicas, Barcelona, Spain)|
-|tbd | Dinner with live music (self-paid, 25 € incl. unlimited soft-drinks, wine, beer) |
+|09:00 -- 09:20| *Paint It, Red: A Technological and Compositional Study of Classical Pottery from Nea Paphos, Cyprus*<br>**Geneviève Lascombes, Edyta Marzec, Lara Maritan**|
+|09:20 --09:40| *The Clay of a Gateway Community In Cyprus -- Domestic Pottery from Soli*<br>**Marie-Louise Jahn Hansen**|
+|09:40 -- 10:00| *Late Hellenistic braziers from Delos; provenance study and characterisation of ‘Cycladic’ type*<br>**Athena Konstandara, Edyta Marzec**|
+|10:00 -- 10:20| *Influence of decantation on Mediterranean clay: An experimental archaeological approach*<br>**Vania Filippou, Lara Maritan, Virginie Renson, Daria Pasqual, Silvia Cattò, Eleni Nodarou, Emma Cantisani, Maria Dikomitou Eliadou, Zomenia Zomeni**|
+|||
+|10.20 --10.40| *Coffee break*|
+|||
+|10:40 -- 11:00| *Envisioning Pre-Colombian Regional Trade Patterns Through Elemental Analysis of Archaeological Ceramics from Western Panama*<br>**Carly Pope, Scott Palumbo, Laure Dussubieux**|
+|11:00 -- 11:20| *µ-LIBS imaging as spatially-resolved and quantitative characterization method for pottery*<br>**Nicolas Herreyre, Valérie Merle, Anne Schmitt, Christine Oberlin, Clothilde Comby-Zebino, Vincent Motto-Ros**|
+|11.20-11.40| *Fragments of the Past from Zeytinli Bahçe Höyük: Deciphering Cultural and Technological Interactions from the Late Chalcolithic to the Early Bronze Age through Ceramic Petrography*<br>**Rosa Crocco**|
+|11:40 -- 12:00| *Knowledge exchange in pottery production in Neolithic Northwest China: a petrographic study and the resulting development of a digital tool for petrographic image analysis in archaeology*<br>**Evgenia Dammer**|
+|12:00 -- 12:20| *Shedding light on lighting practices in Minoan Crete: exploring the potential of spectroscopic and spectrometric techniques*<br>**Maria Eleni Konstantinou, Maria Roumpou, Aggelos Philippidis, Bastien Rueff, Sophia Sotiropoulou, Demetrios Anglos**|
+|12:20- 12:40| *More Than Just a Pot? An Archaeometrical Investigation of Unusual Chalcolithic Small-Sized Biconical Closed Pots from the Archaeological Sites of ”Gumelnița” and ”Măriuța-La Movilă”*<br>**Bogdan Manea, Ioana Dinca, Vasile Opris, Daniel Stoicescu, Adrian Sima, Dragos Mirea, Ana García-Vázquez, Valentin Parnic, Ion Tiseanu, Catalin Lazar**|
+|12:40- 13.00| *Mineralogical and Petrographic Study of Tuyères from Pongsolo (Lekie, Central Cameroon)*<br>**Epossi Ntah Zoila Luz-Kroll, Thomas Rose**|
+|||
+|13:00- 14:00| *Lunch break*|
+|||
+|14:00 -- 16:00| **Session 5: Posters** (The list of posters can be found in the Poster tab) <br> Fresnel Auditorium|
+|||
+|16.00- 16.20| *Coffee break*|
+|||
+|16:20- 18:00| TBA |
+|18.00 -- 19.00| *Keynote: TBA*<br>**[Dr. Juan José García-Granero](https://www.researchgate.net/profile/Juan-Jose-Garcia-Granero) (Institución Milà y Fontanals, Barcelona, Spain)**<br>Fresnel Auditorium |
+|||
+|20:30| Dinner<br>*Traditional Tavern with cypriot mezes and live music (old town of Nicosia, location TBA)* (self-paid, 25 € incl. unlimited soft-drinks, wine, beer)*|
 
 ## **Oct. 18^th^**
 
-|Morning||
+||**Session 6: Metallurgy, part 1**|
 |--|--------|
-|tbd | Keynote by [Thilo Rehren](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/943-thilo-rehren.html) (The Cyprus Institute, Nicosia, Cyprus) |
+|9:00 -- 9:30| *Keynote: TBA*<br>**[Thilo Rehren](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/943-thilo-rehren.html) (The Cyprus Institute)**|
+|09:30 -- 09:50| *The elemental composition of bog ores in Masovia (Poland) and its affect on the reconstruction of the smelting process*<br>**Antonina Bebłowska-Bednarkiewicz**|
+|09:50 -- 10:10| *Bronze Production in Archaic and Classical Northern Greece: A Archaeometric Approach to the Study of Bronze Objects from Ancient Argilos*<br>**Justine Lefebvre**|
+|||
+|10:10 -- 10:30| *Coffee break*
+|||
+|10:30 --10:40| *Silver-lead and copper production on Early Bronze Age southern Sifnos: an overview*<br>**Magda Giannakopoulou**|
+|10:40 --11:00| *TerraLID: Further steps towards a new ecosystem for lead isotope data in archaeology*<br>**Thomas Rose, Tim Greifelt, Katrin J. Westner, Annette Hornschuch, Yiu-Kang Hsu, Helge Wiethoff, Sabine Klein**|
+|11:.00 -- 11:20| *Metalworking materials and practices from Late Antique Rome*<br>**Giulia Bison, Jose Cristobal Carvajal Lopez**|
+|||
+||**Session 7: Metallurgy, part 2 and Archaeomaterials**| 
+11:20 -- 11:40| *Comparison of the polychrome metalworking and decoration techniques from the Langobardic and Gepidic periods (6th century AD) in the Carpathian Basin*<br>**Viktória Mozgai, Eszter Horváth, Bernadett Bajnóczi**|
+|11:40 -- 12:00| *Commercial High Alumina Crucibles for Melting Alkali and Alkaline Earth Metal Salt Mixtures to Replicate Ancient Glass Production*<br>**Marcel Frenken, Meghna Desai, Thilo Rehren**|
+|12:00 -- 12:20| *The Interaction between Persian Gulf and Indian Peninsula during the middle-late Islamic Period: Compositional Evidence for the High-Alumina Glass Bangles Discovered from Coastal Sites of Qatar and U.A.E.*<br>**Qian Cheng, Thilo Rehren, Robert Andrew Carter, Xueyan Zhang**|
+|12:20 -- 12:40| *Identifying a Peloponnesian palette: pigment analysis of domestic architecture  from Stymphalos*<br>**Alice Clinch**|
+|12:40- 13.00| *The “production” of Minoan red serpentinite*<br>**Killian Regnier**|
+|||
+|13:00 -- 14:00| *Lunch break*|
+|||
+|14:00 -- 14:20| *Provenance of ancient architectural marble on Delos island (Cyclades, Greece): contributions of a four year archaeometric study*<br>**Tommy Vettor, Violaine Sautter, Laurent Jolivet, Jean-Charles Moretti**|
+|14:20 -- 14:30| *Closing/ Final remarks*|
+|||
+|16:30 -- 19.30| *Experimental pyre: Food for the Gods Sacrificial Pyres in the Archaeological Record*<br>(venue TBA)|
 
 ## **Oct. 19^th^**
 
@@ -90,10 +176,25 @@ All times are given in Eastern European Summer Time (UTC+3).
 |--|--------|
 |tbd | Tour of the Cyprus Museum (self-paid) |
 
+## **Posters**
+
+||
+|--|
+|*Trace element influence on phytolith dissolution and preservation: Investigating the role of strontium and barium*<br>**Nafsika C. Andriopoulou, Georgios E. Christidis**|
+|*Deciphering Past Coastal Environments: Beachrock Characterisation and Luminescence Dating in SE Lasithi, Crete, Greece*<br>**Nafsika C. Andriopoulou, Georgios C. Polymeris, Konstantinos C. Stamoulis, Michael Schöbel, Georgios E. Christidis, Stefanos Papadakis, Anna Novikova, Nikos Papadopoulos**|
+|*Estimating the Firing Temperature of a Brick Material from a Church Convent Ruin in Quipayo, Camarines Sur, Philippines*<br>**Jan-Michael C. Cayme, Eric T. Miranda**|
+|*Exploring the Maritime Trade and Cultural Linkages across the East Coast: Case Studies based on Ceramic Analysis*<br>**Debankita Das**|
+|*A look upon chalcolithic pottery technology through the petrographic analysis of a batch from North of Danube*<br>**Mădălina Dimache, Cristian-Eduard Ștefan**|
+|*Slag vitrification as a proxy for smelting technology - Tracking 7,000 years of copper production in Timna, Israel*<br>**Eshchar Gichon, Efrat Nakash, David Kosson, Lesa Renee Brown, Carolyn Pearce, Jose Marcial, James Neeway, Albert Kruger, Erez Ben-Yosef**|
+|*Furthering our understanding of the sources of the metal of Roman denarii -- A multi-isotope and elemental analysis approach*<br>**Tim Greifelt, Sabine Klein, David Wigg-Wolf**|
+|*Cultural Heritage and Repatriation and Restitution of Stolen and Illegally Acquired Artifacts: A Critical Analysis*<br>**Forbes Tapiwa Marumbei**|
+|*Petrographic Thin Section of 18th Century Iron Smelting Ceramics in Ugbene-Ajima, Southeastern Nigeria*<br>**John Ngonadi, Pamela Eze-Uzomaka**|
+|*Archaeology, Cultural Heritage, and Tourism in Ile-Ife, Nigeria: Bridging the Gap*<br>**Zainab Popoola**|
+|*An application of XRF spectroscopy to heritage science - the case study of ancient roman building materials from Lebanon*<br>**Marcin Sokołowski**|
+|*Experimental clay processing and archaeometric analysis to determine the provenance of fine-ware ceramics from the Early Middle Ages in north-western Tuscany (Italy): preliminary results*<br>**Irene Strufaldi, Sara Longo**|
+|*The RETS Project - Revealing the Senne. A hidden landmark in the historical center of Brussels, Belgium*<br>**Dries Vergouwen, Ann Degraeve, Marc Meganck, Ralf Vandam, Yannick Devos**|
+
 :::
-
-
-
 
 ## Travel awards
 
@@ -114,14 +215,14 @@ The text blocks below can be used as template for upcoming announcements
 <!-- 
 ::: {.callout-note}
 ## YRA 2023 Key dates
-~~**May 15^th^** – Deadline for abstract submission~~  
-~~**May 31^th^** – **EXTENDED** Deadline for abstract submission~~    
-~~**June 15^th^** – Announcement of abstracts decisions & Opening for registration~~   
-~~**Aug. 15^th^** – Preliminary program~~    
-~~**Sept. 15^th^** – Deadline for in-presence registration~~  
-~~**Sept. 25^th^** – Deadline for online [registration](https://forms.gle/vJCm7feYgBijP4FGA)~~  
-~~**Sept. 26^th^** – Meeting details and final program~~   
-**Oct. 4^th^–6^th^** – YRA 2023 Workshop in Tübingen   
+~~**May 15^th^** -- Deadline for abstract submission~~  
+~~**May 31^th^** -- **EXTENDED** Deadline for abstract submission~~    
+~~**June 15^th^** -- Announcement of abstracts decisions & Opening for registration~~   
+~~**Aug. 15^th^** -- Preliminary program~~    
+~~**Sept. 15^th^** -- Deadline for in-presence registration~~  
+~~**Sept. 25^th^** -- Deadline for online [registration](https://forms.gle/vJCm7feYgBijP4FGA)~~  
+~~**Sept. 26^th^** -- Meeting details and final program~~   
+**Oct. 4^th^--6^th^** -- YRA 2023 Workshop in Tübingen   
 :::
 
 -->
@@ -178,14 +279,14 @@ All times are given in Central European Time (UTC+2).
 
 |||
 |--|--------|
-|08:30 – 09:00|Welcoming and registration|
-|09:00 – 09:15|Opening|
-|09:15 – 09:50|Keynote: **Susanne Greiff**<br />*TBA*|
+|08:30 -- 09:00|Welcoming and registration|
+|09:00 -- 09:15|Opening|
+|09:15 -- 09:50|Keynote: **Susanne Greiff**<br />*TBA*|
 |||
-|09:50 – 10:10|*Coffee break*|
+|09:50 -- 10:10|*Coffee break*|
 |||
 ||**Session 1: Ceramics I and Architecture**|
-|10:10 – 10:30|*Tracing the cultural and trade relations of the Spanish Empire and the Lesser Caribbean Antilles in the 16^th^ and 17^th^ centuries through ceramic analysis*<br />**Sonia Pujals Blanch**, Jaume Buxeda i Garrigós, Roberta  Mentesana|
+|10:10 -- 10:30|*Tracing the cultural and trade relations of the Spanish Empire and the Lesser Caribbean Antilles in the 16^th^ and 17^th^ centuries through ceramic analysis*<br />**Sonia Pujals Blanch**, Jaume Buxeda i Garrigós, Roberta  Mentesana|
 
 :::
 -->
@@ -200,7 +301,6 @@ On the occasion of YRA2024, the archaeological experiment "Food for the Gods: Sa
 [![](assets/img/YRA2024_pyre.png)  (Click on image for full size)](assets/img/YRA2024_pyre.png)  
  
 :::
-
 
 :::
 
