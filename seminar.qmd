@@ -27,7 +27,7 @@ You can convert to your local time zone with, e.g., [timeanddate.com](https://ww
 :::
 
 *Plant and insect remains as indicators for waterlogged dung layers – The example of the Neolithic lakeshore settlement Mooswinkel in the Austrian Alps*  
-**Thorsten Jakobitsch** (Austrian Archaeological Insitute, Austria)
+**Thorsten Jakobitsch** (Austrian Archaeological Institute, Austria)
 
 **Keywords:** Stable manure; Pile dwelling; Archaeobotany; Archaeoentomology; Late Neolithic  
 
@@ -57,7 +57,7 @@ Copper and its alloys are one of the materials thought to come from the maritime
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## September – Thorsten Jakobitsch (Austrian Archaeological Insitute, Austria)  
+## September – Thorsten Jakobitsch (Austrian Archaeological Institute, Austria)  
 **Time:** 8:00 am (UTC)  
 **Title:** Plant and insect remains as indicators for waterlogged dung layers – The example of the Neolithic lakeshore settlement Mooswinkel in the Austrian Alps  
 **Keywords:** Stable manure; Pile dwelling; Archaeobotany; Archaeoentomology; Late Neolithic  
