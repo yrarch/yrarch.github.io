@@ -5,7 +5,7 @@ website:
   site-url: https://yrarch.github.io/
   repo-url: https://github.com/yrarch/yrarch.github.io
   favicon: assets/img/favicons/favicon-32x32.png
-  title: "![Logo YRA](assets/YRA_Logo.svg){height=60px}"
+  title: "![Logo YRA](assets/yra-logo.svg){height=60px}"
   description: "Young Researchers in Archaeometry is a workshop series organised by ECRs for ECRs"
   navbar:
     background: light
