@@ -1,0 +1,18 @@
+---
+title: 'A look upon Chalcolithic pottery technology through the petrographic analysis of a batch from north of Danube'
+date: "2024"
+date-format: "YYYY"
+categories: [North of Danube, Chalcolithic, pottery, petrography]
+author: 
+  - name: Mădălina Dimache
+    orcid: 0009-0009-6048-4637
+    corresponding: true
+    email: dimachemadalina@gmail.com
+  - name: Cristian-Eduard Ștefan
+---
+
+The current paper aims to present and discuss the main results obtained from the study of ceramic fragments analyzed by polarized light optical microscope in the collection of the Vasile Pârvan Institute of Archaeology, Bucharest, from a petrographic point of view. They come from Chalcolithic period vessels discovered in three settlements from Romania, Bârlălești-Stanția (Vaslui County), Aldeni-Gurguiul Balaurului (Buzău County) and Bălănești-Muchea Mare (Buzău County), all three belonging to the Stoicani-Aldeni cultural aspect. 
+The Stoicani-Aldeni aspect was defined as a "mixed aspect" or "synthesis facies" between the Gumelnița and the Pre-Cucuteni/Cucuteni civilizations, initially on the basis of archaeological excavations at Stoicani-Cetățuia (south-east Romania, Galați County) and Aldeni- Gurguiul Balaurului. This presentation will discuss the results obtained on a batch of Chalcolithic pottery from Eastern and South-East of Romania (ca. 4600-4000 cal BC). 
+Ceramic fragments come from vessels that are typologically different such as bowls, pots, cups, cup, storage vessels and a tray. Following the petrographic analysis, some differences were observed in terms of textural, microstructure, porosity and even compositional characteristics.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

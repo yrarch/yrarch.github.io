@@ -1,0 +1,27 @@
+---
+title: 'TerraLID: Further steps towards a new ecosystem for lead isotope data in archaeology'
+date: "2024"
+date-format: "YYYY"
+categories: [lead isotopes, research data, database, infrastructure]
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+    corresponding: true
+    email: thomas.rose@bergbaumuseum.de
+  - name: Tim Greifelt
+    orcid: 0009-0007-9701-8547
+  - name: Katrin J. Westner
+    orcid: 0000-0001-5529-1165
+  - name: Annette Hornschuch
+  - name: Yiu-Kang Hsu
+    orcid: 0000-0002-2439-4863
+  - name: Helge Wiethoff
+  - name: Sabine Klein
+    orcid: 0000-0002-3939-4428
+---
+
+Lead isotopes are currently the most powerful method for the reconstruction of the raw material provenance of non-ferrous metals. The success of the method relies crucially on the availability of reference data from all potential ore deposits or other suitable materials with a known production location. OXALID was the first open access database for such data, and many more followed since. While they are great resources, data compilation is still a tedious task because these datasets are usually published in a static format (e.g., as supporting information of articles) and the authors follow their own approaches in the description of the data. The result is datasets that are difficult to combine but to a large extent based on the same pool of publications. 
+To overcome this situation, TerraLID builds upon the prototype GlobaLID but aims to significantly enhance its functionalities towards a digital research data infrastructure that allows the publication, compilation and interpretation of lead isotope data for a large variety of archaeological and geological materials. It aims to implement the FAIR data principles in a community-driven process to ensure that the research infrastructure and metadata are developed close to the needs of the community. 
+The TerraLID team is open, meaning that it welcomes all kinds of contributions from the community and provides many opportunities to get involved in the development process. This contribution will highlight some of these opportunities and presents examples of how this process shaped the design of TerraLID.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

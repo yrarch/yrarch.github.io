@@ -1,0 +1,14 @@
+---
+title: 'An application of XRF spectroscopy to heritage science: the case study of ancient Roman building materials from Lebanon'
+date: "2024"
+date-format: "YYYY"
+categories: [XRF, hierarchical clustering, building materials]
+author: 
+  - name: Marcin Sokołowski
+    corresponding: true
+    email: m.sokolowsk6@student.uw.edu.pl
+---
+
+The talk will explore the application of X-ray fluorescence analysis to the investigation of archaeological samples of plaster and mortar from the ancient roman villages of Chhim and Jiyeh, Lebanon. The topic of statistical analysis of results (based on PCA and hierarchical analysis) and their interpretation will be discussed, i.e., how to translate differences in the chemical composition of plaster and mortar samples into dating architectural monuments, determining the origin of building materials, and shedding light on how ancient builders approached their work.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

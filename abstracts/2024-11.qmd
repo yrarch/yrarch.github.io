@@ -1,0 +1,18 @@
+---
+title: 'Disclosing production process by the archaeometric analysis of Bronze to Iron Age ceramic jars from Qatna (Central Syria)'
+date: "2024"
+date-format: "YYYY"
+categories: [ceramic analysis, ceramic petrography, Bronze Age, Syria]
+author: 
+  - name: Bianca Costi Farias
+    corresponding: true
+    email: bianca.costifarias@studenti.unipd.it
+  - name: Lara Maritan
+  - name: Claudio Mazzoli
+  - name: Marco Iamoni
+  - name: Daniele Morandi
+---
+
+This work presents the current results of the archaeometric study carried out on 121 samples of jars from the site of Qatna (Tell Mishrifeh, central Syria), dated from the early Bronze age to the Iron age. The samples were characterized in terms of mineral composition by X-Ray Powder Diffraction (XRPD), petro-fabric by optical microscopy, chemical composition by X-Ray Fluorescence (XRF) and the results were then combined with the typological features (shapes). This diachronic research enabled the identification of a change in the petro-fabric from the Early Bronze Age to the Iron Age, which can be interpreted in terms of modifications in the production recipe, firing, and production techniques of the jars. As the ceramic material here analyzed corresponds to the first in central Syria to be stratigraphically excavated and dated in absolute terms, this provides a significant step into deciphering the history of this important site. This research highlights the possibility of application of archaeometric data to understand the manufacturing techniques and provenance of this ceramic material, while also enabling a reconstruction of circulation patterns of pottery between Bronze and Iron Age Syria.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

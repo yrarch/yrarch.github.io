@@ -1,0 +1,15 @@
+---
+title: 'Late Hellenistic braziers from Delos: provenance study and characterisation of "Cycladic" type'
+date: "2024"
+date-format: "YYYY"
+categories: [ceramic petrography, WD-XRF, elemental analysis, Delos, Late Hellenistic, braziers, provenance, Cyclades, Eastern Mediterranean, East Aegean, trade]
+author: 
+  - name: Athena Konstandara
+    corresponding: true
+    email: athena.konstandara@gmail.com
+  - name: Edyta Marzec
+---
+
+Delos, located in the Cyclades (Greece), was Rome's ‘duty free’ hub in the Late Hellenistic period (166/7-89/69 BCE). The central position of the island in Mediterranean trade is reflected in the abundance and variety of ceramic materials recovered during excavations. Among them are braziers–i.e. portable cooking devices. The vast number of braziers found on the island led some scholars to assume that at least some of them were made locally. In order to test this assumption all fragments of braziers unearthed in three temples of Sarapis on Delos were examined macroscopically and 22 samples were analysed with thin section petrography and wavelength dispersive X-ray fluorescence. The results revealed the presence of six different fabrics, four of which are compatible with the geology of Cycladic islands located in the vicinity of Delos. All of the ‘local’ braziers have the same general morphological characteristics with subtle differences. This ‘Cycladic’ type is stylistically distinct from the ‘imported’ braziers studied, which are more compatible with East Aegean geology.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

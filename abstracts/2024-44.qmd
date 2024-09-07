@@ -1,0 +1,22 @@
+---
+title: 'Furthering our understanding of the sources of the metal of Roman denarii: A multi-isotope and elemental analysis approach'
+date: "2024"
+date-format: "YYYY"
+categories: [Roman denarius, lead isotopes, copper isotopes, provenance]
+author: 
+  - name: Tim Greifelt
+    orcid: 0009-0007-9701-8547
+    corresponding: true
+    email: Tim.Greifelt@bergbaumuseum.de
+  - name: Sabine Klein
+    orcid: 0000-0002-3939-4428
+  - name: David Wigg-Wolf
+    orcid: 0000-0002-8604-544X
+---
+
+Since coins are generally an officially produced medium, provenance studies of the metal used to produce them can provide important information on the logistical, infrastructural and organizational capacities of central authorities. Thus, it is not surprising that ancient coins have been the subject of a large number of archaeometallurgical studies, in particular involving lead isotopes. 
+The composition of the silver in the coin metal of Roman Imperial denarii has been intensively investigated in recent years by Kevin Butcher and Matthew Ponting. However, the work concentrated primarily on the chemical composition, with a relatively smaller number of isotopic analyses being carried out, and concentrating on specific questions. 
+To complement the investigations of Butcher and Ponting, more than 200 coins from the period 30 BC to AD 240 have been sampled for isotopic analysis in a project based at the German Mining Museum in Bochum. Besides standard lead isotopes, these analyses also included copper and silver isotopes, which were performed in Bochum, at the Frankfurt Isotope and Element Research Center FIERCE, the Laboratoire de Géologie de Lyon, École normale supérieure de Lyon, and in the Institute for Geosciences at the Goethe University Frankfurt. 
+The combination of isotopic analyses of different elements has provided deeper, sometimes surprising insights, qualifying the information provided by lead isotopes alone. This paper will present the first results and interpretation of our analyses, so indicating how a combination of isotopic methods can advance our understanding of the provenance and the methods used to obtain the raw materials.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

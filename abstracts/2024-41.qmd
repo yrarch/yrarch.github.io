@@ -1,0 +1,14 @@
+---
+title: 'Exploring the maritime trade and cultural linkages across the East Coast: Case studies based on ceramic analysis'
+date: "2024"
+date-format: "YYYY"
+categories: [pottery, connectivity, petrography, XRF, archaeometry, archaeology]
+author: 
+  - name: Debankita Das
+    corresponding: true
+    email: debankita.edu7@gmail.com
+---
+
+The paper concentrates on reports of ancient ceramic analysis from archaeometry and archaeological perspective from the coastline of the east coast of the Indian subcontinent. Manikapatna, Salihundam, and Kalingapatnam sites in South Odisha and North Andhra have yielded Black and Red Ware, Chinese porcelain ware, and a few local wares. The present paper first unfurls the connectivity and cultural links between the coast-maritime space of South and Southeast Asia based on the XRF, SEM, and petrography reports. Secondly, a critical analysis of the sample size of the pottery from the sites is needed to establish a feasible range of connectivity and networks. Thirdly, the paper will conclude by locating the manufacturing sites of the local ware potteries along the coastline that, in turn, assumed the socio-geographical expression, such as Kalinga ware, possibly named after the region of Kalinga. Further, there is also scope for a brief discussion of the evidence of Arretine ware from the coastal zones under review and the ongoing debate on its linkages with Roman trade.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

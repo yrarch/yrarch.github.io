@@ -1,0 +1,17 @@
+---
+title: 'Trace element influence on phytolith dissolution and preservation: Investigating the role of strontium and barium'
+date: "2024"
+date-format: "YYYY"
+categories: [phytoliths, dissolution, strontium, barium, geoarchaeology]
+author: 
+  - name: Nafsika C. Andriopoulou
+    orcid: 0000-0002-1278-1209
+    corresponding: true
+    email: nafsika.andriopoulou@gmail.com
+  - name: Georgios E. Christidis
+    orcid: 0000-0002-2302-0296
+---
+
+Several vascular plants produce silicate, calcium carbonate, and calcium oxalate phases in inorganic components of the plants known as phytoliths (SiO2.nH2O), through biomineralisation. Additionally, smaller amounts of strontium oxalate, strontium sulphate, and barium sulphate phases, among others, have been reported in various plants. Although phytolith analysis is an internationally emerging field, recent studies on phytoliths have not emphasised the extent to which the presence of trace chemical elements affects the dissolution of biogenic silicon and, consequently, the preservation of microscopic phytoliths in geoarchaeological contexts. Toward this end, this project investigates the dissolution behaviour of phytoliths (extracted from fresh wheat cultivated in Greece and Cyprus) in relation to variations of pH, temperature, and time through long-term batch laboratory experiments. Specifically, the mobility of strontium (Sr) and barium (Ba) was studied using ICP-MS, with data processed using MATLAB software. The Sr and Ba displayed almost identical behaviour with a very rapid initial elemental release predominantly within the first five days of the leaching experiment. For the high-resolution characterisation of phytolith morphology, mineralogy, and chemistry, a variety of complementary analytical techniques were employed, including OLM, SEM/EDS, XRD, FTIR, ED-XRF, CHNS and TGA-DTGA. Strontium was detected in some EDS spectra, and strontianite (SrCO3) and/or celestite (SrSO4) were identified in the XRD traces. In this study, Ba-minerals were not identified in the phytoliths; the release of Ba along with Sr during the leaching experiments, suggests that Ba may participate in the crystal lattice of strontium carbonate and/or sulphate mineral, substituting for Sr.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

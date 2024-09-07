@@ -1,0 +1,19 @@
+---
+title: 'Commercial high alumina crucibles for melting alkali and alkaline earth metal salt mixtures to replicate ancient glass production'
+date: "2024"
+date-format: "YYYY"
+categories: [experimental archaeology, technical ceramics, material analysis]
+author: 
+  - name: Marcel Frenken
+    orcid: 0009-0002-5106-7865
+    corresponding: true
+    email: m.frenken@cyi.ac.cy
+  - name: Meghna Desai
+  - name: Thilo Rehren
+    orcid: 0000-0002-9169-1198
+---
+
+We investigate the chemical refractoriness of high alumina (60-70 wt% Al2O3) crucibles rich in mullite and corundum intended for melting alkali and alkaline earth metal salts. These salts and salt mixtures produce chemically aggressive and low viscosity melts capable of dissolving quartz and crucible walls alike. These interactions are significant for understanding ancient glassmaking processes, as they were used as fluxes to lower the melting temperature of silica, thus being vital components in ancient glass making. 
+The study evaluates the reactivity and interactions of various salts and salt mixtures with an emphasis on their effects on the crucible’s structural integrity and potential seeping through ceramic porosity or even overboiling. Common salts are used to simulate ancient fluxes which were natural mixtures of sodium carbonate and sodium chloride, potassium carbonate, calcium carbonate and sulfate, among others. Various mixtures were tested under controlled laboratory conditions and the results used to outline a detailed protocol for safety precautions necessary when experimenting with these aggressive melts. This study provides a critical assessment on the advantages and disadvantages of using commercially available crucibles and salt raw materials for replicating ancient glassmaking processes. Furthermore, it lays the foundation for the understanding of the reactions between (natural) flux mixtures and the silica source (sand or powdered quartz) during plant-ash glassmaking.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

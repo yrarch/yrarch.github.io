@@ -1,0 +1,16 @@
+---
+title: 'Paint it, red: A technological and compositional study of classical pottery from Nea Paphos, Cyprus'
+date: "2024"
+date-format: "YYYY"
+categories: [ceramic technology, petrography, archaeometry, Classical Cyprus]
+author: 
+  - name: Geneviève Lascombes
+    corresponding: true
+    email: genevievelascombes@gmail.com
+  - name: Edyta Marzec
+  - name: Lara Maritan
+---
+
+The topographical and archaeological evidence coming from excavations in Nea Paphos suggests that occupation of the area already began in the Classical times, in other words before the foundation of the city in the late 4th c. BCE. Architectural remains representing this period are scarce, but contexts associated with the pre-urban phase as well as Hellenistic and Roman layers yielded ceramic materials of Classical date. This paper focuses on the Classical tableware pottery retrieved from two excavations in Nea Paphos (Maloutena and the Agora) in order to provide more information on the human activity during the period in question. Samples representing various types of bowls and plates were subjected to mineralogical and elemental analyses. The investigations afforded the reconstruction of the chaîne opératoire and consumption patterns of table wares in south-western Cyprus in the Classical period. The comparison of the studied material with already analyzed Hellenistic table ware from Nea Paphos contributes to the exploration of the local potting tradition as well as how it was impacted by socio-economic and political changes.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

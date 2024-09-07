@@ -1,0 +1,22 @@
+---
+title: "Abstract repository"
+listing: 
+  contents: abstracts
+  type: table
+  sort: 
+    - "date"
+    - "title"
+  categories: true
+  fields: 
+    - date
+    - title
+    - author
+  page-size: 50
+  table-hover: true
+date-format: "YYYY"
+  
+---
+
+Abstracts of papers presented at the YRA workshops since 2024. 
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; All abstracts are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

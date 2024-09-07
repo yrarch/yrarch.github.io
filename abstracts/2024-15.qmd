@@ -1,0 +1,15 @@
+---
+title: 'Fuelling ancient Idalion: Charcoal analysis and insights into 1st millennium BCE Cyprus'
+date: "2024"
+date-format: "YYYY"
+categories: [charcoal analysis, anthracology, 1st millennium BCE]
+author: 
+  - name: Panagiotis Koullouros
+    corresponding: true
+    email: p.koullouros@cyi.ac.cy
+---
+
+The site of ancient Idalion lies in the centre of the island of Cyprus around 20km southeast of modern-day Nicosia. The site is of vital importance as it is closely situated to the copper mining zone in the eastern foothills of Troodos mountains, and the fertile valley of the Yiallias River. The earliest settlement of the site dates to the 13th to 12th century BCE, while during the excavations conducted by the Department of Antiquities of Cyprus, a Phoenician administrative centre was identified dating to the 4th century BCE. 
+Although, archaeobotanical studies are fundamental in exploring the relationship between communities and the natural environment, bringing forward various characteristics of everyday life in ancient societies, research centring on wood charcoal during the 1st millennium BCE Cyprus have been limited. Thus, this paper seeks to fill this gap by investigating the intricate relations between humans and their natural environment through the application of wood charcoal analysis. This paper also aims to emphasize the key role of archaeobotanical studies in supplementing our understanding of ancient societies by focusing on key aspects such as timber procurement and fuel economy. Simultaneously, it seeks to understand the intricacies of daily life at ancient Idalion.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

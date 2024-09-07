@@ -1,0 +1,14 @@
+---
+title: 'Breaking into the “black box”: The contribution of ethnographic work in decoding Late Cypriot household structures'
+date: "2024"
+date-format: "YYYY"
+categories: [Cyprus, Late Brone Age, households, ethnography]
+author: 
+  - name: Chara Theotokatou
+    corresponding: true
+    email: xara.th97@gmail.com
+---
+
+Archaeological research frequently places the remains of domestic environments in the epicenter of discourse, aiming to monitor and comprehend the social organization of past societies. Regarding the Late Bronze Age in Cyprus, though, research usually emphasizes on the elite dwellings and practices. While previous research has made significant progress in investigating the social complexity of the Late Cypriot communities, ongoing research is still far from thoroughly understanding the foundations of these societies. For this reason, a bottom-up approach is needed, focusing on the smallest social units, i.e., households. These structures can only be decoded through an in-depth analysis and interpretation of their functions and behaviors, which can be challenging. Nevertheless, as Wilk highlights, only by tracing these functions, ongoing research can break into the “black box” of households. Ethnographic parallels, especially of pre-industrial societies, are invaluable to this process. Although we cannot directly project the social processes of later communities onto the Late Cypriot period, ethnographic parallels shed light on traditional –and at times forgotten– everyday practices. Therefore, this paper attempts to connect Late Cypriot household practices to the ethnographic record, aiming to provide an in-depth understanding of the activities occuring within Late Cypriot habitation units and, thus, their socioeconomic organization.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

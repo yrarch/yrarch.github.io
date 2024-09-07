@@ -1,0 +1,17 @@
+---
+title: 'Revealing hidden histories: Using high-resolution portable computed tomography for closed Cuneiform Tablets'
+date: "2024"
+date-format: "YYYY"
+categories: [portable CT scanner, enveloped cuneiform tablets, non-destructive technique, Louvre Museum]
+author: 
+  - name: Samaneh Ehteram
+    corresponding: true
+    email: samaneh.ehteram@desy.de
+---
+
+Cuneiform represents the earliest form of writing developed by the Sumerians in Mesopotamia in the 2nd half of the 4th millennium BCE. From the middle of the 3rd millennium BCE, people wrote legal documents and sent many letters. To protect the tablets and ensure confidentiality, tablets were encased in clay envelopes. These envelopes featured the names of the sender, the seal imprint using cylinder seals, and the name(s) of the addressee(s). 
+Reading the message required breaking the envelope, however, some letters never reached their recipient and remained within their clay envelopes for thousands of years. The study of enveloped clay tablets serves as an important reminder that unopened heritage artifacts conceal the narratives of their past within both their textual contents and structural integrity. As such, this research aims to explore the application of non-destructive techniques on enveloped clay tablets. 
+In this contribution we present our efforts in developing a portable high-resolution X-ray tomographic scanner, designed in collaboration with the cluster of excellence at Universität Hamburg ‘Understanding Written Artifacts’ and Deutsches Elektronen-Synchrotron. The X-ray scanner can be assembled and dismantled for use in museums and collections. This newly developed device was recently used for the very first time at the Louvre Museum, yielding excellent tomographic data on twelve contracts and administrative texts from the end of the 3rd and the beginning of the 2nd millennium BCE. 
+This innovative system facilitates comprehensive non-destructive measurement of enveloped tablets, covering the entire measurement process from data acquisition to on-site 3D visualization.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

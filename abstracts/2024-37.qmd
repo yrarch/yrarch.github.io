@@ -1,0 +1,18 @@
+---
+title: 'Provenance of ancient architectural marble on Delos island (Cyclades, Greece): contributions of a four year archaeometric study'
+date: "2024"
+date-format: "YYYY"
+categories: [marble, provenance, Antiquity, Delos, Greece, geochemistry, geology]
+author: 
+  - name: Tommy Vettor
+    orcid: 0000-0001-7729-0358
+    corresponding: true
+    email: tommy.vettor@gmail.com
+  - name: Violaine Sautter
+  - name: Laurent Jolivet
+  - name: Jean-Charles Moretti
+---
+
+The use of marble in the architecture of ancient archaeological sites raises numerous questions about their origin. However, provenance archaeometric studies are not systematic, and often limited to macroscopic identifications, leading to uncertain diagnoses. Therefore, petrographic and geochemical analyses are often indispensable. We have undertaken an extensive study to characterize the architectural marbles on Delos island, Greece, as part of a large research program: Geology and Architecture in Delos. Delos is one of the most important archaeological sites in ancient Greece, housing numerous sanctuaries from the Archaic to the end of the Hellenistic period. These constructions represent a significant volume of marble, which origin has been debated by archaeologists for over a century. The four marble outcrops of the island were mapped at a scale of 1:5000, then petrographically and geochemically characterized in order to creat the first Delos marble database. The provenance of the architectural marbles was then studied with a multi-technique approach, both destructive and non-destructive, combining field microscopy, optical and electron microscopy, X-ray diffraction, stable isotope analysis, elemental chemical composition with portable X-ray fluorescence spectrometry and mass spectrometry. Each analysis has its contributions as well as its limitations, and it is the complementarity of the techniques that has allowed us to identify the provenance of around 200 samples from constructions. Thus, the origin and chronology of marble imports have been determined for each period of occupation on the island. It was also possible to define the periods of local quarry exploitation and their types of use.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

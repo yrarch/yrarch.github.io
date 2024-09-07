@@ -1,0 +1,16 @@
+---
+title: 'Shallow offshore archaeological Prospection in ancient Olous, Crete'
+date: "2024"
+date-format: "YYYY"
+categories: [prospection, marine geophysics, 3D dynamic ERT, cultural heritage]
+author: 
+  - name: Angelos Plageras
+    corresponding: true
+    email: alarbrotz@Gmail.com
+  - name: Dimitrios Oikonomou
+  - name: Nikos Papadopoulos
+---
+
+Archaeological prospection in aquatic sites presents unique challenges compared to land surveys. Until recently, most research efforts were focused on adapting instrumentation and processing methods for mapping cultural objects in deep marine environment. However, the implementation of similar methods in ultra-shallow coastal areas poses specific difficulties due to the challenging environmental context. Preserving cultural layers in these areas is crucial due to factors like rising sea levels, coastal erosion and human activity, which may threaten cultural heritage integrity. Thus, the effective documentation of coastal and ultra-shallow sites requires the integration of modified methodological approaches, both in terms of instrumentation and processing algorithms. The sunken city of Ancient Olous, in modern Elounda, Crete, Greece, holds significant archaeological importance, with evidence of inhabitation since the Archaic period. Offshore geophysical prospection utilizing three-dimensional (3-D) Electrical Resistivity Tomography (ERT) successfully mapped a submerged fortress wall and identified potential archaeological targets buried below the seabed. The results highlight the importance of shallow offshore marine geophysics in archaeological research, offering new tools for coastal zone exploration and integration with land sites underscoring at the same time the importance of this evolving field. By addressing challenges unique to coastal areas, such as dynamic underwater conditions and limited visibility, shallow offshore geophysical prospection can contribute to a more comprehensive understanding of maritime archaeology. Further development of the methodological flowcharts and integration into archaeological projects, promises to enhance the study and preservation of submerged cultural heritage worldwide.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

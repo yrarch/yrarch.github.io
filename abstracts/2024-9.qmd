@@ -1,0 +1,18 @@
+---
+title: 'Clay for pots: Raw material determination of Sântana "Cetatea Veche" ceramics and determination of firing methods in Late Bronze Age'
+date: "2024"
+date-format: "YYYY"
+categories: [Late Bronze Age, ceramics, Sântana, provenance studies]
+author: 
+  - name: Alexandra Stache
+    corresponding: true
+    email: stachealexuta@yahoo.com
+  - name: Ágnes Gál
+    orcid: 0000-0001-5366-3340
+  - name: Florin Gogâltan
+    orcid: 0000-0002-0853-394X
+---
+
+The present research aims to determine the relationship between prehistoric people of the Late Bronze Age site in Sântana "Cetatea Veche" ("Old Fortress") (Arad county, Romania) and the environment through its material culture, respectively ceramics. The question we address is if the community used local clay for the pottery and if so, what kind of pottery technology was required. In order to answer this question, twenty shards were chosen to analyse, each of them having different traits regarding firing technique. The shards were discovered in the defensive ditch of the enclosure I, during the research excavation the took place in 2019 at the mega-fort of Sântana "Cetatea Veche", situated in the Lower Mureş basin. While analysing the pottery shards, we are using both XRDP and the polarizing microscope methods to define the firing temperatures and the provenance of the raw material. The mineral composition of the ceramic paste will be then compared with the mineral composition of geological formation samples from the area.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

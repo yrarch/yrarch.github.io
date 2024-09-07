@@ -1,0 +1,28 @@
+---
+title: 'Deciphering past coastal environments: Beachrock characterisation and luminescence Dating in SE Lasithi, Crete, Greece'
+date: "2024"
+date-format: "YYYY"
+categories: [beachrock, optically stimulated luminescence, archaeological science, coastal (archaeo)environments]
+author: 
+  - name: Nafsika C. Andriopoulou
+    orcid: 0000-0002-1278-1209
+    corresponding: true
+    email: nafsika.andriopoulou@gmail.com
+  - name: Georgios C. Polymeris
+    orcid: 0000-0002-9972-429X
+  - name: Konstantinos C. Stamoulis
+    orcid: 0000-0002-9198-4863
+  - name: Michael Schöbel
+    orcid: 0009-0008-2812-0609
+  - name: Georgios E. Christidis
+    orcid: 0000-0002-2302-0296
+  - name: Stefanos Papadakis
+  - name: Anna Novikova
+    orcid: 0000-0003-3017-8961
+  - name: Nikos Papadopoulos
+    orcid: 0000-0003-1748-5844
+---
+
+The study assesses the palaeoenvironmental significance of coastal and shallow submarine deposits through the detailed characterisation and absolute dating of beachrock. The physicochemical composition of beachrock deposits provides valuable insights into the sediment types present during beachrock formation over time. The dating technique used was optically stimulated luminescence (OSL). Established analytical techniques, including X-ray powder diffraction (XRD), wavelength-dispersive X-ray fluorescence spectrometry (WD-XRF), and scanning electron microscopy with energy-dispersive spectroscopy (SEM/EDS), were employed for rigorous characterisation of the morphology, as well as qualitative and quantitative mineralogical and elemental composition of the selected samples. Beachrock mapping and sampling were conducted at selected sites along the c.a. 20-km length coastal front of Southeastern Lasithi, Crete, Greece, specifically at Gra Lygia, Ierapetra, Koutsounari, and Ferma sites. The comprehensive characterisation and dating of the samples contributed to refining the chronological context of the beachrock phases in the studied areas (partially presented in previous studies) and facilitated a re-examination of the (micro)environmental conditions, such as the processes involved in beachrock formation and regional trends in past sea level dynamics during the Upper Holocene. Consequently, this first in-depth integrated approach to this area will provide insights into the environmental processes shaping the broader archaeological landscape and illuminate the dynamic interactions between human societies and coastal environments.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

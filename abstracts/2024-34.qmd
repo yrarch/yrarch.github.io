@@ -1,0 +1,17 @@
+---
+title: 'The interaction between Persian Gulf and Indian Peninsular during the middle-late Islamic Period: Compositional evidence for the high-alumina glass bangles discovered from coastal sites of Qatar and U.A.E.'
+date: "2024"
+date-format: "YYYY"
+categories: [glass bangles, high-Al glass, Persian gulf, India, Islamic period]
+author: 
+  - name: Qian Cheng
+    corresponding: true
+    email: q.cheng@cyi.ac.cy
+  - name: Thilo Rehren
+  - name: Robert Andrew Carter
+  - name: Xueyan Zhang
+---
+
+Glass and ceramic artifacts were widely distributed along the trade routes between the East and West during significant periods of trade and cultural exchange, reflecting interactions from manufacturing regions to consuming societies. In the Persian Gulf region, a considerable quantity of ceramic sherds and glass ornaments and vessel fragments have been excavated from coastal town sites in the U.A.E. (14th-16th century CE) and Northern Qatar (18th-20th century CE). Archaeological assemblages indicate that glass bangles were a common accessory during the mid-late Islamic period. Compositional analysis of these representative glass bangles, conducted by LA-ICP-MS and SEM-EDS, revealed several bangles with high alumina content, distinguishing them from the predominant plant ash soda-lime-silica glass of the Islamic period. These unique samples were further classified into two subgroups based on their mineral and plant ash flux compositions. This study aims to identify the possible provenances of these high-Al subgroups relevant to different areas of the Indian Peninsula in terms of major and trace elements of the glasses, and also to illustrate a broad distribution landscape of high-alumina glass spanning South Asia, West Asia, the Levant, and even China. Additionally, the manufacturing techniques of polychrome bangles will be discussed in conjunction with micro-CT analysis results.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

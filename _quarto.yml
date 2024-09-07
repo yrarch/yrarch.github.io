@@ -13,14 +13,18 @@ website:
     left:
       - href: index.qmd
         text: "Home"
-      - href: current.qmd
-        text: "YRA 2024"
+      - text: "Workshop"
+        menu: 
+          - href: current.qmd
+            text: "YRA 2024"
+          - href: abstracts.qmd
+            text: "Abstract repository"
+          - href: archive-workshop.qmd
+            text: "Previous editions"
       - href: seminar.qmd
         text: "Seminar"
       - href: team.qmd
         text: "Team"
-      - href: archive.qmd
-        text: "Archive"
       - href: tutorials.qmd
         text: "Tutorials"
     right: 

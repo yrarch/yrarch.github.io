@@ -1,0 +1,19 @@
+---
+title: 'Comparison of the polychrome metalworking and decoration techniques from the Langobardic and Gepidic periods (6th century AD) in the Carpathian Basin'
+date: "2024"
+date-format: "YYYY"
+categories: [garnet provenance, alloying practice, niello, Carpathian Basin]
+author: 
+  - name: Viktória Mozgai
+    orcid: 0000-0001-9712-2773
+    corresponding: true
+    email: mozgai.viktoria@csfk.org
+  - name: Eszter Horváth
+    orcid: 0009-0007-4650-0392
+  - name: Bernadett Bajnóczi
+    orcid: 0000-0003-0006-7611
+---
+
+The polychrome decoration of fine metalwork objects, especially the use of red garnet as inlays was widespread during the Hellenistic, Roman and Early Medieval times representing an intercultural and supra-regional fashion in Europe. In the archaeological material of the Carpathian Basin this polychromy was characteristic over around three centuries, from the Hunnic Period through the age of the Gepidic and Langobardic Kingdoms up until the Avar Period. Comparing with the 5th-century artworks rich in unique traits, the 6th-century artefacts are rather mass products with common features. During the 6th century AD, people lived in Transdanubia having western connections, whereas on the contrary, those who lived in the Great Hungarian Plain having rather eastern connections. The main aims of this study is to compare whether there is any change in raw material use, metalworking and decoration techniques and garnet supply between these two ethnic groups. Since not a single goldsmith workshop or any archaeological remains related to some sort of goldsmiths’ activity are known in the region, the organisational background of the production are perceived indirectly, by the study of finished products. Nearly a hundred gold, gilded silver or copper objects from the collections of the Hungarian museums dated to the 6thcenturiy AD were analysed in detail by using non-destructive and non-invasive analytical methods (optical microscopy, handheld XRF, SEM-EDX, μ-XRD) in order to determine the chemical composition of the metals and their decorations (gilding, niello and garnet inlays) as well as the microstructure and mineralogical composition of the niello.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

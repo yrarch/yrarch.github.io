@@ -1,0 +1,20 @@
+---
+title: 'Multi-analytical investigation on the carved oriental lacquerwares'
+date: "2024"
+date-format: "YYYY"
+categories: [oriental lacquer, urushi, historical research, multiple scientific analysis, Oriental Art Museum of Venice, material study, non-invasive methods, FORS, IR, Raman spectroscopy, SEM, Py-GC-MS, EPR]
+author: 
+  - name: Shang-ying Liu
+    corresponding: true
+    email: shangyingliu631@gmail.com
+  - name: Patrizia Tomasin
+  - name: Luca Nodari
+  - name: Marta Boscolo Marchi
+  - name: Alfonso Zoleo
+---
+
+This research project aims to explore the origins and restoration of four lacquerwares at the Oriental Art Museum of Venice using both historical research and multi-scientific methods. The artifacts include three red carved lacquer pieces and one painted lacquer piece, some of which are deteriorating and cracking. Scientific tests will help verify their provenance (China or Japan), as existing literature lacks detailed records. The study combines historical research and materials science to provide comprehensive information for future restoration. 
+Historical research will examine the museum's collection history and interpret the iconography, hypothesizing possible techniques mentioned in ancient texts. Non-invasive tests using a Digital Microscope, Fiber Optic Reflectance Spectroscopy (FORS), Infrared External Reflection Module, and Raman Spectroscopy will analyze pigments and materials. Micro-samples will be analyzed using Scanning Electron Microscopy (SEM), μ-FTIR Spectroscopy, and Pyrolysis-Gas Chromatography/Mass Spectrometry (Py-GC/MS) to identify components, additives, and possibly the origin. Electron Paramagnetic Resonance (EPR) will study the degradation process. 
+The study aims to enhance the understanding of Asian lacquerware's craftsmanship and provenance and provide insights into using various scientific instruments for lacquerware analysis, supporting future restoration and preservation efforts.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

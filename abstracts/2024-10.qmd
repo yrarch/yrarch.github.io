@@ -1,0 +1,14 @@
+---
+title: 'A dangerous tradition: Asbestos-tempered pottery in prehistoric and modern Eskişehir, Türkiye'
+date: "2024"
+date-format: "YYYY"
+categories: [ceramics, chaine operatoire, petrography, mineralogy]
+author: 
+  - name: Ashley Cercone
+    corresponding: true
+    email: ashleyce@buffalo.edu
+---
+
+For over 5,000 years, communities in Eskişehir, Türkiye, have been quarrying and using volcanic rocks containing asbestos minerals due to their natural strength and fire resistance. Across the modern-day province, but especially in the villages, asbestos fibers are exploited to construct homes and pottery. At the Early Bronze Age settlement and cemetery of Küllüoba, located in the village of Yenikent, potters were found to increasingly add asbestos to both their fine and coarse ware ceramics. Today, these traditions are still practiced, as communities in Eskişehir continue to exploit and crush these minerals to be added to their clay pastes. This paper will present the ceramic production process in both the Early Bronze Age and modern times, highlighting the use of asbestos as a temper through petrographic and mineralogical analyses.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

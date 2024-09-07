@@ -1,0 +1,23 @@
+---
+title: 'Influence of decantation on Mediterranean clay: An experimental archaeological approach'
+date: "2024"
+date-format: "YYYY"
+categories: [experimental, clay processing, decantation, XRF, XRD, ICP-MS, isotopes, SEM, microscopy, petrography, Mediterranean, Atterberg Limits]
+author: 
+  - name: Vania Filippou
+    corresponding: true
+    email: filippouvania@yahoo.gr
+  - name: Lara Maritan
+  - name: Virginie Renson
+  - name: Daria Pasqual
+  - name: Silvia Cattò
+  - name: Eleni Nodarou
+  - name: Emma Cantisani
+  - name: Maria Dikomitou Eliadou
+  - name: Zomenia Zomeni
+---
+
+Clay processing can deeply affect the characteristic of a base clay, having important effect on both provenance studies and technological issues in ceramic examinations. Decantation is one of those clay processing techniques that has been used for cleaning the clay from the impurities (coarser fraction) found in the sediment. The influence of this processing is assessed experimentally by delving into the effects it has on a mineralogical, elemental, and microscopic level. Ten clayey materials were sampled from different geographic location in the Mediterranean basin (Cyprus, Greece, Italy and Sudan) to undergo a multianalytical approach before and after they were depurated. X-ray Fluorescence and X-ray Powder Diffraction were used to interpret the mineralogical and chemical changes of the base clay underwent, as well as laser granulometry to establish the changes in terms of grain-size distribution pre and post processing (depuration for sedimentation in calm water). The samples were also fired at 400°C facilitating thin section production enabling microscopic analysis. Digital imaging analysis using the Scanning Electron Microscope with backscattered electron images was crucial for elemental understanding of the clays. Finally, Atterberg limits were measured to explored the impact of decantation on clay plasticity, giving information on changes in mineral type content and organic material. The samples are to be further tested in the close future for isotopic analysis and ICP-MS. 
+By addressing these changes, the study aims to deepen our understanding of clay behavior, therefore helping develop our insights into ceramic production techniques and facilitating provenance studies.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

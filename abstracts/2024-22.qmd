@@ -1,0 +1,14 @@
+---
+title: 'Fragments of the past from Zeytinli Bahçe Höyük: Deciphering cultural and technological interactions from the Late Chalcolithic to the Early Bronze Age through ceramic petrography.'
+date: "2024"
+date-format: "YYYY"
+categories: [petrography, ceramic technology, Zeytinli Bahçe Höyük, Late Chalcolithic, Middle Euphrates]
+author: 
+  - name: Rosa Crocco
+    corresponding: true
+    email: rosa.crocco@uniroma1.it
+---
+
+The site of Zeytinli Bahçe Höyük, located near Birecik (Urfa province, Turkey), provides a valuable testimony to the complex cultural history of the Middle Euphrates Valley over several millennia. Its strategic position and extensive stratigraphic sequence, spanning from the 4th millennium BC to the late Byzantine/medieval period, make it an excellent observatory for studying the numerous changes that have affected southeastern Anatolia and northern Mesopotamia over time. At the YRA 2024 Conference, preliminary results of petrographic analyses conducted using polarized light microscopy on a selection of ceramic artifacts from the Late Chalcolithic 3-5 levels and the Early Bronze Age I (from the early 4th millennium BC to the early 3rd millennium BC) of Zeytinli Bahçe will be presented. The collected data allow us to trace the evolution of craft practices related to the site’s ceramic production, from the origin of raw materials to the manufacturing techniques of the vessels. Through this analysis, it has been possible to identify the persistence of some traditions in the manufacture and use of the vessels, as well as modifications linked to the socio-economic and cultural transformations within the communities that inhabited Zeytinli Bahçe. These data contribute to the debate on the cultural and social transformations that characterized Greater Mesopotamia in the 4th millennium BC, with a particular focus on the northward expansion of Uruk culture groups, aiming to clarify the impact and scope of external cultural influences, such as that of the Uruk culture, on local traditions.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

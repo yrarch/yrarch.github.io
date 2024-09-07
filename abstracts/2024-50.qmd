@@ -1,0 +1,21 @@
+---
+title: 'The RETS Project: Revealing the Senne. A hidden landmark in the historical center of Brussels, Belgium'
+date: "2024"
+date-format: "YYYY"
+categories: [geoarchaeology, river reconstruction, (palaeo)environment]
+author: 
+  - name: Dries Vergouwen
+    orcid: 0000-0003-2264-343X
+    corresponding: true
+    email: Dries.Vergouwen@vub.be
+  - name: Ann Degraeve
+  - name: Marc Meganck
+  - name: Ralf Vandam
+    orcid: 0000-0002-9542-8477
+  - name: Yannick Devos
+    orcid: 0000-0002-5315-1916
+---
+
+Throughout history, the Senne river has always been an important landmark for Brussels. In the past, the river served multiple functions. It was essential for providing food and water, for waste disposal, navigation and transport. Infrastructures such as mills, breweries, fortifications and fishponds could be found along its banks. The course of the river Senne and its side branches has changed drastically across history. As the landscape and the city developed, the river’s flow was adapted in natural and artificial ways. Today, many questions remain unanswered concerning the evolution of the Senneriver valley, and the general human-environment interactions across history. Recent (geo)archaeological research conducted under the auspices of urban.brussels, the Brussels Regional Administration in charge of the archaeological heritage, has shown the tremendous archaeological potential of the river valley to reach a renewed understanding of the development of the Senne and its branches. Therefore, the RETS project aims to provide a synthesis of the archaeological, environmental and historical data from the Senne valley within the historical center of Brussels, starting from the Holocene until the 19th century. The research will generate maps and 3D-models which will be integrated in the publicly accessible regional cartographic platform BruGIS. These newly developed tools will as such contribute to an optimal management of the archaeological heritage in the research area.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
