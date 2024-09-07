@@ -7,10 +7,6 @@ listing:
     - "date"
     - "title"
   categories: true
-  fields: 
-    - date
-    - title
-    - author
   page-size: 50
   table-hover: true
 date-format: "YYYY"
