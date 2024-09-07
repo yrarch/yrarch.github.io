@@ -96,10 +96,25 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./current.html"> 
-<span class="menu-text">YRA 2024</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-workshop" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Workshop</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-workshop">    
+        <li>
+    <a class="dropdown-item" href="./current.html">
+ <span class="dropdown-text">YRA 2024</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./abstracts.html">
+ <span class="dropdown-text">Abstract repository</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./archive-workshop.html">
+ <span class="dropdown-text">Previous editions</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./seminar.html"> 
 <span class="menu-text">Seminar</span></a>
@@ -107,10 +122,6 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./team.html"> 
 <span class="menu-text">Team</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./archive.html" aria-current="page"> 
-<span class="menu-text">Archive</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./tutorials.html"> 
@@ -1431,7 +1442,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"loop":false,"closeEffect":"zoom","descPosition":"bottom","selector":".lightbox","openEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","selector":".lightbox","loop":false,"openEffect":"zoom","descPosition":"bottom"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {
