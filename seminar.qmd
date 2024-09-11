@@ -11,7 +11,7 @@ The time slots of each presentation will be accommodated to be the most comforta
 
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=dWMyVkNIT0NrNjBTUlp1Z0phOGl3UT09) to join the Zoom meeting.
 
-## Next presentation: POSTPONED to September 10th, at 8:00 am (UTC)
+## Next presentation: October 10th, at 2:00 pm (UTC)
 
 ::: {.column-margin}
 
@@ -22,19 +22,19 @@ Click [here](https://zoom.us/j/98869145922?pwd=dWMyVkNIT0NrNjBTUlp1Z0phOGl3UT09)
 **Code:** YRA-S2024  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20240502T130000).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241010T140000&p1=1440).
 
 :::
 
-*Plant and insect remains as indicators for waterlogged dung layers – The example of the Neolithic lakeshore settlement Mooswinkel in the Austrian Alps*  
-**Thorsten Jakobitsch** (Austrian Archaeological Institute, Austria)
+*Biomolecular insights into Magdalenian ungulates from Petersfels (Hegau Jura, southwestern Germany) via ZooMS and stable isotope analysis*  
+**Madison McCartin** (University of California, Davis, USA)
 
-**Keywords:** Stable manure; Pile dwelling; Archaeobotany; Archaeoentomology; Late Neolithic  
+**Keywords:** Magdalenian; ZooMS; Stable isotopes; Zooarchaeology; Paleoenvironment; Ungulates  
 
 **Abstract:**  
-Stable manure preserves well in waterlogged archaeological sediments. The organic refuse provides a wealth of information about the site’s economy, forest resources, and impact on the environment. However, the recognition of middens and manure in sediment layers is not always straightforward. In the case study of the Late Neolithic pile dwelling Mooswinkel at the lake Mondsee in Austria, dung, botanical macro- and microremains, as well as invertebrates identified the sediment as stable manure from goat, sheep and cattle farming. Furthermore, the season of the layer formation could be recognized. Materials investigated included pollen, bryophytes, plant fruits and seeds, leaves, branches and bud scales of woody plants, as well as insect remains. In addition, plant microremains in dung were analysed. The results of this multi-material study show that leaf hay and grass hay were used as fodder during the winter season. The impact of fodder acquisition and pasturing on the forest could be reconstructed, showing the formation of a mosaic landscape of natural and semi-natural habitats. 
+After the Last Glacial Maximum, ameliorating climates facilitated the recolonization of Central Europe by human and animal groups. Petersfels, situated in the Hegau Jura of southwestern Germany, evidences the later stages of this repopulation, dating to ~16-14 ka cal BP. Over the past hundred years, numerous excavations at the site have revealed an exceptional record of Magdalenian subsistence including abundant lithic and osseous material, personal ornaments, engravings, and female figurines. Faunal remains are particularly relevant, as they archive information on human and animal lifeways as well as the broader post-LGM environmental context. However, despite this great potential, little is known about the paleoecological context of the site or the broader Hegau Jura. Here, we present new biomolecular analyses of the Petersfels faunal assemblage, which help to illuminate the paleoecology of the region. Zooarchaeology by Mass Spectrometry (ZooMS) was applied to identify rare taxa and to differentiate between closely related species. We also conducted stable isotope analyses of carbon (δ13C) and oxygen (δ18O) from serially sampled equid and bovid tooth enamel carbonate. The latter contributes to our understanding of local paleoecology during the Magdalenian and the status of human and animal communities during post-LGM climatic change. More broadly, this work shows how heritage collections like Petersfels are still immensely valuable, especially with the application of modern biomolecular techniques.   
 
-![](assets/img/Seminar/2024-09_Jakobitsch_copyright.png)  
+![](assets/img/Seminar/2024-10_McCartin_copyright.png)  
 
 ## Programme
 
@@ -51,7 +51,7 @@ Copper and its alloys are one of the materials thought to come from the maritime
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## July 1st – Alkiviadis Sideridis (University of Athens, Greece)
 **Time:** 8:00 am (UTC)  
-**Title:** Tinos’ lost ancient serpentinite quarry (Cyclades, Greece): an interdisciplinary approach.  
+**Title:** Tinos’ lost ancient serpentinite quarry (Cyclades, Greece): an interdisciplinary approach  
 **Keywords:** Stone analysis; Serpentinite; Cyclades Greece; Ancient quarry  
 **Abstract:** The study of marble and coloured-stone production centres of antiquity carries a significant role in the scientific community, being a subject where natural and archaeological sciences may interweave, aiming to decipher quarrying methods, trade and the unique geological fingerprint of the stones. Contemporary quarrying activity on Tinos Island, Greece, is focused on ophicalcites (metasomatic rock consisting of serpentine and carbonates), however, the studied ancient quarry of Ag. Georgios Ras (Ras serpentinite) consist of a distinctive serpentinite, with no carbonate participation when compared to the neighbouring ophicalcite. Ras serpentinite was quarried from two small-scale open pits demonstrating tool marks, grooves, as well as holes for inserting wedges. The serpentinite consists of, macroscopically and mineralogically, two serpentine varieties, a dark green demonstrating massive texture and a light green forming a network of fibrous serpentine. Research efforts on serpentinite provenance are limited and lack information and data when compared to the study of white marble. This study aims to enrich the present database using a variety of techniques, including XRD, LA-ICP-MS and physicomechanical tests to determine the geochemistry, geotectonic environment of formation and strength characteristics of the Ras serpentinite. The geological study is framed, in an interdisciplinary approach, by archaeological and lichenometrical data and observation to further shed light upon the newly explored Ras serpentinite quarry. 
 :::
@@ -67,7 +67,7 @@ Copper and its alloys are one of the materials thought to come from the maritime
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## October 10th – Madison McCartin (University of California, Davis, USA)
 **Time:** 2:00 pm (UTC)  
-**Title:** Biomolecular insights into Magdalenian ungulates from Petersfels (Hegau Jura, southwestern Germany) via ZooMS and stable isotope analysis.  
+**Title:** Biomolecular insights into Magdalenian ungulates from Petersfels (Hegau Jura, southwestern Germany) via ZooMS and stable isotope analysis  
 **Keywords:** Magdalenian; ZooMS; Stable isotopes; Zooarchaeology; Paleoenvironment; Ungulates  
 **Abstract:** After the Last Glacial Maximum, ameliorating climates facilitated the recolonization of Central Europe by human and animal groups. Petersfels, situated in the Hegau Jura of southwestern Germany, evidences the later stages of this repopulation, dating to ~16-14 ka cal BP. Over the past hundred years, numerous excavations at the site have revealed an exceptional record of Magdalenian subsistence including abundant lithic and osseous material, personal ornaments, engravings, and female figurines. Faunal remains are particularly relevant, as they archive information on human and animal lifeways as well as the broader post-LGM environmental context. However, despite this great potential, little is known about the paleoecological context of the site or the broader Hegau Jura. Here, we present new biomolecular analyses of the Petersfels faunal assemblage, which help to illuminate the paleoecology of the region. Zooarchaeology by Mass Spectrometry (ZooMS) was applied to identify rare taxa and to differentiate between closely related species. We also conducted stable isotope analyses of carbon (δ13C) and oxygen (δ18O) from serially sampled equid and bovid tooth enamel carbonate. The latter contributes to our understanding of local paleoecology during the Magdalenian and the status of human and animal communities during post-LGM climatic change. More broadly, this work shows how heritage collections like Petersfels are still immensely valuable, especially with the application of modern biomolecular techniques.  
 :::
@@ -79,7 +79,7 @@ To be announced.
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## December – Sibylle Manya (Centre de Recherche et de Restauration des Musées de France, France)
-**Title:** Chrysocolla at high temperatures: understanding Pre-Hispanic metallurgy through Collahuasi slag analysis (Tarapaca, Chile).  
+**Title:** Chrysocolla at high temperatures: understanding Pre-Hispanic metallurgy through Collahuasi slag analysis (Tarapaca, Chile)  
 *Date and time to be announced.*
 :::
 
