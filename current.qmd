@@ -11,7 +11,7 @@ lightbox: true
 ~~**July 1^st^** -- Announcement of abstracts decisions~~  
 ~~**July 1^st^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens~~  
 ~~**Aug. 1^st^** -- Preliminary program available~~  
-**Sept. 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes  
+~~**Sept. 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes~~  
 **Oct. 1^st^** -- Meeting details and final program available  
 **Oct. 15^th^--18^th^** -- YRA2024 in Nicosia   
 **Oct. 31^st^** -- Certificates sent to participants
@@ -168,7 +168,7 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |13:00 -- 14:00| *Lunch break*|
 |||
 |14:00 -- 14:20| [*Provenance of ancient architectural marble on Delos island (Cyclades, Greece): contributions of a four year archaeometric study*](abstracts/2024-37.qmd)<br>**Tommy Vettor, Violaine Sautter, Laurent Jolivet, Jean-Charles Moretti**|
-|14:20 -- 14:30| [*Closing/ Final remarks*|
+|14:20 -- 14:30| *Closing/ Final remarks*|
 |||
 |16:30 -- 19.30| *Experimental pyre: Food for the Gods Sacrificial Pyres in the Archaeological Record*<br>(venue TBA)|
 
