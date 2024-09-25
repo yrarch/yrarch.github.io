@@ -115,7 +115,6 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 
 ## **Oct. 17^th^**
 
-
 ||**Session 4: Ceramics, part 2**|
 |--|--------|
 |09:00 -- 09:20| [*Paint It, Red: A Technological and Compositional Study of Classical Pottery from Nea Paphos, Cyprus*](abstracts/2024-16.qmd)<br>**Geneviève Lascombes, Edyta Marzec, Lara Maritan**|
@@ -129,7 +128,7 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |11:00 -- 11:20| [*µ-LIBS imaging as spatially-resolved and quantitative characterization method for pottery*](abstracts/2024-21.qmd)<br>**Nicolas Herreyre, Valérie Merle, Anne Schmitt, Christine Oberlin, Clothilde Comby-Zebino, Vincent Motto-Ros**|
 |11.20-11.40| [*Fragments of the Past from Zeytinli Bahçe Höyük: Deciphering Cultural and Technological Interactions from the Late Chalcolithic to the Early Bronze Age through Ceramic Petrography*](abstracts/2024-22.qmd)<br>**Rosa Crocco**|
 |11:40 -- 12:00| [*Knowledge exchange in pottery production in Neolithic Northwest China: a petrographic study and the resulting development of a digital tool for petrographic image analysis in archaeology*](abstracts/2024-23.qmd)<br>**Evgenia Dammer**|
-|12:00 -- 12:20| [*Shedding light on lighting practices in Minoan Crete: exploring the potential of spectroscopic and spectrometric techniques*](abstracts/2024-24.qmd)<br>**Maria Eleni Konstantinou, Maria Roumpou, Aggelos Philippidis, Bastien Rueff, Sophia Sotiropoulou, Demetrios Anglos**|
+|12:00 -- 12:20| ~~*Shedding light on lighting practices in Minoan Crete: exploring the potential of spectroscopic and spectrometric techniques*<br>**Maria Eleni Konstantinou, Maria Roumpou, Aggelos Philippidis, Bastien Rueff, Sophia Sotiropoulou, Demetrios Anglos**~~|
 |12:20- 12:40| [*More Than Just a Pot? An Archaeometrical Investigation of Unusual Chalcolithic Small-Sized Biconical Closed Pots from the Archaeological Sites of ”Gumelnița” and ”Măriuța-La Movilă”*](abstracts/2024-25.qmd)<br>**Bogdan Manea, Ioana Dinca, Vasile Opris, Daniel Stoicescu, Adrian Sima, Dragos Mirea, Ana García-Vázquez, Valentin Parnic, Ion Tiseanu, Catalin Lazar**|
 |12:40- 13.00| [*Mineralogical and Petrographic Study of Tuyères from Pongsolo (Lekie, Central Cameroon)*](abstracts/2024-26.qmd)<br>**Epossi Ntah Zoila Luz-Kroll, Thomas Rose**|
 |||
@@ -140,7 +139,7 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |16.00- 16.20| *Coffee break*|
 |||
 |16:20- 18:00| TBA |
-|18.00 -- 19.00| *Keynote: TBA*<br>**[Dr. Juan José García-Granero](https://www.researchgate.net/profile/Juan-Jose-Garcia-Granero) (Institución Milà y Fontanals, Barcelona, Spain)**<br>Fresnel Auditorium |
+|18.00 -- 19.00| *Keynote: The prehistoric roots of the Mediterranean diet*<br>**[Dr. Juan José García-Granero](https://www.researchgate.net/profile/Juan-Jose-Garcia-Granero)** (Spanish National Research Council, Spain)<br>Fresnel Auditorium |
 |||
 |20:30| Dinner<br>*Traditional Tavern with cypriot mezes and live music (old town of Nicosia, location TBA)* (self-paid, 25 € incl. unlimited soft-drinks, wine, beer)*|
 
@@ -184,7 +183,6 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |--|
 |[*Trace element influence on phytolith dissolution and preservation: Investigating the role of strontium and barium*](abstracts/2024-38.qmd)<br>**Nafsika C. Andriopoulou, Georgios E. Christidis**|
 |[*Deciphering Past Coastal Environments: Beachrock Characterisation and Luminescence Dating in SE Lasithi, Crete, Greece*](abstracts/2024-39.qmd)<br>**Nafsika C. Andriopoulou, Georgios C. Polymeris, Konstantinos C. Stamoulis, Michael Schöbel, Georgios E. Christidis, Stefanos Papadakis, Anna Novikova, Nikos Papadopoulos**|
-|[*Estimating the Firing Temperature of a Brick Material from a Church Convent Ruin in Quipayo, Camarines Sur, Philippines*](abstracts/2024-40.qmd)<br>**Jan-Michael C. Cayme, Eric T. Miranda**|
 |[*Exploring the Maritime Trade and Cultural Linkages across the East Coast: Case Studies based on Ceramic Analysis*](abstracts/2024-41.qmd)<br>**Debankita Das**|
 |[*A look upon chalcolithic pottery technology through the petrographic analysis of a batch from North of Danube*](abstracts/2024-42.qmd)<br>**Mădălina Dimache, Cristian-Eduard Ștefan**|
 |[*Slag vitrification as a proxy for smelting technology - Tracking 7,000 years of copper production in Timna, Israel*](abstracts/2024-43.qmd)<br>**Eshchar Gichon, Efrat Nakash, David Kosson, Lesa Renee Brown, Carolyn Pearce, Jose Marcial, James Neeway, Albert Kruger, Erez Ben-Yosef**|
