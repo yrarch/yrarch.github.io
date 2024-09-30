@@ -77,7 +77,7 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |||
 |--|--------|
 |08:45 -- 09:15| Welcoming and registration |
-|09:15 -- 09:30| Opening/Welcome speech addressed by the Director of STARC, Prof. Michel  Menu |
+|09:15 -- 09:30| Opening/Welcome speech addressed by the Director of STARC, Prof. Michel Menu |
 |||
 ||**Session 1: Cultural heritage/non-invasive methods**|
 |09:30 -- 09:50| [*Archaeometric analysis of the inks in two 15th century Greek paper manuscripts: a preliminary comparative study*](abstracts/2024-1.qmd)<br>**Katerina Grigoriadou**|
@@ -90,7 +90,7 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |11:10 -- 11:30| [*3D Visualization and Digital Recording of Sculptures through Photogrammetry: An Iconometric Examination of the Hoysala Sculptures*](abstracts/2024-5.qmd)<br>**Poorva Salvi**|
 |11:30 -- 11:50| [*Shallow Offshore Archaeological Prospection in Ancient Olous, Crete*](abstracts/2024-6.qmd)<br>**Angelos Plageras, Dimitrios Oikonomou, Nikos Papadopoulos**|
 |11:50 -- 12.10| [*Breaking into the “Black Box”: The contribution of ethnographic work in decoding Late Cypriot household structures*](abstracts/2024-7.qmd)<br>**Chara Theotokatou**| 
-|12:10 --12:30| [*KWAMTENG: Sustaining  And Promoting an  Intangible Cultural Heritage for future generations*](abstracts/2024-8.qmd)<br>**Paul Nkwap**|
+|12:10 --12:30| [*KWAMTENG: Sustaining And Promoting an Intangible Cultural Heritage for future generations*](abstracts/2024-8.qmd)<br>**Paul Nkwap**|
 |||
 ||**Session 2: Ceramics, part 1**|
 |12:30 -- 12:50| [*Clay for pots. Raw Material Determination of Sântana "Cetatea Veche" Ceramics and Determination of Firing Methods in Late Bronze Age*](abstracts/2024-9.qmd)<br>**Alexandra Stache, Ágnes Gál, Florin Gogâltan**|
@@ -103,13 +103,13 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |14.40 -- 15.10| [*Materials Analysis of Medieval Islamic Ceramics from Petra Valley -- Production and Consumption Dynamics*](abstracts/2024-12.qmd)<br>**Salama Kassem**|
 |||
 ||**Session 3: Environmental Archaeology and Bioarchaeology**| 
-|15:10 -- 15:30| [*Ongoing Archaeobotanical Research in Mycenaean Iklaina, Messenia, Greece*](abstracts/2024-13.qmd)<br>**Symeon Gkinoudis, Evi Margaritis**|  
+|15:10 -- 15:30| [*Ongoing Archaeobotanical Research in Mycenaean Iklaina, Messenia, Greece*](abstracts/2024-13.qmd)<br>**Symeon Gkinoudis, Evi Margaritis**| 
 |15:30 -- 15:50| [*Phytolith analysis for the investigation of plant exploitation in Bronze Age Cyprus*](abstracts/2024-14.qmd)<br>**Georgia Kasapidou**|
 |15:50 -- 16:10| [*Fuelling Ancient Idalion: Charcoal Analysis and Insights into 1st Millennium BCE Cyprus*](abstracts/2024-15.qmd)<br>**Panagiotis Koullouros**| 
 |||
 |16:10 -- 16:30| *Coffee break*|
 |||
-|16:30 -- 17:00| *Keynote: TBA*<br>**[Assoc. Prof. Evi Margaritis](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/161-Evi-Margaritis.html) and [Dr. Michael Boyd](https://www.arch.cam.ac.uk/directory/mjb235) (The Cyprus Institute) **|
+|16:30 -- 17:00| *Keynote: Domesticity, craft production and ritual: Changing patterns of human life in the 3rd millennium BCE Aegean*<br>**[Assoc. Prof. Evi Margaritis](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/161-Evi-Margaritis.html), [Dr. Michael Boyd](https://www.arch.cam.ac.uk/directory/mjb235) (The Cyprus Institute), [Prof. Lord Colin A. Renfrew](https://www.arch.cam.ac.uk/directory/acr10) (University of Cambridge)**|
 |||
 |17:30 -- 19:00| *Screening of the movie: Buried Secrets of Keros*, **National Geographic, UK**<br>([Watch the official trailer on Youtube](https://www.youtube.com/watch?v=_5ShqeNk-J4)) <br> Fresnel Auditorium|
 
@@ -161,7 +161,7 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 11:20 -- 11:40| [*Comparison of the polychrome metalworking and decoration techniques from the Langobardic and Gepidic periods (6th century AD) in the Carpathian Basin*](abstracts/2024-32.qmd)<br>**Viktória Mozgai, Eszter Horváth, Bernadett Bajnóczi**|
 |11:40 -- 12:00| [*Commercial High Alumina Crucibles for Melting Alkali and Alkaline Earth Metal Salt Mixtures to Replicate Ancient Glass Production*](abstracts/2024-33.qmd)<br>**Marcel Frenken, Meghna Desai, Thilo Rehren**|
 |12:00 -- 12:20| [*The Interaction between Persian Gulf and Indian Peninsula during the middle-late Islamic Period: Compositional Evidence for the High-Alumina Glass Bangles Discovered from Coastal Sites of Qatar and U.A.E.*](abstracts/2024-34.qmd)<br>**Qian Cheng, Thilo Rehren, Robert Andrew Carter, Xueyan Zhang**|
-|12:20 -- 12:40| [*Identifying a Peloponnesian palette: pigment analysis of domestic architecture  from Stymphalos*](abstracts/2024-35.qmd)<br>**Alice Clinch**|
+|12:20 -- 12:40| [*Identifying a Peloponnesian palette: pigment analysis of domestic architecture from Stymphalos*](abstracts/2024-35.qmd)<br>**Alice Clinch**|
 |12:40- 13.00| [*The “production” of Minoan red serpentinite*](abstracts/2024-36.qmd)<br>**Killian Regnier**|
 |||
 |13:00 -- 14:00| *Lunch break*|
@@ -200,7 +200,7 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 
 ### SAS Travel Award 
 
-The [Society for Archaeological Sciences](https://socarchsci.org) (SAS) sponsors a single travel award of USD 200 to support one student/ECR from [low and middle income countries](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) and/or with financial need.    
+The [Society for Archaeological Sciences](https://socarchsci.org) (SAS) sponsors a single travel award of USD 200 to support one student/ECR from [low and middle income countries](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) and/or with financial need. 
 
 The application for the SAS Travel award is integrated in the [abstract submission form](https://forms.gle/txhdzYgtvHt5LEoh6). Applications will be evaluated after abstract submission closed. The evaluation will be based on the applicant's career status, location of affiliation, availability of alternative funding sources, and an motivation letter of 300 to 400 words. The SAS Travel Award can only be given to an applicant with an accepted abstract. 
 
