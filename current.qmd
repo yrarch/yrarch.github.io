@@ -100,7 +100,7 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |||
 |14:00 --14.20| [*A Dangerous Tradition: Asbestos-tempered Pottery in Prehistoric and Modern Eskişehir, Türkiye*](abstracts/2024-10.qmd)<br>**Ashley Cercone**|
 |14:20 -- 14:40| [*Disclosing Production Process by the Archaeometric Analysis of Bronze to Iron Age Ceramic Jars from Qatna (Central Syria)*](abstracts/2024-11.qmd)<br>**Bianca Costi Farias, Lara Maritan, Claudio Mazzoli, Marco Iamoni, Daniele Morandi**|
-|14.40 -- 15.10| [*Materials Analysis of Medieval Islamic Ceramics from Petra Valley -- Production and Consumption Dynamics*](abstracts/2024-12.qmd)<br>**Salama Kassem**|
+|14.40 -- 15.10| ~~*Materials Analysis of Medieval Islamic Ceramics from Petra Valley -- Production and Consumption Dynamics*<br>**Salama Kassem**~~|
 |||
 ||**Session 3: Environmental Archaeology and Bioarchaeology**| 
 |15:10 -- 15:30| [*Ongoing Archaeobotanical Research in Mycenaean Iklaina, Messenia, Greece*](abstracts/2024-13.qmd)<br>**Symeon Gkinoudis, Evi Margaritis**| 
