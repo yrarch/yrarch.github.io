@@ -89,25 +89,23 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |10:50 -- 11:10| [*Revealing Hidden Histories: Using High-Resolution Portable Computed Tomography for Closed Cuneiform Tablets*](abstracts/2024-4.qmd)<br>**Samaneh Ehteram**|
 |11:10 -- 11:30| [*3D Visualization and Digital Recording of Sculptures through Photogrammetry: An Iconometric Examination of the Hoysala Sculptures*](abstracts/2024-5.qmd)<br>**Poorva Salvi**|
 |11:30 -- 11:50| [*Shallow Offshore Archaeological Prospection in Ancient Olous, Crete*](abstracts/2024-6.qmd)<br>**Angelos Plageras, Dimitrios Oikonomou, Nikos Papadopoulos**|
-|11:50 -- 12.10| [*Breaking into the “Black Box”: The contribution of ethnographic work in decoding Late Cypriot household structures*](abstracts/2024-7.qmd)<br>**Chara Theotokatou**| 
-|12:10 --12:30| [*KWAMTENG: Sustaining And Promoting an Intangible Cultural Heritage for future generations*](abstracts/2024-8.qmd)<br>**Paul Nkwap**|
+|11:50 -- 12:10| [*Breaking into the “Black Box”: The contribution of ethnographic work in decoding Late Cypriot household structures*](abstracts/2024-7.qmd)<br>**Chara Theotokatou**| 
+|12:10 -- 12:30| [*KWAMTENG: Sustaining And Promoting an Intangible Cultural Heritage for future generations*](abstracts/2024-8.qmd)<br>**Paul Nkwap**|
 |||
 ||**Session 2: Ceramics, part 1**|
 |12:30 -- 12:50| [*Clay for pots. Raw Material Determination of Sântana "Cetatea Veche" Ceramics and Determination of Firing Methods in Late Bronze Age*](abstracts/2024-9.qmd)<br>**Alexandra Stache, Ágnes Gál, Florin Gogâltan**|
 |12:50 -- 13:00| *The Master, PhD, training Programs offered by The Cyprus Institute*<br>**Graduate School, CyI**|
 |||
-|13:00 -- 14.00| *Lunch break*|
+|13:00 -- 14:00| *Lunch break*|
 |||
-|14:00 --14.20| [*A Dangerous Tradition: Asbestos-tempered Pottery in Prehistoric and Modern Eskişehir, Türkiye*](abstracts/2024-10.qmd)<br>**Ashley Cercone**|
+|14:00 -- 14:20| [*A Dangerous Tradition: Asbestos-tempered Pottery in Prehistoric and Modern Eskişehir, Türkiye*](abstracts/2024-10.qmd)<br>**Ashley Cercone**|
 |14:20 -- 14:40| [*Disclosing Production Process by the Archaeometric Analysis of Bronze to Iron Age Ceramic Jars from Qatna (Central Syria)*](abstracts/2024-11.qmd)<br>**Bianca Costi Farias, Lara Maritan, Claudio Mazzoli, Marco Iamoni, Daniele Morandi**|
-|14.40 -- 15.10| ~~*Materials Analysis of Medieval Islamic Ceramics from Petra Valley -- Production and Consumption Dynamics*<br>**Salama Kassem**~~|
 |||
-||**Session 3: Environmental Archaeology and Bioarchaeology**| 
-|15:10 -- 15:30| [*Ongoing Archaeobotanical Research in Mycenaean Iklaina, Messenia, Greece*](abstracts/2024-13.qmd)<br>**Symeon Gkinoudis, Evi Margaritis**| 
-|15:30 -- 15:50| [*Phytolith analysis for the investigation of plant exploitation in Bronze Age Cyprus*](abstracts/2024-14.qmd)<br>**Georgia Kasapidou**|
-|15:50 -- 16:10| [*Fuelling Ancient Idalion: Charcoal Analysis and Insights into 1st Millennium BCE Cyprus*](abstracts/2024-15.qmd)<br>**Panagiotis Koullouros**| 
-|||
-|16:10 -- 16:30| *Coffee break*|
+||**Session 3: Environmental Archaeology and Bioarchaeology**|
+|14.40 -- 15:10| [*Ongoing Archaeobotanical Research in Mycenaean Iklaina, Messenia, Greece*](abstracts/2024-13.qmd)<br>**Symeon Gkinoudis, Evi Margaritis**|
+|15:10 -- 15:30| [*Phytolith analysis for the investigation of plant exploitation in Bronze Age Cyprus*](abstracts/2024-14.qmd)<br>**Georgia Kasapidou**| 
+|15:30 -- 15:50| [*Fuelling Ancient Idalion: Charcoal Analysis and Insights into 1st Millennium BCE Cyprus*](abstracts/2024-15.qmd)<br>**Panagiotis Koullouros**|
+|15:50 -- 16:30| *Coffee break*|
 |||
 |16:30 -- 17:00| *Keynote: Domesticity, craft production and ritual: Changing patterns of human life in the 3rd millennium BCE Aegean*<br>**[Assoc. Prof. Evi Margaritis](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/161-Evi-Margaritis.html), [Dr. Michael Boyd](https://www.arch.cam.ac.uk/directory/mjb235) (The Cyprus Institute), [Prof. Lord Colin A. Renfrew](https://www.arch.cam.ac.uk/directory/acr10) (University of Cambridge)**|
 |||
@@ -118,30 +116,29 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 ||**Session 4: Ceramics, part 2**|
 |--|--------|
 |09:00 -- 09:20| [*Paint It, Red: A Technological and Compositional Study of Classical Pottery from Nea Paphos, Cyprus*](abstracts/2024-16.qmd)<br>**Geneviève Lascombes, Edyta Marzec, Lara Maritan**|
-|09:20 --09:40| [*The Clay of a Gateway Community In Cyprus -- Domestic Pottery from Soli*](abstracts/2024-17.qmd)<br>**Marie-Louise Jahn Hansen**|
+|09:20 -- 09:40| [*The Clay of a Gateway Community In Cyprus -- Domestic Pottery from Soli*](abstracts/2024-17.qmd)<br>**Marie-Louise Jahn Hansen**|
 |09:40 -- 10:00| [*Late Hellenistic braziers from Delos; provenance study and characterisation of ‘Cycladic’ type*](abstracts/2024-18.qmd)<br>**Athena Konstandara, Edyta Marzec**|
 |10:00 -- 10:20| [*Influence of decantation on Mediterranean clay: An experimental archaeological approach*](abstracts/2024-19.qmd)<br>**Vania Filippou, Lara Maritan, Virginie Renson, Daria Pasqual, Silvia Cattò, Eleni Nodarou, Emma Cantisani, Maria Dikomitou Eliadou, Zomenia Zomeni**|
 |||
-|10.20 --10.40| *Coffee break*|
+|10:20 -- 10:40| *Coffee break*|
 |||
 |10:40 -- 11:00| [*Envisioning Pre-Colombian Regional Trade Patterns Through Elemental Analysis of Archaeological Ceramics from Western Panama*](abstracts/2024-20.qmd)<br>**Carly Pope, Scott Palumbo, Laure Dussubieux**|
 |11:00 -- 11:20| [*µ-LIBS imaging as spatially-resolved and quantitative characterization method for pottery*](abstracts/2024-21.qmd)<br>**Nicolas Herreyre, Valérie Merle, Anne Schmitt, Christine Oberlin, Clothilde Comby-Zebino, Vincent Motto-Ros**|
-|11.20-11.40| [*Fragments of the Past from Zeytinli Bahçe Höyük: Deciphering Cultural and Technological Interactions from the Late Chalcolithic to the Early Bronze Age through Ceramic Petrography*](abstracts/2024-22.qmd)<br>**Rosa Crocco**|
+|11:20 -- 11:40| [*Fragments of the Past from Zeytinli Bahçe Höyük: Deciphering Cultural and Technological Interactions from the Late Chalcolithic to the Early Bronze Age through Ceramic Petrography*](abstracts/2024-22.qmd)<br>**Rosa Crocco**|
 |11:40 -- 12:00| [*Knowledge exchange in pottery production in Neolithic Northwest China: a petrographic study and the resulting development of a digital tool for petrographic image analysis in archaeology*](abstracts/2024-23.qmd)<br>**Evgenia Dammer**|
-|12:00 -- 12:20| ~~*Shedding light on lighting practices in Minoan Crete: exploring the potential of spectroscopic and spectrometric techniques*<br>**Maria Eleni Konstantinou, Maria Roumpou, Aggelos Philippidis, Bastien Rueff, Sophia Sotiropoulou, Demetrios Anglos**~~|
-|12:20- 12:40| [*More Than Just a Pot? An Archaeometrical Investigation of Unusual Chalcolithic Small-Sized Biconical Closed Pots from the Archaeological Sites of ”Gumelnița” and ”Măriuța-La Movilă”*](abstracts/2024-25.qmd)<br>**Bogdan Manea, Ioana Dinca, Vasile Opris, Daniel Stoicescu, Adrian Sima, Dragos Mirea, Ana García-Vázquez, Valentin Parnic, Ion Tiseanu, Catalin Lazar**|
-|12:40- 13.00| [*Mineralogical and Petrographic Study of Tuyères from Pongsolo (Lekie, Central Cameroon)*](abstracts/2024-26.qmd)<br>**Epossi Ntah Zoila Luz-Kroll, Thomas Rose**|
+|12:00 -- 12:20| [*More Than Just a Pot? An Archaeometrical Investigation of Unusual Chalcolithic Small-Sized Biconical Closed Pots from the Archaeological Sites of ”Gumelnița” and ”Măriuța-La Movilă”*](abstracts/2024-25.qmd)<br>**Bogdan Manea, Ioana Dinca, Vasile Opris, Daniel Stoicescu, Adrian Sima, Dragos Mirea, Ana García-Vázquez, Valentin Parnic, Ion Tiseanu, Catalin Lazar**|
+|12:20 -- 12:40| [*Mineralogical and Petrographic Study of Tuyères from Pongsolo (Lekie, Central Cameroon)*](abstracts/2024-26.qmd)<br>**Epossi Ntah Zoila Luz-Kroll, Thomas Rose**|
 |||
-|13:00- 14:00| *Lunch break*|
+|12:40 -- 13:40|  *Lunch break*|
 |||
-|14:00 -- 16:00| **Session 5: Posters** (The list of posters can be found in the Poster tab) <br> Fresnel Auditorium|
+|13:40 -- 15:40| **Session 5: Posters** (The list of posters can be found in the Poster tab) <br> Fresnel Auditorium|
 |||
-|16.00- 16.20| *Coffee break*|
+|15:40 -- 16.00| *Coffee break*|
 |||
-|16:20- 18:00| TBA |
-|18.00 -- 19.00| *Keynote: The prehistoric roots of the Mediterranean diet*<br>**[Dr. Juan José García-Granero](https://www.researchgate.net/profile/Juan-Jose-Garcia-Granero)** (Spanish National Research Council, Spain)<br>Fresnel Auditorium |
+|16:00 -- 18:00| TBA |
+|18:00 -- 19:00| *Keynote: The prehistoric roots of the Mediterranean diet*<br>**[Dr. Juan José García-Granero](https://www.researchgate.net/profile/Juan-Jose-Garcia-Granero)** (Spanish National Research Council, Spain)<br>Fresnel Auditorium |
 |||
-|20:30| Dinner<br>*Traditional Tavern with cypriot mezes and live music (old town of Nicosia, location TBA)* (self-paid, 25 € incl. unlimited soft-drinks, wine, beer)*|
+|20:30| Dinner at [Fisa & Masa, Ledras 55, Nicosia 1011](https://maps.app.goo.gl/dKVQZdtczMy45uEaA)<br>*Traditional Tavern with cypriot mezes and live music* (self-paid, 25 € incl. unlimited soft-drinks, wine, beer)*|
 
 ## **Oct. 18^th^**
 
@@ -153,23 +150,23 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |||
 |10:10 -- 10:30| *Coffee break*
 |||
-|10:30 --10:40| [*Silver-lead and copper production on Early Bronze Age southern Sifnos: an overview*](abstracts/2024-29.qmd)<br>**Magda Giannakopoulou**|
+|10:30 -- 10:40| [*Silver-lead and copper production on Early Bronze Age southern Sifnos: an overview*](abstracts/2024-29.qmd)<br>**Magda Giannakopoulou**|
 |10:40 --11:00| [*TerraLID: Further steps towards a new ecosystem for lead isotope data in archaeology*](abstracts/2024-30.qmd)<br>**Thomas Rose, Tim Greifelt, Katrin J. Westner, Annette Hornschuch, Yiu-Kang Hsu, Helge Wiethoff, Sabine Klein**|
-|11:.00 -- 11:20| [*Metalworking materials and practices from Late Antique Rome*](abstracts/2024-31.qmd)<br>**Giulia Bison, Jose Cristobal Carvajal Lopez**|
+|11:00 -- 11:20| [*Metalworking materials and practices from Late Antique Rome*](abstracts/2024-31.qmd)<br>**Giulia Bison, Jose Cristobal Carvajal Lopez**|
 |||
 ||**Session 7: Metallurgy, part 2 and Archaeomaterials**| 
-11:20 -- 11:40| [*Comparison of the polychrome metalworking and decoration techniques from the Langobardic and Gepidic periods (6th century AD) in the Carpathian Basin*](abstracts/2024-32.qmd)<br>**Viktória Mozgai, Eszter Horváth, Bernadett Bajnóczi**|
+|11:20 -- 11:40| [*Comparison of the polychrome metalworking and decoration techniques from the Langobardic and Gepidic periods (6th century AD) in the Carpathian Basin*](abstracts/2024-32.qmd)<br>**Viktória Mozgai, Eszter Horváth, Bernadett Bajnóczi**|
 |11:40 -- 12:00| [*Commercial High Alumina Crucibles for Melting Alkali and Alkaline Earth Metal Salt Mixtures to Replicate Ancient Glass Production*](abstracts/2024-33.qmd)<br>**Marcel Frenken, Meghna Desai, Thilo Rehren**|
 |12:00 -- 12:20| [*The Interaction between Persian Gulf and Indian Peninsula during the middle-late Islamic Period: Compositional Evidence for the High-Alumina Glass Bangles Discovered from Coastal Sites of Qatar and U.A.E.*](abstracts/2024-34.qmd)<br>**Qian Cheng, Thilo Rehren, Robert Andrew Carter, Xueyan Zhang**|
 |12:20 -- 12:40| [*Identifying a Peloponnesian palette: pigment analysis of domestic architecture from Stymphalos*](abstracts/2024-35.qmd)<br>**Alice Clinch**|
-|12:40- 13.00| [*The “production” of Minoan red serpentinite*](abstracts/2024-36.qmd)<br>**Killian Regnier**|
+|12:40 -- 13:00| [*The “production” of Minoan red serpentinite*](abstracts/2024-36.qmd)<br>**Killian Regnier**|
 |||
 |13:00 -- 14:00| *Lunch break*|
 |||
 |14:00 -- 14:20| [*Provenance of ancient architectural marble on Delos island (Cyclades, Greece): contributions of a four year archaeometric study*](abstracts/2024-37.qmd)<br>**Tommy Vettor, Violaine Sautter, Laurent Jolivet, Jean-Charles Moretti**|
 |14:20 -- 14:30| *Closing/ Final remarks*|
 |||
-|16:30 -- 19.30| *Experimental pyre: Food for the Gods Sacrificial Pyres in the Archaeological Record*<br>(venue TBA)|
+|16:30 -- 19:30| *Experimental pyre: Food for the Gods Sacrificial Pyres in the Archaeological Record*<br>(venue TBA)|
 
 ## **Oct. 19^th^**
 
