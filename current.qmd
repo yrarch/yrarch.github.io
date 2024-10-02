@@ -144,7 +144,7 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 
 ||**Session 6: Metallurgy, part 1**|
 |--|--------|
-|9:00 -- 9:30| *Keynote: TBA*<br>**[Thilo Rehren](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/943-thilo-rehren.html) (The Cyprus Institute)**|
+|9:00 -- 9:30| *Keynote: The Future of Archaeological Science*<br>**[Prof. Thilo Rehren](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/943-thilo-rehren.html) (The Cyprus Institute)**|
 |09:30 -- 09:50| [*The elemental composition of bog ores in Masovia (Poland) and its affect on the reconstruction of the smelting process*](abstracts/2024-27.qmd)<br>**Antonina Bebłowska-Bednarkiewicz**|
 |09:50 -- 10:10| [*Bronze Production in Archaic and Classical Northern Greece: A Archaeometric Approach to the Study of Bronze Objects from Ancient Argilos*](abstracts/2024-28.qmd)<br>**Justine Lefebvre**|
 |||
@@ -164,7 +164,9 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |13:00 -- 14:00| *Lunch break*|
 |||
 |14:00 -- 14:20| [*Provenance of ancient architectural marble on Delos island (Cyclades, Greece): contributions of a four year archaeometric study*](abstracts/2024-37.qmd)<br>**Tommy Vettor, Violaine Sautter, Laurent Jolivet, Jean-Charles Moretti**|
-|14:20 -- 14:30| *Closing/ Final remarks*|
+|14:20 -- 14:30| *Awards ceremony* |
+|14:30 -- 15:00| *Keynote: Ritual Faunal Deposits in Prehistoric Sanctuaries: Zooarchaeological Insights from the Gymnesic Islands (Western Mediterranean)*<br>**[Dr. Alejandro Valenzuela Oliver](https://www.researchgate.net/profile/Alejandro-Valenzuela) (Mediterranean Institute for Advanced Studies (UIB-CSIC), Spain)**|
+|15:00 -- 15:10| *Closing/ Final remarks*|
 |||
 |16:30 -- 19:30| *Experimental pyre: Food for the Gods Sacrificial Pyres in the Archaeological Record*<br>(venue TBA)|
 
