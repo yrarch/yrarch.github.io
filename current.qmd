@@ -45,9 +45,11 @@ We are happy to announce that the 7^th^ Workshop Young Researchers in Archaeomet
 
 With this workshop, we aim to offer a relaxed atmosphere to encourage interdisciplinary exchange between early career researchers. We are pleased to invite you for oral and poster contributions in all fields of natural sciences about archaeological and anthropological topics. In particular, early career researchers in archaeology, art history, anthropology, biological anthropology, environmental archaeology, chemistry, conservation, cultural heritage, earth science, and material science are welcome to submit an abstract for an oral presentation or poster.
 
+<!--
 Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Registration is possible for everyone, also if you are not presenting. 
 
 Registration fees are 20 € for students (bachelor, master, PhD) and 30 € for everyone else. SAS members receive a 5 € discount. You can join SAS before 15 September to benefit from the discount. 
+-->
 
 ## Programme and social events
 
@@ -59,8 +61,8 @@ Abstracts of all papers can be found in the [abstract repository](abstracts.qmd)
 
 Lecture halls: 
 
-* Mouskos Auditorium (all sessions) 
-* Fresnel Auditorium (movie screening on Wednesday 16^th^ of October, poster session, and keynote lecture on Thursday 17^th^ of October)
+* Fresnel Auditorium (all sessions) 
+* Mouskos Auditorium (keynote lecture and movie screening on Wednesday, 16^th^ of October)
 
 Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.cyi.ac.cy/index.php/contact.html)
 
@@ -70,7 +72,7 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 
 |||
 |--|--------|
-|20:00 | Ice breaker (self-paid)<br> *Old town of Nicosia (meeting point TBA)*|
+|20:00 | Ice breaker (self-paid) at *[Charátsi](https://maps.app.goo.gl/38fH1YMNixaG5txU7)*|
 
 ## **Oct. 16^th^**
 
@@ -105,11 +107,11 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |14.40 -- 15:10| [*Ongoing Archaeobotanical Research in Mycenaean Iklaina, Messenia, Greece*](abstracts/2024-13.qmd)<br>**Symeon Gkinoudis, Evi Margaritis**|
 |15:10 -- 15:30| [*Phytolith analysis for the investigation of plant exploitation in Bronze Age Cyprus*](abstracts/2024-14.qmd)<br>**Georgia Kasapidou**| 
 |15:30 -- 15:50| [*Fuelling Ancient Idalion: Charcoal Analysis and Insights into 1st Millennium BCE Cyprus*](abstracts/2024-15.qmd)<br>**Panagiotis Koullouros**|
-|15:50 -- 16:30| *Coffee break*|
+|15:50 -- 16:30| *Coffee break* (room: Mouskos)|
 |||
-|16:30 -- 17:00| *Keynote: Domesticity, craft production and ritual: Changing patterns of human life in the 3rd millennium BCE Aegean*<br>**[Assoc. Prof. Evi Margaritis](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/161-Evi-Margaritis.html), [Dr. Michael Boyd](https://www.arch.cam.ac.uk/directory/mjb235) (The Cyprus Institute), [Prof. Lord Colin A. Renfrew](https://www.arch.cam.ac.uk/directory/acr10) (University of Cambridge)**|
+|16:30 -- 17:10| *Keynote: Domesticity, craft production and ritual: Changing patterns of human life in the 3rd millennium BCE Aegean* (room: Mouskos)<br>**[Assoc. Prof. Evi Margaritis](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/161-Evi-Margaritis.html), [Dr. Michael Boyd](https://www.arch.cam.ac.uk/directory/mjb235) (The Cyprus Institute), [Prof. Lord Colin A. Renfrew](https://www.arch.cam.ac.uk/directory/acr10) (University of Cambridge)**|
 |||
-|17:30 -- 19:00| *Screening of the movie: Buried Secrets of Keros*, **National Geographic, UK**<br>([Watch the official trailer on Youtube](https://www.youtube.com/watch?v=_5ShqeNk-J4)) <br> Fresnel Auditorium|
+|17:30 -- 19:00| *Screening of the movie: Buried Secrets of Keros* (room: Mouskos), **National Geographic, UK** ([Watch the official trailer on Youtube](https://www.youtube.com/watch?v=_5ShqeNk-J4))|
 
 ## **Oct. 17^th^**
 
@@ -131,14 +133,15 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |||
 |12:40 -- 13:40|  *Lunch break*|
 |||
-|13:40 -- 15:40| **Session 5: Posters** (The list of posters can be found in the Poster tab) <br> Fresnel Auditorium|
+|13:40 -- 15:40| **Session 5: Posters** (The list of posters can be found in the Poster tab)|
 |||
 |15:40 -- 16.00| *Coffee break*|
 |||
-|16:00 -- 18:00| TBA |
+|16:00 -- 18:00| Lab tour |
 |18:00 -- 19:00| *Keynote: The prehistoric roots of the Mediterranean diet*<br>**[Dr. Juan José García-Granero](https://www.researchgate.net/profile/Juan-Jose-Garcia-Granero)** (Spanish National Research Council, Spain)<br>Fresnel Auditorium |
+|19:00 -- 20:00| Reception sponsored by the Spanish Embassy |
 |||
-|20:30| Dinner at [Fisa & Masa, Ledras 55, Nicosia 1011](https://maps.app.goo.gl/dKVQZdtczMy45uEaA)<br>*Traditional Tavern with cypriot mezes and live music* (self-paid, 25 € incl. unlimited soft-drinks, wine, beer)*|
+|20:30| Dinner at [Fisa & Masa, Ledras 55, Nicosia 1011](https://maps.app.goo.gl/dKVQZdtczMy45uEaA)<br>*Traditional Tavern with cypriot mezes and live music* <br> (self-paid, 25 € incl. unlimited soft-drinks, wine, beer)|
 
 ## **Oct. 18^th^**
 
@@ -150,18 +153,18 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 |||
 |10:10 -- 10:30| *Coffee break*
 |||
-|10:30 -- 10:40| [*Silver-lead and copper production on Early Bronze Age southern Sifnos: an overview*](abstracts/2024-29.qmd)<br>**Magda Giannakopoulou**|
-|10:40 --11:00| [*TerraLID: Further steps towards a new ecosystem for lead isotope data in archaeology*](abstracts/2024-30.qmd)<br>**Thomas Rose, Tim Greifelt, Katrin J. Westner, Annette Hornschuch, Yiu-Kang Hsu, Helge Wiethoff, Sabine Klein**|
-|11:00 -- 11:20| [*Metalworking materials and practices from Late Antique Rome*](abstracts/2024-31.qmd)<br>**Giulia Bison, Jose Cristobal Carvajal Lopez**|
+|10:30 -- 10:50| [*Silver-lead and copper production on Early Bronze Age southern Sifnos: an overview*](abstracts/2024-29.qmd)<br>**Magda Giannakopoulou**|
+|10:50 --11:10| [*TerraLID: Further steps towards a new ecosystem for lead isotope data in archaeology*](abstracts/2024-30.qmd)<br>**Thomas Rose, Tim Greifelt, Katrin J. Westner, Annette Hornschuch, Yiu-Kang Hsu, Helge Wiethoff, Sabine Klein**|
+|11:10 -- 11:30| [*Metalworking materials and practices from Late Antique Rome*](abstracts/2024-31.qmd)<br>**Giulia Bison, Jose Cristobal Carvajal Lopez**|
 |||
 ||**Session 7: Metallurgy, part 2 and Archaeomaterials**| 
-|11:20 -- 11:40| [*Comparison of the polychrome metalworking and decoration techniques from the Langobardic and Gepidic periods (6th century AD) in the Carpathian Basin*](abstracts/2024-32.qmd)<br>**Viktória Mozgai, Eszter Horváth, Bernadett Bajnóczi**|
-|11:40 -- 12:00| [*Commercial High Alumina Crucibles for Melting Alkali and Alkaline Earth Metal Salt Mixtures to Replicate Ancient Glass Production*](abstracts/2024-33.qmd)<br>**Marcel Frenken, Meghna Desai, Thilo Rehren**|
-|12:00 -- 12:20| [*The Interaction between Persian Gulf and Indian Peninsula during the middle-late Islamic Period: Compositional Evidence for the High-Alumina Glass Bangles Discovered from Coastal Sites of Qatar and U.A.E.*](abstracts/2024-34.qmd)<br>**Qian Cheng, Thilo Rehren, Robert Andrew Carter, Xueyan Zhang**|
-|12:20 -- 12:40| [*Identifying a Peloponnesian palette: pigment analysis of domestic architecture from Stymphalos*](abstracts/2024-35.qmd)<br>**Alice Clinch**|
-|12:40 -- 13:00| [*The “production” of Minoan red serpentinite*](abstracts/2024-36.qmd)<br>**Killian Regnier**|
+|11:30 -- 11:50| [*Comparison of the polychrome metalworking and decoration techniques from the Langobardic and Gepidic periods (6th century AD) in the Carpathian Basin*](abstracts/2024-32.qmd)<br>**Viktória Mozgai, Eszter Horváth, Bernadett Bajnóczi**|
+|11:50 -- 12:10| [*Commercial High Alumina Crucibles for Melting Alkali and Alkaline Earth Metal Salt Mixtures to Replicate Ancient Glass Production*](abstracts/2024-33.qmd)<br>**Marcel Frenken, Meghna Desai, Thilo Rehren**|
+|12:10 -- 12:30| [*The Interaction between Persian Gulf and Indian Peninsula during the middle-late Islamic Period: Compositional Evidence for the High-Alumina Glass Bangles Discovered from Coastal Sites of Qatar and U.A.E.*](abstracts/2024-34.qmd)<br>**Qian Cheng, Thilo Rehren, Robert Andrew Carter, Xueyan Zhang**|
+|12:30 -- 12:50| [*Identifying a Peloponnesian palette: pigment analysis of domestic architecture from Stymphalos*](abstracts/2024-35.qmd)<br>**Alice Clinch**|
+|12:50 -- 13:10| [*The “production” of Minoan red serpentinite*](abstracts/2024-36.qmd)<br>**Killian Regnier**|
 |||
-|13:00 -- 14:00| *Lunch break*|
+|13:10 -- 14:00| *Lunch break*|
 |||
 |14:00 -- 14:20| [*Provenance of ancient architectural marble on Delos island (Cyclades, Greece): contributions of a four year archaeometric study*](abstracts/2024-37.qmd)<br>**Tommy Vettor, Violaine Sautter, Laurent Jolivet, Jean-Charles Moretti**|
 |14:20 -- 14:30| *Awards ceremony* |
@@ -174,7 +177,7 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 
 |Morning||
 |--|--------|
-|tbd | Tour of the Cyprus Museum (self-paid) |
+|tba | Tour of the Cyprus Museum (self-paid) |
 
 ## **Posters**
 
