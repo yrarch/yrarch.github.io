@@ -12,7 +12,7 @@ lightbox: true
 ~~**July 1^st^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens~~  
 ~~**Aug. 1^st^** -- Preliminary program available~~  
 ~~**Sept. 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes~~  
-**Oct. 1^st^** -- Meeting details and final program available  
+~~**Oct. 1^st^** -- Meeting details and final program available~~  
 **Oct. 15^th^--18^th^** -- YRA2024 in Nicosia   
 **Oct. 31^st^** -- Certificates sent to participants
 :::
@@ -189,7 +189,6 @@ Presentations will be streamed on [Zoom](https://us06web.zoom.us/j/88340660574)
 |[*Deciphering Past Coastal Environments: Beachrock Characterisation and Luminescence Dating in SE Lasithi, Crete, Greece*](abstracts/2024-39.qmd)<br>**Nafsika C. Andriopoulou, Georgios C. Polymeris, Konstantinos C. Stamoulis, Michael Schöbel, Georgios E. Christidis, Stefanos Papadakis, Anna Novikova, Nikos Papadopoulos**|
 |[*Exploring the Maritime Trade and Cultural Linkages across the East Coast: Case Studies based on Ceramic Analysis*](abstracts/2024-41.qmd)<br>**Debankita Das**|
 |[*A look upon chalcolithic pottery technology through the petrographic analysis of a batch from North of Danube*](abstracts/2024-42.qmd)<br>**Mădălina Dimache, Cristian-Eduard Ștefan**|
-|[*Slag vitrification as a proxy for smelting technology - Tracking 7,000 years of copper production in Timna, Israel*](abstracts/2024-43.qmd)<br>**Eshchar Gichon, Efrat Nakash, David Kosson, Lesa Renee Brown, Carolyn Pearce, Jose Marcial, James Neeway, Albert Kruger, Erez Ben-Yosef**|
 |[*Furthering our understanding of the sources of the metal of Roman denarii -- A multi-isotope and elemental analysis approach*](abstracts/2024-44.qmd)<br>**Tim Greifelt, Sabine Klein, David Wigg-Wolf**|
 |[*Cultural Heritage and Repatriation and Restitution of Stolen and Illegally Acquired Artifacts: A Critical Analysis*](abstracts/2024-45.qmd)<br>**Forbes Tapiwa Marumbei**|
 |[*Petrographic Thin Section of 18th Century Iron Smelting Ceramics in Ugbene-Ajima, Southeastern Nigeria*](abstracts/2024-46.qmd)<br>**John Ngonadi, Pamela Eze-Uzomaka**|
