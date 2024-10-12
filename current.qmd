@@ -132,12 +132,11 @@ Presentations will be streamed on [Zoom](https://us06web.zoom.us/j/88340660574)
 |11:00 -- 11:20| [*µ-LIBS imaging as spatially-resolved and quantitative characterization method for pottery*](abstracts/2024-21.qmd)<br>**Nicolas Herreyre, Valérie Merle, Anne Schmitt, Christine Oberlin, Clothilde Comby-Zebino, Vincent Motto-Ros**|
 |11:20 -- 11:40| [*Fragments of the Past from Zeytinli Bahçe Höyük: Deciphering Cultural and Technological Interactions from the Late Chalcolithic to the Early Bronze Age through Ceramic Petrography*](abstracts/2024-22.qmd)<br>**Rosa Crocco**|
 |11:40 -- 12:00| [*Knowledge exchange in pottery production in Neolithic Northwest China: a petrographic study and the resulting development of a digital tool for petrographic image analysis in archaeology*](abstracts/2024-23.qmd)<br>**Evgenia Dammer**|
-|12:00 -- 12:20| [*More Than Just a Pot? An Archaeometrical Investigation of Unusual Chalcolithic Small-Sized Biconical Closed Pots from the Archaeological Sites of ”Gumelnița” and ”Măriuța-La Movilă”*](abstracts/2024-25.qmd)<br>**Bogdan Manea, Ioana Dinca, Vasile Opris, Daniel Stoicescu, Adrian Sima, Dragos Mirea, Ana García-Vázquez, Valentin Parnic, Ion Tiseanu, Catalin Lazar**|
-|12:20 -- 12:40| [*Mineralogical and Petrographic Study of Tuyères from Pongsolo (Lekie, Central Cameroon)*](abstracts/2024-26.qmd)<br>**Epossi Ntah Zoila Luz-Kroll, Thomas Rose**|
+|12:00 -- 12:20| [*Mineralogical and Petrographic Study of Tuyères from Pongsolo (Lekie, Central Cameroon)*](abstracts/2024-26.qmd)<br>**Epossi Ntah Zoila Luz-Kroll, Thomas Rose**|
 |||
-|12:40 -- 13:40|  *Lunch break*|
+|12:20 -- 13:20|  *Lunch break*|
 |||
-|13:40 -- 15:40| **Session 5: Posters** (The list of posters can be found in the Poster tab)|
+|13:20 -- 15:40| **Session 5: Posters** (The list of posters can be found in the Poster tab)|
 |||
 |15:40 -- 16.00| *Coffee break*|
 |||
