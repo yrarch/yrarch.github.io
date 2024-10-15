@@ -11,7 +11,7 @@ The time slots of each presentation will be accommodated to be the most comforta
 
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=dWMyVkNIT0NrNjBTUlp1Z0phOGl3UT09) to join the Zoom meeting.
 
-## Next presentation: October 10th, at 2:00 pm (UTC)
+## Next presentation: November 11th, at 12:00 pm (UTC)
 
 ::: {.column-margin}
 
@@ -22,19 +22,22 @@ Click [here](https://zoom.us/j/98869145922?pwd=dWMyVkNIT0NrNjBTUlp1Z0phOGl3UT09)
 **Code:** YRA-S2024  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241010T140000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241111T120000&p1=1440).
 
 :::
 
-*Biomolecular insights into Magdalenian ungulates from Petersfels (Hegau Jura, southwestern Germany) via ZooMS and stable isotope analysis*  
-**Madison McCartin** (University of California, Davis, USA)
+*The technology of polychrome glazed ceramics in Ifriqiya: new data from the Medjerda Valley*  
+**Veronica Occari** (University College London, UK)  
 
-**Keywords:** Magdalenian; ZooMS; Stable isotopes; Zooarchaeology; Paleoenvironment; Ungulates  
+**Co-authors**: H. Möller, C. Fenwick, P. Quinn,  I.C. Freestone,  M. Chaouali, P. von Rummel  
+
+**Keywords:** Ifriqiya; Medieval glazed ceramics; Pottery technology; Petrography; Compositional analyses    
 
 **Abstract:**  
-After the Last Glacial Maximum, ameliorating climates facilitated the recolonization of Central Europe by human and animal groups. Petersfels, situated in the Hegau Jura of southwestern Germany, evidences the later stages of this repopulation, dating to ~16-14 ka cal BP. Over the past hundred years, numerous excavations at the site have revealed an exceptional record of Magdalenian subsistence including abundant lithic and osseous material, personal ornaments, engravings, and female figurines. Faunal remains are particularly relevant, as they archive information on human and animal lifeways as well as the broader post-LGM environmental context. However, despite this great potential, little is known about the paleoecological context of the site or the broader Hegau Jura. Here, we present new biomolecular analyses of the Petersfels faunal assemblage, which help to illuminate the paleoecology of the region. Zooarchaeology by Mass Spectrometry (ZooMS) was applied to identify rare taxa and to differentiate between closely related species. We also conducted stable isotope analyses of carbon (δ13C) and oxygen (δ18O) from serially sampled equid and bovid tooth enamel carbonate. The latter contributes to our understanding of local paleoecology during the Magdalenian and the status of human and animal communities during post-LGM climatic change. More broadly, this work shows how heritage collections like Petersfels are still immensely valuable, especially with the application of modern biomolecular techniques.   
+Ifriqiya (roughly Tunisia and eastern Algeria) is believed to have played a significant role in the diffusion of ceramic glazed technologies into other regions of the Western Mediterranean. However, due to limited analysis on North African glazed ceramics, its role in technology transfer remains poorly understood. This paper uses petrographic, SEM-EDS and LA-ICP-MS analyses to understand the technology employed in the production of Tunisian ceramics through the study of polychrome glazed ceramics from medieval settlements at the sites of Chimtou (ancient Simitthus) and Bulla Regia, Tunisia, dated to the late ninth-twelfth century. The results provide new insights on workshops practices, on the origin of the ceramics and on regional inland exchange networks.    
 
-![](assets/img/Seminar/2024-10_McCartin_copyright.png)  
+![](assets/img/Seminar/2024-11_Occari_copyright.png)
+
 
 ## Programme
 
@@ -73,8 +76,12 @@ Copper and its alloys are one of the materials thought to come from the maritime
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## November – Veronica Occari (University College London, UK)
-To be announced.
+## November 11th– Veronica Occari (University College London, UK)
+**Time:** 12:00 pm (UTC)  
+**Title:** The technology of polychrome glazed ceramics in Ifriqiya: new data from the Medjerda Valley  
+**Co-authors:** H. Möller, C. Fenwick, P. Quinn,  I.C. Freestone,  M. Chaouali, P. von Rummel  
+**Keywords:** Ifriqiya; Medieval glazed ceramics; Pottery technology; Petrography; Compositional analyses  
+**Abstract:** Ifriqiya (roughly Tunisia and eastern Algeria) is believed to have played a significant role in the diffusion of ceramic glazed technologies into other regions of the Western Mediterranean. However, due to limited analysis on North African glazed ceramics, its role in technology transfer remains poorly understood. This paper uses petrographic, SEM-EDS and LA-ICP-MS analyses to understand the technology employed in the production of Tunisian ceramics through the study of polychrome glazed ceramics from medieval settlements at the sites of Chimtou (ancient Simitthus) and Bulla Regia, Tunisia, dated to the late ninth-twelfth century. The results provide new insights on workshops practices, on the origin of the ceramics and on regional inland exchange networks.
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
