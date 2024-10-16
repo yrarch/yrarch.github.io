@@ -81,28 +81,26 @@ Presentations will be streamed on [Zoom](https://us06web.zoom.us/j/88340660574)
 
 |||
 |--|--------|
-|09:00 -- 09:30| Welcoming and registration |
+|09:00 -- 09:30| Registration |
+|09:30 -- 09:50| Welcome |
 |||
 ||**Session 1: Cultural heritage/non-invasive methods**|
-|09:30 -- 09:50| [*Archaeometric analysis of the inks in two 15th century Greek paper manuscripts: a preliminary comparative study*](abstracts/2024-1.qmd)<br>**Katerina Grigoriadou**|
-|09:50 -- 10:10| [*Non-invasive material analysis of Egyptian Shabtis by XRF, Raman spectroscopy and CT Scanning*](abstracts/2024-2.qmd)<br>**Stelios Aspiotis, Olivier Bonnerot, Samaneh Ehteram, Leah Mascia**|
-|10:10 -- 10:30| [*Multi-analytical investigation on the carved oriental lacquerwares*](abstracts/2024-3.qmd)<br>**Shang-ying Liu, Patrizia Tomasin, Luca Nodari, Marta Boscolo Marchi, Alfonso Zoleo**|
+|09:50 -- 10:10| [*Archaeometric analysis of the inks in two 15th century Greek paper manuscripts: a preliminary comparative study*](abstracts/2024-1.qmd)<br>**Katerina Grigoriadou**|
+|10:10 -- 10:30| [*Non-invasive material analysis of Egyptian Shabtis by XRF, Raman spectroscopy and CT Scanning*](abstracts/2024-2.qmd)<br>**Stelios Aspiotis, Olivier Bonnerot, Samaneh Ehteram, Leah Mascia**|
+|10:30 -- 10:50| [*Multi-analytical investigation on the carved oriental lacquerwares*](abstracts/2024-3.qmd)<br>**Shang-ying Liu, Patrizia Tomasin, Luca Nodari, Marta Boscolo Marchi, Alfonso Zoleo**|
 |||
-|10:30 -- 10:50| *Coffee break*|
+|10:50 -- 11:10| *Coffee break*|
 |||
-|10:50 -- 11:10| [*Revealing Hidden Histories: Using High-Resolution Portable Computed Tomography for Closed Cuneiform Tablets*](abstracts/2024-4.qmd)<br>**Samaneh Ehteram**|
-|11:10 -- 11:30| [*3D Visualization and Digital Recording of Sculptures through Photogrammetry: An Iconometric Examination of the Hoysala Sculptures*](abstracts/2024-5.qmd)<br>**Poorva Salvi**|
-|11:30 -- 11:50| [*Shallow Offshore Archaeological Prospection in Ancient Olous, Crete*](abstracts/2024-6.qmd)<br>**Angelos Plageras, Dimitrios Oikonomou, Nikos Papadopoulos**|
-|11:50 -- 12:10| [*Breaking into the “Black Box”: The contribution of ethnographic work in decoding Late Cypriot household structures*](abstracts/2024-7.qmd)<br>**Chara Theotokatou**| 
-|12:10 -- 12:30| [*KWAMTENG: Sustaining And Promoting an Intangible Cultural Heritage for future generations*](abstracts/2024-8.qmd)<br>**Paul Nkwap**|
-|||
-||**Session 2: Ceramics, part 1**|
-|12:30 -- 12:50| [*Clay for pots. Raw Material Determination of Sântana "Cetatea Veche" Ceramics and Determination of Firing Methods in Late Bronze Age*](abstracts/2024-9.qmd)<br>**Alexandra Stache, Ágnes Gál, Florin Gogâltan**|
-|12:50 -- 13:00| *The Master, PhD, training Programs offered by The Cyprus Institute*<br>**Head of the Graduate School, Cyprus Institute**|
+|11:10 -- 11:30| [*Revealing Hidden Histories: Using High-Resolution Portable Computed Tomography for Closed Cuneiform Tablets*](abstracts/2024-4.qmd)<br>**Samaneh Ehteram**|
+|11:30 -- 11:50| [*3D Visualization and Digital Recording of Sculptures through Photogrammetry: An Iconometric Examination of the Hoysala Sculptures*](abstracts/2024-5.qmd)<br>**Poorva Salvi**|
+|11:50 -- 12:10| [*Shallow Offshore Archaeological Prospection in Ancient Olous, Crete*](abstracts/2024-6.qmd)<br>**Angelos Plageras, Dimitrios Oikonomou, Nikos Papadopoulos**|
+|12:10 -- 12:30| [*Breaking into the “Black Box”: The contribution of ethnographic work in decoding Late Cypriot household structures*](abstracts/2024-7.qmd)<br>**Chara Theotokatou**| 
+|12:30 -- 12:50| *The Master, PhD, training Programs offered by The Cyprus Institute*<br>**Head of the Graduate School, Cyprus Institute**|
 |||
 |13:00 -- 14:00| *Lunch break*|
 |||
-|14:00 -- 14:20| [*A Dangerous Tradition: Asbestos-tempered Pottery in Prehistoric and Modern Eskişehir, Türkiye*](abstracts/2024-10.qmd)<br>**Ashley Cercone**|
+||**Session 2: Ceramics, part 1**|
+|14:00 -- 14:20| [*Clay for pots. Raw Material Determination of Sântana "Cetatea Veche" Ceramics and Determination of Firing Methods in Late Bronze Age*](abstracts/2024-9.qmd)<br>**Alexandra Stache, Ágnes Gál, Florin Gogâltan**|
 |14:20 -- 14:40| [*Disclosing Production Process by the Archaeometric Analysis of Bronze to Iron Age Ceramic Jars from Qatna (Central Syria)*](abstracts/2024-11.qmd)<br>**Bianca Costi Farias, Lara Maritan, Claudio Mazzoli, Marco Iamoni, Daniele Morandi**|
 |||
 ||**Session 3: Environmental Archaeology and Bioarchaeology**|
@@ -121,16 +119,16 @@ Presentations will be streamed on [Zoom](https://us06web.zoom.us/j/88340660574)
 
 ||**Session 4: Ceramics, part 2**|
 |--|--------|
-|09:00 -- 09:20| [*Paint It, Red: A Technological and Compositional Study of Classical Pottery from Nea Paphos, Cyprus*](abstracts/2024-16.qmd)<br>**Geneviève Lascombes, Edyta Marzec, Lara Maritan**|
-|09:20 -- 09:40| [*The Clay of a Gateway Community In Cyprus -- Domestic Pottery from Soli*](abstracts/2024-17.qmd)<br>**Marie-Louise Jahn Hansen**|
-|09:40 -- 10:00| [*Late Hellenistic braziers from Delos; provenance study and characterisation of ‘Cycladic’ type*](abstracts/2024-18.qmd)<br>**Athena Konstandara, Edyta Marzec**|
-|10:00 -- 10:20| [*Influence of decantation on Mediterranean clay: An experimental archaeological approach*](abstracts/2024-19.qmd)<br>**Vania Filippou, Lara Maritan, Virginie Renson, Daria Pasqual, Silvia Cattò, Eleni Nodarou, Emma Cantisani, Maria Dikomitou Eliadou, Zomenia Zomeni**|
+|09:00 -- 09:20| [*Fragments of the Past from Zeytinli Bahçe Höyük: Deciphering Cultural and Technological Interactions from the Late Chalcolithic to the Early Bronze Age through Ceramic Petrography*](abstracts/2024-22.qmd)<br>**Rosa Crocco**|
+|09:20 -- 09:40| [*Paint It, Red: A Technological and Compositional Study of Classical Pottery from Nea Paphos, Cyprus*](abstracts/2024-16.qmd)<br>**Geneviève Lascombes, Edyta Marzec, Lara Maritan**|
+|09:40 -- 10:00| [*The Clay of a Gateway Community In Cyprus -- Domestic Pottery from Soli*](abstracts/2024-17.qmd)<br>**Marie-Louise Jahn Hansen**|
+|10:00 -- 10:20| [*Late Hellenistic braziers from Delos; provenance study and characterisation of ‘Cycladic’ type*](abstracts/2024-18.qmd)<br>**Athena Konstandara, Edyta Marzec**|
+|10:20 -- 10:40| [*Influence of decantation on Mediterranean clay: An experimental archaeological approach*](abstracts/2024-19.qmd)<br>**Vania Filippou, Lara Maritan, Virginie Renson, Daria Pasqual, Silvia Cattò, Eleni Nodarou, Emma Cantisani, Maria Dikomitou Eliadou, Zomenia Zomeni**|
 |||
-|10:20 -- 10:40| *Coffee break*|
+|10:40 -- 11:00| *Coffee break*|
 |||
-|10:40 -- 11:00| [*Envisioning Pre-Colombian Regional Trade Patterns Through Elemental Analysis of Archaeological Ceramics from Western Panama*](abstracts/2024-20.qmd)<br>**Carly Pope, Scott Palumbo, Laure Dussubieux**|
-|11:00 -- 11:20| [*µ-LIBS imaging as spatially-resolved and quantitative characterization method for pottery*](abstracts/2024-21.qmd)<br>**Nicolas Herreyre, Valérie Merle, Anne Schmitt, Christine Oberlin, Clothilde Comby-Zebino, Vincent Motto-Ros**|
-|11:20 -- 11:40| [*Fragments of the Past from Zeytinli Bahçe Höyük: Deciphering Cultural and Technological Interactions from the Late Chalcolithic to the Early Bronze Age through Ceramic Petrography*](abstracts/2024-22.qmd)<br>**Rosa Crocco**|
+|11:00 -- 11:20| [*Envisioning Pre-Colombian Regional Trade Patterns Through Elemental Analysis of Archaeological Ceramics from Western Panama*](abstracts/2024-20.qmd)<br>**Carly Pope, Scott Palumbo, Laure Dussubieux**|
+|11:20 -- 11:40| [*µ-LIBS imaging as spatially-resolved and quantitative characterization method for pottery*](abstracts/2024-21.qmd)<br>**Nicolas Herreyre, Valérie Merle, Anne Schmitt, Christine Oberlin, Clothilde Comby-Zebino, Vincent Motto-Ros**|
 |11:40 -- 12:00| [*Knowledge exchange in pottery production in Neolithic Northwest China: a petrographic study and the resulting development of a digital tool for petrographic image analysis in archaeology*](abstracts/2024-23.qmd)<br>**Evgenia Dammer**|
 |12:00 -- 12:20| [*Mineralogical and Petrographic Study of Tuyères from Pongsolo (Lekie, Central Cameroon)*](abstracts/2024-26.qmd)<br>**Epossi Ntah Zoila Luz-Kroll, Thomas Rose**|
 |||
@@ -172,7 +170,8 @@ Presentations will be streamed on [Zoom](https://us06web.zoom.us/j/88340660574)
 |14:30 -- 15:00| *Keynote: Ritual Faunal Deposits in Prehistoric Sanctuaries: Zooarchaeological Insights from the Gymnesic Islands (Western Mediterranean)*<br>**[Dr. Alejandro Valenzuela Oliver](https://www.researchgate.net/profile/Alejandro-Valenzuela) (Mediterranean Institute for Advanced Studies (UIB-CSIC), Spain)**|
 |15:00 -- 15:10| *Closing/ Final remarks*|
 |||
-|16:30 -- 19:30| *Experimental pyre: Food for the Gods Sacrificial Pyres in the Archaeological Record* at [Parking area of Ledron Archaeological Local Museum, Andrea Dimitriou, 1066, Nicosia](https://maps.app.goo.gl/y24F8TqDN89GUXpx6)|
+|15:30 | Bus transfer from the Cyprus Institute to Nicosia city centre |
+|17:00 -- 19:30| *Experimental pyre: Food for the Gods Sacrificial Pyres in the Archaeological Record* at [Parking area of Ledron Archaeological Local Museum, Andrea Dimitriou, 1066, Nicosia](https://maps.app.goo.gl/y24F8TqDN89GUXpx6)|
 
 ## **Oct. 19^th^**
 
