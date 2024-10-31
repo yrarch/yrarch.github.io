@@ -16,7 +16,7 @@ website:
       - text: "Workshop"
         menu: 
           - href: current.qmd
-            text: "YRA 2024"
+            text: "YRA 2025"
           - href: abstracts.qmd
             text: "Abstract repository"
           - href: archive-workshop.qmd

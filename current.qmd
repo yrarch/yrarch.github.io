@@ -1,8 +1,11 @@
 ---
-title: "Young Researchers in Archaeometry 2024"
+title: "Young Researchers in Archaeometry 2025"
 lightbox: true
 ---
 
+YRA2025 will take place in Budapest. More information will become available soon, stay tuned! 
+
+<!--
 ::: {.callout-note}
 ## YRA2024 Key dates
 ~~**March 15^th^** -- [Abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6) opens~~  
@@ -16,7 +19,9 @@ lightbox: true
 **Oct. 15^th^--18^th^** -- YRA2024 in Nicosia   
 **Oct. 31^st^** -- Certificates sent to participants
 :::
+-->
 
+<!--
 ## General information 
 
 ::: {.column-margin}
@@ -41,9 +46,13 @@ Organised by:
 
 :::
 
+-->
+
+<!--
 We are happy to announce that the 7^th^ Workshop Young Researchers in Archaeometry will be held at The Cyprus Institute, in Nicosia, Cyprus. The conference will be held in person from October 15^th^ to 18^th^, 2024 and will welcome early career researchers (masters, PhD, post-docs up to six years after their PhD) in archaeological sciences and cultural heritage studies.
 
 With this workshop, we aim to offer a relaxed atmosphere to encourage interdisciplinary exchange between early career researchers. We are pleased to invite you for oral and poster contributions in all fields of natural sciences about archaeological and anthropological topics. In particular, early career researchers in archaeology, art history, anthropology, biological anthropology, environmental archaeology, chemistry, conservation, cultural heritage, earth science, and material science are welcome to submit an abstract for an oral presentation or poster.
+-->
 
 <!--
 Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Registration is possible for everyone, also if you are not presenting. 
@@ -51,6 +60,19 @@ Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Regist
 Registration fees are 20 € for students (bachelor, master, PhD) and 30 € for everyone else. SAS members receive a 5 € discount. You can join SAS before 15 September to benefit from the discount. 
 -->
 
+<!-- 
+
+## Abstract submission
+
+Abstract submission is closed. The submitted abstracts are now evaluated. 
+
+Send us your abstract (max. 250 words) until  ~~May 15^th^, 2023~~ **May 31^st^ 2023** (extended deadline) via the [submission form](https://forms.gle/vki7aE9LgHKM1AN27). 
+
+Presentations can be either a 5 min digital poster or a 15 min oral presentation, with additional time for questions. Online presentations will be scheduled in a way that considers the different presenters' time zones.
+
+-->
+
+<!--
 ## Programme and social events
 
 [You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241015T090000&p1=680).]{.aside}
@@ -68,197 +90,10 @@ Address: [The Cyprus Institute, Kavafi 20, 2121, Aglatzia, Cyprus](https://www.c
 
 Presentations will be streamed on [Zoom](https://us06web.zoom.us/j/88340660574)  
 (<https://us06web.zoom.us/j/88340660574> | Meeting ID: 883 4066 0574 | Passcode: 081518)
-
-::: {.panel-tabset}
-
-## **Oct. 15^th^**
-
-|||
-|--|--------|
-|20:00 | Ice breaker (self-paid) at *[Charátsi](https://maps.app.goo.gl/38fH1YMNixaG5txU7)*|
-
-## **Oct. 16^th^**
-
-|||
-|--|--------|
-|09:00 -- 09:30| Registration |
-|09:30 -- 09:50| Welcome |
-|||
-||**Session 1: Cultural heritage/non-invasive methods**|
-|09:50 -- 10:10| [*Archaeometric analysis of the inks in two 15th century Greek paper manuscripts: a preliminary comparative study*](abstracts/2024-1.qmd)<br>**Katerina Grigoriadou**|
-|10:10 -- 10:30| [*Non-invasive material analysis of Egyptian Shabtis by XRF, Raman spectroscopy and CT Scanning*](abstracts/2024-2.qmd)<br>**Stelios Aspiotis, Olivier Bonnerot, Samaneh Ehteram, Leah Mascia**|
-|10:30 -- 10:50| [*Multi-analytical investigation on the carved oriental lacquerwares*](abstracts/2024-3.qmd)<br>**Shang-ying Liu, Patrizia Tomasin, Luca Nodari, Marta Boscolo Marchi, Alfonso Zoleo**|
-|||
-|10:50 -- 11:10| *Coffee break*|
-|||
-|11:10 -- 11:30| [*Revealing Hidden Histories: Using High-Resolution Portable Computed Tomography for Closed Cuneiform Tablets*](abstracts/2024-4.qmd)<br>**Samaneh Ehteram**|
-|11:30 -- 11:50| [*3D Visualization and Digital Recording of Sculptures through Photogrammetry: An Iconometric Examination of the Hoysala Sculptures*](abstracts/2024-5.qmd)<br>**Poorva Salvi**|
-|11:50 -- 12:10| [*Shallow Offshore Archaeological Prospection in Ancient Olous, Crete*](abstracts/2024-6.qmd)<br>**Angelos Plageras, Dimitrios Oikonomou, Nikos Papadopoulos**|
-|12:10 -- 12:30| [*Breaking into the “Black Box”: The contribution of ethnographic work in decoding Late Cypriot household structures*](abstracts/2024-7.qmd)<br>**Chara Theotokatou**| 
-|12:30 -- 12:50| *The Master, PhD, training Programs offered by The Cyprus Institute*<br>**Head of the Graduate School, Cyprus Institute**|
-|||
-|13:00 -- 14:00| *Lunch break*|
-|||
-||**Session 2: Ceramics, part 1**|
-|14:00 -- 14:20| [*Clay for pots. Raw Material Determination of Sântana "Cetatea Veche" Ceramics and Determination of Firing Methods in Late Bronze Age*](abstracts/2024-9.qmd)<br>**Alexandra Stache, Ágnes Gál, Florin Gogâltan**|
-|14:20 -- 14:40| [*Disclosing Production Process by the Archaeometric Analysis of Bronze to Iron Age Ceramic Jars from Qatna (Central Syria)*](abstracts/2024-11.qmd)<br>**Bianca Costi Farias, Lara Maritan, Claudio Mazzoli, Marco Iamoni, Daniele Morandi**|
-|||
-||**Session 3: Environmental Archaeology and Bioarchaeology**|
-|14.40 -- 15:10| [*Ongoing Archaeobotanical Research in Mycenaean Iklaina, Messenia, Greece*](abstracts/2024-13.qmd)<br>**Symeon Gkinoudis, Evi Margaritis**|
-|15:10 -- 15:30| [*Phytolith analysis for the investigation of plant exploitation in Bronze Age Cyprus*](abstracts/2024-14.qmd)<br>**Georgia Kasapidou**| 
-|15:30 -- 15:50| [*Fuelling Ancient Idalion: Charcoal Analysis and Insights into 1st Millennium BCE Cyprus*](abstracts/2024-15.qmd)<br>**Panagiotis Koullouros**|
-|||
-|15:50 -- 16:30| *Coffee break* (room: Mouskos)|
-|||
-|16:30 -- 16:35| Welcome address by the *President of the Cyprus Institute*|
-|16:35 -- 17:15| *Keynote: Domesticity, craft production and ritual: Changing patterns of human life in the 3rd millennium BCE Aegean* (room: Mouskos)<br>**[Assoc. Prof. Evi Margaritis](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/161-Evi-Margaritis.html), [Dr. Michael Boyd](https://www.arch.cam.ac.uk/directory/mjb235) (The Cyprus Institute), [Prof. Lord Colin A. Renfrew](https://www.arch.cam.ac.uk/directory/acr10) (University of Cambridge)**|
-|||
-|17:30 -- 19:00| *Screening of the movie: Buried Secrets of Keros* (room: Mouskos), **National Geographic, UK** ([Watch the official trailer on Youtube](https://www.youtube.com/watch?v=_5ShqeNk-J4))|
-
-## **Oct. 17^th^**
-
-||**Session 4: Ceramics, part 2**|
-|--|--------|
-|09:00 -- 09:20| [*Fragments of the Past from Zeytinli Bahçe Höyük: Deciphering Cultural and Technological Interactions from the Late Chalcolithic to the Early Bronze Age through Ceramic Petrography*](abstracts/2024-22.qmd)<br>**Rosa Crocco**|
-|09:20 -- 09:40| [*Paint It, Red: A Technological and Compositional Study of Classical Pottery from Nea Paphos, Cyprus*](abstracts/2024-16.qmd)<br>**Geneviève Lascombes, Edyta Marzec, Lara Maritan**|
-|09:40 -- 10:00| [*The Clay of a Gateway Community In Cyprus -- Domestic Pottery from Soli*](abstracts/2024-17.qmd)<br>**Marie-Louise Jahn Hansen**|
-|10:00 -- 10:20| [*Late Hellenistic braziers from Delos; provenance study and characterisation of ‘Cycladic’ type*](abstracts/2024-18.qmd)<br>**Athena Konstandara, Edyta Marzec**|
-|10:20 -- 10:40| [*Influence of decantation on Mediterranean clay: An experimental archaeological approach*](abstracts/2024-19.qmd)<br>**Vania Filippou, Lara Maritan, Virginie Renson, Daria Pasqual, Silvia Cattò, Eleni Nodarou, Emma Cantisani, Maria Dikomitou Eliadou, Zomenia Zomeni**|
-|||
-|10:40 -- 11:00| *Coffee break*|
-|||
-|11:00 -- 11:20| [*Envisioning Pre-Colombian Regional Trade Patterns Through Elemental Analysis of Archaeological Ceramics from Western Panama*](abstracts/2024-20.qmd)<br>**Carly Pope, Scott Palumbo, Laure Dussubieux**|
-|11:20 -- 11:40| [*µ-LIBS imaging as spatially-resolved and quantitative characterization method for pottery*](abstracts/2024-21.qmd)<br>**Nicolas Herreyre, Valérie Merle, Anne Schmitt, Christine Oberlin, Clothilde Comby-Zebino, Vincent Motto-Ros**|
-|11:40 -- 12:00| [*Knowledge exchange in pottery production in Neolithic Northwest China: a petrographic study and the resulting development of a digital tool for petrographic image analysis in archaeology*](abstracts/2024-23.qmd)<br>**Evgenia Dammer**|
-|12:00 -- 12:20| [*Mineralogical and Petrographic Study of Tuyères from Pongsolo (Lekie, Central Cameroon)*](abstracts/2024-26.qmd)<br>**Epossi Ntah Zoila Luz-Kroll, Thomas Rose**|
-|||
-|12:20 -- 13:20|  *Lunch break*|
-|||
-|13:20 -- 15:40| **Session 5: Posters** (The list of posters can be found in the Poster tab)|
-|||
-|15:40 -- 16.00| *Coffee break*|
-|||
-|16:00 -- 18:00| Lab tour |
-|18:00 -- 19:00| *Keynote: The prehistoric roots of the Mediterranean diet*<br>**[Dr. Juan José García-Granero](https://www.researchgate.net/profile/Juan-Jose-Garcia-Granero)** (Spanish National Research Council, Spain)<br>[Join the live stream on YouTube](https://youtube.com/live/BMyiuaxiWt8)|
-|19:00 -- 20:00| Reception sponsored by the Spanish Embassy |
-|||
-|20:30| Dinner at [Fisa & Masa, Ledras 55, Nicosia 1011](https://maps.app.goo.gl/dKVQZdtczMy45uEaA)<br>*Traditional Tavern with Cypriot mezes and live music* <br> (self-paid, 25 € incl. unlimited soft-drinks, wine, beer)|
-
-## **Oct. 18^th^**
-
-||**Session 6: Metallurgy, part 1**|
-|--|--------|
-|9:00 -- 9:30| *Keynote: The Future of Archaeological Science*<br>**[Prof. Thilo Rehren](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/943-thilo-rehren.html) (The Cyprus Institute)**|
-|09:30 -- 09:50| [*The elemental composition of bog ores in Masovia (Poland) and its affect on the reconstruction of the smelting process*](abstracts/2024-27.qmd)<br>**Antonina Bebłowska-Bednarkiewicz**|
-|09:50 -- 10:10| [*Bronze Production in Archaic and Classical Northern Greece: A Archaeometric Approach to the Study of Bronze Objects from Ancient Argilos*](abstracts/2024-28.qmd)<br>**Justine Lefebvre**|
-|||
-|10:10 -- 10:40| *Coffee break*
-|||
-|10:40 -- 11:00| [*Silver-lead and copper production on Early Bronze Age southern Sifnos: an overview*](abstracts/2024-29.qmd)<br>**Magda Giannakopoulou**|
-|11:00 --11:20| [*TerraLID: Further steps towards a new ecosystem for lead isotope data in archaeology*](abstracts/2024-30.qmd)<br>**Thomas Rose, Tim Greifelt, Katrin J. Westner, Annette Hornschuch, Yiu-Kang Hsu, Helge Wiethoff, Sabine Klein**|
-|11:20 -- 11:40| [*Metalworking materials and practices from Late Antique Rome*](abstracts/2024-31.qmd)<br>**Giulia Bison, Jose Cristobal Carvajal Lopez**|
-|||
-||**Session 7: Metallurgy, part 2 and Archaeomaterials**| 
-|11:40 -- 12:00| [*Commercial High Alumina Crucibles for Melting Alkali and Alkaline Earth Metal Salt Mixtures to Replicate Ancient Glass Production*](abstracts/2024-33.qmd)<br>**Marcel Frenken, Meghna Desai, Thilo Rehren**|
-|12:00 -- 12:20| [*The Interaction between Persian Gulf and Indian Peninsula during the middle-late Islamic Period: Compositional Evidence for the High-Alumina Glass Bangles Discovered from Coastal Sites of Qatar and U.A.E.*](abstracts/2024-34.qmd)<br>**Qian Cheng, Thilo Rehren, Robert Andrew Carter, Xueyan Zhang**|
-|12:20 -- 12:40| [*Identifying a Peloponnesian palette: pigment analysis of domestic architecture from Stymphalos*](abstracts/2024-35.qmd)<br>**Alice Clinch**|
-|12:40 -- 13:00| [*The “production” of Minoan red serpentinite*](abstracts/2024-36.qmd)<br>**Killian Regnier**|
-|13:00 -- 13:20| *Awards ceremony and group photo* |
-|||
-|13:20 -- 14:30| *Lunch break*|
-|||
-|14:30 -- 15:00| *Keynote: Ritual Faunal Deposits in Prehistoric Sanctuaries: Zooarchaeological Insights from the Gymnesic Islands (Western Mediterranean)*<br>**[Dr. Alejandro Valenzuela Oliver](https://www.researchgate.net/profile/Alejandro-Valenzuela) (Mediterranean Institute for Advanced Studies (UIB-CSIC), Spain)**|
-|15:00 -- 15:10| *Closing/ Final remarks*|
-|||
-|15:30 | Bus transfer from the Cyprus Institute to Nicosia city centre |
-|17:00 -- 19:30| *Experimental pyre: Food for the Gods Sacrificial Pyres in the Archaeological Record* at [Parking area of Ledron Archaeological Local Museum, Andrea Dimitriou, 1066, Nicosia](https://maps.app.goo.gl/y24F8TqDN89GUXpx6) and *guided tours in the Lendron Archaeological Local Museum*|
-
-## **Oct. 19^th^**
-
-|Morning||
-|--|--------|
-|tba | ~~Tour of the Cyprus Museum (self-paid)~~ <br> Explore the Cyprus museum on your own (free admission) |
-
-## **Posters**
-
-||
-|--|
-|[*Trace element influence on phytolith dissolution and preservation: Investigating the role of strontium and barium*](abstracts/2024-38.qmd)<br>**Nafsika C. Andriopoulou, Georgios E. Christidis**|
-|[*Deciphering Past Coastal Environments: Beachrock Characterisation and Luminescence Dating in SE Lasithi, Crete, Greece*](abstracts/2024-39.qmd)<br>**Nafsika C. Andriopoulou, Georgios C. Polymeris, Konstantinos C. Stamoulis, Michael Schöbel, Georgios E. Christidis, Stefanos Papadakis, Anna Novikova, Nikos Papadopoulos**|
-|[*Exploring the Maritime Trade and Cultural Linkages across the East Coast: Case Studies based on Ceramic Analysis*](abstracts/2024-41.qmd)<br>**Debankita Das**|
-|[*A look upon chalcolithic pottery technology through the petrographic analysis of a batch from North of Danube*](abstracts/2024-42.qmd)<br>**Mădălina Dimache, Cristian-Eduard Ștefan**|
-|[*Furthering our understanding of the sources of the metal of Roman denarii -- A multi-isotope and elemental analysis approach*](abstracts/2024-44.qmd)<br>**Tim Greifelt, Sabine Klein, David Wigg-Wolf**|
-|[*Cultural Heritage and Repatriation and Restitution of Stolen and Illegally Acquired Artifacts: A Critical Analysis*](abstracts/2024-45.qmd)<br>**Forbes Tapiwa Marumbei**|
-|[*Petrographic Thin Section of 18th Century Iron Smelting Ceramics in Ugbene-Ajima, Southeastern Nigeria*](abstracts/2024-46.qmd)<br>**John Ngonadi, Pamela Eze-Uzomaka**|
-|[*Archaeology, Cultural Heritage, and Tourism in Ile-Ife, Nigeria: Bridging the Gap*](abstracts/2024-47.qmd)<br>**Zainab Popoola**|
-|[*An application of XRF spectroscopy to heritage science - the case study of ancient roman building materials from Lebanon*](abstracts/2024-48.qmd)<br>**Marcin Sokołowski**|
-|[*Experimental clay processing and archaeometric analysis to determine the provenance of fine-ware ceramics from the Early Middle Ages in north-western Tuscany (Italy): preliminary results*](abstracts/2024-49.qmd)<br>**Irene Strufaldi, Sara Longo**|
-|[*The RETS Project - Revealing the Senne. A hidden landmark in the historical center of Brussels, Belgium*](abstracts/2024-50.qmd)<br>**Dries Vergouwen, Ann Degraeve, Marc Meganck, Ralf Vandam, Yannick Devos**|
-
-:::
-
-## Travel awards
-
-### SAS Travel Award 
-
-The [Society for Archaeological Sciences](https://socarchsci.org) (SAS) sponsors a single travel award of USD 200 to support one student/ECR from [low and middle income countries](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) and/or with financial need. 
-
-The application for the SAS Travel award is integrated in the [abstract submission form](https://forms.gle/txhdzYgtvHt5LEoh6). Applications will be evaluated after abstract submission closed. The evaluation will be based on the applicant's career status, location of affiliation, availability of alternative funding sources, and an motivation letter of 300 to 400 words. The SAS Travel Award can only be given to an applicant with an accepted abstract. 
-
-### Travel awards of the Cyprus Institute 
-
-In addition to the travel grant provided by the Society for Archaeological Sciences, the [Cyprus Institute](https://www.cyi.ac.cy/) offers two travel grants worth 200 Euro each to presenters at YRA2024. Applications will be evaluated after abstract submission closed. Evaluation criteria will be the same as for the SAS Travel Award.
+-->
 
 <!-- 
 The text blocks below can be used as template for upcoming announcements 
--->
-
-<!-- 
-::: {.callout-note}
-## YRA 2023 Key dates
-~~**May 15^th^** -- Deadline for abstract submission~~  
-~~**May 31^th^** -- **EXTENDED** Deadline for abstract submission~~    
-~~**June 15^th^** -- Announcement of abstracts decisions & Opening for registration~~   
-~~**Aug. 15^th^** -- Preliminary program~~    
-~~**Sept. 15^th^** -- Deadline for in-presence registration~~  
-~~**Sept. 25^th^** -- Deadline for online [registration](https://forms.gle/vJCm7feYgBijP4FGA)~~  
-~~**Sept. 26^th^** -- Meeting details and final program~~   
-**Oct. 4^th^--6^th^** -- YRA 2023 Workshop in Tübingen   
-:::
-
--->
-
-<!-- 
-
-## Call for Abstracts
-
-We are happy to announce that the **6^th^ Workshop Young Researchers in Archaeometry** will be held in **hybrid format** at the **University of Tübingen**, Germany from **October 4^th^ to 6^th^, 2023**. The workshop will once again welcome early career researchers (master, PhD, first postdoc) in archaeological sciences and cultural heritage studies.
-
-With this workshop we aim to offer a relaxed atmosphere to encourage interdisciplinary exchange between early career researchers. With a hybrid format, we are happy to welcome participants in person, as well as those online from all around the world, who cannot come to Tübingen. We are pleased to invite you for oral contributions in all kinds of natural sciences about archaeological and anthropological topics. In particular, early career researchers in archaeology, art history, anthropology, biology, chemistry, conservation, cultural heritage, earth science, material science, medicine, physics are welcome to submit an abstract.
--->
-
-<!-- 
-
-## Abstract submission
-
-Abstract submission is closed. The submitted abstracts are now evaluated. 
-
-Send us your abstract (max. 250 words) until  ~~May 15^th^, 2023~~ **May 31^st^ 2023** (extended deadline) via the [submission form](https://forms.gle/vki7aE9LgHKM1AN27). 
-
-Presentations can be either a 5 min digital poster or a 15 min oral presentation, with additional time for questions. Online presentations will be scheduled in a way that considers the different presenters' time zones.
-
--->
-
-<!--
-## Registration
-
-[Hosted at [![Logo University of Tübingen](https://uni-tuebingen.de/typo3conf/ext/project/Resources/Public/Images/Logo_Universitaet_Tuebingen.svg)](https://uni-tuebingen.de/en/)]{.aside}
-
-Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Registration is possible for everyone, also if you are not presenting. 
-
-Registration fee for in-presence participation: 30 €. Online participation is free.
-
-You will receive the Zoom link and abstract booklet on September 26. 
 -->
 
 <!--
@@ -291,56 +126,3 @@ All times are given in Central European Time (UTC+2).
 
 :::
 -->
-## Archaeological experiment: Food for the Gods
-::: {layout="[ 25 , 75 ]"}
-
-::: {#column-text}
-On the occasion of YRA2024, the archaeological experiment "Food for the Gods: Sacrifical Pyres in the Archaeological Record" will be carried out by a team from the Cyprus institute. The experiments aims to reproduce the archaeological remains of pyres. An altar will be build based on archaeological data, ancient iconography and contemporaneous written sources and different materials places as offerings. The pyre will be carefully lit, its temperature evolution recorded, and after being burned down completely carefully excavated.  
-:::
-
-::: {#column-image}
-[![](assets/img/YRA2024_pyre.png)  (Click on image for full size)](assets/img/YRA2024_pyre.png)  
- 
-:::
-
-:::
-
-
-## How to get to the venue & accommodation
-
-### Transportation from and to the airports
-
-[Kapnos Airport Shuttle](https://kapnosairportshuttle.com) operates direct bus shuttles between Larnaca International Airport and Nicosia and between Paphos International Airport and Nicosia. At the exit of the arrivals, you will see “Kapnos Airport Shuttle”. You can purchase tickets for the shuttle either there or online. The bus takes about half an hour from/to Larnaca airport and around 100 minutes from/to Paphos airport. The stop in Nicosia is located at Kyrenias, Nicosia 2112, Cyprus ([show in GoogleMaps](https://maps.app.goo.gl/32Gud8zQgbpPVB6NA)). You will find taxis on the spot to take you to your hotel. 
-
-Timetables (will be updated by October): 
-
-* Larnaca International Airport <--> Nicosia
-  * [To Nicosia](https://kapnosairportshuttle.com/routes/4/en/1)
-  * [From Nicosia](https://kapnosairportshuttle.com/routes/5/en/1)
-* Paphos International Airport <--> Nicosia
-  * [To Nicosia](https://kapnosairportshuttle.com/routes/10/en/1)
-  * [From Nicosia](https://kapnosairportshuttle.com/routes/11/en/1)
-
-It is advised to be at the airport at least one and a half to two hours before departure of your flight.
-
-### Getting to the Cyprus institute and around in Nicosia
-
-Solomou Square is the main bus station in the old city ([show in GoogleMaps](https://maps.app.goo.gl/sfRhBE3N72Bd9DiF7)). Routes no. 3 and 4 are departing at Solomou square to the Cyprus Institute. Please check the homepage of the public transport (<https://www.publictransport.com.cy/home/page/home>) for timetables and fares. 
-
-Taxi Service: You can contact PRIMO Taxi Mr. Fotis (phone: 00357 99419378) for any taxi service you may need.
-
-The address of the Cyprus Institute is:  
-
-The Cyprus Institute  
-20 Konstantinou Kavafi Street 2121, Aglantzia  
-Nicosia  
-Tel: 00357 22208700 / 00357 22208629  
-[Show in GoogleMaps](https://maps.app.goo.gl/UUH5qhus6TgY1XVv6)
-
-### Accommodation
-
-Please find a list of recommended hotels [in this guide](/assets/YRA2024_acommocation.pdf)
-
-### Touristic activities
-
-Information an touristic activities in Nicosia can be found at <https://www.visitnicosia.com.cy/>. This page also provides a [list of museums](https://www.visitnicosia.com.cy/museums/) you can visit and the [Must Visit Landmarks of the Old Town](https://www.visitnicosia.com.cy/the-must-visit-landmarks-of-old-town/)
