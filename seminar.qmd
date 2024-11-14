@@ -9,9 +9,9 @@ We are happy to announce a new Seminar Series with monthly presentations highlig
 Each month, we will host an online 1-hour meeting, with about 30 minutes presentations followed by a discussion on the topic. ECRs from around the globe will be invited to present diverse topics, reflecting the multidisciplinary character of archaeological sciences. We aim to have these talks in a relaxed atmosphere, with discussions around a cup of morning coffee, a lunch break, or an afternoon tea depending on the time zone of the participants.  
 The time slots of each presentation will be accommodated to be the most comfortable for the presenter and listeners from their targeted research area.
 
-The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=dWMyVkNIT0NrNjBTUlp1Z0phOGl3UT09) to join the Zoom meeting.
+The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=dWMyVkNIT0NrNjBTUlp1Z0phOGl3UT09) to join the Zoom meeting (Meeting-ID: 988 6914 5922; code: YRA-S2024).
 
-## Next presentation: November 11th, at 12:00 pm (UTC)
+## Next presentation: December 10th, at 3:00 pm (UTC)
 
 ::: {.column-margin}
 
@@ -22,21 +22,23 @@ Click [here](https://zoom.us/j/98869145922?pwd=dWMyVkNIT0NrNjBTUlp1Z0phOGl3UT09)
 **Code:** YRA-S2024  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241111T120000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241210T150000&p1=1440).
 
 :::
 
-*The technology of polychrome glazed ceramics in Ifriqiya: new data from the Medjerda Valley*  
-**Veronica Occari** (University College London, UK)  
+*Chrysocolla at high temperatures: understanding Pre-Hispanic metallurgy through Collahuasi slag analysis (Tarapaca, Chile)*  
+**Sibylle Manya** (National Centre for Research and Restoration in French Museums, France)  
 
-**Co-authors**: H. Möller, C. Fenwick, P. Quinn,  I.C. Freestone,  M. Chaouali, P. von Rummel  
+**Co-authors**: B. Mille, V. Figueroa Larre, T. Bataille, L. Le Pollès, J.-B. d’Espinose de Lacaillerie  
 
-**Keywords:** Ifriqiya; Medieval glazed ceramics; Pottery technology; Petrography; Compositional analyses    
+**Keywords:** Chrysocolla characterization; Thermal analysis; Pre-Hispanic copper metallurgy    
 
 **Abstract:**  
-Ifriqiya (roughly Tunisia and eastern Algeria) is believed to have played a significant role in the diffusion of ceramic glazed technologies into other regions of the Western Mediterranean. However, due to limited analysis on North African glazed ceramics, its role in technology transfer remains poorly understood. This paper uses petrographic, SEM-EDS and LA-ICP-MS analyses to understand the technology employed in the production of Tunisian ceramics through the study of polychrome glazed ceramics from medieval settlements at the sites of Chimtou (ancient Simitthus) and Bulla Regia, Tunisia, dated to the late ninth-twelfth century. The results provide new insights on workshops practices, on the origin of the ceramics and on regional inland exchange networks.    
+Ujina-Collahuasi is an archaeological site located in the Atacama Desert in Chile, renowned as a major center for copper production during the pre-Inca and Inca periods. Pre-Hispanic metallurgists utilized bench-shaped granodiorite furnaces to smelt ore, leveraging the wind to achieve high temperatures and extract copper in the form of metallic beads. The resulting slag, rich in silicon, exhibits various mineralogical phases, notably yellow-green or yellow-orange phases that are of particular interest. These phases, rich in copper and silicon, may be attributed to the prevalence of chrysocolla among the ores used.
+This study focuses on a characterization of chrysocolla, a copper silicate with an amorphous and controversial structure. At ambient temperature, several analytical techniques (PIXE, SEM-EDS, and solid-state NMR) were employed to overcome challenges related to its variable chemical composition and disordered crystalline structure. At high temperatures, the thermal decomposition of chrysocolla was investigated by heating several samples to different temperatures and characterizing them using various techniques (optical microscopy, XRD, IR spectroscopy, SEM-EDS). Additionally, an in-situ study was conducted, providing XRD scans of a sample subjected to increasing temperatures.
+The results obtained enhance our understanding of the transformation of chrysocolla observed in the pre-Hispanic slag from Collahuasi and the evolution of metallurgical techniques. Previous studies have been supplemented by analyzing slags from excavations in the Ujina 10 sector, including three furnaces dated to different periods. The objective was to identify any changes in copper reduction techniques between the pre-Inca and the Inca occupation.    
 
-![](assets/img/Seminar/2024-11_Occari_copyright.png)
+![](assets/img/Seminar/2024-12_Manya_copyright.png)
 
 
 ## Programme
@@ -85,10 +87,10 @@ Copper and its alloys are one of the materials thought to come from the maritime
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## December 10th – Sibylle Manya (Centre de Recherche et de Restauration des Musées de France, France)
+## December 10th – Sibylle Manya (National Centre for Research and Restoration in French Museums, France)
 **Time:** 3:00 pm (UTC)  
 **Title:** Chrysocolla at high temperatures: understanding Pre-Hispanic metallurgy through Collahuasi slag analysis (Tarapaca, Chile)  
-**Co-authors:** B. Mille B., V. Figueroa Larre, T. Bataille, L. Le Pollès, J.-B. d’Espinose de Lacaillerie  
+**Co-authors:** B. Mille, V. Figueroa Larre, T. Bataille, L. Le Pollès, J.-B. d’Espinose de Lacaillerie  
 **Keywords:** Chrysocolla characterization; Thermal analysis; Pre-Hispanic copper metallurgy  
 **Abstract:** Ujina-Collahuasi is an archaeological site located in the Atacama Desert in Chile, renowned as a major center for copper production during the pre-Inca and Inca periods. Pre-Hispanic metallurgists utilized bench-shaped granodiorite furnaces to smelt ore, leveraging the wind to achieve high temperatures and extract copper in the form of metallic beads. The resulting slag, rich in silicon, exhibits various mineralogical phases, notably yellow-green or yellow-orange phases that are of particular interest. These phases, rich in copper and silicon, may be attributed to the prevalence of chrysocolla among the ores used.  
 This study focuses on a characterization of chrysocolla, a copper silicate with an amorphous and controversial structure. At ambient temperature, several analytical techniques (PIXE, SEM-EDS, and solid-state NMR) were employed to overcome challenges related to its variable chemical composition and disordered crystalline structure. At high temperatures, the thermal decomposition of chrysocolla was investigated by heating several samples to different temperatures and characterizing them using various techniques (optical microscopy, XRD, IR spectroscopy, SEM-EDS). Additionally, an in-situ study was conducted, providing XRD scans of a sample subjected to increasing temperatures.  
