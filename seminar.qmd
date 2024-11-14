@@ -38,8 +38,8 @@ Ujina-Collahuasi is an archaeological site located in the Atacama Desert in Chil
 This study focuses on a characterization of chrysocolla, a copper silicate with an amorphous and controversial structure. At ambient temperature, several analytical techniques (PIXE, SEM-EDS, and solid-state NMR) were employed to overcome challenges related to its variable chemical composition and disordered crystalline structure. At high temperatures, the thermal decomposition of chrysocolla was investigated by heating several samples to different temperatures and characterizing them using various techniques (optical microscopy, XRD, IR spectroscopy, SEM-EDS). Additionally, an in-situ study was conducted, providing XRD scans of a sample subjected to increasing temperatures.
 The results obtained enhance our understanding of the transformation of chrysocolla observed in the pre-Hispanic slag from Collahuasi and the evolution of metallurgical techniques. Previous studies have been supplemented by analyzing slags from excavations in the Ujina 10 sector, including three furnaces dated to different periods. The objective was to identify any changes in copper reduction techniques between the pre-Inca and the Inca occupation.    
 
-![](assets/img/Seminar/2024-12_Manya_copyright.png)
-
+![](assets/img/Seminar/2024-12_Manya_copyright.png)  
+Optical microscopy image in dark field of an archaeological slag
 
 ## Programme
 
