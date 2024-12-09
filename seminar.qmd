@@ -41,7 +41,25 @@ The results obtained enhance our understanding of the transformation of chrysoco
 ![](assets/img/Seminar/2024-12_Manya_copyright.png)  
 Optical microscopy image in dark field of an archaeological slag
 
-## Programme
+
+## Programme - 2025
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## January 30th – Tom Maltas (University of Oxford, UK)
+**Title:** Archaeobotany and social change in the Neolithic and Bronze Age Aegean: perspectives from the eastern fringes
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## February – Caroline Patriot
+More info coming soon.
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## March – Alejandra Sánchez Polo
+More info coming soon.
+:::
+
+## Programme - 2024
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## June 3rd – Mélissa Cadet (Academia Sinica, Taiwan)
