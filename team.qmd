@@ -3,6 +3,20 @@ title: "Meet the team"
 lightbox: true
 ---
 
+## Andrea Mészáros 
+
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/img/AMészáros.png)
+:::
+
+::: {#column-text}
+Andrea (Eötvös Loránd University) is a doctoral student in the Department of Archaeology at the ELTE Faculty of Humanities, Doctoral School of History. She completed her bachelor and master studies at the Department of Migration Periods. Her doctoral thesis is on the bead material of the Avar cemeteries around Tiszafüred, their composition, and their distribution and trade situation in the Carpathian Basin in the Early Middle Ages.
+:::
+
+:::
+
 ## Anna Karligkioti [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9237-7830)
 
 ::: {layout="[ 25 , 75 ]"}
@@ -46,6 +60,33 @@ Chase (Cyprus Institute) is a PhD candidate in the Science and Technology in Arc
 
 :::
 
+## Enikő Somogyvári-Lajtár
+
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/img/ESomogyvári-Lajtár.png)
+:::
+
+::: {#column-text}
+nikő (Eötvös Loránd University, Hungary) is a PhD candidate in bioarchaeology at the Institute of Archaeological Sciences, Eötvös Loránd University, Hungary. In her PhD titled Diet and lifestyle in the Neolithic — According to the stable isotope geochemical research of Polgár-Ferenci-hát and Polgár-Csőszhalom sites under the supervision of Senior Research Fellow, Dr. A. Anders. Enikő combines stable isotope geochemical results on human remains with the previous archaeological and physical anthropological information to examine dietary habits and lifestyles at individual and population levels. She also wrote her Bachelor's and Master's thesis on archaeological dietary reconstruction using stable isotope geochemical methods. She is currently a junior research fellow in the Archaeometry and Bioarchaeology Research Group at the Institute for Geological and Geochemical Research, HUN-REN RCAES, Budapest, Hungary.
+:::
+
+:::
+
+## Eszter Solnay [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-1647-9699)
+
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/img/ESolnay.png)
+:::
+
+::: {#column-text}
+Eszter (Eötvös Loránd University, Paris 1 Panthéon-Sorbonne University) is a PhD candidate in archaeology at Eötvös Loránd University (ELTE), Budapest, Hungary and at Paris 1 Panthéon-Sorbonne University, Paris, France. She is a member of the UMR 8215 Trajectoires Laboratory in Paris and part of the MTA-ELTE Lendület "Momentum" Innovation Research Group at Eötvös Loránd University, Institute of Archaeological Sciences in Budapest. Her studies focus on analysing prehistoric pottery vessel making, especially the forming and surface treatment techniques on Early and Middle Copper Age vessels from the Carpathian Basin (Hungary).
+:::
+
+:::
 
 ## Kyriaki Tsirtsi [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-1861-7987)
 
@@ -94,6 +135,20 @@ Prudence (Ghent University) is a PhD candidate in bioarchaeology at Archeos, the
 
 :::
 
+## Rebeka Gergácz 
+
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/img/RGergácz.png)
+:::
+
+::: {#column-text}
+Rebeka (Eötvös Loránd University; Hungarian National Museum) is a PhD candidate at Eötvös Loránd University, Doctoral School of History (Budapest, Hungary) and an archaeologist at the Hungarian National Museum, National Institute of Archaeology (Budapest, Hungary). She completed her bachelor's (BA) and master's (MA) at Eötvös Loránd University (Hungary) in the Department of Archaeometry and Archaeological Methodology with a focus on the non-destructive surveying of multi-period site complexes and GIS. She started her PhD in 2023, investigating Late Iron Age settlements and their patterns in the Váli Valley (Hungary) using non- and semi-destructive research methods such as fieldwalking, aerial reconnaissance, geophysical prospection and metal detector surveying. She also plans to analyse the gained data in GIS to better understand the Late Iron Age settlement patterns and landscape in the area.
+:::
+
+:::
+
 ## Tamanna Jahan Keya 
 
 ::: {layout="[ 25 , 75 ]"}
@@ -137,3 +192,16 @@ Vasiliki (Austrian Archaeological Institute) studied the Master of Science in Cu
 
 :::
 
+## Viktória Mozgai [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9712-2773)
+
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/img/VMozgai.png)
+:::
+
+::: {#column-text}
+Viktória is a researcher of the Archaeometry and Bioarchaeology Research Group at the Institute for Geological and Geochemical Research, HUN-REN Research Centre for Astronomy and Earth Sciences, Budapest. She defended her PhD titled Detailed examination of late Roman silver finds (including the Seuso Treasure) from Pannonia –The use of the results in the archeometric research of objects  in 2023 at the Doctoral School of Earth Sciences, Faculty of Science, Eötvös Loránd University, Budapest. Her main research field is the detailed archaeometric study of archaeological and historical gold-, silver- and copper-based alloy objects and their decoration techniques (gilding, niello- and garnet inlays). She is involved in several research projects on artefacts from prehistoric to early medieval times.
+:::
+
+:::
