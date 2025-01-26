@@ -49,13 +49,22 @@ Bordered by the Aegean and central Anatolia, the prehistory of western Anatolia 
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## February – Caroline Patriot
-More info coming soon.
+## February – Caroline Patriot (Austrian Archaeological Institute, Austria)
+**Title:** Life and death in Byzantine Ephesos (Turkey): contributions from the integration of archaeothanatological and biological data  
+**Co-authors:** E. Baudoin, M. Steskal  
+**Keywords:** Archaeothanatology; Biological anthropology; Funerary practices; Palaeopathology  
+**Abstract:** The city of Ephesos, located in western Turkey, south of Izmir, was the capital of the Roman province of Asia and is home to one of the most significant sites of early Christianity: The Church of Mary. This monument served as an episcopal church in the early 5th and 6th centuries and later functioned as a burial ground during the Middle and Late Byzantine periods.  
+In 2023, a new excavation led by Dr. Martin Steskal aimed to document local burial practices using modern methodologies and archaeothanatological analysis. This approach focuses on closely examining post-depositional processes, such as anomalies in bone positioning and the sequence of joint decomposition. These analyses enable the reconstruction of the original organization of funerary spaces and a detailed interpretation of funerary practices. This field study is also being complemented by a comprehensive biological analysis of the entire collection recovered during previous excavations conducted between 1984 and 2001.  
+This presentation highlights the results of the study, which combines field data with the analysis of the biological profiles of the individuals. The archaeothanatological analysis uncovered previously undocumented funerary practices at the site, including specific secondary manipulations. Meanwhile, the biological analysis revealed a particularly compromised health status, characterized by probable staphylococcal infections and distinctive healed fractures. Together, these findings offer new perspectives on the life trajectories and funerary treatment of the individuals form this community.
+
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## March – Alejandra Sánchez Polo
-More info coming soon.
+## March – Alejandra Sánchez Polo (University of Valladolid, Spain)
+**Title:** Colored sculptures under study: archaeometrical and symbolic approaches to pigments in pre-Columbian Ecuador  
+**Keywords:** Pigments; Pre-Columbian; Archaeometry; Museum; Ecuador  
+**Abstract:** The pre-Columbian sculptures housed in art museums (such as the Quai Branly in Paris and the British Museum), decontextualized from their archaeological context, can still be historically relevant and provide insights into prehistoric societies? This question arose during my work as a curator at a pre-Columbian art museum in Ecuador. In addressing it, I pursued two main approaches: investigating the symbolism of colors and materials in pre-Columbian America and establishing the *chaîne opératoire* of the pigments observed on the shelves of the museum. To this end, several post-firing painted ceramic statues produced during the Regional Development period (500 BC - 500 AD) on the coast of Ecuador were studied.  
+First, in order to delve into the *chaîne opératoire*, the pigments and chromatic layers were examined using binocular magnification, SEM, XRD, XRF, and Raman spectroscopy in collaboration with various Ecuadorian institutions. One of the findings was that, despite employing similar color schemes, these pigments were used in comparable ways but sourced from different pigment materials. Furthermore, there existed a profound symbolic connection regarding color across the Americas. Thus, this study sought to demonstrate that the thousands of artifacts in museums are amenable to archaeological study, reinstating their intrinsic historical value.
 :::
 
 ## Programme - 2024
