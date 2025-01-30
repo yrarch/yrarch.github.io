@@ -11,7 +11,7 @@ The time slots of each presentation will be accommodated to be the most comforta
 
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting (Meeting-ID: 988 6914 5922; code: YRA-S2025).
 
-## Next presentation: January 30th, at 3:00 pm (UTC)
+## Next presentation: February 17th, at 12:00 pm (UTC)
 
 ::: {.column-margin}
 
@@ -22,21 +22,23 @@ Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 
 **Code:** YRA-S2025  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20250130T150000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20250217T120000&p1=1440).
 
 :::
 
-*Archaeobotany and social change in the Neolithic and Bronze Age Aegean: perspectives from the eastern fringes*  
+*Life and death in Byzantine Ephesos (Turkey): contributions from the integration of archaeothanatological and biological data*  
 
-**Tom Maltas** (University of Oxford, UK)  
+**Caroline Partiot** (Austrian Archaeological Institute, Austria)  
 
-**Keywords:** Agrarian lifeways; Western Anatolia; Prehistory  
+**Keywords:** Archaeothanatology; Biological anthropology; Funerary practices; Palaeopathology  
 
 **Abstract:**  
-Bordered by the Aegean and central Anatolia, the prehistory of western Anatolia has remained relatively unexplored. This is particularly the case for the rural economy, despite its evident importance to cultural developments within neighbouring regions. A small but growing body of scholarship is beginning to rectify this through bioarchaeological research aimed at reconstructing systems of farming and land use in the past. Focusing on the Aegean region of western Anatolia, I outline how these studies have transformed our understanding of agrarian lifeways and can shed new light on the dramatic cultural developments that can be traced across the Neolithic and Bronze Age. I go on to assess the implications of this regional trajectory for broader developments across the Aegean.    
+The city of Ephesos, located in western Turkey, south of Izmir, was the capital of the Roman province of Asia and is home to one of the most significant sites of early Christianity: The Church of Mary. This monument served as an episcopal church in the early 5th and 6th centuries and later functioned as a burial ground during the Middle and Late Byzantine periods.  
+In 2023, a new excavation led by Dr. Martin Steskal aimed to document local burial practices using modern methodologies and archaeothanatological analysis. This approach focuses on closely examining post-depositional processes, such as anomalies in bone positioning and the sequence of joint decomposition. These analyses enable the reconstruction of the original organization of funerary spaces and a detailed interpretation of funerary practices. This field study is also being complemented by a comprehensive biological analysis of the entire collection recovered during previous excavations conducted between 1984 and 2001.  
+This presentation highlights the results of the study, which combines field data with the analysis of the biological profiles of the individuals. The archaeothanatological analysis uncovered previously undocumented funerary practices at the site, including specific secondary manipulations. Meanwhile, the biological analysis revealed a particularly compromised health status, characterized by probable staphylococcal infections and distinctive healed fractures. Together, these findings offer new perspectives on the life trajectories and funerary treatment of the individuals form this community.    
 
-![](assets/img/Seminar/2025-01_Maltas_copyright.png)  
-
+![](assets/img/Seminar/2025-02_Partiot_copyright.png)  
+Drawing of the child burial MK2/23, Church of Mary, Ephesos.  
 
 ## Programme - 2025
 
@@ -49,7 +51,7 @@ Bordered by the Aegean and central Anatolia, the prehistory of western Anatolia 
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## February 17th – Caroline Patriot (Austrian Archaeological Institute, Austria)
+## February 17th – Caroline Partiot (Austrian Archaeological Institute, Austria)
 **Time:** 12:00 pm (UTC)  
 **Title:** Life and death in Byzantine Ephesos (Turkey): contributions from the integration of archaeothanatological and biological data  
 **Co-authors:** E. Baudoin, M. Steskal  
