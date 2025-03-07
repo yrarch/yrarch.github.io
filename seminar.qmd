@@ -11,7 +11,7 @@ The time slots of each presentation will be accommodated to be the most comforta
 
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting (Meeting-ID: 988 6914 5922; code: YRA-S2025).
 
-## Next presentation: March 6th, at 16:00 pm (UTC)
+## Next presentation: April 1st, at 12:00 pm (UTC)
 
 ::: {.column-margin}
 
@@ -22,21 +22,51 @@ Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 
 **Code:** YRA-S2025  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20250306T160000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20250401T120000&p1=1440).
 
 :::
 
-*Colored sculptures under study: archaeometrical and symbolic approaches to pigments in pre-Columbian Ecuador*  
+*Identifying Bronze Age alloying practices in the western and central Balkans*  
 
-**Alejandra Sánchez Polo** (Universidad de Valladolid, Spain)  
+**Nicole Mittermair** (Austrian Archaeological Institute & University of Vienna, Austria)  
 
-**Keywords:** Pigments; Pre-Columbian; Archaeometry; Museum; Ecuador  
+**Keywords:** Bronze Age Balkans; Trace element analysis; Alloying; Metal production  
 
 **Abstract:**  
-The pre-Columbian sculptures housed in art museums (such as the Quai Branly in Paris and the British Museum), decontextualized from their archaeological context, can still be historically relevant and provide insights into prehistoric societies? This question arose during my work as a curator at a pre-Columbian art museum in Ecuador. In addressing it, I pursued two main approaches: investigating the symbolism of colors and materials in pre-Columbian America and establishing the *chaîne opératoire* of the pigments observed on the shelves of the museum. To this end, several post-firing painted ceramic statues produced during the Regional Development period (500 BC - 500 AD) on the coast of Ecuador were studied.  
-First, in order to delve into the *chaîne opératoire*, the pigments and chromatic layers were examined using binocular magnification, SEM, XRD, XRF, and Raman spectroscopy in collaboration with various Ecuadorian institutions. One of the findings was that, despite employing similar color schemes, these pigments were used in comparable ways but sourced from different pigment materials. Furthermore, there existed a profound symbolic connection regarding color across the Americas. Thus, this study sought to demonstrate that the thousands of artifacts in museums are amenable to archaeological study, reinstating their intrinsic historical value.
+From 1500 BC onward, the increasing number of casting moulds, copper ingots, and hoards attests to a significant rise in metallurgical activity in the Western and Central Balkans. However, while Copper and Early Bronze Age metal production in the region has been extensively studied, the metallurgical practices of the Late Bronze and Early Iron Age have received far less attention.  
+This presentation will explore the elemental composition of Bronze Age copper-based objects from various archaeological contexts and discuss what these findings reveal about alloying practices, as one of the final stages in the metallurgical chaîne opératoire. Rather than focusing solely on raw material provenance, this study aims to reconstruct technological choices in metalworking practices and adaptations in local bronze production.  
+The goal of this study is to contextualize newly generated trace and minor element data (ED-XRF) within broader archaeological and chronological frameworks. Rather than focusing solely on raw material provenance, the emphasis lies on understanding deliberate technological choices in metallurgical practices, and adaptation in local bronze production. By integrating chemical data with cultural-historical perspectives, this research offers new insights into prehistoric metal production in the region.
 
-![](assets/img/Seminar/2025-03_Sanchez-Polo_copyright.png)  
+![](assets/img/Seminar/2025-04_Mittermair_copyright.png)  
+
+## Additional session: April 9th, at 14:00 pm (UTC)
+
+::: {.column-margin}
+
+::: {.callout}
+## Seminar Zoom link 
+Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting.  
+**Meeting-ID:** 988 6914 5922  
+**Code:** YRA-S2025  
+:::
+
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20250409T140000&p1=1440).
+
+:::
+
+*Discover STON: a practical tool to study petrographic images and beyond!*
+
+**Evgenia Dammer** (Berlin State Museums, Germany)  
+**Romain Thomas** (University of Sheffield, UK)
+
+**Abstract:** 
+STON is open-source software designed to make microscopic image analysis faster and easier for archaeologists. Unlike existing microscopic imaging software, which is primarily built for the natural sciences, STON is tailored to archaeological research, allowing users to cluster and compare multiple images simultaneously in a simple, user-friendly workspace. With features such as freehand sorting and synchronised zoom, STON helps users efficiently group samples and analyse compositional characteristics. By streamlining these processes, it enhances ceramic paste analysis and petrographic grouping. Developed openly on GitHub, STON is free to use and fully adaptable, with a Python-based source code that can be customised for different projects.  
+Join this webinar to see STON in action and learn how it can support your research. 
+
+For more information, visit the [documentation page](https://romain-thomas-shef.github.io/STON/).
+
+![](assets/img/Seminar/2025-04_Webinar STON_200dpi.png)  
+
 
 ## Programme - 2025
 
@@ -90,7 +120,8 @@ For more information, visit the [documentation page](https://romain-thomas-shef.
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## May – Doris Jetzinger
+## May 16th – Doris Jetzinger (University of Vienna, Austria)
+**Time:** 9:00 am (UTC)  
 *More information coming soon.*
 :::
 
