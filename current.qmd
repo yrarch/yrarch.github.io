@@ -29,18 +29,21 @@ Hosted at: [![Eötvös Loránd University](https://www.elte.hu/en/images/elte-lo
 ::: {#column-empty}
 Sponsored by: [![](assets/img/SAS_logo.png)](https://socarchsci.org)
 :::
+Supported by: 
 
 ::: {#column-empty}
-Organised by:  
-[Viktória Mozgai](team.qmd#viktória-mozgai)
-[Rebeka Gergácz](team.qmd#rebeka-gergácz)
-[Andrea Mészáros](team.qmd#andrea-mészáros)
-[Eszter Solnay](team.qmd#eszter-solnay)
-[Enikő Somogyvári-Lajtár](team.qmd#enikő-somogyvári-lajtár)
-[Thomas Rose](team.qmd#thomas-rose) 
+
 :::
 
 :::
+
+Organised by:  
+[Viktória Mozgai](team.qmd#viktória-mozgai)  
+[Rebeka Gergácz](team.qmd#rebeka-gergácz)  
+[Andrea Mészáros](team.qmd#andrea-mészáros)  
+[Eszter Solnay](team.qmd#eszter-solnay)  
+[Enikő Somogyvári-Lajtár](team.qmd#enikő-somogyvári-lajtár)  
+[Thomas Rose](team.qmd#thomas-rose) 
 
 :::
 
@@ -50,7 +53,7 @@ With this workshop, we aim to offer a relaxed atmosphere to encourage interdisci
 
 ## Abstract submission
 
-Send us your abstract (max. 250 words) until  May 31^st^, 2024 <!--**June 15^th^ 2025** (extended deadline)--> via the [submission form](https://forms.gle/txhdzYgtvHt5LEoh6). 
+Send us your abstract (max. 250 words) until  May 31^st^, 2025 <!--**June 15^th^ 2025** (extended deadline)--> via the [submission form](https://forms.gle/txhdzYgtvHt5LEoh6). 
 
 More information and a first programme with information about the social events will follow soon. 
 
