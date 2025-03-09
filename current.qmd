@@ -3,31 +3,25 @@ title: "Young Researchers in Archaeometry 2025"
 lightbox: true
 ---
 
-YRA2025 will take place from 14 to 17 October at the Eötvös Loránd University, Budapest (Hungary). 
-
-Abstract submission will open 1 April. More information will become available soon, stay tuned! 
-
-<!--
 ::: {.callout-note}
-## YRA2024 Key dates
-~~**March 15^th^** -- [Abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6) opens~~  
-~~**May 31^th^** -- Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
-~~**June 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
-~~**July 1^st^** -- Announcement of abstracts decisions~~  
-~~**July 1^st^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens~~  
-~~**Aug. 1^st^** -- Preliminary program available~~  
-~~**Sept. 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes~~  
-~~**Oct. 1^st^** -- Meeting details and final program available~~  
-**Oct. 15^th^--18^th^** -- YRA2024 in Nicosia   
+## YRA2025 Key dates
+**April 1^st^** -- [Abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6) opens  
+**May 31^st^** -- Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)  
+<!-- **June 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)  -->
+**July 1^st^** -- Announcement of abstracts decisions  
+**July 1^st^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens  
+**Aug 1^st^** -- Preliminary program available  
+**Sept 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes  
+**Oct. 1^st^** -- Meeting details and final program available  
+**Oct. 14^th^--17^th^** -- YRA2025 in Budapest   
 **Oct. 31^st^** -- Certificates sent to participants
 :::
--->
 
-<!--
+
 ## General information 
 
 ::: {.column-margin}
-Hosted at: [![Cyprus institute](https://www.cyi.ac.cy/templates/gk_rockwall/images/logo_cy_og_image.jpg)](https://www.cyi.ac.cy/)  
+Hosted at: [![Eötvös Loránd University](https://www.elte.hu/en/images/elte-logo-en-v2.svg)](https://www.elte.hu/en/)  
 &nbsp;  
 
 ::: {layout="[ 55 , 45 ]"}
@@ -38,9 +32,11 @@ Sponsored by: [![](assets/img/SAS_logo.png)](https://socarchsci.org)
 
 ::: {#column-empty}
 Organised by:  
-[Anna Karligkioti](team.qmd#anna-karligkioti)  
-[Kyriaki Tsirtsi](team.qmd#kyriaki-tsirtsi)  
-[Chase Minos](team.qmd#chase-minos)  
+[Viktória Mozgai](team.qmd#viktória-mozgai)
+[Rebeka Gergácz](team.qmd#rebeka-gergácz)
+[Andrea Mészáros](team.qmd#andrea-mészáros)
+[Eszter Solnay](team.qmd#eszter-solnay)
+[Enikő Somogyvári-Lajtár](team.qmd#enikő-somogyvári-lajtár)
 [Thomas Rose](team.qmd#thomas-rose) 
 :::
 
@@ -48,13 +44,17 @@ Organised by:
 
 :::
 
--->
-
-<!--
-We are happy to announce that the 7^th^ Workshop Young Researchers in Archaeometry will be held at The Cyprus Institute, in Nicosia, Cyprus. The conference will be held in person from October 15^th^ to 18^th^, 2024 and will welcome early career researchers (masters, PhD, post-docs up to six years after their PhD) in archaeological sciences and cultural heritage studies.
+We are happy to announce that the 8^th^ Workshop Young Researchers in Archaeometry will be held at the Eötvös Loránd University, in Budapest, Hungary. The conference will be held in person from October 14^th^ to 17^th^, 2025 and will welcome early career researchers (masters, PhD, post-docs up to six years after their PhD) in archaeological sciences and cultural heritage studies.
 
 With this workshop, we aim to offer a relaxed atmosphere to encourage interdisciplinary exchange between early career researchers. We are pleased to invite you for oral and poster contributions in all fields of natural sciences about archaeological and anthropological topics. In particular, early career researchers in archaeology, art history, anthropology, biological anthropology, environmental archaeology, chemistry, conservation, cultural heritage, earth science, and material science are welcome to submit an abstract for an oral presentation or poster.
--->
+
+## Abstract submission
+
+Send us your abstract (max. 250 words) until  May 31^st^, 2024 <!--**June 15^th^ 2025** (extended deadline)--> via the [submission form](https://forms.gle/txhdzYgtvHt5LEoh6). 
+
+More information and a first programme with information about the social events will follow soon. 
+
+<!-- Abstract submission is closed. The submitted abstracts are now evaluated. -->
 
 <!--
 Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Registration is possible for everyone, also if you are not presenting. 
@@ -62,17 +62,6 @@ Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Regist
 Registration fees are 20 € for students (bachelor, master, PhD) and 30 € for everyone else. SAS members receive a 5 € discount. You can join SAS before 15 September to benefit from the discount. 
 -->
 
-<!-- 
-
-## Abstract submission
-
-Abstract submission is closed. The submitted abstracts are now evaluated. 
-
-Send us your abstract (max. 250 words) until  ~~May 15^th^, 2023~~ **May 31^st^ 2023** (extended deadline) via the [submission form](https://forms.gle/vki7aE9LgHKM1AN27). 
-
-Presentations can be either a 5 min digital poster or a 15 min oral presentation, with additional time for questions. Online presentations will be scheduled in a way that considers the different presenters' time zones.
-
--->
 
 <!--
 ## Programme and social events
