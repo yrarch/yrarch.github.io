@@ -21,21 +21,31 @@ lightbox: true
 ## General information 
 
 ::: {.column-margin}
-Hosted at: [![Eötvös Loránd University](https://www.elte.hu/en/images/elte-logo-en-v2.svg)](https://www.elte.hu/en/)  
+Organised by:  
+[![](assets/img/HUN-REN_CSFK.png)](https://csfk.hun-ren.hu/en/?lang=en)  
 &nbsp;  
 
-::: {layout="[ 55 , 45 ]"}
+Hosted at: [![Eötvös Loránd University](assets/img/elte_logo.png)](https://www.elte.hu/en/)  
+&nbsp;  
+
+Sponsored by:
+
+::: {layout="[ 50 , 50 ]"}
 
 ::: {#column-empty}
-Sponsored by: [![](assets/img/SAS_logo.png)](https://socarchsci.org)
-:::
-Supported by: 
-
-::: {#column-empty}
+[![](assets/img/SAS_logo.png)](https://socarchsci.org)
 
 :::
 
+:::  {#column-empty}
+Subcommittee on Archaeometry, Hungarian Academy of Sciences
+
 :::
+
+:::
+
+Supported by: [![Hungarian Society for Archaeology and Art History](assets/img/mrmt_logo.png)](https://mrmt.hu/)  
+&nbsp;
 
 Organised by:  
 [Viktória Mozgai](team.qmd#viktória-mozgai)  
@@ -74,7 +84,7 @@ The application for the SAS Travel award is integrated in the [abstract submissi
 
 
 ## Proceedings
-YRA2025 teamed up with the editorial board of *[Archeometriai Műhely](http://www.ace.hu/am/indexe.html)* to publish the workshop proceedings as full-length peer-reviewed articles. *Archeometriai Műhely* is a diamond open access journal, meaning that publication and access to its articles are free of charge. More information will follow soon. 
+YRA2025 teamed up with the editorial board of *[Archeometriai Műhely](http://www.ace.hu/am/indexe.html)* to publish the workshop proceedings as full-length peer-reviewed articles. *Archeometriai Műhely* is a diamond open access journal, meaning that publication and access to its articles are free of charge. More information will follow soon. Submission deadline for the proceedings is 31^st^ January 2026. 
 
 
 <!--
