@@ -2,7 +2,7 @@
 title: 'Breaking into the “black box”: The contribution of ethnographic work in decoding Late Cypriot household structures'
 date: "2024"
 date-format: "YYYY"
-categories: [Cyprus, Late Brone Age, households, ethnography]
+categories: [Cyprus, Late Bronze Age, households, ethnography]
 author: 
   - name: Chara Theotokatou
     corresponding: true
