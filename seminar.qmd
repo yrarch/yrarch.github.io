@@ -122,13 +122,26 @@ For more information, visit the [documentation page](https://romain-thomas-shef.
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## May 16th – Doris Jetzinger (University of Vienna, Austria)
 **Time:** 9:00 am (UTC)  
-*More information coming soon.*
+**Title:** Of landscape biographies and sediment archives: reconstructing the landscape history of the Kreuttal microregion in Lower Austria  
+**Keywords:** Landscape biography; Sediment archive; Formation processes; Chronostratigraphy; Geochemistry  
+**Abstract:** Just like people or physical objects, landscapes have life histories that are shaped by past events and processes. Sediments and soils act as archives for the lasting impact of these processes. Archaeological landscape research therefore necessitates a diachronic approach as well as a focus on the sediment archive as the bulk study material.  
+An effort towards studying and reconstructing landscape life histories is currently being undertaken by the “Life of a Landscape” project in the Kreuttal microregion in Lower Austria. We target the sediment archive as our main research material for identifying anthropogenic and natural formation processes, evidence of human-landscape interactions, and the chronostratigraphic landscape context. The project goal is the creation of an archaeological landscape biography to trace the development of the Kreuttal landscape over the millennia and identify the main formation processes involved in landscape and land use changes. To this end we employ an interdisciplinary methodological approach that combines landscape- and geoarchaeological methods and techniques, including geophysical prospection and remote sensing, coring, sedimentology, stratigraphy, geochemistry, OSL dating, and historic landscape characterisation.  
+This presentation will explore how results from these efforts help identify anthropogenic and natural activities, features and processes and facilitate insights into the research area’s geomorphology, topographic changes, chronostratigraphic sequences, and space and land use. Preliminary results offer new insights into a highly dynamic landscape history and underline the potential of interdisciplinary, holistic approaches in archaeological landscape research. 
+
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## June 17th – Barbara Huber
 **Time:** 12:00 pm (UTC)  
 *More information coming soon.*
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## July 1st – Lyu Meilin (University of Athens, Greece)
+**Time:** 1:00 pm (UTC)  
+**Title:** Accelerated thermal and freeze-thaw cycling effects on the durability of Greek marble in built heritage  
+**Keywords:** Climate change factors; Marble; Built heritage; Deterioration; Greece  
+**Abstract:** The durability of marble heritage structures is increasingly threatened by climate change-induced temperature fluctuations and moisture variability. This study examines the impact of two key weathering processes---thermal cycling and freeze-thaw (FT) cycling---on three types of Greek marble commonly used in built heritage. The primary aim is to assess the extent of structural deterioration caused by repeated heating, cooling, freezing, and thawing, simulating real-world climatic stresses. This study aimed to study both the surface and interior deterioration of Greek marble. The changes were assessed in terms of sub-surface structural alterations analyzed using state-of-the-art techniques such as ultrasonic pulse velocity (UPV) and x-ray computed tomography; surface observations were conducted using digital microscopy and SEM, while the strength properties of Greek marbles were evaluated using compressive strength testing. Additionally, chemical minerals in Naxos marble inclusions were investigated using handheld XRF. The study highlights the differential impact of thermal and moisture-related stresses on marble deterioration, emphasizing the anisotropic behavior of different marble types. These results have significant implications for conservation strategies, underscoring the need for protective treatments such as water repellents and microclimate stabilization to mitigate both thermal and moisture-induced damage. By integrating controlled laboratory simulations with environmental stressors, this research contributes to a deeper understanding of the long-term resilience of marble heritage under evolving climatic conditions.
 :::
 
 ## Programme - 2024
