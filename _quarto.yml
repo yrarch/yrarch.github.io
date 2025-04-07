@@ -54,6 +54,9 @@ format:
       Any questions? Drop us a mail at [youngresearchersarch [at] gmail.com](mailto:youngresearchersarch@gmail.com)
       :::
 
+resources:
+  - CNAME
+  
 execute:
   freeze: auto
 
