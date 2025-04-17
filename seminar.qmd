@@ -11,34 +11,6 @@ The time slots of each presentation will be accommodated to be the most comforta
 
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting (Meeting-ID: 988 6914 5922; code: YRA-S2025).
 
-## Additional session: April 9th, at 2:00 pm (UTC)
-
-::: {.column-margin}
-
-::: {.callout}
-## Seminar Zoom link 
-Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting.  
-**Meeting-ID:** 988 6914 5922  
-**Code:** YRA-S2025  
-:::
-
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20250409T140000&p1=1440).
-
-:::
-
-*Discover STON: a practical tool to study petrographic images and beyond!*
-
-**Evgenia Dammer** (Berlin State Museums, Germany)  
-**Romain Thomas** (University of Sheffield, UK)
-
-**Abstract:** 
-STON is open-source software designed to make microscopic image analysis faster and easier for archaeologists. Unlike existing microscopic imaging software, which is primarily built for the natural sciences, STON is tailored to archaeological research, allowing users to cluster and compare multiple images simultaneously in a simple, user-friendly workspace. With features such as freehand sorting and synchronised zoom, STON helps users efficiently group samples and analyse compositional characteristics. By streamlining these processes, it enhances ceramic paste analysis and petrographic grouping. Developed openly on GitHub, STON is free to use and fully adaptable, with a Python-based source code that can be customised for different projects.  
-Join this webinar to see STON in action and learn how it can support your research. 
-
-For more information, visit the [documentation page](https://romain-thomas-shef.github.io/STON/).
-
-![](assets/img/Seminar/2025-04_Webinar STON_200dpi.png)  
-
 ## Next presentation: May 16th, at 9:00 am (UTC)
 
 ::: {.column-margin}
