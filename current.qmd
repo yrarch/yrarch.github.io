@@ -5,9 +5,9 @@ lightbox: true
 
 ::: {.callout-note}
 ## YRA2025 Key dates
-**April 1^st^** -- [Abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6) opens  
-**May 31^st^** -- Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)  
-<!-- **June 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)  -->
+~~**April 1^st^** -- [Abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6) opens~~  
+~~**May 31^st^** -- Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
+**June 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)  
 **July 1^st^** -- Announcement of abstracts decisions  
 **July 1^st^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens  
 **Aug 1^st^** -- Preliminary program available  
@@ -66,7 +66,7 @@ Participation will come at a cost but we do our best to keep the fee as low as p
 
 ## Abstract submission
 
-Send us your abstract (max. 250 words) until  May 31^st^, 2025 <!--**June 15^th^ 2025** (extended deadline)--> via the [submission form](https://forms.gle/txhdzYgtvHt5LEoh6). 
+Send us your abstract (max. 250 words) until  **June 15^th^ 2025** (extended deadline) via the [submission form](https://forms.gle/txhdzYgtvHt5LEoh6). 
 
 
 <!-- Abstract submission is closed. The submitted abstracts are now evaluated. -->
