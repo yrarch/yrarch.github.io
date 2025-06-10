@@ -14,19 +14,19 @@ website:
       - href: index.qmd
         text: "Home"
       - text: "Workshop"
-        menu: 
-          - href: current.qmd
-            text: "YRA 2025"
-          - href: abstracts.qmd
-            text: "Abstract repository"
-          - href: archive-workshop.qmd
-            text: "Previous editions"
+        href: current.qmd
       - href: seminar.qmd
         text: "Seminar"
       - href: team.qmd
         text: "Team"
       - href: tutorials.qmd
         text: "Tutorials"
+      - text: "Archive"
+        menu: 
+          - href: abstracts.qmd
+            text: "Abstracts"
+          - href: archive-workshop.qmd
+            text: "Workshops"
     right: 
       - icon: facebook
         href: https://www.facebook.com/profile.php?id=61559076328370
