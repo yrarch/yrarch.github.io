@@ -2,12 +2,15 @@
 title: 'Phytolith analysis for the investigation of plant exploitation in Bronze Age Cyprus'
 date: "2024"
 date-format: "YYYY"
-categories: [archaeobotany, phytolith analysis]
+Event: Workshop
+categories: [Archaeobotany, Phytolith analysis]
 author: 
   - name: Georgia Kasapidou
     corresponding: true
     email: g.kasapidou@cyi.ac.cy
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 The transition of Middle to Late Bronze Age in Cyprus is a significant turning point for the formation and the gradual emergence of more specialized and complex societies. The archaeological research has put emphasis on the study of metallurgy and the long- distance maritime trade for the investigation of the development of this social complexity while aspects such as agricultural intensification and subsistence practices have been neglected. This also could be the result of the limited recovery of archaeobotanical macro- remains from Cypriot Bronze Age sites due to depositional restrictions. This paper aims to contribute on the current research regarding the agricultural practices and the plant exploitation based on the analysis of phytoliths from two sites, Erimi-Laonin tou Porakou and Erimi-Pitharka. Erimi- Laonin tou Porakou is a Middle Bronze Age site consisted of a habitational area, a textile workshop, circular wall and funerary area. On the other hand, Erimi-Pitharka is a Late Bronze Age site, located in close distance south of Erimi-Laonin tou Porakou, includes a building complex related to storage and industrial activities associated to agricultural production. Phytolith analysis reveals a wide range of plant related practices providing comparative data about the agricultural economy at a regional level diachronically.
 

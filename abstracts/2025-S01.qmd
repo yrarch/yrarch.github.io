@@ -1,0 +1,18 @@
+---
+title: 'Archaeobotany and social change in the Neolithic and Bronze Age Aegean: perspectives from the eastern fringes'
+date: "2025"
+date-format: "YYYY"
+Event: Seminar
+categories: [Agrarian lifeways, Western Anatolia, Prehistory]
+author: 
+  - name: Tom Maltas
+    orcid: 0000-0002-3795-4073
+    corresponding: true
+    email: tom.maltas@keble.ox.ac.uk
+---
+  
+*This paper was presented at the YRA seminar series in January 2025.*
+
+Bordered by the Aegean and central Anatolia, the prehistory of western Anatolia has remained relatively unexplored. This is particularly the case for the rural economy, despite its evident importance to cultural developments within neighbouring regions. A small but growing body of scholarship is beginning to rectify this through bioarchaeological research aimed at reconstructing systems of farming and land use in the past. Focusing on the Aegean region of western Anatolia, I outline how these studies have transformed our understanding of agrarian lifeways and can shed new light on the dramatic cultural developments that can be traced across the Neolithic and Bronze Age. I go on to assess the implications of this regional trajectory for broader developments across the Aegean.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

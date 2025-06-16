@@ -2,13 +2,16 @@
 title: 'Archaeometric analysis of the inks in two 15th century Greek paper manuscripts: a preliminary comparative study'
 date: "2024"
 date-format: "YYYY"
-categories: [ink analysis, XRF, Visible Spectroscopy, FTIR, greek manuscripts, Ioannes Rhosos, 15th century]
+Event: Workshop
+categories: [Ink analysis, XRF, Visible spectroscopy, FTIR, Greek manuscripts, Ioannes Rhosos, 15th century]
 author: 
   - name: Katerina Grigoriadou
     orcid: 0009-0003-6025-4897
     corresponding: true
     email: aikaterini.grigoriadou@uni-hamburg.de
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 Voss. Gr. Q. 25 (University Library of Leiden) and Cod. in scrin. 145 (State and University Library of Hamburg), are two paper codices, probably produced in Venice in the late 15th century C.E. (ca. 1480-1498). Despite the absence of colophons in the manuscripts, their distinct palaeographical characteristics strongly suggest that they were penned by the hand of Ioannes Rhosos, a renowned professional calligrapher from the Greek island of Crete, who was copying manuscripts for prominent commissioners in Italy during the second half of the 15th century. This paper will a) present the preliminary results of the multi-analytical examination of the black and red inks, that were used by Rhosos in the copying of the two manuscripts and b) provide an initial comparison of the types and compositions of these inks between the two codices. The in-depth analysis and comparison of the inks of the two case studies contribute to the understanding of the types of inks produced and used in the Veneto region by the late 15th century. Equally important, the results obtained in this research constitute a first step towards profiling the working process of a Renaissance important calligrapher in terms of the writing substances he employed. The analysis for this study was performed using non-invasive and non-destructive analytical techniques, such as Ultraviolet (UV) and near-infrared (NIR) reflectography, X-ray fluorescence (XRF), Visible (VIS) spectroscopy and Fourier-transform infrared spectroscopy (FTIR).
 

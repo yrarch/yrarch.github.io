@@ -2,13 +2,16 @@
 title: 'Knowledge exchange in pottery production in Neolithic Northwest China: a petrographic study and the resulting development of a digital tool for petrographic image analysis in archaeology'
 date: "2024"
 date-format: "YYYY"
-categories: [pottery technology, petrography, research software, prehistoric pottery, shared knowledge]
+Event: Workshop
+categories: [Pottery technology, Petrography, Research software, Prehistoric pottery, Shared knowledge]
 author: 
   - name: Evgenia Dammer
     orcid: 0000-0003-0870-9324
     corresponding: true
     email: dammer.evgenia@gmail.com
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 This paper explores the potential for long-distance knowledge sharing in the production of Majiayao-style pottery in Neolithic Northwest China through macroscopic and microscopic analyses. The paper is divided into two parts. The first part examines the chaîne opératoire of the pottery production process based on tool-trace analysis, petrography, and comparisons with experimentally fired geological samples. The striking consistency and similarities in raw material selection, construction, and firing techniques among pottery from different sites suggest mechanisms for technological knowledge exchange among Neolithic potters. Given that pottery the most abundant or sole evidence for human activity in the region during the Neolithic, the technological perspective presented in this study proves useful in understanding social connectivity and shared knowledge.
 The second part presents the development of visualization software to enhance the analysis of petrographic photomicrographs in archaeological research. This idea emerged from the methodological challenges faced during the comparative studies of pottery from different sites and geological samples. Traditional thin-section petrography requires laborious visual comparison of individual samples under a microscope. Existing petrography software, primarily designed for geology, lacks features needed for archaeological research, such as multiple sample comparison. The proposed software allows for the simultaneous viewing of multiple photomicrographs, improving the efficiency of analysing ceramic pastes. Developed openly on GitHub with an OSI-approved license, this software aims to be a sustainable tool, fostering collaboration among archaeologists and software engineers, and applicable to any research involving thin-section petrography.

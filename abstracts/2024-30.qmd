@@ -2,7 +2,8 @@
 title: 'TerraLID: Further steps towards a new ecosystem for lead isotope data in archaeology'
 date: "2024"
 date-format: "YYYY"
-categories: [lead isotopes, research data, database, infrastructure]
+Event: Workshop
+categories: [Lead isotopes, Research data, Database, Infrastructure]
 author: 
   - name: Thomas Rose
     orcid: 0000-0002-8186-3566
@@ -19,6 +20,8 @@ author:
   - name: Sabine Klein
     orcid: 0000-0002-3939-4428
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 Lead isotopes are currently the most powerful method for the reconstruction of the raw material provenance of non-ferrous metals. The success of the method relies crucially on the availability of reference data from all potential ore deposits or other suitable materials with a known production location. OXALID was the first open access database for such data, and many more followed since. While they are great resources, data compilation is still a tedious task because these datasets are usually published in a static format (e.g., as supporting information of articles) and the authors follow their own approaches in the description of the data. The result is datasets that are difficult to combine but to a large extent based on the same pool of publications. 
 To overcome this situation, TerraLID builds upon the prototype GlobaLID but aims to significantly enhance its functionalities towards a digital research data infrastructure that allows the publication, compilation and interpretation of lead isotope data for a large variety of archaeological and geological materials. It aims to implement the FAIR data principles in a community-driven process to ensure that the research infrastructure and metadata are developed close to the needs of the community. 

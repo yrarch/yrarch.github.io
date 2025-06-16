@@ -2,7 +2,8 @@
 title: 'Furthering our understanding of the sources of the metal of Roman denarii: A multi-isotope and elemental analysis approach'
 date: "2024"
 date-format: "YYYY"
-categories: [Roman denarius, lead isotopes, copper isotopes, provenance]
+Event: Workshop
+categories: [Roman denarius, Lead isotopes, Copper isotopes, Provenance]
 author: 
   - name: Tim Greifelt
     orcid: 0009-0007-9701-8547
@@ -13,6 +14,8 @@ author:
   - name: David Wigg-Wolf
     orcid: 0000-0002-8604-544X
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 Since coins are generally an officially produced medium, provenance studies of the metal used to produce them can provide important information on the logistical, infrastructural and organizational capacities of central authorities. Thus, it is not surprising that ancient coins have been the subject of a large number of archaeometallurgical studies, in particular involving lead isotopes. 
 The composition of the silver in the coin metal of Roman Imperial denarii has been intensively investigated in recent years by Kevin Butcher and Matthew Ponting. However, the work concentrated primarily on the chemical composition, with a relatively smaller number of isotopic analyses being carried out, and concentrating on specific questions. 

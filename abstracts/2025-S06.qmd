@@ -1,0 +1,19 @@
+---
+title: 'Tracing ancient practices through archaeo-metabolomics: a new window into the sensory and medicinal landscapes of the past'
+date: "2025"
+date-format: "YYYY"
+Event: Seminar
+categories: [Archaeometabolomics, Biomolecular archaeology, Ancient medicine, Past scents]
+author: 
+  - name: Barbara Huber
+    orcid: 0000-0002-4964-0055
+    corresponding: true
+    email: huber@gea.mpg.de
+---
+  
+*This paper was presented at the YRA seminar series in June 2025.*
+
+Aromatic plants, herbs, and resins have long shaped human experiences---serving not only as olfactory markers in ritual and spiritual life but also as potent agents in healing, hygiene, and medicine. In ancient societies, the lines between incense, remedy, and ritual were often blurred, especially in regions like Arabia where aromatic substances held multifaceted roles in both daily routines and ceremonial practices.  
+This talk introduces archaeo-metabolomics, the study of small molecules (metabolites), as a powerful new lens for exploring the biochemical fingerprints of ancient plant-based practices. Moving beyond traditional text-based and typological approaches, metabolomics applies high-resolution metabolite profiling to archaeological materials, such as ceramic residues and soils -- to detect a broad range of metabolites, including alkaloids, terpenes, and flavonoids. These molecular traces enable the reconstruction of complex human-plant interactions, from therapeutic formulations to incense practices.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

@@ -2,12 +2,15 @@
 title: 'The elemental composition of bog ores in Masovia (Poland) and its affect on the reconstruction of the smelting process'
 date: "2024"
 date-format: "YYYY"
-categories: [archaeometallurgy, iron smelting, Przeoworsk culture, Masovian centre of metallurgy]
+Event: Workshop
+categories: [Archaeometallurgy, Iron smelting, Przeoworsk culture, Masovian Centre of Metallurgy]
 author: 
   - name: Antonina Bebłowska-Bednarkiewicz
     corresponding: true
     email: a.bednarkiew@student.uw.edu.pl
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 During the period of Roman Influence (1st-3rd century AD), in Poland existed three large metallurgical centers of the Przeworsk culture: Świętokrzyskie, Silesian and Masovian. These centers were famous for their large-scale iron production. The ore was fired in clay furnaces resembling chimneys, which were filled with coal and ore in layers. 
 In the Świętokrzyskie Mountains, experimental research reconstructing the iron smelting process has been taking place since the 1950s. Experimental research was carried out there, including physico-chemical research, to help analyze the iron smelting process at the atomic level. In Masovia, experiments focused primarily on the design aspects of the furnace chimney. 

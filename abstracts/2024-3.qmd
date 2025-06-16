@@ -2,7 +2,8 @@
 title: 'Multi-analytical investigation on the carved oriental lacquerwares'
 date: "2024"
 date-format: "YYYY"
-categories: [oriental lacquer, urushi, historical research, multiple scientific analysis, Oriental Art Museum of Venice, material study, non-invasive methods, FORS, IR, Raman spectroscopy, SEM, Py-GC-MS, EPR]
+Event: Workshop
+categories: [Oriental lacquer, Urushi, Historical research, Multiple scientific analysis, Oriental Art Museum of Venice, Material study, Non-invasive methods, FORS, IR, Raman spectroscopy, SEM, Py-GC-MS, EPR]
 author: 
   - name: Shang-ying Liu
     corresponding: true
@@ -12,6 +13,8 @@ author:
   - name: Marta Boscolo Marchi
   - name: Alfonso Zoleo
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 This research project aims to explore the origins and restoration of four lacquerwares at the Oriental Art Museum of Venice using both historical research and multi-scientific methods. The artifacts include three red carved lacquer pieces and one painted lacquer piece, some of which are deteriorating and cracking. Scientific tests will help verify their provenance (China or Japan), as existing literature lacks detailed records. The study combines historical research and materials science to provide comprehensive information for future restoration. 
 Historical research will examine the museum's collection history and interpret the iconography, hypothesizing possible techniques mentioned in ancient texts. Non-invasive tests using a Digital Microscope, Fiber Optic Reflectance Spectroscopy (FORS), Infrared External Reflection Module, and Raman Spectroscopy will analyze pigments and materials. Micro-samples will be analyzed using Scanning Electron Microscopy (SEM), μ-FTIR Spectroscopy, and Pyrolysis-Gas Chromatography/Mass Spectrometry (Py-GC/MS) to identify components, additives, and possibly the origin. Electron Paramagnetic Resonance (EPR) will study the degradation process. 

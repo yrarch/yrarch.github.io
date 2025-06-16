@@ -2,7 +2,8 @@
 title: 'The RETS Project: Revealing the Senne. A hidden landmark in the historical center of Brussels, Belgium'
 date: "2024"
 date-format: "YYYY"
-categories: [geoarchaeology, river reconstruction, (palaeo)environment]
+Event: Workshop
+categories: [Geoarchaeology, River reconstruction, (Palaeo)environment]
 author: 
   - name: Dries Vergouwen
     orcid: 0000-0003-2264-343X
@@ -15,6 +16,8 @@ author:
   - name: Yannick Devos
     orcid: 0000-0002-5315-1916
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 Throughout history, the Senne river has always been an important landmark for Brussels. In the past, the river served multiple functions. It was essential for providing food and water, for waste disposal, navigation and transport. Infrastructures such as mills, breweries, fortifications and fishponds could be found along its banks. The course of the river Senne and its side branches has changed drastically across history. As the landscape and the city developed, the river’s flow was adapted in natural and artificial ways. Today, many questions remain unanswered concerning the evolution of the Senneriver valley, and the general human-environment interactions across history. Recent (geo)archaeological research conducted under the auspices of urban.brussels, the Brussels Regional Administration in charge of the archaeological heritage, has shown the tremendous archaeological potential of the river valley to reach a renewed understanding of the development of the Senne and its branches. Therefore, the RETS project aims to provide a synthesis of the archaeological, environmental and historical data from the Senne valley within the historical center of Brussels, starting from the Holocene until the 19th century. The research will generate maps and 3D-models which will be integrated in the publicly accessible regional cartographic platform BruGIS. These newly developed tools will as such contribute to an optimal management of the archaeological heritage in the research area.
 

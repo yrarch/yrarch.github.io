@@ -2,13 +2,16 @@
 title: 'Ongoing archaeobotanical research in Mycenaean Iklaina, Messenia, Greece'
 date: "2024"
 date-format: "YYYY"
-categories: [archaeobotany, macroremains]
+Event: Workshop
+categories: [Archaeobotany, Macroremains]
 author: 
   - name: Symeon Gkinoudis
     corresponding: true
     email: sginoudis@gmail.com
   - name: Evi Margaritis
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 The contribution of Environmental studies for understanding the nature of the agrarian economy in the Late Bronze Age Aegean has been widely neglected by previous research. Although archaeobotanical remains were recovered from the first excavations at Aegean sites during the late 19th and early 20th centuries, little attention has been paid to their systematic retrieval and study, since previous research was heavily based on the textual Linear B evidence. Today, although essential research steps have been done, unfortunately, many Aegean archaeologists still consider the archaeobotanical remains as a “second line of evidence”. 
 To contribute to this gap in evidence and to answer basic inquiries on the nature of Mycenaean agrarian economy, systematic archaeobotanical sampling has been applied in Iklaina, in Messenia, Greece. Previous research on the site attests uninterrupted habitation from the LH I to LH III periods. The material that is going to be presented has been retrieved from three individual units, Building NE-A, Building P and Building Z, all of which are dated to the palatial period. Basic inquiries that are at the core of this research are the nature of the agrarian economy at the site (diversified and/or specialized farming) and to distinguish patterns of production before and after the incorporation of Iklaina in the administrative network of Pylos.

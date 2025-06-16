@@ -2,13 +2,16 @@
 title: 'The clay of a gateway community in Cyprus: domestic pottery from Soli'
 date: "2024"
 date-format: "YYYY"
-categories: [petrography, pXRF]
+Event: Workshop
+categories: [Petrography, pXRF]
 author: 
   - name: Marie-Louise Jahn Hansen
     orcid: 0000-0002-0954-1562
     corresponding: true
     email: mjh@hum.ku.dk
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 This paper sets out to investigate Hellenistic and Roman domestic pottery excavated by the Swedish Cyprus Expedition in the location of Soli, Cyprus, to outline a possible local production of pottery in the near vicinity of the city-state and to examine the connection between the copper-producing areas of Troodos and the northern coastline. Extensive scientific analyses of ceramics found in Soli are essential for the ongoing discussion of a probable local production of ceramics in Soli. The aim is to contribute to the debate of whether a production of domestic pottery took place in the area by studying material found in the actual location. Local production and distribution of such allow for further debate on the social networks and financial role of the city-state of Soli during the Hellenistic and Roman periods. 
 I analysed 50 samples of cooking ware and plain ware pottery by petrography (thin sections) and portable X-ray fluorescence spectrometry (pXRF), and I included five locally produced amphorae of the Mavrovouni and Skouriotissa types from different locations. Moreover, I had access to previously prepared thin sections of similar types of amphorae found in the Lagoudera area of Troodos as comparable material for my study. Before starting the scientific analyses, I established a preliminary typology based on comparable material and macroscopic descriptions of the fabric. The initial registrations indicated locally produced groups of pottery, which did not compare with pottery found in other locations in and outside Cyprus during the same period.

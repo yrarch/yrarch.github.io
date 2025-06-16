@@ -2,12 +2,15 @@
 title: 'Silver-lead and copper production on Early Bronze Age southern Sifnos: an overview'
 date: "2024"
 date-format: "YYYY"
-categories: [archaeometallurgy, smelting, cupellation, Early Bronze Age, Aegean]
+Event: Workshop
+categories: [Archaeometallurgy, Smelting, Cupellation, Early Bronze Age, Aegean]
 author: 
   - name: Magda Giannakopoulou
     corresponding: true
     email: magdakig@yahoo.com
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 Metallurgy is always thought to have played a vital role in the development of the Early Bronze Age Aegean societies, being connected to economic development and social complexity. This paper is an overview of the archaeometallurgical study of remains from Early Bronze Age sites located on southern Sifnos, Skali, Kasela and Akrotiraki. The metallurgical remains, lead and copper slag, litharge and furnace wall fragments have been studied using Optical Microscopy and Scanning Electron Microscopy with Energy Dispersive X-ray Spectroscopy (SEM-EDX). Skali is a copper smelting site, where primary and secondary copper minerals, probably local, were smelted in non-perforated furnaces. At Kasela, the only currently known lead smelting site in the Early Bronze Age Aegean, local argentiferous lead ore was smelted within perforated furnaces. Part of the activities conducted within the settlement of Akrotiraki are related to lead-silver production. The slag from Akrotiraki derives either from smelting of argentiferous lead ore like Kasela, or a refining process of possibly the metal produced at Kasela. The litharge fragments are litharge impregnated hearth linings related to cupellation, whilst silver metal has been detected in some of the samples. Therefore, on southern Sifnos in a radius of approximately 500m the two main stages of the lead-silver production, smelting and cupellation, as well as the primary production of copper are present, rendering it the only area within the Early Bronze Age Aegean that all the above stages of metallurgical production co-exist.
 

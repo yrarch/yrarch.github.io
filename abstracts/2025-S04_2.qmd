@@ -1,0 +1,20 @@
+---
+title: 'Discover STON: a practical tool to study petrographic images and beyond!'
+date: "2025"
+date-format: "YYYY"
+Event: Seminar
+author: 
+  - name: Evgenia Dammer
+    orcid: 0000-0003-0870-9324
+    corresponding: true
+    email: dammer.evgenia@gmail.com
+  - name: Romain Thomas
+    orcid: 0000-0001-8385-3276
+---
+
+*This paper was presented at the YRA seminar series in April 2025.*
+
+STON is open-source software designed to make microscopic image analysis faster and easier for archaeologists. Unlike existing microscopic imaging software, which is primarily built for the natural sciences, STON is tailored to archaeological research, allowing users to cluster and compare multiple images simultaneously in a simple, user-friendly workspace. With features such as freehand sorting and synchronised zoom, STON helps users efficiently group samples and analyse compositional characteristics. By streamlining these processes, it enhances ceramic paste analysis and petrographic grouping. Developed openly on GitHub, STON is free to use and fully adaptable, with a Python-based source code that can be customised for different projects.  
+For more information, visit the [documentation page](https://romain-thomas-shef.github.io/STON/).
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

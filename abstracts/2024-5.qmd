@@ -2,12 +2,15 @@
 title: '3D visualization and digital recording of sculptures through photogrammetry: An iconometric examination of the Hoysala sculptures'
 date: "2024"
 date-format: "YYYY"
-categories: [photogrammetry, iconometry, Hoysala sculptures, 3D documentation]
+Event: Workshop
+categories: [Photogrammetry, Iconometry, Hoysala sculptures, 3D documentation]
 author: 
   - name: Poorva Salvi
     corresponding: true
     email: poorva.salvi@iitgn.ac.in
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 Iconometry, in the Indian context, refers to the study of the measurements of the sculptures and was referred to as the Talamana system in the ancient scriptures. This study aims to integrate Photogrammetry into the study of iconometry to improve the documentation of the sculptures and minimise the margin of error that anthropometric tools and manual documentation unintentionally but often record. To fulfil the aforementioned objective, a sample of sculptures from six temples of the Hoysala dynasty (10th c. CE - 13th c. CE) were shortlisted. Extensive fieldwork was conducted to document the sculptures using high-resolution, scaled photography, and the images were further processed in the IIT Gandhinagar’s Earth Sciences Department Lab using Agisoft Metashape software’s photogrammetric processing. The 3D models of the shortlisted sculptures were generated through the software, and measurements were extracted from those models for further iconometric analysis. This approach could provide accuracy to the measurements of the sculptures with minimal to zero margin of error, which subsequently can be extremely significant while analysing the iconometry of the sculptures.
 

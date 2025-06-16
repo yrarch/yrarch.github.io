@@ -2,12 +2,15 @@
 title: 'Bronze production in Archaic and Classical Northern Greece: An archaeometric approach to the study of bronze objects from Ancient Argilos'
 date: "2024"
 date-format: "YYYY"
-categories: [archaeometallurgy, bronze]
+Event: Workshop
+categories: [Archaeometallurgy, Bronze]
 author: 
   - name: Justine Lefebvre
     corresponding: true
     email: justine.lefebvre@umontreal.ca
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 Argilos was founded on the littoral of the Strymonic Gulf in the mid-7th century BCE. Shortly after its foundation, the city became very prosperous, benefiting from good relations with the local Thracian populations, fertile lands, easy access to various commercial markets, and the abundant wood and metal resources the area has been famous for since Antiquity. 
 Through a Greek-Canadian collaboration, archaeological research carried out in Argilos since 1992 has allowed the discovery of a rich material culture, amongst which are found more than a thousand bronze artifacts. The systematic study of the Argilos’ bronze collection was initiated in 2017 with typological analysis. With limited conclusive results, the scope of the study has been widened by using archaeometric methods, such as metallographic, chemical, and isotopic analyses, carried out on 150 artifacts. With the use of these methods, we seek to contribute to the current state of knowledge on archaic and classical metal production in Northern Greece. Indeed, questions concerning the organization of Argilos bronze production, its integration within its regional context in terms of distribution of primary resources and finished products, and exchange of technological knowledge with other production centers will be addressed. 

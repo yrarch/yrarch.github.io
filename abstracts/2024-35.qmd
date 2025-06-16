@@ -2,13 +2,16 @@
 title: 'Identifying a Peloponnesian palette: pigment analysis of domestic architecture from Stymphalos'
 date: "2024"
 date-format: "YYYY"
-categories: [pigment, plaster, pXRF, XRD]
+Event: Workshop
+categories: [Pigment, Plaster, pXRF, XRD]
 author: 
   - name: Alice Clinch
     orcid: 0000-0001-5713-4075
     corresponding: true
     email: ac2773@cornell.edu
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 This paper presents the results of analysis of painted plaster from Stymphalos in the north east Peloponnese. Excavations at the lower town site uncovered two large elite residences, one of which had a large quantity of surviving wall plaster in moulded stucco panels. Both the three-dimensional stucco style and the faux-marble painted effect are representative of the Hellenistic Masonry style of wall plaster, which to date has only been discovered in limited quantities. In general, there have been few discoveries of Hellenistic domestic painted plaster in Greece, with the majority of material from this period belonging to funerary contexts. This research employs a multianalytical approach in the identification of materials, providing an important contribution to the understanding of pigments used in domestic decoration in the Hellenistic period.
 

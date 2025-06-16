@@ -2,12 +2,15 @@
 title: 'The “production” of Minoan red serpentinite'
 date: "2024"
 date-format: "YYYY"
-categories: [mineralogy, serpentinite, heating experiments, Minoan stone vessels]
+Event: Workshop
+categories: [Mineralogy, Serpentinite, Heating experiments, Minoan stone vessels]
 author: 
   - name: Killian Regnier
     corresponding: true
     email: killian.regnier@uclouvain.be
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 In the Bronze Age (Minoan) palatial site of Malia, Crete, in the so-called "Quartier Mu" of the Protopalatial period (1900-1700 BCE), were found, among particularly rich and varied artefact assemblages, c. 25 vases made of "red serpentinite". Serpentinite is a metamorphic rock that typically ranges from grey-green to grey-blue, and its red variant, which is much rarer, has not yet been found in natural outcrops in Crete. Because of this, and the fact that its red colour is typically associated with high-temperature metamorphism, it seems that Minoan red serpentinite has not been transformed through natural geological processes but by anthropogenic heating actions. 
 However, the exact conditions of this firing process, as well as whether it was intentional (craftsmanship) or accidental (destruction by fire in Quartier Mu), have not yet been assessed nor demonstrated. This talk aims to address these issues by examining the different potential heating conditions that lead to the modification of the colour of the stone, arguing for an intentional heating process. This will be achieved through laboratory experimental heating supported by geochemical and mineralogical analyses, and by comparisons with the archaeological material. It will additionally provide a preliminary overview of other red serpentinite artifacts found in Minoan Crete. Finally, because Quartier Mu has revealed different types of production linked in part to the elite spheres (metal, pottery and seal production), it will be proposed that the production of red serpentinite at Malia may have emerged thanks to the emulation between the various crafts taking place in the Quarter.

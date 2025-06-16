@@ -1,0 +1,19 @@
+---
+title: 'Colored sculptures under study: archaeometrical and symbolic approaches to pigments in pre-Columbian Ecuador'
+date: "2025"
+date-format: "YYYY"
+Event: Seminar
+categories: [Pigment, Pre-Columbian, Archaeometry, Museum, Ecuador]
+author: 
+  - name: Alejandra Sánchez Polo
+    orcid: 0000-0001-6067-7724
+    corresponding: true
+    email: asanpol@usal.es
+---
+  
+*This paper was presented at the YRA seminar series in March 2025.*
+
+The pre-Columbian sculptures housed in art museums (such as the Quai Branly in Paris and the British Museum), decontextualized from their archaeological context, can still be historically relevant and provide insights into prehistoric societies? This question arose during my work as a curator at a pre-Columbian art museum in Ecuador. In addressing it, I pursued two main approaches: investigating the symbolism of colors and materials in pre-Columbian America and establishing the *chaîne opératoire* of the pigments observed on the shelves of the museum. To this end, several post-firing painted ceramic statues produced during the Regional Development period (500 BC - 500 AD) on the coast of Ecuador were studied.  
+First, in order to delve into the *chaîne opératoire*, the pigments and chromatic layers were examined using binocular magnification, SEM, XRD, XRF, and Raman spectroscopy in collaboration with various Ecuadorian institutions. One of the findings was that, despite employing similar color schemes, these pigments were used in comparable ways but sourced from different pigment materials. Furthermore, there existed a profound symbolic connection regarding color across the Americas. Thus, this study sought to demonstrate that the thousands of artifacts in museums are amenable to archaeological study, reinstating their intrinsic historical value.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

@@ -2,7 +2,8 @@
 title: 'Envisioning pre-colombian regional trade patterns through elemental analysis of archaeological ceramics from Western Panama'
 date: "2024"
 date-format: "YYYY"
-categories: [ceramic analysis, LA-ICP-MS, provenance]
+Event: Workshop
+categories: [Ceramic analysis, LA-ICP-MS, Provenance]
 author: 
   - name: Carly Pope
     corresponding: true
@@ -10,6 +11,8 @@ author:
   - name: Scott Palumbo
   - name: Laure Dussubieux
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 Gran Chiriquí, as an archaeological culture area, spans from southern Costa Rica to western Panama and crosses at least three topographic subdivisions – the Pacific Coast, Central Highlands, and the Caribbean Coast – as well as several modern political ones. Of these, the Caribbean Coast is the least studied and has been of little interest archaeologically, primarily in comparison to sites in the Pacific Coast. However, Isla Colón, the largest island in Caribbean Panama, has recently proven unique in the region: the ceramic assemblage from Sitio Drago on Isla Colón’s north shore is more diverse than any known in the region and includes locally-made ceramics, imported wares, and local imitations of exotic styles. 
 To assess the role of Isla Colón in Pre-Columbian trade networks and the ways in which its inhabitants interacted with others in Gran Chiriquí, we performed laser ablation inductively coupled plasma mass spectrometry on archaeological ceramic and clay samples from across Western Panama. The identification of distinct groups based on chemical composition enables us to distinguish possible differences in location of production, or provenance, and thereby establish which ceramic types were being moved and when. This delineation of networks of interaction is based on pottery samples from seven archaeological sites representing three subregions of Gran Chiriquí in the period from AD 1-1500, a period that is traditionally divided into the Aguas Buenas, San Lorenzo, and Chiriquí phases. This collaborative provenance study is pioneering as archaeometric analyses of ceramics have not been undertaken in this area previously.

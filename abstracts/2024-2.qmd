@@ -2,6 +2,7 @@
 title: 'Non-invasive material analysis of Egyptian Shabtis by XRF, Raman spectroscopy and CT Scanning'
 date: "2024"
 date-format: "YYYY"
+Event: Workshop
 categories: [Shabtis, CT-scanning, XRF, Raman spectroscopy]
 author: 
   - name: Stelios Aspiotis
@@ -13,6 +14,8 @@ author:
   - name: Samaneh Ehteram
   - name: Leah Mascia
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 In ancient Egyptian culture, shabtis were sets of figurines in the form of mummies made of faience, stone, or wood traditionally deposited inside tombs. According to the Pharaonic funerary beliefs, these figurines acted as magical substitutes for the deceased when the gods called him (or her) to undertake menial tasks in the afterlife. 
 Studying the production process of faience shabtis in addition to their design and engraved inscriptions can provide valuable information. The mineral phase characterization of shabtis kept in museum collections has relied on traditional gemological methods based on visual observations, which are rather inconclusive or too generic and are hindered from the glazed surface of many shabtis. The uniqueness and historical value of these cultural-heritage objects make sampling prohibitive, leading to the growing popularity of non-destructive and non-invasive analytical techniques that are sensitive to both chemistry and crystal structure. Raman spectroscopy, X-ray fluorescence (XRF) spectroscopy and computed tomography (CT) scanning are such non-destructive analytical methods that have been successfully applied for the determination of structure, elemental composition, firing conditions and hidden subsurface structures of painted and enamelled objects. 

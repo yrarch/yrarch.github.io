@@ -1,0 +1,20 @@
+---
+title: 'Of landscape biographies and sediment archives: reconstructing the landscape history of the Kreuttal microregion in Lower Austria'
+date: "2025"
+date-format: "YYYY"
+Event: Seminar
+categories: [Landscape biography, Sediment archive, Formation processes, Chronostratigraphy, Geochemistry]
+author: 
+  - name: Doris Jetzinger
+    orcid: 0000-0002-8653-5748
+    corresponding: true
+    email: doris.jetzinger@univie.ac.at
+---
+  
+*This paper was presented at the YRA seminar series in May 2025.*
+
+Just like people or physical objects, landscapes have life histories that are shaped by past events and processes. Sediments and soils act as archives for the lasting impact of these processes. Archaeological landscape research therefore necessitates a diachronic approach as well as a focus on the sediment archive as the bulk study material.  
+An effort towards studying and reconstructing landscape life histories is currently being undertaken by the “Life of a Landscape” project in the Kreuttal microregion in Lower Austria. We target the sediment archive as our main research material for identifying anthropogenic and natural formation processes, evidence of human-landscape interactions, and the chronostratigraphic landscape context. The project goal is the creation of an archaeological landscape biography to trace the development of the Kreuttal landscape over the millennia and identify the main formation processes involved in landscape and land use changes. To this end we employ an interdisciplinary methodological approach that combines landscape- and geoarchaeological methods and techniques, including geophysical prospection and remote sensing, coring, sedimentology, stratigraphy, geochemistry, OSL dating, and historic landscape characterisation.  
+This presentation will explore how results from these efforts help identify anthropogenic and natural activities, features and processes and facilitate insights into the research area’s geomorphology, topographic changes, chronostratigraphic sequences, and space and land use. Preliminary results offer new insights into a highly dynamic landscape history and underline the potential of interdisciplinary, holistic approaches in archaeological landscape research.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

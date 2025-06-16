@@ -1,0 +1,20 @@
+---
+title: 'Identifying Bronze Age alloying practices in the western and central Balkans'
+date: "2025"
+date-format: "YYYY"
+Event: Seminar
+categories: [Bronze Age Balkans, Trace element analysis, Alloying, Metal production]
+author: 
+  - name: Nicole Mittermair
+    orcid: 0000-0001-5686-448X
+    corresponding: true
+    email: nicole.mittermair@oeaw.ac.at
+---
+  
+*This paper was presented at the YRA seminar series in April 2025.*
+
+From 1500 BC onward, the increasing number of casting moulds, copper ingots, and hoards attests to a significant rise in metallurgical activity in the Western and Central Balkans. However, while Copper and Early Bronze Age metal production in the region has been extensively studied, the metallurgical practices of the Late Bronze and Early Iron Age have received far less attention.  
+This presentation will explore the elemental composition of Bronze Age copper-based objects from various archaeological contexts and discuss what these findings reveal about alloying practices, as one of the final stages in the metallurgical chaîne opératoire. Rather than focusing solely on raw material provenance, this study aims to reconstruct technological choices in metalworking practices and adaptations in local bronze production.  
+The goal of this study is to contextualize newly generated trace and minor element data (ED-XRF) within broader archaeological and chronological frameworks. Rather than focusing solely on raw material provenance, the emphasis lies on understanding deliberate technological choices in metallurgical practices, and adaptation in local bronze production. By integrating chemical data with cultural-historical perspectives, this research offers new insights into prehistoric metal production in the region.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

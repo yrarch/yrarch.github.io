@@ -2,7 +2,8 @@
 title: 'Experimental clay processing and archaeometric analysis to determine the provenance of fine-ware ceramics from the Early Middle Ages in north-western Tuscany (Italy): preliminary results'
 date: "2024"
 date-format: "YYYY"
-categories: [ceramic petrography, comparative catalogue, clay processing, experimental archaeology, Early Middle Ages]
+Event: Workshop
+categories: [Ceramic petrography, Comparative catalogue, Clay processing, Experimental archaeology, Early Middle Ages]
 author: 
   - name: Irene Strufaldi
     orcid: 0009-0005-5687-5249
@@ -10,6 +11,8 @@ author:
     email: irene.strufaldi@gmail.com
   - name: Sara Longo
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 The goal of this research is to create a comparative catalogue of raw materials and clays from the northern Tuscany region (Italy) used in fine wares, which will serve as a reference database for determining the provenance of archaeological fine wares. Coarse-ware ceramics are generally easier to trace back to their place of origin compared to fine wares, as the latter contain less petrographic information. To address this challenge, a systematic clay sampling campaign was conducted, collecting samples from outcrops near well-known production centers in the north-western Tuscany. 
 This paper presents the clay processing workflow and preliminary results from XRF and XRD analyses of the raw materials. A multi-analytical approach will be further adopted, involving the study of experimental briquettes fired at various temperature ranges using optical microscopy (OM) to complement the minero-petrographic analysis. Additionally, cathodoluminescence on thin sections will be performed at the Archéosciences Laboratory of the University of Bordeaux Montaigne. 

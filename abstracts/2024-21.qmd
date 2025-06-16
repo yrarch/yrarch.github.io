@@ -2,7 +2,8 @@
 title: 'µ-LIBS imaging as spatially-resolved and quantitative characterization method for pottery'
 date: "2024"
 date-format: "YYYY"
-categories: [pottery, ceramology, petrography, quantification, µ-LIBS imaging]
+Event: Workshop
+categories: [Pottery, Ceramology, Petrography, Quantification, µ-LIBS imaging]
 author: 
   - name: Nicolas Herreyre
     orcid: 0000-0002-6710-5523
@@ -14,6 +15,8 @@ author:
   - name: Clothilde Comby-Zebino
   - name: Vincent Motto-Ros
 ---
+
+*This paper was presented at the YRA Workshop 2024 in Nicosia.*
 
 In our pursuit of characterizing pottery, we are pioneering a novel approach for multi-analytical characterization through µ-LIBS imaging technique (Laser-Induced Breakdown Spectroscopy). This cutting-edge methodology facilitates surface analysis spanning a few centimeters, generating an extensive dataset of spectra, upwards of one million and beyond. LIBS offers comprehensive elemental maps with micrometric resolution, crucial for mineral characterization. 
 Supplementing the capabilities of conventional microscopic petrography, our method enables the identification of the granular fraction, known as the temper, on a straightforward polished section of a sherd. Given the substantial volume of data produced across a large surface area, leveraging machine learning for rapid and automated spectrum processing emerges as a potent tool for recognizing mineral families within a sample. 
