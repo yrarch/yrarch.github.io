@@ -7,7 +7,7 @@ lightbox: true
 ## YRA2025 Key dates
 ~~**April 1^st^** -- [Abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6) opens~~  
 ~~**May 31^st^** -- Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
-**June 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)  
+~~**June 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
 **July 1^st^** -- Announcement of abstracts decisions  
 **July 1^st^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens  
 **Aug 1^st^** -- Preliminary program available  

@@ -11,7 +11,7 @@ The time slots of each presentation will be accommodated to be the most comforta
 
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting (Meeting-ID: 988 6914 5922; code: YRA-S2025).
 
-## Next presentation: June 17th, at 12:00 pm (UTC)
+## Next presentation: July 1^st^, at 1:00 pm (UTC)
 
 ::: {.column-margin}
 
@@ -22,34 +22,33 @@ Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 
 **Code:** YRA-S2025  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20250617T120000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20250701T130000&p1=1440).
 
 :::
 
-*Tracing ancient practices through archaeo-metabolomics: a new window into the sensory and medicinal landscapes of the past*  
+*Accelerated thermal and freeze-thaw cycling effects on the durability of Greek marble in built heritage*  
 
-**Barbara Huber** (University of Bonn, Germany)  
+**Lyu Meilin** (University of Athens, Greece)  
 
-**Keywords:** Archaeometabolomics; Biomolecular archaeology; Ancient medicine; Past scents  
+**Keywords:** Climate change factors; Marble; Built heritage; Deterioration; Greece  
 
 **Abstract:**  
-Aromatic plants, herbs, and resins have long shaped human experiences—serving not only as olfactory markers in ritual and spiritual life but also as potent agents in healing, hygiene, and medicine. In ancient societies, the lines between incense, remedy, and ritual were often blurred, especially in regions like Arabia where aromatic substances held multifaceted roles in both daily routines and ceremonial practices.  
-This talk introduces archaeo-metabolomics, the study of small molecules (metabolites), as a powerful new lens for exploring the biochemical fingerprints of ancient plant-based practices. Moving beyond traditional text-based and typological approaches, metabolomics applies high-resolution metabolite profiling to archaeological materials, such as ceramic residues and soils – to detect a broad range of metabolites, including alkaloids, terpenes, and flavonoids. These molecular traces enable the reconstruction of complex human-plant interactions, from therapeutic formulations to incense practices.
+The durability of marble heritage structures is increasingly threatened by climate change-induced temperature fluctuations and moisture variability. This study examines the impact of two key weathering processes---thermal cycling and freeze-thaw (FT) cycling---on three types of Greek marble commonly used in built heritage. The primary aim is to assess the extent of structural deterioration caused by repeated heating, cooling, freezing, and thawing, simulating real-world climatic stresses. This study aimed to study both the surface and interior deterioration of Greek marble. The changes were assessed in terms of sub-surface structural alterations analyzed using state-of-the-art techniques such as ultrasonic pulse velocity (UPV) and x-ray computed tomography; surface observations were conducted using digital microscopy and SEM, while the strength properties of Greek marbles were evaluated using compressive strength testing. Additionally, chemical minerals in Naxos marble inclusions were investigated using handheld XRF. The study highlights the differential impact of thermal and moisture-related stresses on marble deterioration, emphasizing the anisotropic behavior of different marble types. These results have significant implications for conservation strategies, underscoring the need for protective treatments such as water repellents and microclimate stabilization to mitigate both thermal and moisture-induced damage. By integrating controlled laboratory simulations with environmental stressors, this research contributes to a deeper understanding of the long-term resilience of marble heritage under evolving climatic conditions.
 
-![](assets/img/Seminar/2025-06_Huber_copyright.jpg)  
+![](assets/img/Seminar/2025-07_Meilin_copyright.jpg)  
 
 ## Programme - 2025
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## January 30th – Tom Maltas (University of Oxford, UK)
+## January 30^th^ – Tom Maltas (University of Oxford, UK)
 **Time:** 3:00 pm (UTC)  
-**Title:** Archaeobotany and social change in the Neolithic and Bronze Age Aegean: perspectives from the eastern fringes  
+**Title:** [Archaeobotany and social change in the Neolithic and Bronze Age Aegean: perspectives from the eastern fringes](https://www.yra-ecr.org/abstracts/2025-S01.html)  
 **Keywords:** Agrarian lifeways; Western Anatolia; Prehistory  
 **Abstract:** Bordered by the Aegean and central Anatolia, the prehistory of western Anatolia has remained relatively unexplored. This is particularly the case for the rural economy, despite its evident importance to cultural developments within neighbouring regions. A small but growing body of scholarship is beginning to rectify this through bioarchaeological research aimed at reconstructing systems of farming and land use in the past. Focusing on the Aegean region of western Anatolia, I outline how these studies have transformed our understanding of agrarian lifeways and can shed new light on the dramatic cultural developments that can be traced across the Neolithic and Bronze Age. I go on to assess the implications of this regional trajectory for broader developments across the Aegean.
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## February 17th – Caroline Partiot (Austrian Archaeological Institute, Austria)
+## February 17^th^ – Caroline Partiot (Austrian Archaeological Institute, Austria)
 **Time:** 12:00 pm (UTC)  
 **Title:** Life and death in Byzantine Ephesos (Turkey): contributions from the integration of archaeothanatological and biological data  
 **Co-authors:** E. Baudoin, M. Steskal  
@@ -61,18 +60,18 @@ This presentation highlights the results of the study, which combines field data
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## March 6th – Alejandra Sánchez Polo (University of Valladolid, Spain)
+## March 6^th^ – Alejandra Sánchez Polo (University of Valladolid, Spain)
 **Time:** 4:00 pm (UTC)  
-**Title:** Colored sculptures under study: archaeometrical and symbolic approaches to pigments in pre-Columbian Ecuador  
+**Title:** [Colored sculptures under study: archaeometrical and symbolic approaches to pigments in pre-Columbian Ecuador](https://www.yra-ecr.org/abstracts/2025-S03.html)  
 **Keywords:** Pigments; Pre-Columbian; Archaeometry; Museum; Ecuador  
 **Abstract:** The pre-Columbian sculptures housed in art museums (such as the Quai Branly in Paris and the British Museum), decontextualized from their archaeological context, can still be historically relevant and provide insights into prehistoric societies? This question arose during my work as a curator at a pre-Columbian art museum in Ecuador. In addressing it, I pursued two main approaches: investigating the symbolism of colors and materials in pre-Columbian America and establishing the *chaîne opératoire* of the pigments observed on the shelves of the museum. To this end, several post-firing painted ceramic statues produced during the Regional Development period (500 BC - 500 AD) on the coast of Ecuador were studied.  
 First, in order to delve into the *chaîne opératoire*, the pigments and chromatic layers were examined using binocular magnification, SEM, XRD, XRF, and Raman spectroscopy in collaboration with various Ecuadorian institutions. One of the findings was that, despite employing similar color schemes, these pigments were used in comparable ways but sourced from different pigment materials. Furthermore, there existed a profound symbolic connection regarding color across the Americas. Thus, this study sought to demonstrate that the thousands of artifacts in museums are amenable to archaeological study, reinstating their intrinsic historical value.
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## April 1st – Nicole Mittermair (Austrian Archaeological Institute & University of Vienna, Austria)
+## April 1^st^ – Nicole Mittermair (Austrian Archaeological Institute & University of Vienna, Austria)
 **Time:** 12:00 pm (UTC)  
-**Title:** Identifying Bronze Age alloying practices in the western and central Balkans  
+**Title:** [Identifying Bronze Age alloying practices in the western and central Balkans](https://www.yra-ecr.org/abstracts/2025-S04_1.html)  
 **Keywords:** Bronze Age Balkans; Trace element analysis; Alloying; Metal production  
 **Abstract:** From 1500 BC onward, the increasing number of casting moulds, copper ingots, and hoards attests to a significant rise in metallurgical activity in the Western and Central Balkans. However, while Copper and Early Bronze Age metal production in the region has been extensively studied, the metallurgical practices of the Late Bronze and Early Iron Age have received far less attention.  
 This presentation will explore the elemental composition of Bronze Age copper-based objects from various archaeological contexts and discuss what these findings reveal about alloying practices, as one of the final stages in the metallurgical chaîne opératoire. Rather than focusing solely on raw material provenance, this study aims to reconstruct technological choices in metalworking practices and adaptations in local bronze production.  
@@ -80,19 +79,19 @@ The goal of this study is to contextualize newly generated trace and minor eleme
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## April 9th – Additionnal Session - Evgenia Dammer (Berlin State Museums, Germany) & Romain Thomas (University of Sheffield, UK)
+## April 9^th^ – Additionnal Session - Evgenia Dammer (Berlin State Museums, Germany) & Romain Thomas (University of Sheffield, UK)
 *Webinar*  
 **Time:** 2:00 pm (UTC)  
-**Title:** Discover STON: a practical tool to study petrographic images and beyond!  
+**Title:** [Discover STON: a practical tool to study petrographic images and beyond!](https://www.yra-ecr.org/abstracts/2025-S04_2.html)  
 **Abstract:** STON is open-source software designed to make microscopic image analysis faster and easier for archaeologists. Unlike existing microscopic imaging software, which is primarily built for the natural sciences, STON is tailored to archaeological research, allowing users to cluster and compare multiple images simultaneously in a simple, user-friendly workspace. With features such as freehand sorting and synchronised zoom, STON helps users efficiently group samples and analyse compositional characteristics. By streamlining these processes, it enhances ceramic paste analysis and petrographic grouping. Developed openly on GitHub, STON is free to use and fully adaptable, with a Python-based source code that can be customised for different projects.  
 Join this webinar to see STON in action and learn how it can support your research.  
 For more information, visit the [documentation page](https://romain-thomas-shef.github.io/STON/).
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## May 16th – Doris Jetzinger (University of Vienna, Austria)
+## May 16^th^ – Doris Jetzinger (University of Vienna, Austria)
 **Time:** 9:00 am (UTC)  
-**Title:** Of landscape biographies and sediment archives: reconstructing the landscape history of the Kreuttal microregion in Lower Austria  
+**Title:** [Of landscape biographies and sediment archives: reconstructing the landscape history of the Kreuttal microregion in Lower Austria ](https://www.yra-ecr.org/abstracts/2025-S05.html)  
 **Keywords:** Landscape biography; Sediment archive; Formation processes; Chronostratigraphy; Geochemistry  
 **Abstract:** Just like people or physical objects, landscapes have life histories that are shaped by past events and processes. Sediments and soils act as archives for the lasting impact of these processes. Archaeological landscape research therefore necessitates a diachronic approach as well as a focus on the sediment archive as the bulk study material.  
 An effort towards studying and reconstructing landscape life histories is currently being undertaken by the “Life of a Landscape” project in the Kreuttal microregion in Lower Austria. We target the sediment archive as our main research material for identifying anthropogenic and natural formation processes, evidence of human-landscape interactions, and the chronostratigraphic landscape context. The project goal is the creation of an archaeological landscape biography to trace the development of the Kreuttal landscape over the millennia and identify the main formation processes involved in landscape and land use changes. To this end we employ an interdisciplinary methodological approach that combines landscape- and geoarchaeological methods and techniques, including geophysical prospection and remote sensing, coring, sedimentology, stratigraphy, geochemistry, OSL dating, and historic landscape characterisation.  
@@ -101,16 +100,16 @@ This presentation will explore how results from these efforts help identify anth
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## June 17th – Barbara Huber (University of Bonn, Germany)
+## June 17^th^ – Barbara Huber (University of Bonn, Germany)
 **Time:** 12:00 pm (UTC)  
-**Title:** Tracing ancient practices through archaeo-metabolomics: a new window into the sensory and medicinal landscapes of the past  
+**Title:** [Tracing ancient practices through archaeo-metabolomics: a new window into the sensory and medicinal landscapes of the past](https://www.yra-ecr.org/abstracts/2025-S06.html)  
 **Keywords:** Archaeometabolomics; Biomolecular archaeology; Ancient medicine; Past scents  
 **Abstract:** Aromatic plants, herbs, and resins have long shaped human experiences---serving not only as olfactory markers in ritual and spiritual life but also as potent agents in healing, hygiene, and medicine. In ancient societies, the lines between incense, remedy, and ritual were often blurred, especially in regions like Arabia where aromatic substances held multifaceted roles in both daily routines and ceremonial practices.  
 This talk introduces archaeo-metabolomics, the study of small molecules (metabolites), as a powerful new lens for exploring the biochemical fingerprints of ancient plant-based practices. Moving beyond traditional text-based and typological approaches, metabolomics applies high-resolution metabolite profiling to archaeological materials, such as ceramic residues and soils -- to detect a broad range of metabolites, including alkaloids, terpenes, and flavonoids. These molecular traces enable the reconstruction of complex human-plant interactions, from therapeutic formulations to incense practices.
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## July 1st – Lyu Meilin (University of Athens, Greece)
+## July 1^st^ – Lyu Meilin (University of Athens, Greece)
 **Time:** 1:00 pm (UTC)  
 **Title:** Accelerated thermal and freeze-thaw cycling effects on the durability of Greek marble in built heritage  
 **Keywords:** Climate change factors; Marble; Built heritage; Deterioration; Greece  
@@ -120,7 +119,7 @@ This talk introduces archaeo-metabolomics, the study of small molecules (metabol
 ## Programme - 2024
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## June 3rd – Mélissa Cadet (Academia Sinica, Taiwan)
+## June 3^rd^ – Mélissa Cadet (Academia Sinica, Taiwan)
 **Time:** 8:30 am (UTC)  
 **Title:** Copper technologies in Taiwan and the Philippines during the Metal Age  
 **Keywords:** Copper-based metallurgy; South-East Asia; Metal Age; Maritime exchange  
@@ -130,7 +129,7 @@ Copper and its alloys are one of the materials thought to come from the maritime
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## July 1st – Alkiviadis Sideridis (University of Athens, Greece)
+## July 1^st^ – Alkiviadis Sideridis (University of Athens, Greece)
 **Time:** 8:00 am (UTC)  
 **Title:** Tinos’ lost ancient serpentinite quarry (Cyclades, Greece): an interdisciplinary approach  
 **Keywords:** Stone analysis; Serpentinite; Cyclades Greece; Ancient quarry  
@@ -138,23 +137,23 @@ Copper and its alloys are one of the materials thought to come from the maritime
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## September 10th – Thorsten Jakobitsch (Austrian Archaeological Institute, Austria)  
+## September 10^th^ – Thorsten Jakobitsch (Austrian Archaeological Institute, Austria)  
 **Time:** 8:00 am (UTC)  
-**Title:** Plant and insect remains as indicators for waterlogged dung layers – The example of the Neolithic lakeshore settlement Mooswinkel in the Austrian Alps  
+**Title:** [Plant and insect remains as indicators for waterlogged dung layers – The example of the Neolithic lakeshore settlement Mooswinkel in the Austrian Alps](https://www.yra-ecr.org/abstracts/2024-S09.html)  
 **Keywords:** Stable manure; Pile dwelling; Archaeobotany; Archaeoentomology; Late Neolithic  
 **Abstract:** Stable manure preserves well in waterlogged archaeological sediments. The organic refuse provides a wealth of information about the site’s economy, forest resources, and impact on the environment. However, the recognition of middens and manure in sediment layers is not always straightforward. In the case study of the Late Neolithic pile dwelling Mooswinkel at the lake Mondsee in Austria, dung, botanical macro- and microremains, as well as invertebrates identified the sediment as stable manure from goat, sheep and cattle farming. Furthermore, the season of the layer formation could be recognized. Materials investigated included pollen, bryophytes, plant fruits and seeds, leaves, branches and bud scales of woody plants, as well as insect remains. In addition, plant microremains in dung were analysed. The results of this multi-material study show that leaf hay and grass hay were used as fodder during the winter season. The impact of fodder acquisition and pasturing on the forest could be reconstructed, showing the formation of a mosaic landscape of natural and semi-natural habitats.
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## October 10th – Madison McCartin (University of California, Davis, USA)
+## October 10^th^ – Madison McCartin (University of California, Davis, USA)
 **Time:** 2:00 pm (UTC)  
-**Title:** Biomolecular insights into Magdalenian ungulates from Petersfels (Hegau Jura, southwestern Germany) via ZooMS and stable isotope analysis  
+**Title:** [Biomolecular insights into Magdalenian ungulates from Petersfels (Hegau Jura, southwestern Germany) via ZooMS and stable isotope analysis](https://www.yra-ecr.org/abstracts/2024-S10.html)  
 **Keywords:** Magdalenian; ZooMS; Stable isotopes; Zooarchaeology; Paleoenvironment; Ungulates  
 **Abstract:** After the Last Glacial Maximum, ameliorating climates facilitated the recolonization of Central Europe by human and animal groups. Petersfels, situated in the Hegau Jura of southwestern Germany, evidences the later stages of this repopulation, dating to ~16-14 ka cal BP. Over the past hundred years, numerous excavations at the site have revealed an exceptional record of Magdalenian subsistence including abundant lithic and osseous material, personal ornaments, engravings, and female figurines. Faunal remains are particularly relevant, as they archive information on human and animal lifeways as well as the broader post-LGM environmental context. However, despite this great potential, little is known about the paleoecological context of the site or the broader Hegau Jura. Here, we present new biomolecular analyses of the Petersfels faunal assemblage, which help to illuminate the paleoecology of the region. Zooarchaeology by Mass Spectrometry (ZooMS) was applied to identify rare taxa and to differentiate between closely related species. We also conducted stable isotope analyses of carbon (δ13C) and oxygen (δ18O) from serially sampled equid and bovid tooth enamel carbonate. The latter contributes to our understanding of local paleoecology during the Magdalenian and the status of human and animal communities during post-LGM climatic change. More broadly, this work shows how heritage collections like Petersfels are still immensely valuable, especially with the application of modern biomolecular techniques.  
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## November 11th– Veronica Occari (University College London, UK)
+## November 11^th^– Veronica Occari (University College London, UK)
 **Time:** 12:00 pm (UTC)  
 **Title:** The technology of polychrome glazed ceramics in Ifriqiya: new data from the Medjerda Valley  
 **Co-authors:** H. Möller, C. Fenwick, P. Quinn,  I.C. Freestone,  M. Chaouali, P. von Rummel  
@@ -163,9 +162,9 @@ Copper and its alloys are one of the materials thought to come from the maritime
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## December 10th – Sibylle Manya (National Centre for Research and Restoration in French Museums, France)
+## December 10^th^ – Sibylle Manya (National Centre for Research and Restoration in French Museums, France)
 **Time:** 3:00 pm (UTC)  
-**Title:** Chrysocolla at high temperatures: understanding Pre-Hispanic metallurgy through Collahuasi slag analysis (Tarapaca, Chile)  
+**Title:** [Chrysocolla at high temperatures: understanding Pre-Hispanic metallurgy through Collahuasi slag analysis (Tarapaca, Chile)](https://www.yra-ecr.org/abstracts/2024-S12.html)  
 **Co-authors:** B. Mille, V. Figueroa Larre, T. Bataille, L. Le Pollès, J.-B. d’Espinose de Lacaillerie  
 **Keywords:** Chrysocolla characterization; Thermal analysis; Pre-Hispanic copper metallurgy  
 **Abstract:** Ujina-Collahuasi is an archaeological site located in the Atacama Desert in Chile, renowned as a major center for copper production during the pre-Inca and Inca periods. Pre-Hispanic metallurgists utilized bench-shaped granodiorite furnaces to smelt ore, leveraging the wind to achieve high temperatures and extract copper in the form of metallic beads. The resulting slag, rich in silicon, exhibits various mineralogical phases, notably yellow-green or yellow-orange phases that are of particular interest. These phases, rich in copper and silicon, may be attributed to the prevalence of chrysocolla among the ores used.  
