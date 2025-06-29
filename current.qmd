@@ -64,25 +64,100 @@ With this workshop, we aim to offer a relaxed atmosphere to encourage interdisci
 
 Participation will come at a cost but we do our best to keep the fee as low as possible. In the last years, YRA managed to keep workshop fees well below 50 €. 
 
-## Abstract submission
+## Registration
+Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Registration is possible for everyone, also if you are not presenting. Workshop fees are 30 €. SAS members receive a 5 € discount. You can join SAS before 15 September to benefit from the discount. 
 
-Send us your abstract (max. 250 words) until  **June 15^th^ 2025** (extended deadline) via the [submission form](https://forms.gle/txhdzYgtvHt5LEoh6). 
+<!-- Send us your abstract (max. 250 words) until  **June 15^th^ 2025** (extended deadline) via the [submission form](https://forms.gle/txhdzYgtvHt5LEoh6). -->
 
 
 <!-- Abstract submission is closed. The submitted abstracts are now evaluated. -->
 
-<!--
-Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Registration is possible for everyone, also if you are not presenting. 
+## Programme and social events
 
-Registration fees are 20 € for students (bachelor, master, PhD) and 30 € for everyone else. SAS members receive a 5 € discount. You can join SAS before 15 September to benefit from the discount. 
+[You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241015T090000&p1=680).]{.aside}
+
+All times are given in Central European Summer Time (UTC+2). 
+
+::: {.panel-tabset}
+
+## **Oct. 14^th^**
+
+|||
+|--|--------|
+|tba|Icebreaker<!--<br />*<Location*-->|
+
+## **Oct. 15^th^**
+
+|||
+|--|--------|
+|09:00 -- 09:30|Registration|
+|09:30 -- 09:50|Welcome|
+|09:50 -- 10:20|Keynote<!--: **<Speaker>**<br />*<title>*-->|
+|10:20 -- 11:20|Presentations|
+|||
+|11:20 -- 11:40|*Coffee break*|
+|||
+|11:40 -- 13:00|Presentations|
+|||
+|13:00 -- 14:00|*Lunch break*|
+|||
+|14:00 -- 15:40|Presentations|
+|||
+|15:40 -- 16:00|*Coffee break*|
+|||
+|16:00 -- 18:00|Guided tour in the Hungarian National Museum|
+
+## **Oct. 16^th^**
+
+|||
+|--|--------|
+|09:00 -- 11:30|Visit at the Budapest Neutron Centre or HUN-REN RCH Institute of Archaeogenomics (with 30 minutes lectures)|
+|||
+|11:30 -- 13:00|*Lunch break*|
+|||
+|13:00 -- 14:40|Presentations|
+|||
+|14:40 -- 15:00|*Coffee break*|
+|||
+|15:00 -- 16:00|Poster Session|
+|||
+|16:00 -- 17:40|Presentations|
+|||
+|20:00|Conference dinner (self-paid)|
+
+## **Oct. 17^th^**
+
+|||
+|--|--------|
+|09:00 -- 10:40|Presentations|
+|||
+|10:40 -- 11:00|*Coffee break*|
+|||
+|11:00 -- 12:40|Presentations|
+|||
+|12:40 -- 13:40|*Lunch break*|
+|||
+|13:40 -- 14:10|Keynote<!--: **<Speaker>**<br />*<title>*-->|
+|||
+|14:10 -- 15:30|Presentations|
+|||
+|15:30 -- 16:00|Closing|
+
+<!--
+## Posters
+
+* 
 -->
+
+:::
 
 ## SAS Travel Award 
 
 The [Society for Archaeological Sciences](https://socarchsci.org) (SAS) sponsors a single travel award of USD 250 to support one student/ECR from [low and middle income countries](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) and/or with financial need.    
 
+<!--
 The application for the SAS Travel award is integrated in the [abstract submission form](https://forms.gle/txhdzYgtvHt5LEoh6). Applications will be evaluated after abstract submission closed. The evaluation will be based on the applicant's career status, location of affiliation, availability of alternative funding sources, and an motivation letter of 200 to 250 words. The SAS Travel Award will only be bestowed to an applicant with an abstract accepted for presentation at YRA2025. 
-
+-->
 
 ## Proceedings
 YRA2025 teamed up with the editorial board of *[Archeometriai Műhely](http://www.ace.hu/am/indexe.html)* to publish the workshop proceedings as full-length peer-reviewed articles. *Archeometriai Műhely* is a diamond open access journal, meaning that publication and access to its articles are free of charge. More information will follow soon. Submission deadline for the proceedings is 31^st^ January 2026. 
