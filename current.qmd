@@ -11,7 +11,8 @@ lightbox: true
 **July 1^st^** -- Announcement of abstracts decisions  
 **July 1^st^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens  
 **Aug 1^st^** -- Preliminary program available  
-**Sept 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes  
+**Aug 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes **for presenters**  
+**Sept 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes **for participants**  
 **Oct. 1^st^** -- Meeting details and final program available  
 **Oct. 14^th^--17^th^** -- YRA2025 in Budapest   
 **Oct. 31^st^** -- Certificates sent to participants  
@@ -162,6 +163,22 @@ The application for the SAS Travel award is integrated in the [abstract submissi
 ## Proceedings
 YRA2025 teamed up with the editorial board of *[Archeometriai Műhely](http://www.ace.hu/am/indexe.html)* to publish the workshop proceedings as full-length peer-reviewed articles. *Archeometriai Műhely* is a diamond open access journal, meaning that publication and access to its articles are free of charge. More information will follow soon. Submission deadline for the proceedings is 31^st^ January 2026. 
 
+# How to get to the venue
+
+## Venue
+The conference is hosted by the Faculty of Humanities at Eötvös Loránd University (ELTE) ([open location in GoogleMaps](https://maps.app.goo.gl/cdamQSp5MtepgMnn9)). It is easily accessible by public transport:
+
+* Metro lines M2 (Astoria stop), M4 (Kálvin Square stop), M1 and M3 (Deák Ferenc Square stop), 
+* Buses lines 5, 7, 8, 107, 110, 112, 133, 178, 233, and 239 (Astoria stop).
+
+The conference will be held at [Building A of the campus](https://www.elte.hu/content/trefort-kerti-campus.c3c.64?m=136).
+
+## Travel to Budapest
+
+* By plane: [Liszt Ferenc International Airport](https://www.bud.hu/en) connects Budapest with most of the major European cities. Budapest is easily accessible from the airport by both public transport and taxi. The 100E bus takes the passengers directly to the city centre and conference venue, stopping at Astoria stop. It departs to the airport from Deák Ferenc Square and Kálvin Square stops.
+* By train: Budapest is directly accessible by train from many major European cities via both state-owned and private railway companies, see for example <https://jegy.mav.hu/>. Most of the international lines arrive at Keleti Railway Station or Kelenföld Railway Station, both of which are easily accessible by metro.
+* By bus: International coach services such as [Flixbus](https://global.flixbus.com/) connect Budapest with the larger cities of several neighbouring countries. Most of the bus terminals are easily accessible by metro.
+* By car: Budapest can be easily reached via numerous public highways, for which a highway vignette is required. Please look up the fares and how to purchase a vignette at <https://toll-charge.hu/en>. Please keep in mind that the parking is paid in most parts of the city, including the venue of the conference.
 
 <!--
 
