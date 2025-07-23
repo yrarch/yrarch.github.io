@@ -11,7 +11,7 @@ The time slots of each presentation will be accommodated to be the most comforta
 
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting (Meeting-ID: 988 6914 5922; code: YRA-S2025).
 
-## Next presentation: July 1^st^, at 1:00 pm (UTC)
+## Next presentation: September 16^th^, at 12:00 pm (UTC)
 
 ::: {.column-margin}
 
@@ -22,20 +22,20 @@ Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 
 **Code:** YRA-S2025  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20250701T130000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20250916T120000&p1=1440).
 
 :::
 
-*Accelerated thermal and freeze-thaw cycling effects on the durability of Greek marble in built heritage*  
+*Egyptian blue production: a diachronic perspective*  
 
-**Lyu Meilin** (University of Athens, Greece)  
+**Ilia Kovalev** (The Cyprus Institute, Cyprus)  
 
-**Keywords:** Climate change factors; Marble; Built heritage; Deterioration; Greece  
+**Keywords:** Egyptian blue; Ancient materials; Ancient technology; High-temperature processes; Technical ceramics  
 
 **Abstract:**  
-The durability of marble heritage structures is increasingly threatened by climate change-induced temperature fluctuations and moisture variability. This study examines the impact of two key weathering processes---thermal cycling and freeze-thaw (FT) cycling---on three types of Greek marble commonly used in built heritage. The primary aim is to assess the extent of structural deterioration caused by repeated heating, cooling, freezing, and thawing, simulating real-world climatic stresses. This study aimed to study both the surface and interior deterioration of Greek marble. The changes were assessed in terms of sub-surface structural alterations analyzed using state-of-the-art techniques such as ultrasonic pulse velocity (UPV) and x-ray computed tomography; surface observations were conducted using digital microscopy and SEM, while the strength properties of Greek marbles were evaluated using compressive strength testing. Additionally, chemical minerals in Naxos marble inclusions were investigated using handheld XRF. The study highlights the differential impact of thermal and moisture-related stresses on marble deterioration, emphasizing the anisotropic behavior of different marble types. These results have significant implications for conservation strategies, underscoring the need for protective treatments such as water repellents and microclimate stabilization to mitigate both thermal and moisture-induced damage. By integrating controlled laboratory simulations with environmental stressors, this research contributes to a deeper understanding of the long-term resilience of marble heritage under evolving climatic conditions.
+Egyptian blue is the earliest known artificially produced inorganic pigment, which from its first appearance in Early Bronze Age Egypt remained an intrinsic part of the artistic palette over several millennia. The application of Egyptian blue was not limited to being used as a pigment only, as it also served as a raw material for the production of small objects like beads, scarabs, and figurines. From the material science standpoint, Egyptian blue is a multi-phase material comprising crystals of cuprorivaite (CaCuSi~4~O~10~) embedded in an amorphous glass phase along with possible remains of partially reacted raw materials. While the chemical and physical properties of Egyptian blue are fairly well understood, our grasp on the broader context of its production remains limited. Being a high-temperature process, the production of Egyptian blue necessitates the use of crucibles. The present talk will focus on Egyptian blue crucibles from LBA Qantir, Iron Age Kom Tuman, and Hellenistic/Roman Kom Helul in an attempt to highlight the diachronic change in Egyptian blue production.  
 
-![](assets/img/Seminar/2025-07_Meilin_copyright.jpg)  
+![](assets/img/Seminar/2025-09_Kovalev_copyright.jpg)  
 
 ## Programme - 2025
 
@@ -118,7 +118,7 @@ This talk introduces archaeo-metabolomics, the study of small molecules (metabol
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## September 16^th^ – Ilia Kovalev (The Cyprus Institute, Cyprus)
-**Time:** To be announced  
+**Time:** 12:00 pm (UTC)    
 **Title:** Egyptian blue production: a diachronic perspective  
 **Keywords:** Egyptian blue; Ancient materials; Ancient technology; High-temperature processes; Technical ceramics  
 **Abstract:** Egyptian blue is the earliest known artificially produced inorganic pigment, which from its first appearance in Early Bronze Age Egypt remained an intrinsic part of the artistic palette over several millennia. The application of Egyptian blue was not limited to being used as a pigment only, as it also served as a raw material for the production of small objects like beads, scarabs, and figurines. From the material science standpoint, Egyptian blue is a multi-phase material comprising crystals of cuprorivaite (CaCuSi~4~O~10~) embedded in an amorphous glass phase along with possible remains of partially reacted raw materials. While the chemical and physical properties of Egyptian blue are fairly well understood, our grasp on the broader context of its production remains limited. Being a high-temperature process, the production of Egyptian blue necessitates the use of crucibles. The present talk will focus on Egyptian blue crucibles from LBA Qantir, Iron Age Kom Tuman, and Hellenistic/Roman Kom Helul in an attempt to highlight the diachronic change in Egyptian blue production.
