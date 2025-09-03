@@ -8,9 +8,9 @@ lightbox: true
 ~~**April 1^st^** -- [Abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6) opens~~  
 ~~**May 31^st^** -- Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
 ~~**June 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
-**July 1^st^** -- Announcement of abstracts decisions  
-**July 1^st^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens  
-**Aug 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes **for presenters**  
+~~**July 1^st^** -- Announcement of abstracts decisions~~  
+~~**July 1^st^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens~~  
+~~**Aug 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes **for presenters**~~  
 **Sept 1^st^** -- Preliminary program available  
 **Sept 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes **for participants**  
 **Oct 1^st^** -- Meeting details and final program available  
@@ -85,7 +85,7 @@ All times are given in Central European Summer Time (UTC+2).
 
 |||
 |--|--------|
-|tba|Icebreaker<!--<br />*<Location*-->|
+|tba|Icebreaker (self-paid)<!--<br />*<Location*-->|
 
 ## **Oct. 15^th^**
 
@@ -94,17 +94,28 @@ All times are given in Central European Summer Time (UTC+2).
 |09:00 -- 09:30|Registration|
 |09:30 -- 09:50|Welcome|
 |09:50 -- 10:20|Keynote<!--: **<Speaker>**<br />*<title>*-->|
-|10:20 -- 11:20|Presentations|
+||**Session 1: Pigments, plaster and mortars**|
+|10:20 -- 10:40|*The inter-instrumental comparability of semi-quantitative ED-XRF analyses of iron gall inks*<br>**Ophelia Kloth**|
+|10:40 -- 11:00|*Painters by the Yarmouk: Investigating Craft Organisation through Painted Plaster Analysis at Gadara and Tall Zira’a (Northern Jordan)*<br>**Elena Cantero Ros**, Luc Megens, Brita Jansen, Hans Huisman, Susanne Kerner|
+|11:00 -- 11:20|*Distinguishing binder to aggregate ratio in historic lime mortars from Cyprus through FTIR analysis: is it really possible?*<br>**Paola Pizzo**, Petra Mácová, Jan Válek|
 |||
 |11:20 -- 11:40|*Coffee break*|
 |||
-|11:40 -- 13:00|Presentations|
+||**Session 2: Glass and building materials**|
+|11:40 -- 12:00|*Glass types in Bronze and Iron Age Southeast Hungary*<br>**Zsófia Sz. Osváth**, Bernadett Bajnóczi, Máté Szabó|
+|12:00 -- 12:20|*Beyond Provenance: Reconstructing Exchange Routes, Production Processes, and Recycling based on Early Medieval Glass Beads from Zweeloo (the Netherlands)*<br>**Nina Schreuder**|
+|12:20 -- 12:40|*Research on Burnt Early Copper Age Houses at Marosnagylak*<br>**Eszter Horváth**, Dorottya Láng, András Füzesi|
+|12:40 -- 13:00|*A close-up on prehistorical household structures. Case study: micromorphology in the Bronze Age tell settlement from Sântion - Movila Mănăstirii (Bihor county, Romania)*<br>**Alexandra Stache**, Florin Gogâltan, Emanoil Săsăran|
 |||
 |13:00 -- 14:00|*Lunch break*|
 |||
-|14:00 -- 15:40|Presentations|
+||**Session 3: Metals**|
+|14:00 -- 14:20|*Comparison of the polychrome metalworking and decorative techniques from the Langobardic and Gepidic periods (late 5th and 6th centuries AD) in the Carpathian Basin*<br>**Viktória Mozgai**, Eszter Horváth, László Előd Aradi, Bernadett Bajnóczi|
+|14:20 -- 14:40|*Identifying surface treatments on medieval metal artefacts*<br>**András Török**|
+|14:40 -- 15:00|*The datability of Nuremberger yellow brass*<br>**Panni Kovács**|
+|15:00 -- 15:20|*The TerraLID metadata profile: Uniformly describing lead isotope data in archaeology*<br>**Thomas Rose**, Tim Greifelt, Katrin J. Westner, Annette Hornschuch, Yiu-Kang Hsu, Helge Wiethoff, Sabine Klein|
 |||
-|15:40 -- 16:00|*Coffee break*|
+|15:20 -- 15:40|*Coffee break*|
 |||
 |16:00 -- 18:00|Guided tour in the Hungarian National Museum|
 
@@ -112,17 +123,25 @@ All times are given in Central European Summer Time (UTC+2).
 
 |||
 |--|--------|
-|09:00 -- 11:30|Visit at the Budapest Neutron Centre or HUN-REN RCH Institute of Archaeogenomics (with 30 minutes lectures)|
+|09:00 -- 11:30|Visit at the Budapest Neutron Centre or ELTE RCH Institute of Archaeogenomics (with 30 minutes lectures)|
 |||
 |11:30 -- 13:00|*Lunch break*|
 |||
-|13:00 -- 14:40|Presentations|
+||**Bioarchaeology, part 1**|
+|13:00 -- 13:20|*Identification of Genomic Markers Associated with Tuberculosis in Ancient Individuals from the Americas*<br>**Ana Cristina de Lima Pedrozo Cardouzo**, André Luiz Campelo dos Santos, Henry Socrates Lavalle Sullasi|
+|13:20 -- 13:40|*Strontium Isotopic and Proteomic Analyses on the Human Remains of the KGK VI sites of Sultana and Gumelnița, Romania*<br>**Aurelien Tafani**, Enrico Greco, Robert H. Tykot, Kévin Salesse, Hannah F. James, Christophe Snoeck, Cătălin Lazăr|
+|13:40 -- 14:00|*Early Thoughts on Childhood in Early Medieval Iceland (10th–13th Centuries AD)*<br>**Maren von Mallinckrodt**|
+|14:00 -- 14:20|*Gender, Age, and Social Identity in the Middle Bronze Age Burials from Western Hungary*<br>**Eszter Melis** Tamás Hajdu, Anett Gémes, Katalin Gyenesei, Fabian Kanz, István Major, Attila Mrenka, Katharina Rebay-Salisbury, Bálint Savanyú, Viktória Kiss|
 |||
-|14:40 -- 15:00|*Coffee break*|
+|14:20 -- 14:40|*Coffee break*|
 |||
-|15:00 -- 16:00|Poster Session|
+|14:40 -- 16:00|Poster Session (see tab "Posters")|
 |||
-|16:00 -- 17:40|Presentations|
+||**Session 5: Bioarchaeology, part 2**|
+|10:20 -- 10:40|*The Whole, the Missing and the Disturbed- Exploring Post-Burial Practices in the Langobard Cemetery of Gyirmót–Homokdomb*<br>**Regina Viktória Csordás**, Eliza Orellana-González|
+|10:20 -- 10:40|*Experimental research of medieval bone skates *<br>**Kata Szathmári**|
+|10:20 -- 10:40|*Archaeozoological investigations in the Late Neolithic site of Moftinu Mare-Hamiliz (Northwest Romania)*<br>**Xenia Pop**|
+|10:20 -- 10:40|*Ancient Parasitic Infection: A Millennium-Old Probable Echinococcal Cyst Discovered in an Avar Period Burial*<br>**Csilla Libor**, László Előd Aradi, Norbert Kapcsos M., Kristóf Fehér, Botond Heltai, Dániel Gerber, Tamás Sréter, Dániel Csete, Gergely Szenthe, Erwin Gáll|
 |||
 |20:00|Conference dinner (self-paid)|
 
@@ -130,25 +149,47 @@ All times are given in Central European Summer Time (UTC+2).
 
 |||
 |--|--------|
-|09:00 -- 10:40|Presentations|
+||**Session 6: Ceramics, part 1**|
+|09:00 -- 09:20|*Pottery Technology and Neolithization in the Middle Tagus Basin: Preliminary Petrographic Insights*<br>**Estíbaliz Espada-Martín**, Miriam Cubas, Silvia Amicone|
+|09:20 -- 09:40|*Understanding Copper Age pottery function through morphometric and organic residue analysis*<br>**Rebeka Solti**, Isabel Wiltshire, Izzy Davis, Melanie Roffet-Salque, Lucy Cramp, Eszter Solnay, Márton Szilágyi, Dávis Kraus, Gábor Szilas, Zsuzsanna M. Virág, Zsuzsanna Siklósi|
+|09:40 -- 10:00|*The traces of the potter’s hand: Pottery experimental reference collection for the analysis of Copper Age vessels from the Carpathian Basin*<br>**Eszter Solnay**, Zita Hrabák, Antony Borel|
+|10:00 -- 10:20|*Technological investigation of the Middle Bronze Age Late Hatvan and Füzesabony style pottery from the Borsod plain region, Northeastern Hungary*<br>**Ákos Mengyán**, Klára P. Fischl, Ferenc Kristály|
+|10:20 -- 10:40|*Comparing archaic Corinthian pottery through SEM-EDS and optical microscopy. A case study*<br>**Michael Ioannou**|
 |||
 |10:40 -- 11:00|*Coffee break*|
 |||
-|11:00 -- 12:40|Presentations|
+||**Session 7: Ceramics, part 2**|
+|11:00 -- 11:20|*Unchanging tastes: Material choices in Hellenistic and Roman storage vessels from Nea Paphos*<br>**Zofia Chomoncik**|
+|11:20 -- 11:40|*Geochemical and mineralogical provenance analysis of West African pottery*<br>**Juan-Marco Puerta Schardt**|
+|11:40 -- 12:00|*Applying a Multi-Proxy Approach to the Analysis of Archaeological Survey Ceramics from the Middle Euphrates*<br>**Antonia Höhne**|
+|12:00 -- 12:20|*Exploring AI-assisted Image Segmentation for Ceramic Thin Section Analysis: some Experience with TagLab*<br>**Elisabetta di Virgilio**, Federico Parisi, Diego Ronchi, Antonio Ferrandes, Marco Callieri|
+|12:20 -- 12:40|*Iberian majolica finds in the medieval Kingdom of Hungary?*<br>**Dorottya Györkös**, Zsófia Nádai, László Előd Aradi, Kristóf Fehér, Erika Kereskényi, Attila Kreiter|
 |||
 |12:40 -- 13:40|*Lunch break*|
 |||
-|13:40 -- 14:10|Keynote<!--: **<Speaker>**<br />*<title>*-->|
+||**Session 8: Geoarchaeology and geophysics**|
+|13:40 -- 14:00|*Prehistoric Sites in Turkmenistan: A GIS-Based Overview of Spatial and Temporal Patterns*<br>**Mahym Amanova**|
+|14:00 -- 14:20|*Geophysical research of rural settlements of the Roman period in the surroundings of Crumerum (Nyergesújfalu, Hungary)*<br>**Viola Tőkés**|
+|14:20 -- 14:40|*Application of Non-Destructive Field Investigation Methods in the Archaeological Study of a Medieval Ruined Settlement in Tolna County, Hungary*<br>**Mátyás Németh**|
 |||
-|14:10 -- 15:30|Presentations|
-|||
-|15:30 -- 16:00|Closing|
+|14:40 -- 15:00|Closing|
 
-<!--
-## Posters
 
-* 
--->
+## **Posters**
+
+* *Characterization and Analysis of Wall Painting Fragments from the Sandrigo Estate of Aquileia for the Determination of a Chronological Framework*<br>**Yarden Jessica Tsfoni**, Clelia Sbrolli, Andrea Cipolato, Daniela Cottica, Simone Dilaria
+* *Urns Under the Microscope: Petrographic analysis of eight Iron Age pots from Funen, Denmark*<br>**Christina Holdgaard Schultze**, Torbjörn Brorsson
+* *Archaeometric analyses of Pozzolanic Mortars in Roman Thermal and Hydraulic Constructions at Nora, Sardinia*<br>**Laura Buganza**, Zeno Caneva, Jacopo Bonetto, Caterina Previato, Simone Dilaria
+* *Textile remains of the Early Avar period cemetery at Babarc*<br>**Flórián Harangi**
+* *Ceramic technology of Neolithic: case of northern Algeria sites*<br>**Bensadok Saida**
+* *Archaeometric analysis of late Sarmatian pottery recovered from Tázlár-Templomhegy settlement*<br>**Vivien Bozsik**, Krisztián Fintor, Sándor Gulyás, Dorottya Walter, Dorottya Györkös, Attila Kreiter, Máté Szemerédi
+* *Clay and pots from Eneolithic period*<br>**Mădălina Dimache**
+* *Non-invasive imaging and spectroscopic analysis techniques for characterizing traditional and archaeological pottery objects from the Maya region, México*<br>**Miguel Perez Flores**, Oscar G. de Lucio, Soledad Ortiz Ruiz
+* *Insight into the corrosion pattern of cast copper coins from Tekttha, Naogaon, Bangladesh, using micro-XRD and SEM analysis*<br>**Tamanna Jahan**, Sabikun Naher, Bulbul Ahmed, S.M. Tareque Abedin
+* *First Archaeometric Results on Early Iron Age Ceramic Fragments from the Sanctuary of Apollo Pythios in Gortyn, Crete*<br>**Bianca Costi Farias**, Anna Bertelli, Lara Maritan, Jacopo Bonetto
+* *Tracing the Provenance of Roman Marble Statues through Multi-Proxy Analysis*<br>**Vasiliki Anevlavi**, Kalina Petkova, Vesselka Katsarova, Petya Andreeva, Walter Prochaska
+* *More Than Just Fat? Rethinking Middle Bronze Age Ceramic Use and Function*<br>**Nóra Szabó**
+* *The Lord of the Shrooms: A Sensor’s Quest to Detect Ancient Ergot*<br>**Justina Stonyte**, Paulina Morkyte, Giedre Motuzaite Matuzeviciute, Rasa Pauliukaite
 
 :::
 
