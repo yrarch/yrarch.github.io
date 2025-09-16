@@ -160,7 +160,7 @@ All times are given in Central European Summer Time (UTC+2).
 |||
 ||**Session 7: Ceramics, part 2**|
 |11:00 -- 11:20|*Unchanging tastes: Material choices in Hellenistic and Roman storage vessels from Nea Paphos*<br>**Zofia Chomoncik**|
-|11:20 -- 11:40|*Geochemical and mineralogical provenance analysis of West African pottery*<br>**Juan-Marco Puerta Schardt**|
+|11:20 -- 11:40|*Geochemical and mineralogical provenance analysis of West African pottery*<br>**Juan-Marco Puerta Schardt**, Andreas Gaertner|
 |11:40 -- 12:00|*Applying a Multi-Proxy Approach to the Analysis of Archaeological Survey Ceramics from the Middle Euphrates*<br>**Antonia Höhne**|
 |12:00 -- 12:20|*Exploring AI-assisted Image Segmentation for Ceramic Thin Section Analysis: some Experience with TagLab*<br>**Elisabetta di Virgilio**, Federico Parisi, Diego Ronchi, Antonio Ferrandes, Marco Callieri|
 |12:20 -- 12:40|*Iberian majolica finds in the medieval Kingdom of Hungary?*<br>**Dorottya Györkös**, Zsófia Nádai, László Előd Aradi, Kristóf Fehér, Erika Kereskényi, Attila Kreiter|
