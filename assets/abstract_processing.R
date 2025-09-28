@@ -82,6 +82,10 @@ for (i in 1:nrow(data)) {
     if (!is.na(data$Author_10[i])) {paste0('  - name: ', data$Author_10[i])},
     if (!is.na(data$ORCID_10[i])) {paste0('    orcid: ', data$ORCID_10[i])}, 
     
+    # Author 1
+    if (!is.na(data$Author_11[i])) {paste0('  - name: ', data$Author_11[i])},
+    if (!is.na(data$ORCID_11[i])) {paste0('    orcid: ', data$ORCID_11[i])}, 
+    
     '---', 
     '',
     paste0('*This paper was presented at the YRA Workshop ', date, ' in ', location, '.*'), 
