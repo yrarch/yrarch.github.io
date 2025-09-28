@@ -1,0 +1,17 @@
+---
+title: 'Geophysical Research of Rural Settlements of the Roman Period in the Surroundings of Crumerum (Nyergesújfalu, Hungary)'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Geophysics, Non-invasive archaeology, Rural settlement system, Roman period, Pannonia]
+author: 
+  - name: Viola Tőkés
+    corresponding: true
+    email: tokesviola@gmail.com
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The research of the rural settlement system in the Roman period has become an important topic in Hungarian archaeology in recent decades, as has the topographical work with a holistic approach. My research takes place in Komárom-Esztergom County, a few kilometres from the Danube, therefore the Roman ripa Pannonica and the quondam auxiliary fort of Crumerum. To understand the rural settlement system in the 1st–4th centuries, I focus on conducting non-invasive, mainly geophysical surveys at two sites (Lábatlan–Rábl valley and Nyergesújfalu–Gunyhóalji fields) using GPR and magnetometer. At both locations there are several buildings with stone foundations, which is not atypical for Pannonian vici, but certainly shows a higher level of development. I complement the geophysical component with field surveys and examination of the archaeological finds from the surface. I compare the results of the sites to each other as well as to the wider Pannonian context of the buildings and other objects found during the surveys. In the long term, I would like to extend the research with more sites to a micro-regional level in order to gain a deeper understanding of this area in the Roman period.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

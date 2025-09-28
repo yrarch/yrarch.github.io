@@ -1,0 +1,24 @@
+---
+title: 'First Archaeometric Results on Early Iron Age Ceramic Fragments from the Sanctuary of Apollo Pythios in Gortyn, Crete'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Crete, Iron Age, Ceramic petrography, XRD, XRF, Gortyn]
+author: 
+  - name: Bianca Costi Farias
+    orcid: 0009-0007-4090-3481
+    corresponding: true
+    email: bianca.costifarias@studenti.unipd.it
+  - name: Anna Bertelli
+    orcid: 0009-0003-4252-032X
+  - name: Lara Maritan
+    orcid: 0000-0002-3796-1265
+  - name: Jacopo Bonetto
+    orcid: 0000-0001-6015-9898
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+This poster presents the results of a multianalytical archaeometric analysis on ceramic material recovered from the sanctuary of Apollo Pythios in Gortyn, Crete (Greece), dated from the Protogeometric to the Archaic period. The analysis was performed on 46 ceramic sherds, consisting of a petrographic characterization through optical microscopy applied in 17 coarse grained samples, chemical analysis through X-Ray Fluorescence to identify the major, minor, and trace elements of 20 of the samples; and all the samples were characterized in terms of mineralogical composition through X-Ray Powder Diffraction. The archaeometric data were statistically treated through cluster analysis and principal component analysis, and  combined with the material’s typo-chronological and macroscopic evaluation. The results reveal both continuity and transformation in paste preparation and fabric selection, hinting at a preference for typologically-driven ceramic recipes that seem to stay rather consistent throughout the archaeological periods. This work represents the first application of archaeometric methods in archaeological materials from Gortyn, offering valuable insights into local craft traditions and socio-cultural dynamics at a key site in Southern Crete. This study also contributes to broader discussions on material culture, ritual practices, and community formation during the formative centuries of the Cretan polis.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

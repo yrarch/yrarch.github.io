@@ -1,0 +1,20 @@
+---
+title: 'The Datability of Nuremberger Yellow Brass'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [XRF, Candlesticks, Late Medieval, Early Modern, Yellow brass, Dating]
+author: 
+  - name: Panni Kovács
+    corresponding: true
+    email: kovacspanni@student.elte.hu
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The topic of my presentation is my current research, which involves the application of X-ray fluorescence (XRF) analysis to medieval brass candlesticks from Nuremberg. I wrote my bachelor’s thesis on this topic and will continue this research during my master’s studies at Eötvös Loránd University in Budapest.
+I collected nearly 40 fragments of candlesticks and chandeliers from three museums from one of the largest counties in Hungary, Bács-Kiskun county. From these, I selected seven pieces for XRF analysis, which I conducted at the HUN-REN Institute for Nuclear Research with the help of Dr. Furu Enikő.
+To help date these objects, I relied on the work of Josef Riederer, who developed a database and a method for identifying the approximate age of any Nuremberger yellow brass objects. He examined late medieval and early modern grave plates made from this alloy in a graveyard in Nuremberg and realized that a specific composition of yellow brass was used during particular time periods. Due to their excellent datability, he was able to connect specific compositions to distinct time periods. After hundreds of compositional analyses, Riederer was able to determine with certainty that any type of Nuremberger yellow brass cast objects can be dated to a few decades. 
+The aim of my presentation is to demonstrate the use of Riederer’s method on late medieval and early modern yellow candlesticks using XRF technology, while highlighting its potentials and limitations.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

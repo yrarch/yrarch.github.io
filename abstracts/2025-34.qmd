@@ -1,0 +1,18 @@
+---
+title: 'Urns Under the Microscope: Petrographic analysis of Eight Iron Age pots from Funen, Denmark'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Petrography, Geochemistry, Ceramics]
+author: 
+  - name: Christina Holdgaard Schultze
+    corresponding: true
+    email: christinas0809@gmail.com
+  - name: Torbjörn Brorsson
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+This project is a small petrographic case study of eight ceramic pots used as urns at a burial site in Bellinge Fælled near Odense in Denmark dated to around 300-500 AD (Younger Danish Iron Age). Four pots with ornamentations and four without were chosen to investigate any mineralogical and technological differences between the two groups of ceramics in order to examine whether they could have been produced by different potters in different local areas. The petrographic analysis of the eight pots has shown that there is a difference between the urns with and without ornamentations. The pottery with ornamentations has been carefully produced from similar clay- and temper sources with uniform technology which reflects a specific recipe and technology for this type of pottery. The four studied pots without ornamentations, on the other hand, show variations in the clay- and temper sources and in the production process. These pots could have been produced by different individuals and might have been reused from the household pottery. The eight pots have additionally been analysed with the geochemical analysis ICP-MA/ES to investigate their provenance. This has shown that the ceramics were all produced locally on the island of Funen but with clay from four different clay sources. Based on this, the pottery must have been produced by different potters with extensive knowledge of the materials and resources, who were able to select and use different resources for different types of pots with different purposes.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

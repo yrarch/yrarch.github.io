@@ -1,0 +1,22 @@
+---
+title: 'Tracing the Provenance of Roman Marble Statues Through Multi-Proxy Analysis'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [White marble, Provenance studies, Roman Thrace]
+author: 
+  - name: Vasiliki Anevlavi
+    orcid: 0000-0001-7332-1129
+    corresponding: true
+    email: vasiliki.anevlavi@oeaw.ac.at
+  - name: Kalina Petkova
+  - name: Vesselka Katsarova
+  - name: Petya Andreeva
+  - name: Walter Prochaska
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+A rigorous multi-proxy analytical approach determines the marble provenance of a life-size statue of Asclepius found in Dolni Pasarel, a site within the Roman province of Thrace, near ancient Serdica (present-day Sofia). The statue is sculpted from fine-grained white calcitic marble, prompting an investigation into its origin using archaeometric methodology. Stable isotope ratios (δ¹³C and δ¹⁸O) were measured and plotted against a comprehensive reference dataset of over 5,700 samples from major ancient quarries. While the isotopic results alone showed significant overlap among sources such as Paros, Dokimeion, and Pentelicon, as well as local sources, a conclusive identification required enhanced resolution. To that end, trace element concentrations were determined using ICP-MS following selective dissolution with hot HNO₃, thus targeting the carbonate matrix while excluding silicates. The data were subjected to multivariate statistical analysis (SPSS, STATISTICA), which successfully assigned the marble to the Pentelicon quarry in Attica (Greece). This methodological framework demonstrates the power of scientific archaeometry to address long-standing archaeological questions. The case underscores the importance of white marble provenance studies in reconstructing artistic production, trade mechanisms, and economic integration across the Roman Empire. By pinpointing the origin of this marble in Attica, the study illuminates the logistical reach and cultural priorities underpinning Roman supply chains in the provinces.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

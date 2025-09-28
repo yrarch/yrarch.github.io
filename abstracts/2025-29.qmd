@@ -1,0 +1,26 @@
+---
+title: 'Iberian Majolica Finds in the Medieval Kingdom of Hungary?'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Lustre, Cobalt blue decoration, SEM-EDS, mXRF]
+author: 
+  - name: Dorottya Györkös
+    orcid: 0000-0003-4011-6342
+    corresponding: true
+    email: dorkagyorkos@gmail.com
+  - name: Zsófia Nádai
+  - name: László Előd Aradi
+    orcid: 0000-0003-0276-3119
+  - name: Kristóf Fehér
+  - name: Erika Kereskényi
+    orcid: 0000-0002-3805-881X
+  - name: Attila Kreiter
+    orcid: 0000-0002-8339-1021
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+Two blue and white glazed ceramic fragments featuring leaf motifs and lustre decoration were recovered during archaeological excavations in Budapest and Győr (Hungary). Comparative research into published majolica finds from the territory of the medieval Kingdom of Hungary revealed a vessel in the collection of the Museum of Applied Arts bearing identical decorative patterns. Based on typological and stylistic analysis, the fragments were dated to the first half of the 15th century and attributed to the renowned majolica workshops of Manises and Paterna (Valencia, Spain). In the last decades, several studies have addressed the archaeometric characterization of raw materials and production technologies employed in these workshops. The results indicate that the ceramic bodies and glaze pigments were made from different raw materials in the different periods of these long-lived workshops. Our aim was to determine if the Hungarian finds were indeed made in these workshops or in another, which imitated their decorative style. Due to the uniqueness of these fragments, destructive analysis was limited to a single sample, while the others were examined using only non-invasive techniques (SEM-EDS and mXRF). Preliminary results indicate that the ceramic bodies were produced using calcareous raw materials, consistent with those used in Valencian manufacture. However, notable differences were observed in the glaze compositions. The laboratory analyses were funded by the Ministry of Innovation and Technology (TKP 2021-NKTA-15).
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

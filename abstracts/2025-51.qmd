@@ -1,0 +1,23 @@
+---
+title: 'Blue and Pink Across the Strait: Stylistic, Material, and Technical Study of 20th-Century Japanese and Taiwanese Ceramic Tableware'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Japanese ceramics, Colonial Taiwanese ceramics, Underglaze blue, Pink glaze, Raman spectroscopy, XRF, Material culture]
+author: 
+  - name: Han-Chun (Joanna) Hsieh
+    corresponding: true
+    email: joannajoanna19191919@gmail.com
+  - name: Philippe Colomban
+  - name: Ching-Fei Shih
+  - name: Chun-Wei Chen
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The material history of Taiwanese ceramics reflects a multi-layered colonial and political legacy. During Japanese colonial rule (1895–1945), Taiwan's primary source of daily-use tableware gradually shifted from mainland Chinese to Japanese imports. By the 1940s, Japanese products dominated the local market. However, Japanese-established factories in Taiwan, such as the Taiwan Ceramic Co., Ltd. (台灣窯業株式會社) in Beitou, were also producing similar wares within the colony.
+Blue-and-white bowls with crane motifs (鶴紋碗) are commonly recovered in archaeological sites in both Japan and Taiwan. These bowls appear visually similar, making it difficult to determine their origin through stylistic analysis alone. Another recurring decorative scheme, featuring blue and pink glazes, suggests a shared visual repertoire that circulated between Japan and colonial Taiwan and continued into Taiwan’s postwar ceramic production.
+This study applies non-invasive Raman and XRF spectroscopy to investigate the representative ceramic sherds’ material and technical characteristics. Building on prior research showing that phase identification (Raman) and elemental composition (XRF) can reveal raw material sources and firing conditions, the analysis focuses on underglaze blue and pink colorants and trace impurities.
+The results reveal distinct regional patterns: gold-based pink glazes in Japanese ceramics, manganese-based pink in Taiwanese products, and variations in cobalt blue formulations, all contributing to regional identification. This comparative research advances understanding of the material culture of ceramic tableware in Japan and colonial Taiwan, tracing its development from raw materials and production techniques to decorative practices and the transregional circulation of glaze recipe knowledge in 20th-century East Asia.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

@@ -1,0 +1,21 @@
+---
+title: 'Insight into the Corrosion Pattern of Cast Copper Coins from Tekttha, Naogaon, Bangladesh, Using Micro-XRD and SEM Analysis'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Cast copper coins, Corrosion mechanism, Micro-XRD, SEM, Tekttha, Naogaon]
+author: 
+  - name: Tamanna Jahan
+    corresponding: true
+    email: tamannajah.keya10@gmail.com
+  - name: Sabikun Naher
+  - name: Bulbul Ahmed
+  - name: S.M. Tareque Abedin
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The present study examines the corrosion patterns of some selected cast copper coins from the early historic site Tekttha, Naogaon, Bangladesh, which have been subjected to prolonged burial conditions. Corrosion mechanisms have led to the formation of distinct layers of varying thicknesses, impacting the preservation state of these coins. To characterize these corrosion products and assess their implications for coin deterioration, this research combined numismatic study with micro X-ray diffraction (XRD) and scanning electron microscopy (SEM). The micro-XRD analysis confirms the presence of copper oxides, such as cuprite and tenorite. This indicates that initial corrosion stages are likely formed during manufacture or usage. In addition, the green patina can be ascribed to a copper hydroxychloride, such as paramelaconite or boltallackite, implying secondary corrosion owing to chlorine-rich burial environments. The presence of quartz and calcite further indicates the burial soil contamination. Although the studied coins do not show any visible sign of bronze disease, the microstructure analysis using SEM backscattered images reveals several corrosion voids in the metallic core. These highlight the coin's metallic susceptibility to further degradation.
+However, to contextualize these findings within a broader framework, this study integrates metallurgical analysis with numismatic typology and historical perspectives. Thus, this research demonstrates the importance of using a multi-disciplinary approach to enhance the current understanding of early coinage production, use, and post-depositional transformation. This research, therefore, contributes not only to corrosion studies but also to the cultural and technological history of early historic coinage in South Asia.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

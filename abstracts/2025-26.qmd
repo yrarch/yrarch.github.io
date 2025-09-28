@@ -1,0 +1,20 @@
+---
+title: 'Geochemical and Mineralogical Provenance analysis of West African Pottery'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Pottery, Provenance analysis, pXRF, Mineralogy]
+author: 
+  - name: Juan-Marco Puerta Schardt
+    orcid: 0009-0002-5777-6144
+    corresponding: true
+    email: Puerta-Schardt@em.uni-frankfurt.de
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+In historical periods, trade networks in West Africa are documented through written sources and exotic artifacts. However, both are rare and represent only a limited portion of past exchange activities. The provenance analysis of ceramics, as a common find category, can offer new insights into the movement of artifacts.
+Our approach follows a two-step process. First, sherds that were likely produced locally were selected from archaeological sites across various regions of West Africa. This selection was based on attributes such as shape, decoration, and petrofabric. These sherds were then subjected to geochemical analysis to determine the regional chemical composition of the ceramics. For this purpose, we used portable X-ray fluorescence (pXRF), which enables the rapid analysis of a large number of samples. In doing so, we were able to establish geochemically distinct reference groups for many regions of West Africa. In the second step, sherds identified as non-local based on their attributes were analyzed to verify their non-local origin. Using the reference groups, it is also possible to assign these vessels to potential source regions, thus tracing interregional connections in medieval West Africa.
+While pXRF is well-suited for mass sampling, it also has certain limitations. Therefore, selected sherds are subjected to more precise geochemical and mineralogical analyses. These complementary methods provide a more detailed understanding of the clays used in pottery production. The combination of rapid and precise geochemical and mineralogical approaches enables the efficient analysis of a large number of samples, while producing robust results.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

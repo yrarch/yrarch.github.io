@@ -1,0 +1,20 @@
+---
+title: 'Archaeometric Study of the Purna River, Tapi Basin, India: A Review'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Geoarchaeology, Tapi Basin, Youngest Toba Tuff (YTT), Quaternary period, Alluvial deposit]
+author: 
+  - name: Rupesh Dhokane
+    orcid: 0009-0008-4863-3567
+    corresponding: true
+    email: rupesh.dhokane@gmail.com
+  - name: Prabash Sahu
+    orcid: 0000-0003-0691-0403
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The Purna River Basin, a significant sub-basin of the Tapi River system in central India, has emerged as a crucial region for archaeometric and geoarchaeological investigations. This study synthesizes findings from geological, archaeological, and chronometric datasets to reconstruct the human-environment interactions in the basin during the Quaternary period. The Purna Basin spans approximately 18,514 km² and exhibits distinct physiographic zones, including basaltic uplands, piedmont fans, and fertile central alluvial plains. Quaternary alluvial sequences up to 25 m thick provide an opportunity to reconstruct paleoenvironmental conditions and understand archaeological site formation processes. The basin also hosts preserved Youngest Toba Tuff (YTT) deposits dated to ~66-70 ka, which serve as crucial chronological markers for bracketing climatic events and human settlement timelines. Archaeological excavations at sites such as Phupgaon, Bhon, Kholapur and Paturda have yielded a rich cultural sequence spanning from the prehistoric to the early historic periods. The Iron Age site of Phupgaon has revealed evidence of sedentary domestic architecture, diverse ceramic assemblages, and possible early symbolic communication through graffiti marks. Luminescence dating of tephra deposits from the Hudki and Sukali sections has provided a robust chronological framework for the YTT event and associated environmental changes. The presence of palaeochannels, alluvial architecture, and pedogenic features in the basin aligns with ancient settlement patterns and helps reconstruct past climatic conditions. The Purna River Basin thus represents an exceptional archaeological and geological archive for understanding human-environment interactions, resilience, and cultural continuity in the face of climatic upheavals during the Quaternary period in central India.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

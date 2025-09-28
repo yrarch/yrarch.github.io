@@ -1,0 +1,23 @@
+---
+title: 'Exploring AI-assisted Image Segmentation for Ceramic Thin Section Analysis: Some Experience with TagLab'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Artificial intelligence, Ceramic petrography, Segmentation, Automated images, Archaeometry]
+author: 
+  - name: Elisabetta di Virgilio
+    orcid: 0009-0001-0373-227X
+    corresponding: true
+    email: elisabettadivirgilio@cnr.it
+  - name: Federico Parisi
+  - name: Diego Ronchi
+  - name: Antonio Ferrandes
+  - name: Marco Callieri
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+Ceramic petrography plays a fundamental role in archaeometric studies, offering insights into raw materials choice, manufacturing techniques, and provenance. However, the method is time-consuming and relies heavily on expert interpretation. In this context, emerging AI-based tools offer promising opportunities to enhance the efficiency, reproducibility, and scalability of thin-section analysis.
+This study presents an experimental application of TagLab, an open-source software originally developed for the analysis of large-scale orthomosaics of marine corals, to the analysis of microphotographs of ceramic thin sections. The aim is to explore how TagLab’s AI-assisted segmentation features, particularly its trainable classifiers, can be adapted to automatically recognise and annotate petrographic components such as inclusions, pores, and matrix areas in different ceramic fabrics. The application of this tool to new scenarios showed several challenges, especially due to differences in scale, resolution, and the use of polarised light in microscopy. Nevertheless, with appropriate image pre-processing and calibration, TagLab proved capable of supporting semi-automated annotation and providing both visual and quantitative data outputs. The approach offers potential benefits in terms of speed, repeatability, and partial reduction of interpretative subjectivity. While still in progress, this work highlights the potential of AI-driven tools in ceramic petrography and encourages their integration in archaeometric workflows.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

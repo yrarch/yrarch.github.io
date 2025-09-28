@@ -1,0 +1,19 @@
+---
+title: 'Glass Types in Bronze and Iron Age Southeast Hungary'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Glassy materials, Bronze Age, Iron Age]
+author: 
+  - name: Zsófia Sz. Osváth
+    corresponding: true
+    email: zsofia.osvath@gmail.com
+  - name: Bernadett Bajnóczi
+  - name: Máté Szabó
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The chemical composition and the microtexture of more than a hundred Bronze and Iron Age glassy artefacts were analysed in order to determine the types of glassy material and base glasses, as well as colouring agents. The assemblages of glassy materials studied consist of various beads and/or Late Iron Age (La Tène period) glass bracelet fragments. Based on the results of scanning electron microscopy (SEM-EDX) and handheld X-ray fluorescence (hXRF) analyses the glassy artefacts can be divided into two main groups. The glass bracelets and the majority of the beads – including Bronze Age ones – belong to the low magnesium glass (LMG) type, which is characteristic of European glasses of the 8th century B.C. and onwards. Additionally, the brownish or blackish bodies of the Scythian Age beads are rich in potassium and contain quartz residues, iron slag and/or iron-bearing grains and tiny bone ash particles. The high potassium concentrations could be derived from wood ash used as a fluxing agent, which was first employed in the 7th–5th century B.C., that mostly overlaps the Scythian Age. Both glass types can be identified as true glasses, however, the high potassium glass suggests a small scale production and raises questions regarding its occurrence. A low magnesium medium potassium (LMMK) glassy faience and a plant ash glass were also identified from the Scythian period. This presentation focuses on the possibilities of characterising glassy materials in detail.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

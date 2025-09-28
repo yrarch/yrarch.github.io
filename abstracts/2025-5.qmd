@@ -1,0 +1,18 @@
+---
+title: 'Beyond Provenance: Reconstructing Exchange Routes, Production Processes, and Recycling based on Early Medieval Glass Beads from Zweeloo (The Netherlands)'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Glass, XRF, Chemical composition, Early Medieval period, The Netherlands, Exchange routes]
+author: 
+  - name: Nina Schreuder
+    orcid: 0009-0003-2408-0607
+    corresponding: true
+    email: nina.schreuder@rug.nl
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+This study investigates approximately 300 glass beads from the early medieval cemetery of Zweeloo (the Netherlands; ca. 400-900 CE) by combining typological and chemical analysis (pXRF). The aim is to reconstruct exchange networks, trace possible material supply routes, and identify recycling processes, thereby gaining a more complete understanding of all stages in the bead-making sequence. Additionally, this study highlights the benefits of a typochronological approach in which chemical composition analysis is firmly embedded.The chemical composition of the beads from Zweeloo reveals multiple base glass types, reflecting origins in the Mediterranean and Southeast Asia. The chemical data has varied outcomes, points to groups of beads that were produced together and stayed together until they were deposited in the cemetery, while at the same time indicating the reuse and recycling of glass that took place. Typological and compositional data also reveal that beads from different chronological phases co-occur in individual graves, suggesting prolonged circulation of the objects, possibly as heirlooms. By integrating chemical composition with typological and contextual information, this research explores glass bead production and circulation. It also shows how a typochronological approach can help to further define known beadgroups - from raw glass composition to recycling and final deposition. Overall, the beads from Zweeloo demonstrate how archaeometric analysis can illuminate the complexity of early medieval exchange patterns and bead-making traditions across regions.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

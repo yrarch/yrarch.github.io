@@ -1,0 +1,20 @@
+---
+title: 'Early Thoughts on Childhood in Early Medieval Iceland (10th–13th Centuries AD)'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Biological anthropology, Medieval Iceland, Childhood]
+author: 
+  - name: Maren von Mallinckrodt
+    orcid: 0009-0006-0704-0840
+    corresponding: true
+    email: maren.von.mallinckrodt@gmx.de
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+While the study of childhood in the past has gained considerable momentum in recent decades, both from social archaeological and bioanthropological perspectives, it remains largely unexplored within Icelandic biological anthropology. To date, I am the only researcher actively investigating this field.
+In response to this gap, I conducted the first bioarchaeological study of early life courses at four sites in Northern Iceland dating from the 10th to 13th centuries AD. The results revealed significant growth disruption in infants and high mortality rates between 1.5 and 4.5 postnatal months. These patterns point to poor maternal and infant health and a postnatal decline in immunological and nutritional support, likely shaped by the adverse living conditions that characterized early medieval Northern Iceland. These included a harsh and unstable climate, nutritional deficiencies, poor indoor air quality, and high exposure to infectious diseases within domestic spaces.
+Building on these findings, my PhD project will further examine childhood health, mortality, and social identity at these four sites. It will incorporate methods such as dimorphic peptide analysis of dental enamel for biological sex estimation in non-adults and stable isotope analysis to reconstruct breastfeeding and weaning practices. In my presentation, I would like to outline the results of my preliminary research alongside the principal aims and hypotheses of my ongoing doctoral project.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

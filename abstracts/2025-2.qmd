@@ -1,0 +1,23 @@
+---
+title: 'Painters by the Yarmouk: Investigating Craft Organisation through Painted Plaster Analysis at Gadara and Tall Zira’a (Northern Jordan)'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Multi-method analysis, Wall paintings, Craft networks, Hellenistic-Roman Levant]
+author: 
+  - name: Elena Cantero Ros
+    corresponding: true
+    email: ecanteroros@gmail.com
+  - name: Luc Megens
+    orcid: 0000-0001-8112-1039
+  - name: Brita Jansen
+  - name: Hans Huisman
+    orcid: 0000-0002-4742-536X
+  - name: Susanne Kerner
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+Excavated between 1992 and 1995, the painted plasters of Area 44 at Gadara (Umm Qais, Jordan) are one of the few Hellenistic and Roman domestic painting assemblages found in the Levant. The paintings received little attention until recent excavations at nearby Tall Zira’a revealed a new corpus of paintings executed identically. Most fragments, corresponding to the so-called “Masonry Style”, exhibit an impressed stone decoration in yellow and red with a painting technique previously undocumented. The striking similarity suggests they were the work of the same craftspeople. In this context, the composition of plasters, aggregates and pigments offers invaluable insights into the logistics and production processes of painted decorations made by local workshops. In collaboration with the German Protestant Institute of Archaeology in Amman and the Cultural Heritage Agency of the Netherlands, twenty-three fragments were shipped to Amsterdam for a multi-method analytical study. The techniques included μXRF, pXRF, XRD, FTIR, SEM-EDS with cross-sections and Photo-induced luminescence (VIL, UV, IR). The results revealed the use of several kinds of red ochre and application techniques within the same wall, but not between the stone imitation fragments of both sites. This suggests painters may have worked independently across the same region, with a trusted supply of raw materials, and developed projects in collaboration with other craftspeople
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

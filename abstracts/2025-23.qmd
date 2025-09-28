@@ -1,0 +1,23 @@
+---
+title: 'Technological Investigation of the Middle Bronze Age Late Hatvan and Füzesabony Style Pottery from the Borsod Plain Region, Northeastern Hungary'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Bronze Age, Carpathian Basin, Ceramic technology, Raw materials, Firing technology]
+author: 
+  - name: Ákos Mengyán
+    orcid: 0000-0002-8946-7023
+    corresponding: true
+    email: mengyanakos@gmail.com
+  - name: Klára P. Fischl
+    orcid: 0000-0002-5941-2275
+  - name: Ferenc Kristály
+    orcid: 0000-0002-0075-5994
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+During the Middle Bronze Age (2000/1900–1600/1500 BC), different “tell-building” communities can be distinguished in Central and Eastern Hungary, such as the Vatya, Hatvan, Füzesabony and Maros groups. These groups were separated on the basis of different pottery style and burial rite, but their common characteristic is that they lived in tell settlements. This lifestyle required long-term habitation, so the settlements were usually occupied for several hundred years, sometimes by people of different culture groups. In Northeastern Hungary at the Borsod plain region, the Late Hatvan and the Füzesabony groups appeared in this period. These groups can be distinguished by distinct burial rite and pottery style, although their vessels can often be found in the same settlement or cemetery. Within their ceramic assemblages they used different, characteristic vessel shapes and decorations.
+Therefore, three Middle Bronze Age sites were analysed in this research, Bogács-Pazsagpuszta a Late Hatvan/Füzesabony tell-like settlement, its eastern neighbour Novaj-Földvár, a Füzesabony tell settlement and Vatta-Telek-oldal-dűlő a Füzesabony/Late Hatvan cemetery. Our aim was to detect and compare the raw materials, tempers and firing techniques of Late Hatvan and Füzesabony style ceramics, using thin section petrography, x-ray powder diffraction and scanning electron microscopy with energy-dispersive X-ray spectroscopy. The goal of this research was to detect technological differences or similarities within the two distinct pottery style, and the raw material analysis of a specific Late Hatvan type fine ware.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

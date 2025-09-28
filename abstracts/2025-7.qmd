@@ -1,0 +1,23 @@
+---
+title: 'A Close-up on Prehistorical Household Structures, Case Study: Micromorphology in the Bronze Age Tell Settlement from Sântion-Movila Mănăstirii (Bihor County, Romania)'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Micromorphology, Middle Bronze Age, Tell settlement, Households]
+author: 
+  - name: Alexandra Stache
+    orcid: 0009-0000-2211-1789
+    corresponding: true
+    email: stachealexuta@yahoo.com
+  - name: Florin Gogâltan
+    orcid: 0000-0002-0853-394X
+  - name: Emanoil Săsăran
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+Tell settlements are artificial mounds formed through successive accumulation of constructions remains. The Sântion - Movila Mănăstirii tell settlement is known archaeologically since 1871. It belongs to the Middle Bronze Age and is overlayed by a medieval monastery and a modern road that crosses the entire site. The ceramic style is characteristic of the Otomani II culture and the absolute data that we have places the habitation of the tell between 1892-1631 BC.
+ In this study we try to see the microscopical details of the northern profile (3,42m) of the last excavation in the tell from 2023. On this matter we first collected 12 samples and another batch of 9 samples later. With these samples we cover almost every archaeological context that is present in the northern profile, including construction materials or fillings from different stages of the tell. We collected the samples in aluminum boxes, then we air-dryed them for a while. We treated them with polyesteric resin and put them in vaccum. After each sample was dry, we polished them and then cut them into thin sections. 
+This research is approaching the site through geological methods. We focus on the sediments and the organic material that is found in the anthropogenic levels. The reason of this approach is observing the dynamic of the households and structures as well as the expendability of a space in the Middle Bronze Age. Through micromorphology we also focus on the evolution of the building technique, whether intentional or accidental.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

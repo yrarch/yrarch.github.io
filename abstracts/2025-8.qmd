@@ -1,0 +1,24 @@
+---
+title: 'Comparison of the Polychrome Metalworking and Decorative Techniques from the Langobardic and Gepidic periods (Late 5th and 6th Centuries AD) in the Carpathian Basin'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Polychrome metalwork, 6th century AD, Carpathian Basin, Niello, Garnet, SEM-EDX, hXRF, μ-XRD, Raman spectroscopy]
+author: 
+  - name: Viktória Mozgai
+    orcid: 0000-0001-9712-2773
+    corresponding: true
+    email: mozgai.viktoria@csfk.org
+  - name: Eszter Horváth
+    orcid: 0009-0007-4650-0392
+  - name: László Előd Aradi
+    orcid: 0000-0003-0276-3119
+  - name: Bernadett Bajnóczi
+    orcid: 0000-0003-0006-7611
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The polychrome decoration of fine metalwork objects, particularly the use of red garnet inlays, was widespread during the Hellenistic, Roman and Early Medieval times, representing an intercultural and supra-regional fashion in Europe. In the archaeological material of the Carpathian Basin this polychromy was characteristic over around three centuries, from the Hunnic Period through the age of the Gepidic and Langobardic Kingdoms up until the Avar Period. While 5th century artworks tend to be unique, artefacts from the subsequent decades exhibit closer resemblances to mass-produced items characterised by many common features. During the first two-thirds of the 6th century, the territory of the Carpathian Basin was ruled by two Germanic tribes with different origins and histories: the Gepids settled in the Tisza region and the Langobards in Transdanubia. This study focuses on these two regions, exploring the differences and similarities, as well as the chronological and regional changes in the use of raw materials, metalworking and decoration techniques, and the supply of garnets. Nearly a hundred gold, gilded silver, and copper-based alloy objects from the collections of the Hungarian museums, dated to the late 5th and 6th centuries AD, were analysed in detail by using non-destructive and non-invasive analytical methods (optical microscopy, handheld XRF, SEM-EDX, μ-XRD, Raman spectroscopy) to determine the chemical composition of the metal alloys and their decorations (gilding, niello and garnet), the mineral inclusion characteristics of the garnets, as well as the microstructure and mineralogical composition of the niello.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

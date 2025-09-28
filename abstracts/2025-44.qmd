@@ -1,0 +1,22 @@
+---
+title: 'The Lord of the Shrooms: A Sensor’s Quest to Detect Ancient Ergot'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Psychoactive substances, Medieval, Fungi, Wood]
+author: 
+  - name: Justina Stonyte
+    corresponding: true
+    email: justina.stonyte@ftmc.lt
+  - name: Paulina Morkyte
+  - name: Giedre Motuzaite Matuzeviciute
+  - name: Rasa Pauliukaite
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The detection of ergot alkaloids in archaeological contexts opens new avenues for understanding the use of psychoactive or medicinal fungi in the past. Ergot, a parasitic fungus of cereal grains, produces alkaloids with psychoactive, vasoconstrictive, and hallucinogenic properties, which may have played roles in traditional medicine, ritual practices, or accidental poisonings. Inspired by recent archaeological findings from Vilnius Lower Castle, where ergot remnants were identified in wooden structures, this study presents a novel electrochemical sensor based on a riboflavin-derived molecularly imprinted polymer (MIP) for alkaloid detection.
+Ergot alkaloids, extracted from fresh Claviceps purpurea mushrooms collected in local fields, served as templates for MIP imprinting. Riboflavin (vitamin B2), a redox-active and naturally occurring molecule, was electropolymerized to form a conductive film capable of recognizing ergot compounds. Vitamins like riboflavin are promising building blocks for biocompatible sensors due to their inherent redox properties and environmental sustainability.
+The resulting sensor demonstrates promise for detecting trace compounds in archaeological residues, bridging analytical chemistry and cultural heritage research. This work highlights the potential of vitamin-derived polymers in developing biocompatible and archaeometrically relevant sensing tools.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

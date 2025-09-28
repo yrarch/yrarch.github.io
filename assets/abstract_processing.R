@@ -4,9 +4,10 @@
 
 library(googlesheets4)
 
-date <- "2024" # year of workshop
+date <- "2025" # year of workshop
+location <- "Budapest" # Location of workshop
 
-data <- read_sheet("1tJiRxF3S4m1ib-JWOKKnzenJC9RPUIlm-Z9FB986kIw", range = "E:BL", col_types = "c")
+data <- read_sheet("1Yz18tbx8ZIVPMRdXqlD3ljjKgGQcfAfokckkDIPQBHM", range = "A:BO", col_types = "c")
 
 data <- subset(
   data, select = c(
@@ -22,7 +23,7 @@ data <- subset(
   )
 )
 
-names(data) <- c("Running_order", "Mail", "Title", "Keywords", "Abstract", paste0("Author_", 1:10), paste0("Affiliation_", 1:10), paste0("ORCID_", 1:10), paste0("Institution_", 1:7))
+names(data) <- c("Running_order", "Mail", "Title", "Keywords", "Abstract", paste0("Author_", 1:11), paste0("Affiliation_", 1:11), paste0("ORCID_", 1:11), paste0("Institution_", 1:9))
 
 data$Keywords <- gsub(";", ",", data$Keywords)
 
@@ -35,6 +36,7 @@ for (i in 1:nrow(data)) {
     paste0("title: '", data$Title[i], "'"), 
     paste0('date: "', date, '"'), 
     'date-format: "YYYY"',
+    'Event: Workshop',
     paste0('categories: [', data$Keywords[i], ']'), 
     
     # Author 1
@@ -81,7 +83,9 @@ for (i in 1:nrow(data)) {
     if (!is.na(data$ORCID_10[i])) {paste0('    orcid: ', data$ORCID_10[i])}, 
     
     '---', 
-    '', 
+    '',
+    paste0('*This paper was presented at the YRA Workshop ', date, ' in ', location, '.*'), 
+    '',   
     data$Abstract[i], 
     '', 
     '[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). ',

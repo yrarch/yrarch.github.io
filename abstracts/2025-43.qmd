@@ -1,0 +1,18 @@
+---
+title: 'More than just Fat? Rethinking Middle Bronze Age Ceramic Use and Function'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Middle Bronze Age, Organic residue analysis, Pottery]
+author: 
+  - name: Nóra Szabó
+    corresponding: true
+    email: Szabo.Nora@abtk.hu
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+Ceramic vessels with elaborate plastic decorations and interior knobs represent a distinctive yet understudied type in Middle Bronze Age (2000/1900–1450 BC) assemblages of the Carpathian Basin. While examples occur both earlier and later—persisting across cultural boundaries—the Middle Bronze Age seems to mark a particular intensification in their use and distribution. Despite their striking formal characteristics, their precise function remains unclear. Were these vessels used in communal contexts, or were they restricted to more limited social groups? What meanings might the decorations convey?
+This project presents preliminary results from a multidisciplinary investigation combining typological, contextual, and biochemical approaches. As part of the study, a small selection of vessels was analysed using Organic Residue Analysis (ORA) to detect lipid residues and explore potential contents and usage patterns. The research considers how such scientific methods can complement archaeological interpretation and what further analyses—both chemical and contextual—might reveal about the role of these vessels within Middle Bronze Age society.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

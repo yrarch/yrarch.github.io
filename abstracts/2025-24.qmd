@@ -1,0 +1,19 @@
+---
+title: 'Comparing Archaic Corinthian Pottery Through SEM-EDS and Optical Microscopy: A case study'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Corinthian pottery, Optical microscopy, SEM-EDS, Chemical analysis, Tenea, Corinth, Mageri site]
+author: 
+  - name: Michael Ioannou
+    corresponding: true
+    email: michail97ioannou@gmail.com
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+Ancient Tenea was a significant city in the eastern vicinity of ancient Corinth, which flourished throughout antiquity. Since 2013, remnants of the ancient city have been excavated in the context of the systematic archaeological research, which is conducted between the area of modern Chiliomodi - Klenia. During the excavation of the city, a significant amount of archaic pottery was collected, both in residential areas and in its cemeteries. Some of the ceramic vessels have no similar shape in the international literature. This led the excavators to the assumption of the existence of local pottery production. To confirm this assumption, pottery sherds from three different sites were examined through archaeometric means. These came from an archaic deposit in ancient Tenea, an archaic cemetery near Ancient Corinth, and an archaic deposit at Mageri site. 
+The present study examines whether Tenea’s archaic samples present similarities or differences in comparison to the archaic pottery of Mageri site and ancient Corinth. Examination of the ceramics was conducted through optical analysis and SEM-EDS in the laboratory of the Faculty of Sciences of the Aristotle University in Thessaloniki. 
+The study of ceramics showed that the samples from all the excavations were very fine-grained and calcareous. Differences can be detected considering the color of the fabric and the firing properties. These elements could indicate a different clay origin or different techniques used in this pottery production or even different workshops.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

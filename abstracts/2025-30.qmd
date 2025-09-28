@@ -1,0 +1,18 @@
+---
+title: 'Prehistoric Sites in Turkmenistan: A GIS-Based Overview of Spatial and Temporal Patterns'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Turkmenistan, Prehistory, GIS mapping, Spatial analysis, Jeitun culture, Chalcolithic]
+author: 
+  - name: Mahym Amanova
+    orcid: 0009-0006-9323-4560
+    corresponding: true
+    email: mahym_amanova@mail.ru
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+Turkmenistan, a Central Asian country, remains a relatively understudied region in terms of archaeological research. This study aims to provide an overview of all prehistoric archaeological sites discovered in the region, from the first excavations in the early 20th century to 2023. A comprehensive literature review was conducted to compile an inventory of prehistoric sites and approximate their geographic coordinates. Geographic Information Systems (GIS) were further exploited to elaborate spatial distribution maps and analyze site patterns across time periods. A total of 103 sites were recorded, with more than half belonging to the Neolithic, Chalcolithic, and Bronze Age settlements in the southern region of the country. Another significant cluster of Bronze Age and Iron Age sites was recorded in the Murgap alluvial fan area in southeast Turkmenistan, indicating that these two regions have received the most extensive archaeological attention. The oldest known sites, dating back to the late Upper Paleolithic period, are located in the western Balkan region. While the western region has been studied to some extent, the northern region remains largely underexplored. The resulting maps and period-based classifications offer a foundational resource for future archaeological research and emphasize the need for more systematic investigation across less-studied regions of Turkmenistan.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

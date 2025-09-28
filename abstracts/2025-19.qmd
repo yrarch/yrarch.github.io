@@ -1,0 +1,36 @@
+---
+title: 'Ancient Parasitic Infection: A Millennium-Old Probable Echinococcal Cyst Discovered in an Avar Period Burial'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Parasitology, Cyst, Paleopathology, Bioarchaeology]
+author: 
+  - name: Csilla Libor
+    orcid: 0009-0001-2700-2917
+    corresponding: true
+    email: libor.csilla@hnm.hu
+  - name: László Előd Aradi
+    orcid: 0000-0003-0276-3119
+  - name: Norbert Kapcsos M.
+  - name: Kristóf Fehér
+    orcid: 0009-0007-4282-4082
+  - name: Botond Heltai
+    orcid: 0009-0006-8843-0428
+  - name: Dániel Gerber
+    orcid: 0000-0001-6463-6014
+  - name: Tamás Sréter
+  - name: Dániel Csete
+    orcid: 0000-0001-8057-225X
+  - name: Gergely Szenthe
+    orcid: 0000-0002-8481-2203
+  - name: Erwin Gáll
+    orcid: 0000-0002-5923-3461
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+During the excavation of a late Avar-period cemetery in Gyomaendrőd, Hungary in February 2023, the archaeologists of the Munkácsy Mihály Museum (MMM) observed an unusual feature in grave S113, located between the lower right ribs. They identified a relatively large, calcinated anomaly. A remnant of a cyst caused by a parasite infection likely developed in the liver was successfully recovered. This discovery is important because such archaeological cysts are known from fewer than ten publications worldwide.
+Echinococcus granulosus is a tapeworm that causes cystic echinococcosis, also known as hydatid disease. Humans are intermediate hosts, becoming infected by ingesting eggs from contaminated dog feces. In the human host, the parasite larvae migrate to different organs, mostly liver. It grows, creating hydatid cysts that can reach 2-3 cm in diameter annually. The carrier may remain unaware of the infection for years. 
+In the case of the cyst found in Gyomaendrőd, we are particularly fortunate because multiple institutions have joined the research. Collaborators include colleagues from the MMM and the HNM, as well as researchers from HUN-REN, the National Center for Public Health and Pharmacy, and Semmelweis University. In addition to SEM, Raman spectroscopy, and micro XRF analyses, we also conducted genetic and micro-CT examinations. Our goal is to thoroughly investigate the cyst, which will not only expand our knowledge about this disease but also allow us to infer information about the hygienic and health conditions of the population from that period.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

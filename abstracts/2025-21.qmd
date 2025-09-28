@@ -1,0 +1,33 @@
+---
+title: 'Understanding Copper Age Pottery Function Through Morphometric and Organic Residue Analysis'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Organic residue analysis, Pottery function, Copper Age]
+author: 
+  - name: Rebeka Solti
+    corresponding: true
+    email: soltirebeka@gmail.com
+  - name: Isabel Wiltshire
+    orcid: 0009-0002-1681-9769
+  - name: Izzy Davis
+  - name: Melanie Roffet-Salque
+  - name: Lucy Cramp
+  - name: Eszter Solnay
+    orcid: 0000-0002-1647-9699
+  - name: Márton Szilágyi
+    orcid: 0000-0001-7556-8918
+  - name: Dávis Kraus
+    orcid: 0000-0002-0006-9986
+  - name: Gábor Szilas
+    orcid: 0000-0002-7321-0450
+  - name: Zsuzsanna M. Virág
+    orcid: 0000-0002-5332-3810
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+Understanding the function of Copper Age pottery requires a complex approach, beginning with the study of size and form, which can determine the range of possible uses of pots. When complemented by organic residue analysis, which provides crucial information about the past contents of individual pots, these possibilities can be narrowed down. Combined with morphometric analysis, this allows for inferences about food processing methods to be made. The type and frequency of certain commodities can also indicate a broader picture of the economy and subsistence strategies. 
+In Transdanubia and the Budapest area, daily life within settlements remains a relatively unknown aspect of Copper Age communities. This includes the function(s) of known pottery forms, culinary practices and the importance of livestock husbandry, especially regarding the use of secondary animal products. To gain insight into these topics, the results of morphometric and organic residue analyses from Early and Middle Copper Age (4500-3800/3700 BCE) settlements in the Budapest area are presented. Based on the results, there was no clear correlation between the form and the type of content. It was confirmed that pottery was mainly used for processing ruminant and non-ruminant products in the Early Copper Age, and dairy processing became common only at the end of the Middle Copper Age.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

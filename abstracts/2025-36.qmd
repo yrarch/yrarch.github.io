@@ -1,0 +1,19 @@
+---
+title: 'Textile Remains of the Early Avar period Cemetery at Babarc'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Archaeological textiles, Textile production]
+author: 
+  - name: Flórián Harangi
+    orcid: 0009-0008-1186-6025
+    corresponding: true
+    email: harangif@gmail.com
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+During the excavations carried out between 2021 and 2023 in the surroundings of Babarc in Southwest Transdanubia (Hungary), the Janus Pannonius Museum and the Ásatárs Ltd. uncovered an exceptionally rich Early Avar period cemetery. The parallels of the archaeological material reveal in many cases connections with the Byzantine and Merovingian worlds, while the parallels of more conservative burial practices are mainly known from the Eastern part of Hungary (Transtisza region), where a community from the Eastern European Steppe settled during the period. According to our present knowledge, textile remains related to 24 objects/groups of objects have been recognized from 13 graves in the cemetery, mostly related to elements of the garment.
+Most of the textiles are woven from z-twist yarns in compact or loose tabby with regular yarn thickness. But tabby woven textiles with various yarn thickness also occur in more graves (SNR 4, SNR 11, SNR 25, SNR 26). In the case of a male grave (SNR 2023/1), the woven pattern or embroidery is also clearly identifiable on the textile remains. In two graves (SNR 73, SNR 94) the corrosion of the iron belt fittings has preserved at least two layers of fabric remains, suggesting that the deceased men were buried in multi-layered or lined clothing.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

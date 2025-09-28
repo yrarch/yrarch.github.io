@@ -1,0 +1,38 @@
+---
+title: 'Gender, Age, and Social Identity in the Middle Bronze Age Burials from Western Hungary'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Funerary practices, Sex-specific peptide, Gender intensity, Stable isotopes, Diet, Radiocarbon dating, Bronze Age]
+author: 
+  - name: Eszter Melis
+    orcid: 0000-0002-5016-5108
+    corresponding: true
+    email: melis.eszter@abtk.hu
+  - name: Tamás Hajdu
+    orcid: 0000-0002-3604-1125
+  - name: Anett Gémes
+    orcid: 0000-0002-5107-8364
+  - name: Kataéin Gyenesei
+    orcid: 0000-0002-3670-6975
+  - name: Fabian Kanz
+    orcid: 0000-0001-6720-6781
+  - name: István Major
+    orcid: 0000-0003-4675-9875
+  - name: Attila Mrenka
+    orcid: 0009-0009-5589-7517
+  - name: Katharina Rebay-Salisbury
+    orcid: 0000-0003-0126-8693
+  - name: Bálint Savanyú
+    orcid: 0009-0006-7245-3342
+  - name: Viktória Kiss
+    orcid: 0000-0002-6577-9081
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+This study examines the social structure of communities that inhabited the area of present-day Western Hungary between 2200/2100 and 1600/1500 BC, using archaeometric methods for sex determination, radiocarbon dating, and dietary reconstruction based on excavated burials. During this period, the region functioned as a cultural borderland between the inhumation funerary traditions of the Central European Únětice culture and the cremation rites practiced by groups of the Carpathian Basin, such as the Kisapostag and Transdanubian Encrusted Pottery cultures. 
+Within this context, our research focuses on the previously underexplored Gáta-Wieselburg communities, which are notable for their inhumation burial practices. In addition to archaeological and anthropological analysis at Hungarian sites associated with this culture, we conducted stable isotope and geochemical studies at two cemeteries in Nagycenk (61 burials in total), both distinguished by their rich assemblages of status-related grave goods.
+By integrating observations for funerary practices, anthropological data, and peptide-based sex identification, our study aims to explore the emergence and extent of gender and age-based social differentiation within these communities. A further key question is whether the grave goods and isotopic evidence for diet reflect patterns of emerging permanent social stratification in the Middle Bronze Age.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

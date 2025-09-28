@@ -1,0 +1,22 @@
+---
+title: 'Research on Burnt Early Copper Age Houses at Marosnagylak'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Daub imprint analysis, Copper age house, Daub typology, Cucuteni-Trypillia Culture]
+author: 
+  - name: Eszter Horváth
+    corresponding: true
+    email: horvath.eszter2001@gmail.com
+  - name: Dorottya Láng
+    orcid: 0009-0005-1816-9925
+  - name: András Füzesi
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+In the summer of 2024, the remains of an Early Copper Age house, destroyed by intentional burning, were excavated at Marosnagylak (Romania). Following the fieldwork, two separate one-week sessions were conducted to undertake intensive post-excavation analysis. Although the processing of the material is still ongoing, preliminary observations and the documentation of a significant number of daub fragments have already yielded valuable insights into the structure of the house, the intensity of the fire, and the dynamics of the collapse.
+Twenty distinct material types were identified, primarily based on temper composition and the degree of thermal alteration. Spatial distribution analysis of these types provided further data on fire intensity and propagation. Imprint analysis revealed several morphological categories (straight, curved, right-angled); within the curved group, subcategories were established based on diameter, suggesting different architectural components (twigs, stakes, posts). The density and typology of impressions allowed for the partial reconstruction of structural units, including flooring, corner elements, and wall fabrics.
+The most informative fragments were documented through precise measurements, high-resolution photography, and detailed drawings. Ethnographic and archaeological analogies were also considered in interpreting the architectural elements. Combined analysis of material composition, burning intensity, and spatial patterns suggests a structure that collapsed inward. Continued analysis is expected to provide further insights into the building's life cycle and the circumstances surrounding its final destruction.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

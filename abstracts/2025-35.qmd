@@ -1,0 +1,21 @@
+---
+title: 'Archaeometric Analyses of Pozzolanic Mortars in Roman Thermal and Hydraulic Constructions at Nora, Sardinia'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Historic mortars, Pozzolanic mortars, Provenance studies]
+author: 
+  - name: Laura Buganza
+    corresponding: true
+    email: laura.buganza@studenti.unipd.it
+  - name: Zeno Caneva
+  - name: Jacopo Bonetto
+  - name: Caterina Previato
+  - name: Simone Dilaria
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+This research presents the preliminary results of the compositional characterization of the structural and lining mortars of two relevant Roman Middle Imperial period buildings in the ancient city of Nora (Sardinia, Italy). Specifically, the objects of the analysis are the thermal complex of ‘Terme a Mare’ and the aqueduct, both built around the 2nd-3rd century AD. Most of the analysed samples are hydraulic mortars enriched with different types of pozzolanic aggregates that are primarily constituted by pyroclastic material such as pumices/tuffs, obsidians, or ceramic fragments. Mortar samples and pyroclastic aggregates were analysed adopting a multi-analytical protocol. Mortars were analysed, coupling Transmitted-Light Polarized Optical Microscopy (TL-OM) and Scanning Electron Microscopy with Energy Dispersive X-Ray Analysis (SEM-EDS), providing a detailed characterization of their compositions and production techniques. Moreover, SEM-EDS together with XRF (X-Ray Fluorescence) were adopted to analyse the pozzolanic volcanic aggregates and to define their provenance based on the comparison with geochemical reference literature. The preliminary archaeometric analysis allowed us to investigate the petro-mineralogical compositions of each mortar sample, leading to the identification of four distinct mortar groups: aerial lime mortars, pumice/tuff-enriched lime mortars and cocciopesto enriched with obsidians were mainly employed for structural purposes, whereas cocciopesto enriched with pumice/tuff was primarily used for lining of hydraulic infrastructures. Through the geochemical analysis it was possible to establish that pumices and tuffs were imported from the Phlegraean volcanic district (Naples), while obsidian most presumably came from the Monte Arci outcrop (southwestern Sardinia).
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

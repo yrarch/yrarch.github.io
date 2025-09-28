@@ -1,0 +1,25 @@
+---
+title: 'Pottery Technology and Neolithization in the Middle Tagus Basin: Preliminary Petrographic Insights'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Neolithic, Pottery, Technology, Characterization, Petrography]
+author: 
+  - name: Estíbaliz Espada-Martín
+    orcid: 0000-0001-6728-5109
+    corresponding: true
+    email: eespada.martin@gmail.com
+  - name: Miriam Cubas
+    orcid: 0000-0002-2386-8473
+  - name: Silvia Amicone
+    orcid: 0000-0001-8237-7044
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+In the early 20th century, Neolithic studies in central Iberia were strongly influenced by Bosch Gimpera’s theory of Cultural Circles, which classified the region within the so-called Cave Culture. By the late 20th century, however, new archaeological discoveries and the introduction of radiocarbon dating prompted a significant reassessment of this framework. The Middle Tagus Basin emerged as a key area for understanding these shifts.
+This paper re-evaluates the role of the Middle Tagus Basin, strategically located between the Atlantic and Mediterranean spheres, in the broader Neolithization process of the Iberian Peninsula. It presents preliminary petrographic data on pottery production from this region, based on both petrographic thin-section analysis and macroscopic examination of ceramic assemblages from Neolithic sites. Additionally, it offers a comprehensive review of all published radiocarbon dates for this period in the area, recalibrated using the IntCal20 curve.
+The study explores the correlation between chronological data, archaeological contexts, and ceramic technological traits, aiming to define the distinctive features of Neolithic pottery in the Middle Tagus and to reassess their role in the spread of Neolithic traditions across the peninsula.
+Ultimately, this research raises a broader question: to what extent can the Iberian Plateau be considered a peripheral territory, dependent on other Neolithic centers such as the Levant or southern Iberia?
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

@@ -1,0 +1,24 @@
+---
+title: 'Strontium Isotopic and Proteomic Analyses on the Human Remains of the KGK VI sites of Sultana and Gumelnița, Romania'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Strontium, Amelogenin, Chalcolithic, Romania]
+author: 
+  - name: Aurelien Tafani
+    orcid: 0000-0003-2480-6255
+    corresponding: true
+    email: aurelien.newyork@gmail.com
+  - name: Enrico Greco
+  - name: Robert H. Tykot
+  - name: Kévin Salesse
+  - name: Hannah F. James
+  - name: Christophe Snoeck
+  - name: Cătălin Lazăr
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+This talk will explore the results of the strontium isotopic analyses on the tooth enamel of the human remains found in the Eneolithic graves excavated at the Sultana-Malu Roşu and Gumelnița necropolises (Romania) and on modern plants of the area used to create a baseline. It will also present the results of the proteomic analysis of amelogenin of human tooth enamel that we also performed to obtain reliable sex estimations, on individuals whose remains were the least preserved. Finally, it will discuss the potential role of individual mobility and marital alliances as a driving force behind the emergence of the Kodjadermen-Gumelniţa-Karonovo VI (KGK VI) material culture in the eastern Balkans during the 5th millennium BC.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

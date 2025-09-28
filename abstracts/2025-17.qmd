@@ -1,0 +1,18 @@
+---
+title: 'Experimental Research of Medieval Bone Skates'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Use-wear analysis, Experimental archaeology, Bone skates]
+author: 
+  - name: Kata Szathmári
+    orcid: 0009-0005-3714-3229
+    corresponding: true
+    email: szathmari.kata@gmail.com
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+Since the 19th century, bone tools made from the long bones of large ungulates have been the subject of interest in both Hungarian and international research. Contrary to earlier interpretations some of the finds in the Carpathian Basin may have actually been bone fishing net weights in the Middle Ages, but a large number of objects identified as bone skates have also been found. In order to shed light on the function of the medieval and early modern bones, I carried out use-wear analysis, which are closely related to experimental archaeology. To determine the function of the objects and understand their use, I also included ethnographic parallels in the study. During the experiment, I was able to perform the method of skating known from medieval descriptions and compare the use-wear traces on the bones with those observed on the archaeological objects, thus proving that some of the finds were indeed used for skating on ice.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

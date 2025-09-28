@@ -1,0 +1,17 @@
+---
+title: 'Reconstruction Prehistoric Settlement: A Geoarcharcheological Study of  Mesolithic Assemblage of Bhaski, Chota Nagpur, India'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Microliths, Quaternary, Archaeometry, Geoarchaeology, Eastern India, Man-environment interaction]
+author: 
+  - name: Sukanya Guha Niyogi
+    corresponding: true
+    email: sukanyasuri9@gmail.com
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+Chota Nagpur plateau is a home for prehistoric antiquities from the Pleistocene period in Eastern India, presence of significance cultural and geological setting to understand and reconstruct the evolution and migration pattern in the eastern India as well as south Asia. This study is focus on newly discovered Mesolithic sites in Bokaro districts of Jharkhand within the Chota Nagpur Plateau. This region is characterized by Precambrian granite- gneiss formations covered with quaternary deposits, including colluvial sediments, weathered laterites, ferricrete deposition and fluvial gravel- associated with post- Pleistocene depositional processes. This sedimentary have a preservation context of a substantial scatter of microlithic tools, offering analytical insight in human nature interactions in early Holocene. This study integrates multidisciplinary approaches- archaeological exploration, petrographic analysis and palaeo-environmental reconstruction to interpret Bhaski as microlithic site strategically located near raw material sources and palaeo channels. The finding also contribute a broad scale discussion and creoss cultural comparisons on lithic settlements, raw material economy and prehistoric cultural succession in the Chota Nagpur plateau and other parts of Indian sub-continent.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

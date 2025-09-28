@@ -1,0 +1,31 @@
+---
+title: 'Archaeometric Analysis of Late Sarmatian Pottery Recovered from Tázlár-Templomhegy Settlement'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Ceramic petrography, Provenance analysis]
+author: 
+  - name: Vivien Bozsik
+    orcid: 0009-0007-3926-335X
+    corresponding: true
+    email: bozsik.vivien@gmail.com
+  - name: Krisztián Fintor
+    orcid: 0000-0003-4794-9419
+  - name: Sándor Gulyás
+    orcid: 0000-0002-3384-2381
+  - name: Dorottya Walter
+    orcid: 0009-0001-5883-6201
+  - name: Dorottya Györkös
+    orcid: 0000-0003-4011-6342
+  - name: Attila Kreiter
+    orcid: 0000-0002-8339-1021
+  - name: Máté Szemerédi
+    orcid: 0000-0002-7432-8418
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The Late Sarmatian settlement of Tázlár–Templomhegy is located in the central part of the Homokhátság region in the Duna–Tisza Interfluve, Hungary. Its pottery assemblage includes all known pottery types of the period. Despite this, no suitable clay sources or evidence of local pottery production (e.g. workshops) have been identified in the vicinity. The aim of our research is to determine the potential origin of these vessels and to narrow down the source areas of the tempers used. 
+In addition to petrographic analysis, we applied several analytical techniques including Raman microscopy, SEM-EDS, cathodoluminescence (CL) microscopy and spectroscopy, and X-ray powder diffraction (XRD). Petrographic results allowed us to define five petrographic groups (T1–T5). For several of these, a likely origin in known pottery workshops could be proposed, including those at Sándorfalva–Eperjes, Nagymágocs–Paptanya, and Üllő pottery workshops. XRD data provided estimates of the firing temperatures for each group. We also attempted to identify the source region of the granitoid tempering found in Group T5 attributed to the Nagymágocs–Paptanya workshop. This was done through comparative analysis with granitoid rock samples using CL spectroscopy. The results indicate that the closest match – based on textural, mineralogical, and CL spectral characteristics of feldspars – points to the Codru granitoids of the Apuseni Mountains, Romania. These findings contribute to our understanding of regional pottery production and distribution networks during the Late Sarmatian period.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

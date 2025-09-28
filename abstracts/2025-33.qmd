@@ -1,0 +1,21 @@
+---
+title: 'Characterization and Analysis of Wall Painting Fragments from the Sandrigo Estate of Aquileia for the Determination of a Chronological Framework'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Petrography, Wall paintings, Aquileia, Mortar, Chronology]
+author: 
+  - name: Yarden Jessica Tsfoni
+    corresponding: true
+    email: yarden.j.tsfoni@gmail.com
+  - name: Clelia Sbrolli
+  - name: Andrea Cipolato
+  - name: Daniela Cottica
+  - name: Simone Dilaria
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+This study investigates the raw material and production techniques employed in the Roman wall-painting fragments collected from the Sandrigo Estate, east of the River Port of Aquileia. 10 representative samples were chosen for analysis from nuclei collected from secondary debris. Transmitted- Light Polarized Optical Microscopy (TL-OM) on thin sections was adopted for petrographic analysis of preparation mortars. Such analysis has unfolded a progressive evolution in the choice of raw materials employed in the preparation of the wall-paintings. In fact, stylistic and petrographic research on wall fragments from Aquileia conducted in past years aided in the determination of a chronological framework ranging from the 2nd c. BCE to the 4th c. CE (Dilaria et al. 2021). By comparing the results of the analyses of the Sandrigo samples with this reference “baseline” it is therefore possible to reconstruct their probable chronology. The main characterizing element relies on the preparation of the uppermost intonachino layer. Most of the samples were made adopting methods typical of the Republican/Early Imperial periods, characterized by distinct layers of tectorium and an intonachino composed almost entirely of sparry calcite. On the other hand, other samples appear to follow preparation practices of the Late Antique period, where intonachino was made with common fluvial sand. Moreover, via Raman Spectroscopy pigments have been characterized. These include the common Roman palette (hematite, carbon black, goethite), but interestingly the best executed samples were also the ones where more expensive pigments were detected such as cinnabar, sometimes mixed with Egyptian blue.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

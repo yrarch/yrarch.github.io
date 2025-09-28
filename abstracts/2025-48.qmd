@@ -1,0 +1,17 @@
+---
+title: 'Reconstructing Ancient Diets through Residue Analysis: A Case Study from Thimlich Ohinga, Kenya'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Residue analysis, Prehistoric diet]
+author: 
+  - name: Patrick Munyao
+    corresponding: true
+    email: patrickmunyaosamuel@gmail.com
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The goal of the current research is to study the dietary patterns of prehistoric societies from the UNESCO World Heritage Site of Thimlich Ohinga, Kenya. For the first time, a residue analysis of organic compounds will be conducted on ceramics from the site – this will be the first systematic attempt to understand subsistence strategies in the region. Previous work on prehistoric diets in Kenya has been mostly based on macroscopic examination of lithic and ceramic remains. The current project intends to change this narrative using practical micromorphology by analyzing food residues on potshards. This technique aims to provide unequivocal proof concerning the nature of foods consumed. The research does not only help in understanding the subsistence economy of people of Thimlich Ohinga, but also challenges the exclusive typological approach to ceramics by broadening functional analysis of pottery vessels. The objective of the project is to use context to residues to enhance interpretation of archaeology by using residues of food on ceramics to reconstruct ways of life. Many ancient dietary behaviors of prehistoric people across the country have been studied to realize a complete understanding of their subsistence economy. But to arrive at the conclusion of what was the dietary behavior of a particular prehistoric community, the researchers have used macroscopic analysis of lithic and pottery found in archaeological context. This study will use a new approach of reconstructing ancient diet behavior of prehistoric people of Thimlich Ohinga.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

@@ -1,0 +1,17 @@
+---
+title: 'Identifying Surface Treatments on Medieval Metal Artefacts'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Archaeometallurgy, XRF, Silvering, Tinning]
+author: 
+  - name: András Török
+    corresponding: true
+    email: andris1228@gmail.com
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The research of surface treatments was always marginal in the field of archeometallurgy. Their popularity is still highly uncertain within most of the medieval material culture, sometimes their function is unclear as well. This case study showcases identified surface treatments - gilding, silvering and tinning – on several artefacts from the Middle Ages using X-Ray Fluorescence (XRF) Spectrometry and optical microscope. The main questions of the topics are the following: what are the best analytical methods for identifying surface methods?; how popular were gilding, silvering and tinning in medieval times? The results of the research were very interesting and instructive. To begin with, on several artefacts the surface treatments could only be identified with the analytical methods, which also means that they were misinterpreted previously. The latter is more prominent in the case of 5 S-end lock rings, which were all originally interpreted as silver artefacts; using the analytical methods all of them could be identified as silvered bronze jewellery. This result shows that researches like this are not only important from an archeometallurgical perspective, but also very useful for classical archaeology too. My study not only acknowledges these problems, but also offers a practical method for future researches into different surface treatments.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

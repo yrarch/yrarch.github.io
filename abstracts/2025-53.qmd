@@ -1,0 +1,19 @@
+---
+title: 'Iron Smelting in the Árpádian Period: Excavation of the Réde–Bika-rét Site'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Komárom-Esztergom County, Árpád Era, Archaeometallurgy, Árpádian period, Smelting furnace, Carpological samples]
+author: 
+  - name: Holy Fanni
+    corresponding: true
+    email: holyfanni8@gmail.com
+  - name: Győri-Pórszász Anna
+  - name: Merkl Máté Róbert
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The village of Réde is located on the southwestern border of Komárom-Esztergom County, in the district of Kisbér. In April 2024, during one of the archaeological observations, archaeological objects were uncovered here. The excavation took place in a confined area: a space measuring only 3x3 meters. Over the course of two days, we excavated and documented a total of six , which were intercutting, contemporaneous pits and ditches with single-layer fills. These objects together formed a larger system, presumably a smelting furnace. The fill of the features was heavily burnt and contained much charcoal. Mostly, we found large amounts of iron slag and burned bones. Based on the small amount of coarse, poorly tempered pottery with rouletted patterns, the site can be dated to the Árpád-Era. All these features may belong to the already known Réde–Bika-rét site. Bika-rét is an Árpádian-period site identified during a field survey on the western side of the Cuhai-Bakony-ér stream. Several smelting furnaces have already been uncovered along the watercourse, suggesting the presence of bog iron ore deposits along the Cuhai-Bakony-ér.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

@@ -1,0 +1,29 @@
+---
+title: 'The TerraLID metadata profile: Uniformly describing lead isotope data in archaeology'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Archaeometallurgy, Lead isotopes, Research data]
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+    corresponding: true
+    email: thomas.rose@bergbaumuseum.de
+  - name: Tim Greifelt
+    orcid: 0009-0007-9701-8547
+  - name: Katrin J. Westner
+    orcid: 0000-0001-5529-1165
+  - name: Annette Hornschuch
+  - name: Yiu-Kang Hsu
+    orcid: 0000-0002-2439-4863
+  - name: Helge Wiethoff
+  - name: Sabine Klein
+    orcid: 0000-0002-3939-4428
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+Since its first application to archaeological artefacts almost 60 years ago, the analysis of lead isotopes evolved into the default method for reconstructing the raw material provenance of non-ferrous metals. Pre-requisite is a collection of data with known raw material provenance to compare the artefact data to. Unfortunately, the compilation and re-use of this data is often hampered, among others, by the large variety and different levels of detail of their metadata. 
+TerraLID aims to improve this situation by providing a digital research data infrastructure with a single point of access for the publication, storage, and access of lead isotope data combined with a web application for working with such data and submitting them. An essential part of this research data infrastructure is a metadata profile for the uniform description of the data and their metadata. Development of this metadata profile aims towards its universal applicability, easy extensibility and efficient storage of information. Guided by the input of the TerraLID editors as community representatives, the entire community is currently encouraged to comment on its draft. As part of this community feedback process, this contribution will present the overall structure and takes a closer look on some aspects to spark discussion and encourage feedback from the audience.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

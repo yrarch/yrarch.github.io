@@ -1,0 +1,18 @@
+---
+title: 'Beads as Cultural Blueprints: Decoding Society and Landscape in Iron Age Tamilagam'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Iron Age beads, Landscape Archaeology, GIS mapping, Maritime Trade Contacts]
+author: 
+  - name: Rithik Pramod
+    corresponding: true
+    email: rithik.pramod@ashvitas.com
+  - name: Tanaya Acharjee
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The research delves into the production and cultural significance of beads in Iron Age of tamilagam through the landscape, drawing upon both archaeological evidence and ecological concepts placed in early sangam literature. The literature classify the land into five distinct ecological zones- kurinji (hills), mullai (forests), marudam (agricultural plains), neithal (coastal lands) and palai (arid zones) - each associated with specific human activities, resources, and ways of life. These ancient categorizations approach the cultural structure for understanding how geography shaped craft traditions.  By correlating archaeological data with the tinai system, this research explores how local environmental conditions, such as rivers, raw materials, trade routes, and suitable terrain, influenced the location and development of bead manufacturing centers across Tamilagam. The making of beads from raw materials was not only a technological process but one deeply entangled with social identity, economic networks, and symbolic practices. Beads served multiple roles- as adornments expressing status or affiliation, as offerings in ritualistic contexts, and as commodities within local and transregional exchange systems. Their presence in both domestic and ritual spaces underscores their importance beyond mere ornamentation. Notably, evidence of South Indian beads found in archaeological contexts across Southeast Asia points to the role of Tamilagam in early Iron Age maritime trade networks, highlighting the far-reaching cultural and commercial connections fostered through bead exchange. Through an interdisciplinary approach combining textual tradition, archaeological landscape studies, and material analysis, this research explores how beads reflect a dynamic interplay between people, place, and practice in early tamil society.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

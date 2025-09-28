@@ -1,0 +1,20 @@
+---
+title: 'Unchanging Tastes: Material Choices in Hellenistic and Roman Storage Vessels from Nea Paphos'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Ceramics, Petrography, Storage vessels, Pithoi, Dolium, Hellenistic, Roman, Nea Paphos, Cyprus]
+author: 
+  - name: Zofia Chomoncik
+    corresponding: true
+    email: zosia1ch@gmail.com
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+This presentation discusses the differences in technological choices made by potters during the Hellenistic and Roman periods at the archaeological site of Nea Paphos in Cyprus, with a particular focus on storage vessels: Greek pithoi and Roman dolia. The study aims to define which features of these vessels resulted from intentional technological decisions and which were influenced by local conditions, such as raw material availability or workshop organization.
+The research is based on 30 ceramic fragments from both public and private spaces, dated between the 4th century BCE and the 7th century CE, excavated by the Polish Archaeological Mission at  Maloutena and Agora).  The samples were subjected to petrographic analysis and compared with other ceramic categories from the site, as well as from selected Cypriot sites exhibiting similar economic transformations.
+Contrary to expectations of diverse clay usage, the research reveals a strong tendency among potters to rely on a single clay source, even when alternatives were available. However, variability was noted in the selection of tempering material used to modify the properties of the raw material. The evidence suggests a higher degree of specialization during the Roman period, and, alongside increased external influence on production techniques.
+Rather than constructing rigid typologies, this presentation seeks to explore ancient society through its material culture. By examining storage vessels, it aims to uncover cultural patterns and technological practices not easily accessible through other types of archaeological evidence. The findings highlight how these vessels reflect broader socio-economic and technological transformations in the ancient Mediterranean world.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

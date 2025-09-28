@@ -1,0 +1,23 @@
+---
+title: 'The Whole, the Missing and the Disturbed: Exploring Post-Burial Practices in the Langobard Cemetery of Gyirmót-Homokdomb'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Langobards, Grave reopening, Archaeothanatology, Bioarchaeology, Migration Period, Post-burial practice, Mortuary archaeology]
+author: 
+  - name: Regina Viktória Csordás
+    orcid: 0009-0005-7328-5611
+    corresponding: true
+    email: reginav.csordas@gmail.com
+  - name: Eliza Orellana-González
+    orcid: 0000-0002-5631-109X
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+Grave reopenings in the 6th-century Langobard-period cemetery of Gyirmót–Homokdomb, located in Northern Transdanubia, offer a valuable opportunity to explore post-burial interactions with the dead during the Migration Period. This study applies archaeothanatological and bioarchaeological approaches and methods to examine selected burials showing evidence of disturbance.
+The analysis focuses on the stratigraphic and spatial characteristics of seleceted/ these reopened graves, including alterations in skeletal positions, and the possible removal of bones and grave goods. Particular attention is given to identifying patterns of disturbance and assessing their consistency across multiple features. 
+Preliminary bioanthropological observations aim to detect indicators of post-depositional manipulation, such as the rearrangement of skeletal elements or damage not attributable to natural taphonomic processes. Material culture associated with disturbed contexts is also examined for evidence of fragmentation, redeposition, or spatial reorganization.
+Rather than assuming a single motivation behind these reopenings, this study explores a range of possible explanations—ritual, social, or practical—within the broader framework of Langobard mortuary customs. The ongoing analysis seeks to refine our understanding of the role of reopened graves in the funerary landscape and the significance of post-burial practices during this transitional period.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

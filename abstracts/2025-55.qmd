@@ -1,0 +1,19 @@
+---
+title: 'Compositional Diversity in Indus Faience: SEM-EDS Analysis of Beads from Gujarat'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Indus Tradition, Faience technology, SEM-EDS, Archaeological materials science, Craft production analysis]
+author: 
+  - name: Sneha Chavali
+    orcid: 0009-0006-6923-2047
+    corresponding: true
+    email: schavali2@wisc.edu
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The Indus Tradition (c. 7000–1300 BCE), formerly known as the Indus Civilization, encompassed a vast cultural and technological landscape across South Asia. Over the past century, studies of its material culture, from ceramics and lithics to beads and metallurgy, have illuminated diverse craft technologies. Among these, faience bead production stands out as one of the most visually distinctive and chemically complex pyrotechnologies. This paper presents a compositional study of faience beads from archaeological contexts in Gujarat, western India—a region integral to the regional expression of Indus material traditions. Beads were analyzed using Scanning Electron Microscopy with Energy Dispersive X-ray Spectroscopy (SEM-EDS), focusing on chemical variation across glaze, margin, and core regions.
+The results show that Gujarat’s faience assemblage lacks a singular technological formula. Instead, multiple compositional profiles suggest decentralized production choices and a flexible understanding of material recipes. Some samples exhibit traits of the "efflorescence" glazing technique, while others point to variation in raw material processing and thermal control.These findings underscore the value of high-resolution chemical analysis for re-evaluating assumptions of technological standardization. By integrating compositional clustering with structural evidence, such as porosity and interstitial glass, this study contributes to archaeometric debates on innovation, craft knowledge, and regional variation in ancient pyrotechnologies.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

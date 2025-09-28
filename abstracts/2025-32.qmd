@@ -1,0 +1,20 @@
+---
+title: 'Application of Non-Destructive Field Investigation Methods in the Archaeological Study of a Medieval Ruined Settlement in Tolna County, Hungary'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Non-destructive, Geophysics, GIS, Aerial, Medieval]
+author: 
+  - name: Mátyás Németh
+    corresponding: true
+    email: bot485@student.elte.hu
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+As part of my BA thesis in Archaeology, I conducted a non-destructive investigation of a deserted medieval settlement in Tolna County, Hungary. The research employed a combination of methods, including historical map analysis, archival and archaeological aerial photography, magnetometer surveying, and 3D photogrammetric survey using a drone. My primary tasks included executing some of the surveys, processing and evaluating the archaeological data, and interpreting the results. I also reconstructed the site's topography using archival cartographic, geological, and geographic sources.
+The integration of multiple survey techniques allowed for the identification of numerous structural features of the former settlement. Different methods revealed different aspects of the archaeological record, and their combined interpretation provided a more comprehensive picture of the site. All data were processed and analyzed within a geoinformatics (GIS) software environment, which also facilitated the reconstruction of the landscape and the settlement layout.
+The results revealed the main street, property boundaries, ditches, a gate, and the location of the medieval church complex in Gyánt. In this area, two distinct church structures were identified, although their spatial and chronological relationship remains uncertain. In the riverside zone, the remains of a workshop and several mills were inferred. These were supported by environmental reconstruction, written sources, and the earlier discovery of millstone fragments, indicating their proximity to the river.
+This research highlights the effectiveness of integrating non-destructive methods and GIS analysis in the archaeological study of deserted medieval settlements.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

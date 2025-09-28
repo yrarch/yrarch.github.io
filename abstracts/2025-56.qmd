@@ -1,0 +1,25 @@
+---
+title: 'Application of Forensic Entomology in Archaeological Contexts: Insect Evidence from Medieval and Early Medieval Cemeteries in Hungary'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Forensic, Entomology, Bioarchaeology, µCT]
+author: 
+  - name: Csilla Libor
+    orcid: 0009-0001-2700-2917
+    corresponding: true
+    email: libor.csilla@hnm.hu
+  - name: Dóra Hegyi
+  - name: Virág Kristóf
+  - name: Ágnes Füredi
+    orcid: 0000-0001-6896-4218
+  - name: Csaba Bozó
+    orcid: 0000-0002-6163-6446
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+In forensic entomology, knowledge about insects is primarily applied to determine the time of death or certain circumstances of the deceased, rather than the location itself. The body of the deceased interacts with macro- and micro-environmental factors, influencing the appearance, behavior, and development of necrophagous insects. In Hungary, the modern history of forensic entomology dates back to the 19th century. However, analyses of insect samples have had little precedent until the 20th century. The earliest written record is from 1934. The first expert examination in a criminal case was conducted in 1963, which garnered significant international attention. Subsequently, such analyses were rarely performed in Hungary until the 2000s. Moreover, until now, no similar analysis has been documented for archaeological samples. Despite the methodological similarities between archaeological excavation techniques and forensic procedures—differing mainly in the time scale—both disciplines aim to record and document all observable phenomena as accurately as possible.
+During archaeological excavations of three ancient and early medieval cemeteries, we collected and examined insect samples. In samples from Szécsény and Veszprém, we identified species belonging to the order Diptera (flies), mostly from the family Calliphoridae, known as blowflies with metallic coloring. The early medieval grave of the Honfoglalás (Conquest era) period in Csomád revealed additional interesting findings alongside these flies.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

@@ -1,0 +1,22 @@
+---
+title: 'Identification of Genomic Markers Associated with Tuberculosis in Ancient Individuals from the Americas'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Archaeogenomic, Bioinformatics, Disease, Tuberculosis]
+author: 
+  - name: Ana Cristina de Lima Pedrozo Cardouzo
+    orcid: 0009-0000-4927-2742
+    corresponding: true
+    email: anacristina.cardouzo@ufpe.br
+  - name: André Luiz Campelo dos Santos
+    orcid: 0000-0002-5577-1967
+  - name: Henry Socrates Lavalle Sullasi
+    orcid: 0000-0002-0690-6781
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+Tuberculosis is one of the deadliest diseases in human history. Despite being one of the most studied infectious diseases, there remains a limited understanding of the infection and the host-pathogen relationship. Considering the hypothesis that Tuberculosis existed in the Americas before European contact, this study aims to identify genetic markers associated with susceptibility or resistance to the disease among Native American populations before European contact, highlighting their distributions and prevalence in the Americas. We have thus conducted a bibliographic survey of Pulmonary Tuberculosis and its associated genetic variants, applying bioinformatics techniques to investigate previously published genetic data from 224 individuals unearthed in various archaeological sites of the Americas. The results suggest a higher prevalence of genetic variants associated with the susceptibility to Tuberculosis among Native American populations, which may have contributed to the high mortality rates observed following the arrival of European colonizers and the subsequent introduction of the European lineage of the disease. Our study thus raises important questions regarding the origins of Tuberculosis in the Americas. Moreover, it underscores the need for further investigation into the disease, its pathogen, and the host-pathogen relationship, acknowledging that this is a promising area for future studies.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

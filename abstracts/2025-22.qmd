@@ -1,0 +1,24 @@
+---
+title: 'The Traces of the Potter’s Hand: Pottery Experimental Reference Collection for the Analysis of Copper Age Vessels from the Carpathian Basin'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Pottery technology, Experimental archaeology, Multiscalar analysis, Laser scanning confocal microscopy, Copper Age]
+author: 
+  - name: Eszter Solnay
+    orcid: 0000-0002-1647-9699
+    corresponding: true
+    email: soleszter96@student.elte.hu
+  - name: Zita Hrabák
+    orcid: 0009-0002-8583-8808
+  - name: Antony Borel
+    orcid: 0000-0002-6014-1863
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+One of the most important issues of the technological analysis of pottery forming and surface treatment is to establish a relationship between the observed traces of forming and surface treatment and the characteristics of the pottery making (e.g. techniques, tools, drying levels) that resulted in these kinds of traces. To define this connection, ethnographical or experimental references are essential, allowing us to observe both the process of pottery making and the traces of the created vessel.
+Several pottery forming and surface treatment techniques can be identified in the Early and Middle Copper Age in the Carpathian Basin (4500/4450–3800/3700 calBC). Some of these are widely known from experimental and ethnographical studies (e.g. modelling). However, other techniques have little or no parallel in other contexts (e.g. reverse coiling technique) and even the well-known techniques are often problematic. Although numerous works discuss these well-known techniques, not everyone understands the same thing under the same expression (e.g. burnishing or polishing).
+Therefore, we created an experimental reference collection that focuses on these lesser-known or problematic forming and surface treatment techniques. This was followed by the comparison of the experimental and archaeological vessels. For this, we used a multiscalar analytical approach, including the macro- and microscopic examination of the samples. The latter was carried out with laser scanning confocal microscopy to obtain quantitative data from the surface, besides the qualitative observations. As a result, we gained an in-depth understanding of the Copper Age pottery-making processes.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

@@ -1,0 +1,18 @@
+---
+title: 'Archaeozoological Investigations in the Late Neolithic Site of Moftinu Mare-Hamiliz (Northwest Romania)'
+date: "2025"
+date-format: "YYYY"
+Event: Workshop
+categories: [Archaeozoology, Late Neolithic, Settlement, Animal bones]
+author: 
+  - name: Xenia Pop
+    corresponding: true
+    email: xeniap314@gmail.com
+---
+
+*This paper was presented at the YRA Workshop 2025 in Budapest.*
+
+The archaeological site at Moftinu Mare-Hamiliz is located in northwestern Romania, on the terrace formed by the flow of the Murai stream into the Ecedea marsh. The site was identified in 2016 during field investigations for the installation of a gas pipeline and a gas collection and purification station. Archaeological excavations carried out in the same year identified a settlement and a necropolis dating back to the Late Neolithic period, the Herpály culture. Research at the settlement continued in 2021. The Neolithic settlement at Moftinu Mare is remarkable for its rich ceramic material, lithic materials and animal bones.
+The archaeozoological material studied comes from the settlement, and was excavated during the  campaigns of 2016 and 2021. Primary archaeozoological analysis showed a predominance of domestic species, especially cattle (Bos taurus). Other animals identified in the settlement are domestic pigs (Sus domesticus), sheep/goats (Ovis/Capra) and canids (Canis familiaris). Hunting represented a less important occupation of the Moftinu Mare community; among the wild animals present at the site we find red deer (Cervus elaphus), roe deer (Capreolus caprelous), aurochs (Bos primigenius) and bison (Bison bison). Archaeozoological investigations have identified several traces of disarticulation (cut marks) and gnawing on the distal epiphyses of cattle bones. The processing of deer and roe deer antlers was also attested in the settlement. Bone pathology was observed on one of the bovine metacarpals.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
