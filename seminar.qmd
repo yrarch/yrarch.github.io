@@ -11,7 +11,7 @@ The time slots of each presentation will be accommodated to be the most comforta
 
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting (Meeting-ID: 988 6914 5922; code: YRA-S2025).
 
-## Next presentation: October 29^th^, at 14:00 pm (UTC)
+## Next presentation: October 29^th^, at 2:00 pm (UTC)
 
 ::: {.column-margin}
 
@@ -128,7 +128,7 @@ This talk introduces archaeo-metabolomics, the study of small molecules (metabol
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## October 29^th^ – Aitor Brito Mayor (University of Las Palmas de Gran Canaria, Spain)
-**Time:** 14:00 (UTC)    
+**Time:** 2:00 pm (UTC)    
 **Title:** Zooarchaeology and isotopic evidence for subsistence in Fuerteventura: the animals of the Majos (Canary Islands)  
 **Keywords:** Zooarchaeology; Stable isotopes; Arid; Island; Diet  
 **Abstract:** Preliminary isotopic analyses of human remains from Fuerteventura suggest a notable reliance on marine resources, raising questions about previously proposed models of subsistence. To address this, we conducted zooarchaeological and preliminary isotopic analyses (δ^13^C and δ^15^N) on faunal assemblages from three archaeological sites on the island. Our study aimed to provide a more comprehensive understanding of the dietary strategies employed by the Majos and the role of environmental constraints in shaping subsistence practices.  
@@ -137,7 +137,7 @@ The zooarchaeological evidence reveals a diverse spectrum of exploited fauna, in
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## November 14^th^ – Mette Langbroek (Leiden University, The Netherlands)
-**Time:** 10.00 (UTC)  
+**Time:** 10.00 am (UTC)  
 *Title and abstract to will announced soon.*
 :::
 
@@ -179,7 +179,7 @@ Copper and its alloys are one of the materials thought to come from the maritime
 **Time:** 2:00 pm (UTC)  
 **Title:** [Biomolecular insights into Magdalenian ungulates from Petersfels (Hegau Jura, southwestern Germany) via ZooMS and stable isotope analysis](https://www.yra-ecr.org/abstracts/2024-S10.html)  
 **Keywords:** Magdalenian; ZooMS; Stable isotopes; Zooarchaeology; Paleoenvironment; Ungulates  
-**Abstract:** After the Last Glacial Maximum, ameliorating climates facilitated the recolonization of Central Europe by human and animal groups. Petersfels, situated in the Hegau Jura of southwestern Germany, evidences the later stages of this repopulation, dating to ~16-14 ka cal BP. Over the past hundred years, numerous excavations at the site have revealed an exceptional record of Magdalenian subsistence including abundant lithic and osseous material, personal ornaments, engravings, and female figurines. Faunal remains are particularly relevant, as they archive information on human and animal lifeways as well as the broader post-LGM environmental context. However, despite this great potential, little is known about the paleoecological context of the site or the broader Hegau Jura. Here, we present new biomolecular analyses of the Petersfels faunal assemblage, which help to illuminate the paleoecology of the region. Zooarchaeology by Mass Spectrometry (ZooMS) was applied to identify rare taxa and to differentiate between closely related species. We also conducted stable isotope analyses of carbon (δ13C) and oxygen (δ18O) from serially sampled equid and bovid tooth enamel carbonate. The latter contributes to our understanding of local paleoecology during the Magdalenian and the status of human and animal communities during post-LGM climatic change. More broadly, this work shows how heritage collections like Petersfels are still immensely valuable, especially with the application of modern biomolecular techniques.  
+**Abstract:** After the Last Glacial Maximum, ameliorating climates facilitated the recolonization of Central Europe by human and animal groups. Petersfels, situated in the Hegau Jura of southwestern Germany, evidences the later stages of this repopulation, dating to ~16-14 ka cal BP. Over the past hundred years, numerous excavations at the site have revealed an exceptional record of Magdalenian subsistence including abundant lithic and osseous material, personal ornaments, engravings, and female figurines. Faunal remains are particularly relevant, as they archive information on human and animal lifeways as well as the broader post-LGM environmental context. However, despite this great potential, little is known about the paleoecological context of the site or the broader Hegau Jura. Here, we present new biomolecular analyses of the Petersfels faunal assemblage, which help to illuminate the paleoecology of the region. Zooarchaeology by Mass Spectrometry (ZooMS) was applied to identify rare taxa and to differentiate between closely related species. We also conducted stable isotope analyses of carbon (δ^13^C) and oxygen (δ^18^O) from serially sampled equid and bovid tooth enamel carbonate. The latter contributes to our understanding of local paleoecology during the Magdalenian and the status of human and animal communities during post-LGM climatic change. More broadly, this work shows how heritage collections like Petersfels are still immensely valuable, especially with the application of modern biomolecular techniques.  
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
