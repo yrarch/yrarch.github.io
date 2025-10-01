@@ -11,7 +11,7 @@ The time slots of each presentation will be accommodated to be the most comforta
 
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting (Meeting-ID: 988 6914 5922; code: YRA-S2025).
 
-## Next presentation: September 16^th^, at 12:00 pm (UTC)
+## Next presentation: October 29^th^, at 2:00 pm (UTC)
 
 ::: {.column-margin}
 
@@ -22,20 +22,22 @@ Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 
 **Code:** YRA-S2025  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20250916T120000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20251029T140000&p1=1440).
 
 :::
 
-*Egyptian blue production: a diachronic perspective*  
+*Zooarchaeology and isotopic evidence for subsistence in Fuerteventura: the animals of the Majos (Canary Islands)*  
 
-**Ilia Kovalev** (The Cyprus Institute, Cyprus)  
+**Aitor Brito Mayor** (University of Las Palmas de Gran Canaria, Spain)  
 
-**Keywords:** Egyptian blue; Ancient materials; Ancient technology; High-temperature processes; Technical ceramics  
+**Keywords:** Zooarchaeology; Stable isotopes; Arid; Island; Diet  
 
 **Abstract:**  
-Egyptian blue is the earliest known artificially produced inorganic pigment, which from its first appearance in Early Bronze Age Egypt remained an intrinsic part of the artistic palette over several millennia. The application of Egyptian blue was not limited to being used as a pigment only, as it also served as a raw material for the production of small objects like beads, scarabs, and figurines. From the material science standpoint, Egyptian blue is a multi-phase material comprising crystals of cuprorivaite (CaCuSi~4~O~10~) embedded in an amorphous glass phase along with possible remains of partially reacted raw materials. While the chemical and physical properties of Egyptian blue are fairly well understood, our grasp on the broader context of its production remains limited. Being a high-temperature process, the production of Egyptian blue necessitates the use of crucibles. The present talk will focus on Egyptian blue crucibles from LBA Qantir, Iron Age Kom Tuman, and Hellenistic/Roman Kom Helul in an attempt to highlight the diachronic change in Egyptian blue production.  
+Preliminary isotopic analyses of human remains from Fuerteventura suggest a notable reliance on marine resources, raising questions about previously proposed models of subsistence. To address this, we conducted zooarchaeological and preliminary isotopic analyses (δ^13^C and δ^15^N) on faunal assemblages from three archaeological sites on the island. Our study aimed to provide a more comprehensive understanding of the dietary strategies employed by the Majos and the role of environmental constraints in shaping subsistence practices.  
+The zooarchaeological evidence reveals a diverse spectrum of exploited fauna, including domestic animals, wild terrestrial species, and marine resources, suggesting a more diversified subsistence strategy than previously assumed. Isotopic analyses of terrestrial faunal remains display unusually high nitrogen values and positive carbon signatures, likely reflecting the arid conditions of Fuerteventura and the absence of significant mountainous regions, which influence local isotopic baselines. This research highlights the need to integrate human and faunal remains in isotopic studies to elucidate the complex interaction between environmental factors, subsistence strategies, and isotopic signatures in archaeological contexts.  
 
-![](assets/img/Seminar/2025-09_Kovalev_copyright.jpg)  
+![](assets/img/Seminar/2025-10_Brito-Mayor_combined.jpg)  
+Left: Las Palmas Zooarchaeological reference collection. Right: fieldwork landscape. © A. Brito Mayor
 
 ## Programme - 2025
 
@@ -124,6 +126,26 @@ This talk introduces archaeo-metabolomics, the study of small molecules (metabol
 **Abstract:** Egyptian blue is the earliest known artificially produced inorganic pigment, which from its first appearance in Early Bronze Age Egypt remained an intrinsic part of the artistic palette over several millennia. The application of Egyptian blue was not limited to being used as a pigment only, as it also served as a raw material for the production of small objects like beads, scarabs, and figurines. From the material science standpoint, Egyptian blue is a multi-phase material comprising crystals of cuprorivaite (CaCuSi~4~O~10~) embedded in an amorphous glass phase along with possible remains of partially reacted raw materials. While the chemical and physical properties of Egyptian blue are fairly well understood, our grasp on the broader context of its production remains limited. Being a high-temperature process, the production of Egyptian blue necessitates the use of crucibles. The present talk will focus on Egyptian blue crucibles from LBA Qantir, Iron Age Kom Tuman, and Hellenistic/Roman Kom Helul in an attempt to highlight the diachronic change in Egyptian blue production.
 :::
 
+::: {.callout-note collapse="true" appearance="minimal"}
+## October 29^th^ – Aitor Brito Mayor (University of Las Palmas de Gran Canaria, Spain)
+**Time:** 2:00 pm (UTC)    
+**Title:** Zooarchaeology and isotopic evidence for subsistence in Fuerteventura: the animals of the Majos (Canary Islands)  
+**Keywords:** Zooarchaeology; Stable isotopes; Arid; Island; Diet  
+**Abstract:** Preliminary isotopic analyses of human remains from Fuerteventura suggest a notable reliance on marine resources, raising questions about previously proposed models of subsistence. To address this, we conducted zooarchaeological and preliminary isotopic analyses (δ^13^C and δ^15^N) on faunal assemblages from three archaeological sites on the island. Our study aimed to provide a more comprehensive understanding of the dietary strategies employed by the Majos and the role of environmental constraints in shaping subsistence practices.  
+The zooarchaeological evidence reveals a diverse spectrum of exploited fauna, including domestic animals, wild terrestrial species, and marine resources, suggesting a more diversified subsistence strategy than previously assumed. Isotopic analyses of terrestrial faunal remains display unusually high nitrogen values and positive carbon signatures, likely reflecting the arid conditions of Fuerteventura and the absence of significant mountainous regions, which influence local isotopic baselines. This research highlights the need to integrate human and faunal remains in isotopic studies to elucidate the complex interaction between environmental factors, subsistence strategies, and isotopic signatures in archaeological contexts.
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## November 14^th^ – Mette Langbroek (Leiden University, The Netherlands)
+**Time:** 10.00 am (UTC)  
+*Title and abstract to will announced soon.*
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## December – Petra Tušlová (Charles University, Czech Republic & British School at Athens, Greece)
+*Date, title and abstract will be announced soon.*
+:::
+
 ## Programme - 2024
 
 ::: {.callout-note collapse="true" appearance="minimal"}
@@ -157,7 +179,7 @@ Copper and its alloys are one of the materials thought to come from the maritime
 **Time:** 2:00 pm (UTC)  
 **Title:** [Biomolecular insights into Magdalenian ungulates from Petersfels (Hegau Jura, southwestern Germany) via ZooMS and stable isotope analysis](https://www.yra-ecr.org/abstracts/2024-S10.html)  
 **Keywords:** Magdalenian; ZooMS; Stable isotopes; Zooarchaeology; Paleoenvironment; Ungulates  
-**Abstract:** After the Last Glacial Maximum, ameliorating climates facilitated the recolonization of Central Europe by human and animal groups. Petersfels, situated in the Hegau Jura of southwestern Germany, evidences the later stages of this repopulation, dating to ~16-14 ka cal BP. Over the past hundred years, numerous excavations at the site have revealed an exceptional record of Magdalenian subsistence including abundant lithic and osseous material, personal ornaments, engravings, and female figurines. Faunal remains are particularly relevant, as they archive information on human and animal lifeways as well as the broader post-LGM environmental context. However, despite this great potential, little is known about the paleoecological context of the site or the broader Hegau Jura. Here, we present new biomolecular analyses of the Petersfels faunal assemblage, which help to illuminate the paleoecology of the region. Zooarchaeology by Mass Spectrometry (ZooMS) was applied to identify rare taxa and to differentiate between closely related species. We also conducted stable isotope analyses of carbon (δ13C) and oxygen (δ18O) from serially sampled equid and bovid tooth enamel carbonate. The latter contributes to our understanding of local paleoecology during the Magdalenian and the status of human and animal communities during post-LGM climatic change. More broadly, this work shows how heritage collections like Petersfels are still immensely valuable, especially with the application of modern biomolecular techniques.  
+**Abstract:** After the Last Glacial Maximum, ameliorating climates facilitated the recolonization of Central Europe by human and animal groups. Petersfels, situated in the Hegau Jura of southwestern Germany, evidences the later stages of this repopulation, dating to ~16-14 ka cal BP. Over the past hundred years, numerous excavations at the site have revealed an exceptional record of Magdalenian subsistence including abundant lithic and osseous material, personal ornaments, engravings, and female figurines. Faunal remains are particularly relevant, as they archive information on human and animal lifeways as well as the broader post-LGM environmental context. However, despite this great potential, little is known about the paleoecological context of the site or the broader Hegau Jura. Here, we present new biomolecular analyses of the Petersfels faunal assemblage, which help to illuminate the paleoecology of the region. Zooarchaeology by Mass Spectrometry (ZooMS) was applied to identify rare taxa and to differentiate between closely related species. We also conducted stable isotope analyses of carbon (δ^13^C) and oxygen (δ^18^O) from serially sampled equid and bovid tooth enamel carbonate. The latter contributes to our understanding of local paleoecology during the Magdalenian and the status of human and animal communities during post-LGM climatic change. More broadly, this work shows how heritage collections like Petersfels are still immensely valuable, especially with the application of modern biomolecular techniques.  
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
