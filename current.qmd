@@ -24,7 +24,7 @@ lightbox: true
 
 ::: {.column-margin}
 Organised by:  
-[![](assets/img/HUN-REN_CSFK.png)](https://csfk.hun-ren.hu/en/?lang=en)  
+[![HUN REN CSFK](assets/img/HUN-REN_CSFK.png)](https://csfk.hun-ren.hu/en/?lang=en)  
 &nbsp;  
 
 Hosted at: [![Eötvös Loránd University](assets/img/elte_logo.png)](https://www.elte.hu/en/)  
@@ -37,16 +37,27 @@ Sponsored by:
 ::: {#column-empty}
 [![](assets/img/SAS_logo.png)](https://socarchsci.org)
 
+[![](assets/img/JEOL_company_logo.svg.png)](https://www.jeol.com/)
+
 :::
 
 :::  {#column-empty}
 Subcommittee on Archaeometry, Hungarian Academy of Sciences
 
-:::
+[![](assets/img/logo_nanotest.jpg)](https://nanotest.hu/)
 
 :::
 
-Supported by: [![Hungarian Society for Archaeology and Art History](assets/img/mrmt_logo.png)](https://mrmt.hu/)  
+:::
+
+Supported by: 
+
+[![Hungarian Society for Archaeology and Art History](assets/img/mrmt_logo.png)](https://mrmt.hu/)  
+&nbsp;
+[![Budapest Neutron Center](assets/img/BNC_logo_with_full_text_color.png)](https://bnc.hu/)  
+[![Hungarian National Museum](assets/img/HNM logo.png)](https://mnm.hu/en)  
+[![ELTE HTK IA](assets/img/elte-htk-agi-logo-fekete-v2-EN.png)](https://ri.abtk.hu/en/about-us/about-the-ia)  
+![CTT consulting](assets/img/CTT_LOGO.png)
 &nbsp;
 
 Organised by:  
@@ -73,11 +84,11 @@ Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Regist
 
 ## Programme and social events
 
-[You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241015T070000&p1=50).]{.aside}
+<!-- [You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241015T070000&p1=50).]{.aside} -->
 
 Oral presentations will be 20 minutes with time for discussion included. Posters should have size A0 in portrait format (width: 841 mm, height: 1189 mm). 
 
-All times are given in Central European Summer Time (UTC+2). 
+All times are given in Central European Summer Time (UTC+2). You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20241015T070000&p1=50).
 
 ::: {.panel-tabset}
 
@@ -200,7 +211,7 @@ All times are given in Central European Summer Time (UTC+2).
 * [*Textile remains of the Early Avar period cemetery at Babarc*](abstracts/2025-36.qmd)<br>**Flórián Harangi**
 * [*Application of Forensic Entomology in Archaeological Contexts: Insect Evidence from Medieval and Early Medieval Cemeteries in Hungary*](abstracts/2025-56.qmd)<br>**Csilla Libor**, Dóra Hegyi, Virág Kristóf, Ágnes Füredi, Csaba Bozó
 
-# Lithics, stones, building materials
+### Lithics, stones, building materials
 
 * [*Tracing the Provenance of Roman Marble Statues through Multi-Proxy Analysis*](abstracts/2025-42.qmd)<br>**Vasiliki Anevlavi**, Kalina Petkova, Vesselka Katsarova, Petya Andreeva, Walter Prochaska
 
