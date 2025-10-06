@@ -1,5 +1,5 @@
 ---
-title: 'Urns Under the Microscope: Petrographic analysis of Eight Iron Age pots from Funen, Denmark'
+title: 'Urns under the Microscope: Petrographic Analysis of Eight Iron Age pots from Funen, Denmark'
 date: "2025"
 date-format: "YYYY"
 Event: Workshop
