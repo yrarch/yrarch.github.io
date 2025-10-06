@@ -192,6 +192,7 @@ All times are given in Central European Summer Time (UTC+2). You can convert to 
 ### Ceramics, pottery, glazes
 * [*Urns Under the Microscope: Petrographic analysis of eight Iron Age pots from Funen, Denmark*](abstracts/2025-34.qmd)<br>**Christina Holdgaard Schultze**, Torbjörn Brorsson
 * [*Archaeometric analysis of late Sarmatian pottery recovered from Tázlár-Templomhegy settlement*](abstracts/2025-38.qmd)<br>**Vivien Bozsik**, Krisztián Fintor, Sándor Gulyás, Dorottya Walter, Dorottya Györkös, Attila Kreiter, Máté Szemerédi
+* [*Clay and pots from Eneolithic period*](abstracts/2025-39.qmd)<br>**Mădălina Dimache**
 * [*Blue and Pink Across the Strait: Stylistic, Material, and Technical Study of 20th-Century Japanese and Taiwanese Ceramic Tableware*](abstracts/2025-51.qmd)<br>**Han-Chun (Joanna) Hsieh**
 * [*First Archaeometric Results on Early Iron Age Ceramic Fragments from the Sanctuary of Apollo Pythios in Gortyn, Crete*](abstracts/2025-41.qmd)<br>**Bianca Costi Farias**, Anna Bertelli, Lara Maritan, Jacopo Bonetto
 
