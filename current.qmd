@@ -85,7 +85,7 @@ All times are given in Central European Summer Time (UTC+2).
 
 |||
 |--|--------|
-|tba|Icebreaker (self-paid)<!--<br />*<Location*-->|
+|19:00|Icebreaker (self-paid)<br>*Treffort Kert és Könyvtár Klub* (1088 Budapest, Múzeum krt. 4.)|
 
 ## **Oct. 15^th^**
 
@@ -93,7 +93,7 @@ All times are given in Central European Summer Time (UTC+2).
 |--|--------|
 |09:00 -- 09:30|Registration|
 |09:30 -- 09:50|Welcome|
-|09:50 -- 10:20|Keynote<!--: **<Speaker>**<br />*<title>*-->|
+|09:50 -- 10:20|Keynote: *Communities, connectivity and catastrophes in 6th century Pannonia: Challenges and possibilities of combining genetic, archaeological and historical perspectives*<br>**István Koncz**|
 ||**Session 1: Pigments, plaster and mortars**|
 |10:20 -- 10:40|[*The inter-instrumental comparability of semi-quantitative ED-XRF analyses of iron gall inks*](abstracts/2025-1.qmd)<br>**Ophelia Kloth**|
 |10:40 -- 11:00|[*Painters by the Yarmouk: Investigating Craft Organisation through Painted Plaster Analysis at Gadara and Tall Zira’a (Northern Jordan)*](abstracts/2025-2.qmd)<br>**Elena Cantero Ros**, Luc Megens, Brita Jansen, Hans Huisman, Susanne Kerner|
@@ -117,18 +117,17 @@ All times are given in Central European Summer Time (UTC+2).
 |||
 |15:20 -- 15:40|*Coffee break*|
 |||
-|16:00 -- 18:00|Guided tour in the Hungarian National Museum|
+|16:00 -- 18:00|Guided tour in the Hungarian National Museum (1088 Budapest, Múzeum krt. 14–16.)|
 
 ## **Oct. 16^th^**
 
 |||
 |--|--------|
-|09:00 -- 11:30|Visit at the Budapest Neutron Centre or ELTE RCH Institute of Archaeogenomics (with 30 minutes lectures)|
+|09:00 -- 11:30|Visit at the Budapest Neutron Centre (1121 Budapest, Konkoly-Thege Miklós út 29–33.) or ELTE RCH Institute of Archaeogenomics (1097 Budapest, Tóth Kálmán utca 4.)|
 |||
-|11:30 -- 13:00|*Lunch break*|
+|11:30 -- 13:20|*Lunch break*|
 |||
 ||**Bioarchaeology, part 1**|
-|13:00 -- 13:20|~~*Identification of Genomic Markers Associated with Tuberculosis in Ancient Individuals from the Americas*<br>**Ana Cristina de Lima Pedrozo Cardouzo**, André Luiz Campelo dos Santos, Henry Socrates Lavalle Sullasi~~|
 |13:20 -- 13:40|[*Strontium Isotopic and Proteomic Analyses on the Human Remains of the KGK VI sites of Sultana and Gumelnița, Romania*](abstracts/2025-13.qmd)<br>**Aurelien Tafani**, Enrico Greco, Robert H. Tykot, Kévin Salesse, Hannah F. James, Christophe Snoeck, Cătălin Lazăr|
 |13:40 -- 14:00|[*Early Thoughts on Childhood in Early Medieval Iceland (10th–13th Centuries AD)*](abstracts/2025-14.qmd)<br>**Maren von Mallinckrodt**|
 |14:00 -- 14:20|[*Gender, Age, and Social Identity in the Middle Bronze Age Burials from Western Hungary*](abstracts/2025-15.qmd)<br>**Eszter Melis** Tamás Hajdu, Anett Gémes, Katalin Gyenesei, Fabian Kanz, István Major, Attila Mrenka, Katharina Rebay-Salisbury, Bálint Savanyú, Viktória Kiss|
@@ -143,7 +142,7 @@ All times are given in Central European Summer Time (UTC+2).
 |16:40 -- 17:00|[*Archaeozoological investigations in the Late Neolithic site of Moftinu Mare-Hamiliz (Northwest Romania)*](abstracts/2025-18.qmd)<br>**Xenia Pop**|
 |17:00 -- 17:20|[*Ancient Parasitic Infection: A Millennium-Old Probable Echinococcal Cyst Discovered in an Avar Period Burial*](abstracts/2025-19.qmd)<br>**Csilla Libor**, László Előd Aradi, Norbert Kapcsos M., Kristóf Fehér, Botond Heltai, Dániel Gerber, Tamás Sréter, Dániel Csete, Gergely Szenthe, Erwin Gáll|
 |||
-|20:00|Conference dinner (self-paid)|
+|20:00|Conference dinner (self-paid)<br>*Vakvarjú Étterem Pest* (1061 Budapest Paulay Ede u. 7.)|
 
 ## **Oct. 17^th^**
 
@@ -161,11 +160,10 @@ All times are given in Central European Summer Time (UTC+2).
 ||**Session 7: Ceramics, part 2**|
 |11:00 -- 11:20|[*Unchanging tastes: Material choices in Hellenistic and Roman storage vessels from Nea Paphos*](abstracts/2025-25.qmd)<br>**Zofia Chomoncik**|
 |11:20 -- 11:40|[*Geochemical and mineralogical provenance analysis of West African pottery*](abstracts/2025-26.qmd)<br>**Juan-Marco Puerta Schardt**, Andreas Gaertner|
-|11:40 -- 12:00|~~*Applying a Multi-Proxy Approach to the Analysis of Archaeological Survey Ceramics from the Middle Euphrates*<br>**Antonia Höhne**~~|
-|12:00 -- 12:20|[*Exploring AI-assisted Image Segmentation for Ceramic Thin Section Analysis: some Experience with TagLab*](abstracts/2025-28.qmd)<br>**Elisabetta di Virgilio**, Federico Parisi, Diego Ronchi, Antonio Ferrandes, Marco Callieri|
-|12:20 -- 12:40|[*Iberian majolica finds in the medieval Kingdom of Hungary?*](abstracts/2025-29.qmd)<br>**Dorottya Györkös**, Zsófia Nádai, László Előd Aradi, Kristóf Fehér, Erika Kereskényi, Attila Kreiter|
+|11:40 -- 12:00|[*Exploring AI-assisted Image Segmentation for Ceramic Thin Section Analysis: some Experience with TagLab*](abstracts/2025-28.qmd)<br>**Elisabetta di Virgilio**, Federico Parisi, Diego Ronchi, Antonio Ferrandes, Marco Callieri|
+|12:00 -- 12:20|[*Iberian majolica finds in the medieval Kingdom of Hungary?*](abstracts/2025-29.qmd)<br>**Dorottya Györkös**, Zsófia Nádai, László Előd Aradi, Kristóf Fehér, Erika Kereskényi, Attila Kreiter|
 |||
-|12:40 -- 13:40|*Lunch break*|
+|12:20 -- 13:40|*Lunch break*|
 |||
 ||**Session 8: Geoarchaeology and geophysics**|
 |13:40 -- 14:00|[*Prehistoric Sites in Turkmenistan: A GIS-Based Overview of Spatial and Temporal Patterns*](abstracts/2025-30.qmd)<br>**Mahym Amanova**|
@@ -174,30 +172,37 @@ All times are given in Central European Summer Time (UTC+2).
 |||
 |14:40 -- 15:00|Closing|
 
-
 ## **Posters**
 
-* [*Characterization and Analysis of Wall Painting Fragments from the Sandrigo Estate of Aquileia for the Determination of a Chronological Framework*](abstracts/2025-33.qmd)<br>**Yarden Jessica Tsfoni**, Clelia Sbrolli, Andrea Cipolato, Daniela Cottica, Simone Dilaria
-* [*Urns Under the Microscope: Petrographic analysis of eight Iron Age pots from Funen, Denmark*](abstracts/2025-34.qmd)<br>**Christina Holdgaard Schultze**, Torbjörn Brorsson
-* [*Archaeometric analyses of Pozzolanic Mortars in Roman Thermal and Hydraulic Constructions at Nora, Sardinia*](abstracts/2025-35.qmd)<br>**Laura Buganza**, Zeno Caneva, Jacopo Bonetto, Caterina Previato, Simone Dilaria
-* [*Textile remains of the Early Avar period cemetery at Babarc*](abstracts/2025-36.qmd)<br>**Flórián Harangi**
-* [*Archaeometric analysis of late Sarmatian pottery recovered from Tázlár-Templomhegy settlement*](abstracts/2025-38.qmd)<br>**Vivien Bozsik**, Krisztián Fintor, Sándor Gulyás, Dorottya Walter, Dorottya Györkös, Attila Kreiter, Máté Szemerédi
-* [*Clay and pots from Eneolithic period*](abstracts/2025-39.qmd)<br>**Mădălina Dimache**
-* [*Insight into the corrosion pattern of cast copper coins from Tekttha, Naogaon, Bangladesh, using micro-XRD and SEM analysis*](abstracts/2025-40.qmd)<br>**Tamanna Jahan**, Sabikun Naher, Bulbul Ahmed, S.M. Tareque Abedin
-* [*First Archaeometric Results on Early Iron Age Ceramic Fragments from the Sanctuary of Apollo Pythios in Gortyn, Crete*](abstracts/2025-41.qmd)<br>**Bianca Costi Farias**, Anna Bertelli, Lara Maritan, Jacopo Bonetto
-* [*Tracing the Provenance of Roman Marble Statues through Multi-Proxy Analysis*](abstracts/2025-42.qmd)<br>**Vasiliki Anevlavi**, Kalina Petkova, Vesselka Katsarova, Petya Andreeva, Walter Prochaska
+### Bioarchaeology, diet, mobility
+
 * [*The Lord of the Shrooms: A Sensor’s Quest to Detect Ancient Ergot*](abstracts/2025-44.qmd)<br>**Justina Stonyte**, Paulina Morkyte, Giedre Motuzaite Matuzeviciute, Rasa Pauliukaite
-* [*Non-sign Elements in Harappan Civilization: Spatio-Temporal Mapping *](abstracts/2025-46.qmd)<br>**Anshika Singh**
-* [*Ancient Egyptian Restoration Practices in the Second Intermediate Period: An Archaeometric and  Textual Study*](abstracts/2025-47.qmd)<br>**Moaz Shaaban Talaat Ata**, Hossam Hegazi
-* [*Reconstructing Ancient Diets through Residue Analysis: A Case Study from Thimlich Ohinga, Kenya*](abstracts/2025-48.qmd)<br>**Patrick Munyao **
-* [*Archaeometric study of the Purna River, Tapi basin, India: A Review*](abstracts/2025-49.qmd)<br>**Rupesh Dhokane**, Prabash Sahu
-* [*Beads as cultural blueprints: Decoding society and landscape in Iron Age Tamilagam *](abstracts/2025-50.qmd)<br>**Rithik Pramod **, Tanaya Acharjee
+
+### Ceramics, pottery, glazes
+* [*Urns Under the Microscope: Petrographic analysis of eight Iron Age pots from Funen, Denmark*](abstracts/2025-34.qmd)<br>**Christina Holdgaard Schultze**, Torbjörn Brorsson
+* [*Archaeometric analysis of late Sarmatian pottery recovered from Tázlár-Templomhegy settlement*](abstracts/2025-38.qmd)<br>**Vivien Bozsik**, Krisztián Fintor, Sándor Gulyás, Dorottya Walter, Dorottya Györkös, Attila Kreiter, Máté Szemerédi
 * [*Blue and Pink Across the Strait: Stylistic, Material, and Technical Study of 20th-Century Japanese and Taiwanese Ceramic Tableware*](abstracts/2025-51.qmd)<br>**Han-Chun (Joanna) Hsieh**
+* [*First Archaeometric Results on Early Iron Age Ceramic Fragments from the Sanctuary of Apollo Pythios in Gortyn, Crete*](abstracts/2025-41.qmd)<br>**Bianca Costi Farias**, Anna Bertelli, Lara Maritan, Jacopo Bonetto
+
+### Pigments, mortars
+
+* [*Characterization and Analysis of Wall Painting Fragments from the Sandrigo Estate of Aquileia for the Determination of a Chronological Framework*](abstracts/2025-33.qmd)<br>**Yarden Jessica Tsfoni**, Clelia Sbrolli, Andrea Cipolato, Daniela Cottica, Simone Dilaria
+* [*Ancient Egyptian Restoration Practices in the Second Intermediate Period: An Archaeometric and  Textual Study*](abstracts/2025-47.qmd)<br>**Moaz Shaaban Talaat Ata**, Hossam Hegazi
+* [*Archaeometric analyses of Pozzolanic Mortars in Roman Thermal and Hydraulic Constructions at Nora, Sardinia*](abstracts/2025-35.qmd)<br>**Laura Buganza**, Zeno Caneva, Jacopo Bonetto, Caterina Previato, Simone Dilaria
 * [*Technological Practices in the Production of Cave Paintings: An Archaeometric Approach Using Experimental Archaeology*](abstracts/2025-52.qmd)<br>**Catalina Venegas Peña**
-* [*Iron smelting in the Árpádian period – Excavation of the Réde–Bika-rét site*](abstracts/2025-53.qmd)<br>**Holy Fanni**, Győri-Pórszász Anna, Merkl Máté Róbert
-* [*Reconstruction prehistoric settlement: An Geoarcharcheological study of  Mesolithic assemblage of Bhaski, Chota Nagpur, India. *](abstracts/2025-54.qmd)<br>**Sukanya Guha Niyogi**
-* [*Compositional Diversity in Indus Faience: SEM-EDS Analysis of Beads from Gujarat*](abstracts/2025-55.qmd)<br>**Sneha Chavali**
+
+### Metals
+
+* [*Insight into the corrosion pattern of cast copper coins from Tekttha, Naogaon, Bangladesh, using micro-XRD and SEM analysis*](abstracts/2025-40.qmd)<br>**Tamanna Jahan**, Sabikun Naher, Bulbul Ahmed, S.M. Tareque Abedin
+
+### Organic materials, organic residues, textiles
+
+* [*Textile remains of the Early Avar period cemetery at Babarc*](abstracts/2025-36.qmd)<br>**Flórián Harangi**
 * [*Application of Forensic Entomology in Archaeological Contexts: Insect Evidence from Medieval and Early Medieval Cemeteries in Hungary*](abstracts/2025-56.qmd)<br>**Csilla Libor**, Dóra Hegyi, Virág Kristóf, Ágnes Füredi, Csaba Bozó
+
+# Lithics, stones, building materials
+
+* [*Tracing the Provenance of Roman Marble Statues through Multi-Proxy Analysis*](abstracts/2025-42.qmd)<br>**Vasiliki Anevlavi**, Kalina Petkova, Vesselka Katsarova, Petya Andreeva, Walter Prochaska
 
 :::
 
