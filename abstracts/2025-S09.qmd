@@ -1,0 +1,17 @@
+---
+title: 'Egyptian blue production: a diachronic perspective'
+date: "2025"
+date-format: "YYYY"
+Event: Seminar
+categories: [Egyptian blue, Ancient materials, Ancient technology, High-temperature processes, Technical ceramics]
+author: 
+  - name: Ilia Kovalev
+    corresponding: true
+    email: i.kovalev@cyi.ac.cy
+---
+  
+*This paper was presented at the YRA seminar series in September 2025.*
+
+Egyptian blue is the earliest known artificially produced inorganic pigment, which from its first appearance in Early Bronze Age Egypt remained an intrinsic part of the artistic palette over several millennia. The application of Egyptian blue was not limited to being used as a pigment only, as it also served as a raw material for the production of small objects like beads, scarabs, and figurines. From the material science standpoint, Egyptian blue is a multi-phase material comprising crystals of cuprorivaite (CaCuSi~4~O~10~) embedded in an amorphous glass phase along with possible remains of partially reacted raw materials. While the chemical and physical properties of Egyptian blue are fairly well understood, our grasp on the broader context of its production remains limited. Being a high-temperature process, the production of Egyptian blue necessitates the use of crucibles. The present talk will focus on Egyptian blue crucibles from LBA Qantir, Iron Age Kom Tuman, and Hellenistic/Roman Kom Helul in an attempt to highlight the diachronic change in Egyptian blue production.  
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

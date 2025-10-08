@@ -1,0 +1,18 @@
+---
+title: 'Accelerated thermal and freeze-thaw cycling effects on the durability of Greek marble in built heritage'
+date: "2025"
+date-format: "YYYY"
+Event: Seminar
+categories: [Climate change factors, Marble, Built heritage, Deterioration, Greece]
+author: 
+  - name: Meilin Lyu
+    orcid: 0000-0002-7683-682X
+    corresponding: true
+    email: sarameilin1712@gmail.com
+---
+  
+*This paper was presented at the YRA seminar series in July 2025.*
+
+The durability of marble heritage structures is increasingly threatened by climate change-induced temperature fluctuations and moisture variability. This study examines the impact of two key weathering processes---thermal cycling and freeze-thaw (FT) cycling---on three types of Greek marble commonly used in built heritage. The primary aim is to assess the extent of structural deterioration caused by repeated heating, cooling, freezing, and thawing, simulating real-world climatic stresses. This study aimed to study both the surface and interior deterioration of Greek marble. The changes were assessed in terms of sub-surface structural alterations analyzed using state-of-the-art techniques such as ultrasonic pulse velocity (UPV) and x-ray computed tomography; surface observations were conducted using digital microscopy and SEM, while the strength properties of Greek marbles were evaluated using compressive strength testing. Additionally, chemical minerals in Naxos marble inclusions were investigated using handheld XRF. The study highlights the differential impact of thermal and moisture-related stresses on marble deterioration, emphasizing the anisotropic behavior of different marble types. These results have significant implications for conservation strategies, underscoring the need for protective treatments such as water repellents and microclimate stabilization to mitigate both thermal and moisture-induced damage. By integrating controlled laboratory simulations with environmental stressors, this research contributes to a deeper understanding of the long-term resilience of marble heritage under evolving climatic conditions.  
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
