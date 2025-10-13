@@ -9,6 +9,8 @@ author:
     orcid: 0009-0002-5777-6144
     corresponding: true
     email: Puerta-Schardt@em.uni-frankfurt.de
+  - name: Andreas Gaertner
+
 ---
 
 *This paper was presented at the YRA Workshop 2025 in Budapest.*

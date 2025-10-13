@@ -112,8 +112,9 @@ All times are given in Central European Summer Time (UTC+2). You can convert to 
 |||
 |11:20 -- 11:40|*Coffee break*|
 |||
+|11:40 -- 12:00|*Awards ceremony*|
+|||
 ||**Session 2: Glass and building materials**|
-|11:40 -- 12:00|[*Glass types in Bronze and Iron Age Southeast Hungary*](abstracts/2025-4.qmd)<br>**Zsófia Sz. Osváth**, Bernadett Bajnóczi, Máté Szabó|
 |12:00 -- 12:20|[*Beyond Provenance: Reconstructing Exchange Routes, Production Processes, and Recycling based on Early Medieval Glass Beads from Zweeloo (the Netherlands)*](abstracts/2025-5.qmd)<br>**Nina Schreuder**|
 |12:20 -- 12:40|[*Research on Burnt Early Copper Age Houses at Marosnagylak*](abstracts/2025-6.qmd)<br>**Eszter Horváth**, Dorottya Láng, András Füzesi|
 |12:40 -- 13:00|[*A close-up on prehistorical household structures. Case study: micromorphology in the Bronze Age tell settlement from Sântion - Movila Mănăstirii (Bihor county, Romania)*](abstracts/2025-7.qmd)<br>**Alexandra Stache**, Florin Gogâltan, Emanoil Săsăran|
