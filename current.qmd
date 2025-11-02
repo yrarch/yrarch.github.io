@@ -202,18 +202,11 @@ All times are given in Central European Summer Time (UTC+2). You can convert to 
 ### Pigments, mortars
 
 * [*Characterization and Analysis of Wall Painting Fragments from the Sandrigo Estate of Aquileia for the Determination of a Chronological Framework*](abstracts/2025-33.qmd)<br>**Yarden Jessica Tsfoni**, Clelia Sbrolli, Andrea Cipolato, Daniela Cottica, Simone Dilaria
-* [*Ancient Egyptian Restoration Practices in the Second Intermediate Period: An Archaeometric and  Textual Study*](abstracts/2025-47.qmd)<br>**Moaz Shaaban Talaat Ata**, Hossam Hegazi
 * [*Archaeometric analyses of Pozzolanic Mortars in Roman Thermal and Hydraulic Constructions at Nora, Sardinia*](abstracts/2025-35.qmd)<br>**Laura Buganza**, Zeno Caneva, Jacopo Bonetto, Caterina Previato, Simone Dilaria
-* [*Technological Practices in the Production of Cave Paintings: An Archaeometric Approach Using Experimental Archaeology*](abstracts/2025-52.qmd)<br>**Catalina Venegas Peña**
-
-### Metals
-
-* [*Insight into the corrosion pattern of cast copper coins from Tekttha, Naogaon, Bangladesh, using micro-XRD and SEM analysis*](abstracts/2025-40.qmd)<br>**Tamanna Jahan**, Sabikun Naher, Bulbul Ahmed, S.M. Tareque Abedin
 
 ### Organic materials, organic residues, textiles
 
 * [*Textile remains of the Early Avar period cemetery at Babarc*](abstracts/2025-36.qmd)<br>**Flórián Harangi**
-* [*Application of Forensic Entomology in Archaeological Contexts: Insect Evidence from Medieval and Early Medieval Cemeteries in Hungary*](abstracts/2025-56.qmd)<br>**Csilla Libor**, Dóra Hegyi, Virág Kristóf, Ágnes Füredi, Csaba Bozó
 
 ### Lithics, stones, building materials
 
