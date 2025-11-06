@@ -129,7 +129,7 @@ This talk introduces archaeo-metabolomics, the study of small molecules (metabol
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## October 29^th^ – Aitor Brito Mayor (University of Las Palmas de Gran Canaria, Spain)
 **Time:** 2:00 pm (UTC)    
-**Title:** Zooarchaeology and isotopic evidence for subsistence in Fuerteventura: the animals of the Majos (Canary Islands)  
+**Title:** [Zooarchaeology and isotopic evidence for subsistence in Fuerteventura: the animals of the Majos (Canary Islands)](https://www.yra-ecr.org/abstracts/2025-S10.html)  
 **Keywords:** Zooarchaeology; Stable isotopes; Arid; Island; Diet  
 **Abstract:** Preliminary isotopic analyses of human remains from Fuerteventura suggest a notable reliance on marine resources, raising questions about previously proposed models of subsistence. To address this, we conducted zooarchaeological and preliminary isotopic analyses (δ^13^C and δ^15^N) on faunal assemblages from three archaeological sites on the island. Our study aimed to provide a more comprehensive understanding of the dietary strategies employed by the Majos and the role of environmental constraints in shaping subsistence practices.  
 The zooarchaeological evidence reveals a diverse spectrum of exploited fauna, including domestic animals, wild terrestrial species, and marine resources, suggesting a more diversified subsistence strategy than previously assumed. Isotopic analyses of terrestrial faunal remains display unusually high nitrogen values and positive carbon signatures, likely reflecting the arid conditions of Fuerteventura and the absence of significant mountainous regions, which influence local isotopic baselines. This research highlights the need to integrate human and faunal remains in isotopic studies to elucidate the complex interaction between environmental factors, subsistence strategies, and isotopic signatures in archaeological contexts.
@@ -144,8 +144,14 @@ The zooarchaeological evidence reveals a diverse spectrum of exploited fauna, in
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## December – Petra Tušlová (Charles University, Czech Republic & British School at Athens, Greece)
-*Date, title and abstract will be announced soon.*
+## December 2^nd^ – Petra Tušlová (Charles University, Czech Republic & British School at Athens, Greece)
+**Time:** 4:00 pm (UTC)  
+**Title:** Investigating handmade pottery in Roman Thrace through an integrated analytical approach  
+**Co-authors:** S. Amicone, N.S. Müller, R. Thér, V. Brychová, K. Králová, M. Kohoutková, E. Kiriatzi  
+**Keywords:** Roman period; Thrace; Handmade pottery; Tradition; Scientific analyses  
+**Abstract:** In the early Iron Age (ca. 1200 BC) several distinctive vessel forms of handmade pottery emerged in Thrace, broad region encompassing modern southern Romania, Bulgaria, northern Greece, and European Turkey. The same forms persisted in the area throughout the Roman period until the 4^th^ c. AD despite the wheel-made coarse ware being prevalent. In the area, it is often seen as evidence of the continuation of local, Thracian, pottery making tradition, and it is commonly interpreted as evidence for local communities coexisting with the Romans in the same settlements.  
+Representative samples of such handmade pottery from three sites in Yambol District in south-eastern Bulgaria dated to the 2^nd^--4^th^ c. AD were examined to address questions of production, location and circulation of the pottery, as well as of manufacturing technology and use. Different analytical methods were combined, including ceramic petrography, WD-XRF and XRD analyses, lipid analysis and computed tomography. The ceramic fabrics were compared to geological samples collected from an area covering more than 40 sq km around the three sites. The results revealed three main fabrics corresponding to three main areas of possible origin but also indicated some circulation of those vessels within the studied area, suggesting that at least some of the pottery was involved in trade. The vessels of the three fabrics were produced in the same manner and the analysed samples suggest meat-based content.  
+The results raise the question of whether the vessels themselves were the primary traded goods, or whether they could have served as containers, e.g. for marinated meat, produced and distributed by the Thracian communities.
 :::
 
 ## Programme - 2024

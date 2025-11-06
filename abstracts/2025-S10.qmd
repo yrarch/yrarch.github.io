@@ -1,0 +1,19 @@
+---
+title: 'Zooarchaeology and isotopic evidence for subsistence in Fuerteventura: the animals of the Majos (Canary Islands)'
+date: "2025"
+date-format: "YYYY"
+Event: Seminar
+categories: [Zooarchaeology, Stable isotopes, Arid, Island, Diet]
+author: 
+  - name: Aitor Brito Mayor
+    orcid: 0000-0002-2453-7780
+    corresponding: true
+    email: aitor.brito@ulpgc.es
+---
+  
+*This paper was presented at the YRA seminar series in October 2025.*
+
+Preliminary isotopic analyses of human remains from Fuerteventura suggest a notable reliance on marine resources, raising questions about previously proposed models of subsistence. To address this, we conducted zooarchaeological and preliminary isotopic analyses (δ^13^C and δ^15^N) on faunal assemblages from three archaeological sites on the island. Our study aimed to provide a more comprehensive understanding of the dietary strategies employed by the Majos and the role of environmental constraints in shaping subsistence practices.  
+The zooarchaeological evidence reveals a diverse spectrum of exploited fauna, including domestic animals, wild terrestrial species, and marine resources, suggesting a more diversified subsistence strategy than previously assumed. Isotopic analyses of terrestrial faunal remains display unusually high nitrogen values and positive carbon signatures, likely reflecting the arid conditions of Fuerteventura and the absence of significant mountainous regions, which influence local isotopic baselines. This research highlights the need to integrate human and faunal remains in isotopic studies to elucidate the complex interaction between environmental factors, subsistence strategies, and isotopic signatures in archaeological contexts.    
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
