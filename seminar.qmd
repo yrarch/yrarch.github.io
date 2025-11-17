@@ -11,7 +11,7 @@ The time slots of each presentation will be accommodated to be the most comforta
 
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting (Meeting-ID: 988 6914 5922; code: YRA-S2025).
 
-## Next presentation: November 14^th^, at 10:00 am (UTC)
+## Next presentation: December 2^nd^, at 4:00 pm (UTC)
 
 ::: {.column-margin}
 
@@ -22,22 +22,24 @@ Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 
 **Code:** YRA-S2025  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20251114T100000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20251202T160000&p1=1440).
 
 :::
 
-**_Worlds on a string. On beads and exchange in Merovingian northern Gaul_**  
+**_Investigating handmade pottery in Roman Thrace through an integrated analytical approach_**  
 
-**Mette Langbroek** (Leiden University & SAGA Archeologie, The Netherlands)  
+**Petra Tušlová** (Charles University, Czech Republic & British School at Athens, Greece)  
 
-**Keywords:** Beads; Exchange; Early Middle Ages; Merovingian period; Grave goods  
+**Co-authors:** S. Amicone, N.S. Müller, R. Thér, V. Brychová, K. Králová, M. Kohoutková, E. Kiriatzi  
+
+**Keywords:** Roman period; Thrace; Handmade pottery; Tradition; Scientific analyses  
 
 **Abstract:**  
-Mette Langbroek is a PhD researcher at Leiden University and works as a materials specialist and researcher at SAGA Archaeology. She studied Historical Archaeology at Leiden University (2016, cum laude) and specializes in early medieval exchange networks, Merovingian and Carolingian beads, combining chemical analyses of these beads with new ways of thinking about Merovingian archaeology. In addition to her research work, she works as a materials specialist and object photographer at SAGA Archaeology and was a guest curator at the National Museum of Antiquities on the exhibition 5000 Years of Beads. In this lecture, Mette will discuss her research on exchange in the early Middle Ages, using beads that were frequently placed in graves with the deceased during this period. Surprisingly, these beads were often imported over vast distances. The rural population of Northern Gaul during the Merovingian period thus had access to trade networks that stretched from England to far into Asia.  
+In the early Iron Age (ca. 1200 BC) several distinctive vessel forms of handmade pottery emerged in Thrace, broad region encompassing modern southern Romania, Bulgaria, northern Greece, and European Turkey. The same forms persisted in the area throughout the Roman period until the 4^th^ c. AD despite the wheel-made coarse ware being prevalent. In the area, it is often seen as evidence of the continuation of local, Thracian, pottery making tradition, and it is commonly interpreted as evidence for local communities coexisting with the Romans in the same settlements.  
+Representative samples of such handmade pottery from three sites in Yambol District in south-eastern Bulgaria dated to the 2^nd^--4^th^ c. AD were examined to address questions of production, location and circulation of the pottery, as well as of manufacturing technology and use. Different analytical methods were combined, including ceramic petrography, WD-XRF and XRD analyses, lipid analysis and computed tomography. The ceramic fabrics were compared to geological samples collected from an area covering more than 40 sq km around the three sites. The results revealed three main fabrics corresponding to three main areas of possible origin but also indicated some circulation of those vessels within the studied area, suggesting that at least some of the pottery was involved in trade. The vessels of the three fabrics were produced in the same manner and the analysed samples suggest meat-based content.  
+The results raise the question of whether the vessels themselves were the primary traded goods, or whether they could have served as containers, e.g. for marinated meat, produced and distributed by the Thracian communities.  
 
-![](assets/img/Seminar/2025-11_Langbroek_copyright.jpg)  
-*This string of 121 beads of glass, amber and faience was found around the neck of a girl of 5 or 6 years old in grave 40 from the 6^th^ century cemetery of Lent-Lentseveld. The beads in this string were made with varying techniques and have origins in Europe, the Baltic, the Near East, Egypt, the Middle East and India.*  
-*Photos by: A. Dekker and M. Langbroek, design by: F. Ruys, Vizualism, in cooperation with J. Hendriks, Gemeente Nijmegen and Provincie Gelderland.*  
+![](assets/img/Seminar/2025-12_Tuslova_copyright.jpg)  
 
 ## Programme - 2025
 
