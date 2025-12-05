@@ -17,6 +17,7 @@ Andrea (Eötvös Loránd University) is a doctoral student in the Department of 
 
 :::
 
+<!-- 
 ## Anna Karligkioti [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9237-7830)
 
 ::: {layout="[ 25 , 75 ]"}
@@ -30,6 +31,7 @@ Anna (Cyprus Institute) is a PhD candidate in Bioarchaeology, funded by the A.G.
 :::
 
 :::
+-->
 
 ## Baptiste Solard [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8215-5721)
 
@@ -46,6 +48,7 @@ Baptiste (Universität Tübingen) completed his Diplôme d’ingénieur chimiste
 :::
 
 
+<!--
 ## Chase Minos [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8880-880X)
 
 ::: {layout="[ 25 , 75 ]"}
@@ -59,6 +62,7 @@ Chase (Cyprus Institute) is a PhD candidate in the Science and Technology in Arc
 :::
 
 :::
+-->
 
 ## Enikő Somogyvári-Lajtár
 
@@ -88,6 +92,19 @@ Eszter (Eötvös Loránd University, Paris 1 Panthéon-Sorbonne University) is a
 
 :::
 
+## Justina Stonytė [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0002-5722-7727)
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/yra-logo.svg)
+:::
+
+::: {#column-text}
+Justina (Center for Physical Sciences and Technology, Lithuania) is a PhD candidate in Chemistry. Her doctoral research, titled “Uncovering Chemical Fungal Footprints in Archaeological Samples” bridges molecular biology, electrochemistry, and bioarchaeology. Her work aims to develop innovative analytical methods for heritage science and to shed light on the overlooked relationships between humans and fungi in the past.
+:::
+
+:::
+
 ## Kyriaki Tsirtsi [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-1861-7987)
 
 ::: {layout="[ 25 , 75 ]"}
@@ -106,17 +123,28 @@ In MedisFood, Kyriaki holds a Post-Doctorate position where she explores the lon
 
 :::
 
-
-## Sinem Hacıosmanoğlu [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-2913-1007)
-
+## Maren von Mallinckrodt [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0006-0704-0840)
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/Sinem_150x150.png)
+![](assets/img/MvMallinckrodt.png)
 :::
 
 ::: {#column-text}
-Sinem (Universität Tübingen) is a PhD candidate at the University of Tübingen, Germany, Department of Geoscience, Institute for Archeological Sciences. She completed her bachelor (BSc) and master (MSc) at Istanbul Technical University (Turkey) in the Department of Geological Engineering. In her PhD project, she investigates clay resources and ancient ceramics from the Late Bronze Age and the Iron Age in Cilicia, Southeast Anatolia, Eastern Mediterranean by using several disciplines, such as mineralogy, petrography, geochemistry and field geology. In addition, she is working as a research assistant on several projects funded by the German Research Foundation (DFG) and hosted at the Competence Center Archaeometry - Baden-Württemberg (CCA-BW). Since 2023, she has been contributing as a scientific researcher at the Leibniz-Zentrum für Archäologie (LEIZA) focusing on Roman Pottery from Speicher.
+Maren is a PhD candidate in Biological Anthropology at the University of Iceland. She completed her BA in Pre- and Protohistoric Archaeology at the University of Heidelberg (Germany) in 2023. In 2025, she graduated with a MA in Historical Archaeology at the School of Humanities, University of Iceland, where her thesis focused on reconstructing physical activity in non-adult skeletal remains from two archaeological sites in historical Iceland. Maren started her PhD project in August 2025 at the School of Social Sciences at the University of Iceland under the supervision of Prof. Agnar Helgason. Her doctoral research examines non-adult skeletons from several medieval Icelandic sites using macroscopic and biomolecular approaches, with the aim of addressing questions related to health, mortality, and social identity among infants and children in historical Iceland.
+:::
+
+:::
+
+## Paola Pizzo [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0004-7915-4797)
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/img/PPizzo.png)
+:::
+
+::: {#column-text}
+Paola (Czech Academy of Sciences) is a postdoctoral researcher at the Institute of Archaeology (Brno) and at the Institute of Theoretical and Applied Mechanics of the Czech Academy of Sciences. After completing her BA and MA in Archaeology at the University of Turin (Italy), she joined the Marie Skłodowska-Curie doctoral network “PlaCe-ITN” as a PhD candidate. Her PhD (Charles University, Czech Republic) focused on plaster production in the Paphos district (Cyprus) between the Late Bronze Age and the Roman period. After obtaining her PhD in early 2025, she began working as a postdoctoral researcher at the Czech Academy of Sciences focusing on various projects concerning plasters and mortars across the Czech Republic. 
 :::
 
 :::
@@ -135,16 +163,16 @@ Prudence (Ghent University) is a PhD candidate in bioarchaeology at Archeos, the
 
 :::
 
-## Rebeka Gergácz 
+## Sinem Hacıosmanoğlu [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-2913-1007)
 
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/RGergácz.png)
+![](assets/img/Sinem_150x150.png)
 :::
 
 ::: {#column-text}
-Rebeka (Eötvös Loránd University; Hungarian National Museum) is a PhD candidate at Eötvös Loránd University, Doctoral School of History (Budapest, Hungary) and an archaeologist at the Hungarian National Museum, National Institute of Archaeology (Budapest, Hungary). She completed her bachelor's (BA) and master's (MA) at Eötvös Loránd University (Hungary) in the Department of Archaeometry and Archaeological Methodology with a focus on the non-destructive surveying of multi-period site complexes and GIS. She started her PhD in 2023, investigating Late Iron Age settlements and their patterns in the Váli Valley (Hungary) using non- and semi-destructive research methods such as fieldwalking, aerial reconnaissance, geophysical prospection and metal detector surveying. She also plans to analyse the gained data in GIS to better understand the Late Iron Age settlement patterns and landscape in the area.
+Sinem (Universität Tübingen) is a PhD candidate at the University of Tübingen, Germany, Department of Geoscience, Institute for Archeological Sciences. She completed her bachelor (BSc) and master (MSc) at Istanbul Technical University (Turkey) in the Department of Geological Engineering. In her PhD project, she investigates clay resources and ancient ceramics from the Late Bronze Age and the Iron Age in Cilicia, Southeast Anatolia, Eastern Mediterranean by using several disciplines, such as mineralogy, petrography, geochemistry and field geology. In addition, she is working as a research assistant on several projects funded by the German Research Foundation (DFG) and hosted at the Competence Center Archaeometry - Baden-Württemberg (CCA-BW). Since 2023, she has been contributing as a scientific researcher at the Leibniz-Zentrum für Archäologie (LEIZA) focusing on Roman Pottery from Speicher.
 :::
 
 :::
