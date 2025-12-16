@@ -3,22 +3,21 @@ title: "Young Researchers in Archaeometry 2026"
 lightbox: true
 ---
 
-<!-- ::: {.callout-note}
+::: {.callout-note}
 ## YRA2026 Key dates
-~~**April 1^st^** -- [Abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6) opens~~  
-~~**May 31^st^** -- Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
-~~**June 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/txhdzYgtvHt5LEoh6)~~  
-~~**July 1^st^** -- Announcement of abstracts decisions~~  
-~~**July 1^st^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) opens~~  
-~~**Aug 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes **for presenters**~~  
-~~**Sept 1^st^** -- Preliminary program available~~  
-~~**Sept 15^th^** -- [Registration](https://forms.gle/vJCm7feYgBijP4FGA) closes **for participants**~~  
-~~**Oct 1^st^** -- Meeting details and final program available~~  
-**Oct 14^th^--17^th^** -- YRA2025 in Budapest   
-**Oct 31^st^** -- Certificates sent to participants  
-**Jan 31^st^** -- Submission deadline for the [Proceedings](https://www.yra-ecr.org/current.html#proceedings).
+**March 1^st^** -- [Abstract submission]() opens  
+**May 1^st^** -- Deadline for [abstract submission]()  
+<!-- **May 15^th^** -- **EXTENDED** Deadline for [abstract submission]()  -->
+**June 15^th^** -- Announcement of abstracts decisions  
+**June 15^th^** -- [Registration]() opens  
+**Aug 1^st^** -- [Registration]() closes **for presenters**  
+**Aug 15^th^** -- Preliminary program available  
+**Sept 1^st^** -- [Registration]() closes **for participants**  
+**Oct 1^st^** -- Meeting details and final program available  
+**Oct 28^th^ -- 30^th^** -- YRA2026 in Reykjavik  
+**Nov 15^th^** -- Certificates sent to participants  
 :::
--->
+
 ## Save the date! 
 
 YRA2026 will be hosted by the National Museum of Iceland in Reykjavik (Iceland) from 28 to 30 October 2026. More information will follow soon. 
