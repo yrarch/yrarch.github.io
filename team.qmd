@@ -3,6 +3,7 @@ title: "Meet the team"
 lightbox: true
 ---
 
+<!--
 ## Andrea Mészáros 
 
 ::: {layout="[ 25 , 75 ]"}
@@ -16,7 +17,7 @@ Andrea (Eötvös Loránd University) is a doctoral student in the Department of 
 :::
 
 :::
-
+-->
 <!-- 
 ## Anna Karligkioti [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9237-7830)
 
@@ -76,6 +77,7 @@ Chase (Cyprus Institute) is a PhD candidate in the Science and Technology in Arc
 :::
 -->
 
+<!--
 ## Enikő Somogyvári-Lajtár
 
 ::: {layout="[ 25 , 75 ]"}
@@ -89,20 +91,7 @@ Enikő (Eötvös Loránd University, Hungary) is a PhD candidate in bioarchaeolo
 :::
 
 :::
-
-## Eszter Solnay [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-1647-9699)
-
-::: {layout="[ 25 , 75 ]"}
-
-::: {#column-image}
-![](assets/img/ESolnay.png)
-:::
-
-::: {#column-text}
-Eszter (Eötvös Loránd University, Paris 1 Panthéon-Sorbonne University) is a PhD candidate in archaeology at Eötvös Loránd University (ELTE), Budapest, Hungary and at Paris 1 Panthéon-Sorbonne University, Paris, France. She is a member of the UMR 8215 Trajectoires Laboratory in Paris and part of the MTA-ELTE Lendület "Momentum" Innovation Research Group at Eötvös Loránd University, Institute of Archaeological Sciences in Budapest. Her studies focus on analysing prehistoric pottery vessel making, especially the forming and surface treatment techniques on Early and Middle Copper Age vessels from the Carpathian Basin (Hungary).
-:::
-
-:::
+-->
 
 ## Joe Walser III [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9329-579X)
 ::: {layout="[ 25 , 75 ]"}
