@@ -47,6 +47,18 @@ Baptiste (Universität Tübingen) completed his Diplôme d’ingénieur chimiste
 
 :::
 
+## Cecilia Rose Collins [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-4906-637X)
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/img/CCollins.png)
+:::
+
+::: {#column-text}
+Cecilia is a Postdoctoral Research Associate at the Institute for Biomedical and Neural Engineering, Reykjavík University. She currently holds a postdoctoral grant awarded by Rannís, the Icelandic Centre for Research, which aims to advance lab-based 3D and microscopic methods in archaeological science in Iceland.
+:::
+
+:::
 
 <!--
 ## Chase Minos [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8880-880X)
@@ -91,6 +103,20 @@ Eszter (Eötvös Loránd University, Paris 1 Panthéon-Sorbonne University) is a
 :::
 
 :::
+
+## Joe Walser III [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9329-579X)
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/img/JWalser.png)
+:::
+
+::: {#column-text}
+Joe completed a BA in Anthropology at Temple University, MSc in Palaeopathology at Durham University and PhD in Archaeology at the University of Iceland. He works as Curator of Physical Anthropology at the National Museum of Iceland. Joe also teaches the courses Human Osteology and Introduction to Collection Management at the University of Iceland. Joe‘s research interests include human osteology, bioarchaeology, medical history, museum studies and archaeometry.
+:::
+
+:::
+
 
 ## Justina Stonytė [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0002-5722-7727)
 ::: {layout="[ 25 , 75 ]"}
@@ -177,6 +203,7 @@ Sinem (Universität Tübingen) is a PhD candidate at the University of Tübingen
 
 :::
 
+<!--
 ## Tamanna Jahan Keya 
 
 ::: {layout="[ 25 , 75 ]"}
@@ -190,6 +217,7 @@ Tamanna (Jahangirnagar University) is a post-graduate student in the Department 
 :::
 
 :::
+-->
 
 ## Thomas Rose [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
 
