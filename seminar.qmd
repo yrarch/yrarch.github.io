@@ -9,37 +9,53 @@ We are happy to announce a new Seminar Series with monthly presentations highlig
 Each month, we will host an online 1-hour meeting, with about 30 minutes presentations followed by a discussion on the topic. ECRs from around the globe will be invited to present diverse topics, reflecting the multidisciplinary character of archaeological sciences. We aim to have these talks in a relaxed atmosphere, with discussions around a cup of morning coffee, a lunch break, or an afternoon tea depending on the time zone of the participants.  
 The time slots of each presentation will be accommodated to be the most comfortable for the presenter and listeners from their targeted research area.
 
-The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting (Meeting-ID: 988 6914 5922; code: YRA-S2025).
+The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting.
+(Meeting-ID: 988 6914 5922; code: YRA-S2026).
 
-## Next presentation: December 2^nd^, at 4:00 pm (UTC)
+## Next presentation: January 30^th^, at 1:00 pm (UTC)
 
 ::: {.column-margin}
 
 ::: {.callout}
 ## Seminar Zoom link 
-Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting.  
+Click [here](https://zoom.us/j/98869145922?pwd=s3MMqiEdM9LbEXfImob0Sr0UY7hRYc.1) to join the Zoom meeting.  
 **Meeting-ID:** 988 6914 5922  
-**Code:** YRA-S2025  
+**Code:** YRA-S2026  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20251202T160000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20260130T130000&p1=1440).
 
 :::
 
-**_Investigating handmade pottery in Roman Thrace through an integrated analytical approach_**  
+**_Hidden in the_ fumier _: geoarchaeological insights into the herding practices of the Auaritas (La Palma, Canary Islands)_**  
 
-**Petra Tušlová** (Charles University, Czech Republic & British School at Athens, Greece)  
+**Enrique Fernández-Palacios** (University of Kiel, Germany)  
 
-**Co-authors:** S. Amicone, N.S. Müller, R. Thér, V. Brychová, K. Králová, M. Kohoutková, E. Kiriatzi  
+*More information coming soon*
 
-**Keywords:** Roman period; Thrace; Handmade pottery; Tradition; Scientific analyses  
+<!--**Keywords:** Roman period; Thrace; Handmade pottery; Tradition; Scientific analyses  
 
 **Abstract:**  
 In the early Iron Age (ca. 1200 BC) several distinctive vessel forms of handmade pottery emerged in Thrace, broad region encompassing modern southern Romania, Bulgaria, northern Greece, and European Turkey. The same forms persisted in the area throughout the Roman period until the 4^th^ c. AD despite the wheel-made coarse ware being prevalent. In the area, it is often seen as evidence of the continuation of local, Thracian, pottery making tradition, and it is commonly interpreted as evidence for local communities coexisting with the Romans in the same settlements.  
 Representative samples of such handmade pottery from three sites in Yambol District in south-eastern Bulgaria dated to the 2^nd^--4^th^ c. AD were examined to address questions of production, location and circulation of the pottery, as well as of manufacturing technology and use. Different analytical methods were combined, including ceramic petrography, WD-XRF and XRD analyses, lipid analysis and computed tomography. The ceramic fabrics were compared to geological samples collected from an area covering more than 40 sq km around the three sites. The results revealed three main fabrics corresponding to three main areas of possible origin but also indicated some circulation of those vessels within the studied area, suggesting that at least some of the pottery was involved in trade. The vessels of the three fabrics were produced in the same manner and the analysed samples suggest meat-based content.  
 The results raise the question of whether the vessels themselves were the primary traded goods, or whether they could have served as containers, e.g. for marinated meat, produced and distributed by the Thracian communities.  
 
-![](assets/img/Seminar/2025-12_Tuslova_copyright.jpg)  
+![](assets/img/Seminar/2025-12_Tuslova_copyright.jpg)  -->
+
+## Programme - 2026
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## January 30^th^ – Enrique Fernández-Palacios (University of Kiel, Germany)
+**Time:** 1:00 pm (UTC)  
+**Title:** Hidden in the *fumier* : geoarchaeological insights into the herding practices of the Auaritas (La Palma, Canary Islands)  
+*More information coming soon*
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## February 24^th^ – Magdalena Srienc-Sciesiek (Austrian Archaeological Institute & University of Vienna, Austria)
+**Time:** 10:00 am (UTC)  
+*More information coming soon*
+:::
 
 ## Programme - 2025
 
@@ -148,12 +164,14 @@ The zooarchaeological evidence reveals a diverse spectrum of exploited fauna, in
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## December 2^nd^ – Petra Tušlová (Charles University, Czech Republic & British School at Athens, Greece)
 **Time:** 4:00 pm (UTC)  
-**Title:** Investigating handmade pottery in Roman Thrace through an integrated analytical approach  
+**Title:** [Investigating handmade pottery in Roman Thrace through an integrated analytical approach](https://www.yra-ecr.org/abstracts/2025-S12.html)  
 **Co-authors:** S. Amicone, N.S. Müller, R. Thér, V. Brychová, K. Králová, M. Kohoutková, E. Kiriatzi  
 **Keywords:** Roman period; Thrace; Handmade pottery; Tradition; Scientific analyses  
 **Abstract:** In the early Iron Age (ca. 1200 BC) several distinctive vessel forms of handmade pottery emerged in Thrace, broad region encompassing modern southern Romania, Bulgaria, northern Greece, and European Turkey. The same forms persisted in the area throughout the Roman period until the 4^th^ c. AD despite the wheel-made coarse ware being prevalent. In the area, it is often seen as evidence of the continuation of local, Thracian, pottery making tradition, and it is commonly interpreted as evidence for local communities coexisting with the Romans in the same settlements.  
 Representative samples of such handmade pottery from three sites in Yambol District in south-eastern Bulgaria dated to the 2^nd^--4^th^ c. AD were examined to address questions of production, location and circulation of the pottery, as well as of manufacturing technology and use. Different analytical methods were combined, including ceramic petrography, WD-XRF and XRD analyses, lipid analysis and computed tomography. The ceramic fabrics were compared to geological samples collected from an area covering more than 40 sq km around the three sites. The results revealed three main fabrics corresponding to three main areas of possible origin but also indicated some circulation of those vessels within the studied area, suggesting that at least some of the pottery was involved in trade. The vessels of the three fabrics were produced in the same manner and the analysed samples suggest meat-based content.  
-The results raise the question of whether the vessels themselves were the primary traded goods, or whether they could have served as containers, e.g. for marinated meat, produced and distributed by the Thracian communities.
+The results raise the question of whether the vessels themselves were the primary traded goods, or
+whether they could have served as containers, e.g. for marinated meat, which was the main article of
+the trade.
 :::
 
 ## Programme - 2024

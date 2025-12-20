@@ -1,0 +1,36 @@
+---
+title: 'Investigating handmade pottery in Roman Thrace through an integrated analytical approach'
+date: "2025"
+date-format: "YYYY"
+Event: Seminar
+categories: [Roman period, Thrace, Handmade pottery, Tradition, Scientific analyses]
+author: 
+  - name: Petra Tušlová
+    orcid: 0000-0002-9744-1907
+    corresponding: true
+    email: Petra.Tuslova@ff.cuni.cz
+  - name: Silvia Amicone
+    orcid: 0000-0001-8237-7044
+  - name: Noémie S. Müller
+    orcid: 0000-0002-8767-1784
+  - name: Richard Thér
+    orcid: 0000-0001-6253-5148
+  - name: Veronika Brychová
+    orcid: 0000-0002-3624-2955
+  - name: Karolína Králová
+    orcid: 0000-0002-4582-5079
+  - name: Martina Kohoutkova
+    orcid: 0000-0003-2815-3685
+  - name: Evangelia Kiriatzi
+    orcid: 0000-0001-6631-2670
+---
+  
+*This paper was presented at the YRA seminar series in December 2025.*
+
+In the early Iron Age (ca. 1200 BC) several distinctive vessel forms of handmade pottery emerged in Thrace, broad region encompassing modern southern Romania, Bulgaria, northern Greece, and European Turkey. The same forms persisted in the area throughout the Roman period until the 4^th^ c. AD despite the wheel-made coarse ware being prevalent. In the area, it is often seen as evidence of the continuation of local, Thracian, pottery making tradition, and it is commonly interpreted as evidence for local communities coexisting with the Romans in the same settlements.  
+Representative samples of such handmade pottery from three sites in Yambol District in south-eastern Bulgaria dated to the 2^nd^--4^th^ c. AD were examined to address questions of production, location and circulation of the pottery, as well as of manufacturing technology and use. Different analytical methods were combined, including ceramic petrography, WD-XRF and XRD analyses, lipid analysis and computed tomography. The ceramic fabrics were compared to geological samples collected from an area covering more than 40 sq km around the three sites. The results revealed three main fabrics corresponding to three main areas of possible origin but also indicated some circulation of those vessels within the studied area, suggesting that at least some of the pottery was involved in trade. The vessels of the three fabrics were produced in the same manner and the analysed samples suggest meat-based content.  
+The results raise the question of whether the vessels themselves were the primary traded goods, or
+whether they could have served as containers, e.g. for marinated meat, which was the main article of
+the trade.  
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
