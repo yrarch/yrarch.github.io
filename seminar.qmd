@@ -31,16 +31,12 @@ You can convert to your local time zone with, e.g., [timeanddate.com](https://ww
 
 **Enrique Fernández-Palacios** (University of Kiel, Germany)  
 
-*More information coming soon*
-
-<!--**Keywords:** Roman period; Thrace; Handmade pottery; Tradition; Scientific analyses  
+**Keywords:** Geoarchaeology, Island archaeology, Lipid biomarkers, Pastoralism, Phytoliths, Soil micromorphology  
 
 **Abstract:**  
-In the early Iron Age (ca. 1200 BC) several distinctive vessel forms of handmade pottery emerged in Thrace, broad region encompassing modern southern Romania, Bulgaria, northern Greece, and European Turkey. The same forms persisted in the area throughout the Roman period until the 4^th^ c. AD despite the wheel-made coarse ware being prevalent. In the area, it is often seen as evidence of the continuation of local, Thracian, pottery making tradition, and it is commonly interpreted as evidence for local communities coexisting with the Romans in the same settlements.  
-Representative samples of such handmade pottery from three sites in Yambol District in south-eastern Bulgaria dated to the 2^nd^--4^th^ c. AD were examined to address questions of production, location and circulation of the pottery, as well as of manufacturing technology and use. Different analytical methods were combined, including ceramic petrography, WD-XRF and XRD analyses, lipid analysis and computed tomography. The ceramic fabrics were compared to geological samples collected from an area covering more than 40 sq km around the three sites. The results revealed three main fabrics corresponding to three main areas of possible origin but also indicated some circulation of those vessels within the studied area, suggesting that at least some of the pottery was involved in trade. The vessels of the three fabrics were produced in the same manner and the analysed samples suggest meat-based content.  
-The results raise the question of whether the vessels themselves were the primary traded goods, or whether they could have served as containers, e.g. for marinated meat, produced and distributed by the Thracian communities.  
+Herding has been traditionally considered as a crucial activity among the indigenous societies of the Canary Islands. However, the archaeological data that contributes to our understanding of these pre-colonial herding practices remains limited. This presentation summarizes the investigation conducted at two Auarita rockshelter sites in the island of La Palma (Canary Islands), Belmaco (Villa de Mazo) and Buracas Cave A (Garafía), which aims at providing new insights into their occupation as places for sheltering livestock. This research has been carried out from a multiproxy geoarchaeological perspective, combining soil micromorphology, lipid biomarkers and phytolith analyses, and integrating previous knowledge from the sites’ excavations as well as other archaeological records including zooarchaeology and archaeobotany. Results indicate that the archaeosedimentary deposits at Belmaco and Buracas Cave A were formed as a consequence of ruminant dung and plant material accumulation related to the use of the sites for sheltering livestock. These accumulations were burned intermittently over time to sanitize and reuse the space, leading to the formation of fumier deposits. This research has also approached the use of plant resources associated with herding practices among La Palma indigenous communities, including fuel, bedding, and insect-repellent materials. This work generally contributes to advancing our knowledge on the interactions between Canarian indigenous societies and their insular settings under the dynamic environmental conditions of the pre-colonial period in the Canary Islands.  
 
-![](assets/img/Seminar/2025-12_Tuslova_copyright.jpg)  -->
+![](assets/img/Seminar/2026-01_Fernandez-Palacios_copyright.jpg)  
 
 ## Programme - 2026
 
@@ -48,189 +44,49 @@ The results raise the question of whether the vessels themselves were the primar
 ## January 30^th^ – Enrique Fernández-Palacios (University of Kiel, Germany)
 **Time:** 1:00 pm (UTC)  
 **Title:** Hidden in the *fumier* : geoarchaeological insights into the herding practices of the Auaritas (La Palma, Canary Islands)  
-*More information coming soon*
+**Keywords:** Geoarchaeology, Island archaeology, Lipid biomarkers, Pastoralism, Phytoliths, Soil micromorphology  
+**Abstract:** Herding has been traditionally considered as a crucial activity among the indigenous societies of the Canary Islands. However, the archaeological data that contributes to our understanding of these pre-colonial herding practices remains limited. This presentation summarizes the investigation conducted at two Auarita rockshelter sites in the island of La Palma (Canary Islands), Belmaco (Villa de Mazo) and Buracas Cave A (Garafía), which aims at providing new insights into their occupation as places for sheltering livestock. This research has been carried out from a multiproxy geoarchaeological perspective, combining soil micromorphology, lipid biomarkers and phytolith analyses, and integrating previous knowledge from the sites’ excavations as well as other archaeological records including zooarchaeology and archaeobotany. Results indicate that the archaeosedimentary deposits at Belmaco and Buracas Cave A were formed as a consequence of ruminant dung and plant material accumulation related to the use of the sites for sheltering livestock. These accumulations were burned intermittently over time to sanitize and reuse the space, leading to the formation of fumier deposits. This research has also approached the use of plant resources associated with herding practices among La Palma indigenous communities, including fuel, bedding, and insect-repellent materials. This work generally contributes to advancing our knowledge on the interactions between Canarian indigenous societies and their insular settings under the dynamic environmental conditions of the pre-colonial period in the Canary Islands.
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## February 24^th^ – Magdalena Srienc-Sciesiek (Austrian Archaeological Institute & University of Vienna, Austria)
 **Time:** 10:00 am (UTC)  
+**Title:* Health and diet change in the eastern Alps, late Antique--early medieval period  
 *More information coming soon*
 :::
 
-## Programme - 2025
+## Previous years' programme
 
-::: {.callout-note collapse="true" appearance="minimal"}
-## January 30^th^ – Tom Maltas (University of Oxford, UK)
-**Time:** 3:00 pm (UTC)  
-**Title:** [Archaeobotany and social change in the Neolithic and Bronze Age Aegean: perspectives from the eastern fringes](https://www.yra-ecr.org/abstracts/2025-S01.html)  
-**Keywords:** Agrarian lifeways; Western Anatolia; Prehistory  
-**Abstract:** Bordered by the Aegean and central Anatolia, the prehistory of western Anatolia has remained relatively unexplored. This is particularly the case for the rural economy, despite its evident importance to cultural developments within neighbouring regions. A small but growing body of scholarship is beginning to rectify this through bioarchaeological research aimed at reconstructing systems of farming and land use in the past. Focusing on the Aegean region of western Anatolia, I outline how these studies have transformed our understanding of agrarian lifeways and can shed new light on the dramatic cultural developments that can be traced across the Neolithic and Bronze Age. I go on to assess the implications of this regional trajectory for broader developments across the Aegean.
+::: {.panel-tabset}
+
+## 2024
+
+|||
+|--|----------|
+|June 3^rd^|*Copper technologies in Taiwan and the Philippines during the Metal Age*<br>**Mélissa Cadet**|
+|July 1^st^|*Tinos’ lost ancient serpentinite quarry (Cyclades, Greece): an interdisciplinary approach*<br>**Alkiviadis Sideridis**|
+|Sept. 10^th^ |[*Plant and insect remains as indicators for waterlogged dung layers – The example of the Neolithic lakeshore settlement Mooswinkel in the Austrian Alps*](https://www.yra-ecr.org/abstracts/2024-S09.html)<br>**Thorsten Jakobitsch**|
+|Oct. 10^th^ |[*Biomolecular insights into Magdalenian ungulates from Petersfels (Hegau Jura, southwestern Germany) via ZooMS and stable isotope analysis*](https://www.yra-ecr.org/abstracts/2024-S10.html)<br>**Madison McCartin**|
+|Nov. 11^th^|*The technology of polychrome glazed ceramics in Ifriqiya: new data from the Medjerda Valley*<br>**Veronica Occari**, Heike Möller, Corisand Fenwick, Patrick Quinn,  Ian C. Freestone,  Moheddine Chaouali, Philipp von Rummel|
+|Dec. 10^th^ |[*Chrysocolla at high temperatures: understanding Pre-Hispanic metallurgy through Collahuasi slag analysis (Tarapaca, Chile)*](https://www.yra-ecr.org/abstracts/2024-S12.html)<br>**Sibylle Manya**, Benoît Mille, Valentina Figueroa Larre, Thierry Bataille, Laurent Le Pollès, Jean-Baptiste d’Espinose de Lacaillerie|
+
+## 2024
+
+|||
+|--|----------|
+|Jan. 30^th^|[*Archaeobotany and social change in the Neolithic and Bronze Age Aegean: perspectives from the eastern fringes*](https://www.yra-ecr.org/abstracts/2025-S01.html)<br>**Tom Maltas**|
+|Feb. 17^th^|*Life and death in Byzantine Ephesos (Turkey): contributions from the integration of archaeothanatological and biological data*<br>**Caroline Partiot**, Elise Baudoin, Martin Steskal|
+|Mar. 6^th^|[*Colored sculptures under study: archaeometrical and symbolic approaches to pigments in pre-Columbian Ecuador*](https://www.yra-ecr.org/abstracts/2025-S03.html)<br>**Alejandra Sánchez Polo**|
+|Apr. 1^st^|[*Identifying Bronze Age alloying practices in the western and central Balkans*](https://www.yra-ecr.org/abstracts/2025-S04_1.html)<br>**Nicole Mittermair**|
+|Apr. 9^th^|[*Discover STON: a practical tool to study petrographic images and beyond!*](https://www.yra-ecr.org/abstracts/2025-S04_2.html)<br>**Evgenia Dammer, Romain Thomas**|
+|May 16^th^|[*Of landscape biographies and sediment archives: reconstructing the landscape history of the Kreuttal microregion in Lower Austria*](https://www.yra-ecr.org/abstracts/2025-S05.html)<br>**Doris Jetzinger**|
+|June 17^th^|[*Tracing ancient practices through archaeo-metabolomics: a new window into the sensory and medicinal landscapes of the past*](https://www.yra-ecr.org/abstracts/2025-S06.html)<br>**Barbara Huber**|
+|July 1^st^|[*Accelerated thermal and freeze-thaw cycling effects on the durability of Greek marble in built heritage*](https://www.yra-ecr.org/abstracts/2025-S07.html)<br>**Meilin Lyu**|
+|Sept. 16^th^|[*Egyptian blue production: a diachronic perspective*](https://www.yra-ecr.org/abstracts/2025-S09.html)<br>**Ilia Kovalev**|
+|Oct. 29^th^|[*Zooarchaeology and isotopic evidence for subsistence in Fuerteventura: the animals of the Majos (Canary Islands)*](https://www.yra-ecr.org/abstracts/2025-S10.html)<br>**Aitor Brito Mayor**|
+|Nov. 14^th^|*Worlds on a string. On beads and exchange in Merovingian northern Gaul*<br>**Mette Langbroek**|
+|Dec. 2^nd^|[*Investigating handmade pottery in Roman Thrace through an integrated analytical approach*](https://www.yra-ecr.org/abstracts/2025-S12.html)<br>**Petra Tušlová**, Silvia Amicone, Noémie S. Müller, Richard Thér, Veronika Brychová, Karolína Králová, Martina Kohoutková, Evangelia Kiriatzi|
 :::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## February 17^th^ – Caroline Partiot (Austrian Archaeological Institute, Austria)
-**Time:** 12:00 pm (UTC)  
-**Title:** Life and death in Byzantine Ephesos (Turkey): contributions from the integration of archaeothanatological and biological data  
-**Co-authors:** E. Baudoin, M. Steskal  
-**Keywords:** Archaeothanatology; Biological anthropology; Funerary practices; Palaeopathology  
-**Abstract:** The city of Ephesos, located in western Turkey, south of Izmir, was the capital of the Roman province of Asia and is home to one of the most significant sites of early Christianity: The Church of Mary. This monument served as an episcopal church in the early 5th and 6th centuries and later functioned as a burial ground during the Middle and Late Byzantine periods.  
-In 2023, a new excavation led by Dr. Martin Steskal aimed to document local burial practices using modern methodologies and archaeothanatological analysis. This approach focuses on closely examining post-depositional processes, such as anomalies in bone positioning and the sequence of joint decomposition. These analyses enable the reconstruction of the original organization of funerary spaces and a detailed interpretation of funerary practices. This field study is also being complemented by a comprehensive biological analysis of the entire collection recovered during previous excavations conducted between 1984 and 2001.  
-This presentation highlights the results of the study, which combines field data with the analysis of the biological profiles of the individuals. The archaeothanatological analysis uncovered previously undocumented funerary practices at the site, including specific secondary manipulations. Meanwhile, the biological analysis revealed a particularly compromised health status, characterized by probable staphylococcal infections and distinctive healed fractures. Together, these findings offer new perspectives on the life trajectories and funerary treatment of the individuals form this community.
-
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## March 6^th^ – Alejandra Sánchez Polo (University of Valladolid, Spain)
-**Time:** 4:00 pm (UTC)  
-**Title:** [Colored sculptures under study: archaeometrical and symbolic approaches to pigments in pre-Columbian Ecuador](https://www.yra-ecr.org/abstracts/2025-S03.html)  
-**Keywords:** Pigments; Pre-Columbian; Archaeometry; Museum; Ecuador  
-**Abstract:** The pre-Columbian sculptures housed in art museums (such as the Quai Branly in Paris and the British Museum), decontextualized from their archaeological context, can still be historically relevant and provide insights into prehistoric societies? This question arose during my work as a curator at a pre-Columbian art museum in Ecuador. In addressing it, I pursued two main approaches: investigating the symbolism of colors and materials in pre-Columbian America and establishing the *chaîne opératoire* of the pigments observed on the shelves of the museum. To this end, several post-firing painted ceramic statues produced during the Regional Development period (500 BC - 500 AD) on the coast of Ecuador were studied.  
-First, in order to delve into the *chaîne opératoire*, the pigments and chromatic layers were examined using binocular magnification, SEM, XRD, XRF, and Raman spectroscopy in collaboration with various Ecuadorian institutions. One of the findings was that, despite employing similar color schemes, these pigments were used in comparable ways but sourced from different pigment materials. Furthermore, there existed a profound symbolic connection regarding color across the Americas. Thus, this study sought to demonstrate that the thousands of artifacts in museums are amenable to archaeological study, reinstating their intrinsic historical value.
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## April 1^st^ – Nicole Mittermair (Austrian Archaeological Institute & University of Vienna, Austria)
-**Time:** 12:00 pm (UTC)  
-**Title:** [Identifying Bronze Age alloying practices in the western and central Balkans](https://www.yra-ecr.org/abstracts/2025-S04_1.html)  
-**Keywords:** Bronze Age Balkans; Trace element analysis; Alloying; Metal production  
-**Abstract:** From 1500 BC onward, the increasing number of casting moulds, copper ingots, and hoards attests to a significant rise in metallurgical activity in the Western and Central Balkans. However, while Copper and Early Bronze Age metal production in the region has been extensively studied, the metallurgical practices of the Late Bronze and Early Iron Age have received far less attention.  
-This presentation will explore the elemental composition of Bronze Age copper-based objects from various archaeological contexts and discuss what these findings reveal about alloying practices, as one of the final stages in the metallurgical chaîne opératoire. Rather than focusing solely on raw material provenance, this study aims to reconstruct technological choices in metalworking practices and adaptations in local bronze production.  
-The goal of this study is to contextualize newly generated trace and minor element data (ED-XRF) within broader archaeological and chronological frameworks. Rather than focusing solely on raw material provenance, the emphasis lies on understanding deliberate technological choices in metallurgical practices, and adaptation in local bronze production. By integrating chemical data with cultural-historical perspectives, this research offers new insights into prehistoric metal production in the region.
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## April 9^th^ – Additionnal Session - Evgenia Dammer (Berlin State Museums, Germany) & Romain Thomas (University of Sheffield, UK)
-*Webinar*  
-**Time:** 2:00 pm (UTC)  
-**Title:** [Discover STON: a practical tool to study petrographic images and beyond!](https://www.yra-ecr.org/abstracts/2025-S04_2.html)  
-**Abstract:** STON is open-source software designed to make microscopic image analysis faster and easier for archaeologists. Unlike existing microscopic imaging software, which is primarily built for the natural sciences, STON is tailored to archaeological research, allowing users to cluster and compare multiple images simultaneously in a simple, user-friendly workspace. With features such as freehand sorting and synchronised zoom, STON helps users efficiently group samples and analyse compositional characteristics. By streamlining these processes, it enhances ceramic paste analysis and petrographic grouping. Developed openly on GitHub, STON is free to use and fully adaptable, with a Python-based source code that can be customised for different projects.  
-Join this webinar to see STON in action and learn how it can support your research.  
-For more information, visit the [documentation page](https://romain-thomas-shef.github.io/STON/).
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## May 16^th^ – Doris Jetzinger (University of Vienna, Austria)
-**Time:** 9:00 am (UTC)  
-**Title:** [Of landscape biographies and sediment archives: reconstructing the landscape history of the Kreuttal microregion in Lower Austria ](https://www.yra-ecr.org/abstracts/2025-S05.html)  
-**Keywords:** Landscape biography; Sediment archive; Formation processes; Chronostratigraphy; Geochemistry  
-**Abstract:** Just like people or physical objects, landscapes have life histories that are shaped by past events and processes. Sediments and soils act as archives for the lasting impact of these processes. Archaeological landscape research therefore necessitates a diachronic approach as well as a focus on the sediment archive as the bulk study material.  
-An effort towards studying and reconstructing landscape life histories is currently being undertaken by the “Life of a Landscape” project in the Kreuttal microregion in Lower Austria. We target the sediment archive as our main research material for identifying anthropogenic and natural formation processes, evidence of human-landscape interactions, and the chronostratigraphic landscape context. The project goal is the creation of an archaeological landscape biography to trace the development of the Kreuttal landscape over the millennia and identify the main formation processes involved in landscape and land use changes. To this end we employ an interdisciplinary methodological approach that combines landscape- and geoarchaeological methods and techniques, including geophysical prospection and remote sensing, coring, sedimentology, stratigraphy, geochemistry, OSL dating, and historic landscape characterisation.  
-This presentation will explore how results from these efforts help identify anthropogenic and natural activities, features and processes and facilitate insights into the research area’s geomorphology, topographic changes, chronostratigraphic sequences, and space and land use. Preliminary results offer new insights into a highly dynamic landscape history and underline the potential of interdisciplinary, holistic approaches in archaeological landscape research. 
-
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## June 17^th^ – Barbara Huber (University of Bonn, Germany)
-**Time:** 12:00 pm (UTC)  
-**Title:** [Tracing ancient practices through archaeo-metabolomics: a new window into the sensory and medicinal landscapes of the past](https://www.yra-ecr.org/abstracts/2025-S06.html)  
-**Keywords:** Archaeometabolomics; Biomolecular archaeology; Ancient medicine; Past scents  
-**Abstract:** Aromatic plants, herbs, and resins have long shaped human experiences---serving not only as olfactory markers in ritual and spiritual life but also as potent agents in healing, hygiene, and medicine. In ancient societies, the lines between incense, remedy, and ritual were often blurred, especially in regions like Arabia where aromatic substances held multifaceted roles in both daily routines and ceremonial practices.  
-This talk introduces archaeo-metabolomics, the study of small molecules (metabolites), as a powerful new lens for exploring the biochemical fingerprints of ancient plant-based practices. Moving beyond traditional text-based and typological approaches, metabolomics applies high-resolution metabolite profiling to archaeological materials, such as ceramic residues and soils -- to detect a broad range of metabolites, including alkaloids, terpenes, and flavonoids. These molecular traces enable the reconstruction of complex human-plant interactions, from therapeutic formulations to incense practices.
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## July 1^st^ – Meilin Lyu (University of Athens, Greece)
-**Time:** 1:00 pm (UTC)  
-**Title:** [Accelerated thermal and freeze-thaw cycling effects on the durability of Greek marble in built heritage](https://www.yra-ecr.org/abstracts/2025-S07.html)  
-**Keywords:** Climate change factors; Marble; Built heritage; Deterioration; Greece  
-**Abstract:** The durability of marble heritage structures is increasingly threatened by climate change-induced temperature fluctuations and moisture variability. This study examines the impact of two key weathering processes---thermal cycling and freeze-thaw (FT) cycling---on three types of Greek marble commonly used in built heritage. The primary aim is to assess the extent of structural deterioration caused by repeated heating, cooling, freezing, and thawing, simulating real-world climatic stresses. This study aimed to study both the surface and interior deterioration of Greek marble. The changes were assessed in terms of sub-surface structural alterations analyzed using state-of-the-art techniques such as ultrasonic pulse velocity (UPV) and x-ray computed tomography; surface observations were conducted using digital microscopy and SEM, while the strength properties of Greek marbles were evaluated using compressive strength testing. Additionally, chemical minerals in Naxos marble inclusions were investigated using handheld XRF. The study highlights the differential impact of thermal and moisture-related stresses on marble deterioration, emphasizing the anisotropic behavior of different marble types. These results have significant implications for conservation strategies, underscoring the need for protective treatments such as water repellents and microclimate stabilization to mitigate both thermal and moisture-induced damage. By integrating controlled laboratory simulations with environmental stressors, this research contributes to a deeper understanding of the long-term resilience of marble heritage under evolving climatic conditions.
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## September 16^th^ – Ilia Kovalev (The Cyprus Institute, Cyprus)
-**Time:** 12:00 pm (UTC)    
-**Title:** [Egyptian blue production: a diachronic perspective](https://www.yra-ecr.org/abstracts/2025-S09.html)  
-**Keywords:** Egyptian blue; Ancient materials; Ancient technology; High-temperature processes; Technical ceramics  
-**Abstract:** Egyptian blue is the earliest known artificially produced inorganic pigment, which from its first appearance in Early Bronze Age Egypt remained an intrinsic part of the artistic palette over several millennia. The application of Egyptian blue was not limited to being used as a pigment only, as it also served as a raw material for the production of small objects like beads, scarabs, and figurines. From the material science standpoint, Egyptian blue is a multi-phase material comprising crystals of cuprorivaite (CaCuSi~4~O~10~) embedded in an amorphous glass phase along with possible remains of partially reacted raw materials. While the chemical and physical properties of Egyptian blue are fairly well understood, our grasp on the broader context of its production remains limited. Being a high-temperature process, the production of Egyptian blue necessitates the use of crucibles. The present talk will focus on Egyptian blue crucibles from LBA Qantir, Iron Age Kom Tuman, and Hellenistic/Roman Kom Helul in an attempt to highlight the diachronic change in Egyptian blue production.
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## October 29^th^ – Aitor Brito Mayor (University of Las Palmas de Gran Canaria, Spain)
-**Time:** 2:00 pm (UTC)    
-**Title:** [Zooarchaeology and isotopic evidence for subsistence in Fuerteventura: the animals of the Majos (Canary Islands)](https://www.yra-ecr.org/abstracts/2025-S10.html)  
-**Keywords:** Zooarchaeology; Stable isotopes; Arid; Island; Diet  
-**Abstract:** Preliminary isotopic analyses of human remains from Fuerteventura suggest a notable reliance on marine resources, raising questions about previously proposed models of subsistence. To address this, we conducted zooarchaeological and preliminary isotopic analyses (δ^13^C and δ^15^N) on faunal assemblages from three archaeological sites on the island. Our study aimed to provide a more comprehensive understanding of the dietary strategies employed by the Majos and the role of environmental constraints in shaping subsistence practices.  
-The zooarchaeological evidence reveals a diverse spectrum of exploited fauna, including domestic animals, wild terrestrial species, and marine resources, suggesting a more diversified subsistence strategy than previously assumed. Isotopic analyses of terrestrial faunal remains display unusually high nitrogen values and positive carbon signatures, likely reflecting the arid conditions of Fuerteventura and the absence of significant mountainous regions, which influence local isotopic baselines. This research highlights the need to integrate human and faunal remains in isotopic studies to elucidate the complex interaction between environmental factors, subsistence strategies, and isotopic signatures in archaeological contexts.
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## November 14^th^ – Mette Langbroek (Leiden University & SAGA Archeologie, The Netherlands)
-**Time:** 10.00 am (UTC)  
-**Title:** Worlds on a string. On beads and exchange in Merovingian northern Gaul  
-**Keywords:** Beads; Exchange; Early Middle Ages; Merovingian period; Grave goods  
-**Abstract:** Mette Langbroek is a PhD researcher at Leiden University and works as a materials specialist and researcher at SAGA Archaeology. She studied Historical Archaeology at Leiden University (2016, cum laude) and specializes in early medieval exchange networks, Merovingian and Carolingian beads, combining chemical analyses of these beads with new ways of thinking about Merovingian archaeology. In addition to her research work, she works as a materials specialist and object photographer at SAGA Archaeology and was a guest curator at the National Museum of Antiquities on the exhibition 5000 Years of Beads. In this lecture, Mette will discuss her research on exchange in the early Middle Ages, using beads that were frequently placed in graves with the deceased during this period. Surprisingly, these beads were often imported over vast distances. The rural population of Northern Gaul during the Merovingian period thus had access to trade networks that stretched from England to far into Asia.
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## December 2^nd^ – Petra Tušlová (Charles University, Czech Republic & British School at Athens, Greece)
-**Time:** 4:00 pm (UTC)  
-**Title:** [Investigating handmade pottery in Roman Thrace through an integrated analytical approach](https://www.yra-ecr.org/abstracts/2025-S12.html)  
-**Co-authors:** S. Amicone, N.S. Müller, R. Thér, V. Brychová, K. Králová, M. Kohoutková, E. Kiriatzi  
-**Keywords:** Roman period; Thrace; Handmade pottery; Tradition; Scientific analyses  
-**Abstract:** In the early Iron Age (ca. 1200 BC) several distinctive vessel forms of handmade pottery emerged in Thrace, broad region encompassing modern southern Romania, Bulgaria, northern Greece, and European Turkey. The same forms persisted in the area throughout the Roman period until the 4^th^ c. AD despite the wheel-made coarse ware being prevalent. In the area, it is often seen as evidence of the continuation of local, Thracian, pottery making tradition, and it is commonly interpreted as evidence for local communities coexisting with the Romans in the same settlements.  
-Representative samples of such handmade pottery from three sites in Yambol District in south-eastern Bulgaria dated to the 2^nd^--4^th^ c. AD were examined to address questions of production, location and circulation of the pottery, as well as of manufacturing technology and use. Different analytical methods were combined, including ceramic petrography, WD-XRF and XRD analyses, lipid analysis and computed tomography. The ceramic fabrics were compared to geological samples collected from an area covering more than 40 sq km around the three sites. The results revealed three main fabrics corresponding to three main areas of possible origin but also indicated some circulation of those vessels within the studied area, suggesting that at least some of the pottery was involved in trade. The vessels of the three fabrics were produced in the same manner and the analysed samples suggest meat-based content.  
-The results raise the question of whether the vessels themselves were the primary traded goods, or
-whether they could have served as containers, e.g. for marinated meat, which was the main article of
-the trade.
-:::
-
-## Programme - 2024
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## June 3^rd^ – Mélissa Cadet (Academia Sinica, Taiwan)
-**Time:** 8:30 am (UTC)  
-**Title:** Copper technologies in Taiwan and the Philippines during the Metal Age  
-**Keywords:** Copper-based metallurgy; South-East Asia; Metal Age; Maritime exchange  
-**Abstract:** In the island contexts of South-East Asia and Taiwan, the development of metallurgy followed a different time-period and pattern compared to the Mainland. Indeed, in Taiwan and the Philippines, there is no mention of a Bronze and Iron Age but of a Metal Age (or directly an Iron Age) since iron, copper-based, glass and precious metal technologies seem to appear together in archaeological context. The first signs of metallurgy in the island contexts of Taiwan and the Philippines appear to have followed similar patterns; no Bronze Age, no sign of primary production, only secondary production and where maritime exchange is a central issue in the development of these technologies. Metallurgy would probably have reached the islands through maritime contacts with mainland Southeast Asia, where metallurgical practices took place earlier (11-13^th^ BC) and maritime contacts have been known since the Neolithic period, notably through nephrite objects. Current evidence seems to support that Taiwan and the Philippines did not have any primary production of copper during the Metal Age but still needs to be proved by future studies. It has been proposed that raw materials and some finish objects were imported. However, secondary production activities are attested with molds, both in Taiwan and the Philippines. 
-
-Copper and its alloys are one of the materials thought to come from the maritime interactions and thus represent an important proxy to study the movements of goods/communities/technologies between the different areas around the South China Sea. Regarding the similarities observed between Taiwan and the Philippines as well as the ancient exchanges attested between the two areas, the current project aims to collect data in order to start discussing the copper-based traditions and the potential exchange networks.  We also hope that the data can contribute to understand the origin, timing and development of copper-based metallurgy in Taiwan and the Philippines and its link to other regions for the acquisition of raw materials/finish objects. Around 50 scientific samples, mainly in Taiwan so far, have been collected to be studied following an archaeometric approach (Optical Microscopy, SEM-EDS and ongoing lead isotope analyses). In Taiwan, the current results show that artefacts are diverse, both in terms of their forms (such as bells, vessels, knife handles, Chinese coins, unidentified fragments) and composition (alloys), including bronze, leaded-bronze, high-tin bronze, unalloyed copper, leaded copper and brass. Some artefacts result probably from oversea exports. In Taiwan, differences can also be observed between sites, probably as a result of the different metallurgical practices identified during the excavations, such as secondary production activities.  
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## July 1^st^ – Alkiviadis Sideridis (University of Athens, Greece)
-**Time:** 8:00 am (UTC)  
-**Title:** Tinos’ lost ancient serpentinite quarry (Cyclades, Greece): an interdisciplinary approach  
-**Keywords:** Stone analysis; Serpentinite; Cyclades Greece; Ancient quarry  
-**Abstract:** The study of marble and coloured-stone production centres of antiquity carries a significant role in the scientific community, being a subject where natural and archaeological sciences may interweave, aiming to decipher quarrying methods, trade and the unique geological fingerprint of the stones. Contemporary quarrying activity on Tinos Island, Greece, is focused on ophicalcites (metasomatic rock consisting of serpentine and carbonates), however, the studied ancient quarry of Ag. Georgios Ras (Ras serpentinite) consist of a distinctive serpentinite, with no carbonate participation when compared to the neighbouring ophicalcite. Ras serpentinite was quarried from two small-scale open pits demonstrating tool marks, grooves, as well as holes for inserting wedges. The serpentinite consists of, macroscopically and mineralogically, two serpentine varieties, a dark green demonstrating massive texture and a light green forming a network of fibrous serpentine. Research efforts on serpentinite provenance are limited and lack information and data when compared to the study of white marble. This study aims to enrich the present database using a variety of techniques, including XRD, LA-ICP-MS and physicomechanical tests to determine the geochemistry, geotectonic environment of formation and strength characteristics of the Ras serpentinite. The geological study is framed, in an interdisciplinary approach, by archaeological and lichenometrical data and observation to further shed light upon the newly explored Ras serpentinite quarry. 
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## September 10^th^ – Thorsten Jakobitsch (Austrian Archaeological Institute, Austria)  
-**Time:** 8:00 am (UTC)  
-**Title:** [Plant and insect remains as indicators for waterlogged dung layers – The example of the Neolithic lakeshore settlement Mooswinkel in the Austrian Alps](https://www.yra-ecr.org/abstracts/2024-S09.html)  
-**Keywords:** Stable manure; Pile dwelling; Archaeobotany; Archaeoentomology; Late Neolithic  
-**Abstract:** Stable manure preserves well in waterlogged archaeological sediments. The organic refuse provides a wealth of information about the site’s economy, forest resources, and impact on the environment. However, the recognition of middens and manure in sediment layers is not always straightforward. In the case study of the Late Neolithic pile dwelling Mooswinkel at the lake Mondsee in Austria, dung, botanical macro- and microremains, as well as invertebrates identified the sediment as stable manure from goat, sheep and cattle farming. Furthermore, the season of the layer formation could be recognized. Materials investigated included pollen, bryophytes, plant fruits and seeds, leaves, branches and bud scales of woody plants, as well as insect remains. In addition, plant microremains in dung were analysed. The results of this multi-material study show that leaf hay and grass hay were used as fodder during the winter season. The impact of fodder acquisition and pasturing on the forest could be reconstructed, showing the formation of a mosaic landscape of natural and semi-natural habitats.
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## October 10^th^ – Madison McCartin (University of California, Davis, USA)
-**Time:** 2:00 pm (UTC)  
-**Title:** [Biomolecular insights into Magdalenian ungulates from Petersfels (Hegau Jura, southwestern Germany) via ZooMS and stable isotope analysis](https://www.yra-ecr.org/abstracts/2024-S10.html)  
-**Keywords:** Magdalenian; ZooMS; Stable isotopes; Zooarchaeology; Paleoenvironment; Ungulates  
-**Abstract:** After the Last Glacial Maximum, ameliorating climates facilitated the recolonization of Central Europe by human and animal groups. Petersfels, situated in the Hegau Jura of southwestern Germany, evidences the later stages of this repopulation, dating to ~16-14 ka cal BP. Over the past hundred years, numerous excavations at the site have revealed an exceptional record of Magdalenian subsistence including abundant lithic and osseous material, personal ornaments, engravings, and female figurines. Faunal remains are particularly relevant, as they archive information on human and animal lifeways as well as the broader post-LGM environmental context. However, despite this great potential, little is known about the paleoecological context of the site or the broader Hegau Jura. Here, we present new biomolecular analyses of the Petersfels faunal assemblage, which help to illuminate the paleoecology of the region. Zooarchaeology by Mass Spectrometry (ZooMS) was applied to identify rare taxa and to differentiate between closely related species. We also conducted stable isotope analyses of carbon (δ^13^C) and oxygen (δ^18^O) from serially sampled equid and bovid tooth enamel carbonate. The latter contributes to our understanding of local paleoecology during the Magdalenian and the status of human and animal communities during post-LGM climatic change. More broadly, this work shows how heritage collections like Petersfels are still immensely valuable, especially with the application of modern biomolecular techniques.  
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## November 11^th^– Veronica Occari (University College London, UK)
-**Time:** 12:00 pm (UTC)  
-**Title:** The technology of polychrome glazed ceramics in Ifriqiya: new data from the Medjerda Valley  
-**Co-authors:** H. Möller, C. Fenwick, P. Quinn,  I.C. Freestone,  M. Chaouali, P. von Rummel  
-**Keywords:** Ifriqiya; Medieval glazed ceramics; Pottery technology; Petrography; Compositional analyses  
-**Abstract:** Ifriqiya (roughly Tunisia and eastern Algeria) is believed to have played a significant role in the diffusion of ceramic glazed technologies into other regions of the Western Mediterranean. However, due to limited analysis on North African glazed ceramics, its role in technology transfer remains poorly understood. This paper uses petrographic, SEM-EDS and LA-ICP-MS analyses to understand the technology employed in the production of Tunisian ceramics through the study of polychrome glazed ceramics from medieval settlements at the sites of Chimtou (ancient Simitthus) and Bulla Regia, Tunisia, dated to the late ninth-twelfth century. The results provide new insights on workshops practices, on the origin of the ceramics and on regional inland exchange networks.
-:::
-
-::: {.callout-note collapse="true" appearance="minimal"}
-## December 10^th^ – Sibylle Manya (National Centre for Research and Restoration in French Museums, France)
-**Time:** 3:00 pm (UTC)  
-**Title:** [Chrysocolla at high temperatures: understanding Pre-Hispanic metallurgy through Collahuasi slag analysis (Tarapaca, Chile)](https://www.yra-ecr.org/abstracts/2024-S12.html)  
-**Co-authors:** B. Mille, V. Figueroa Larre, T. Bataille, L. Le Pollès, J.-B. d’Espinose de Lacaillerie  
-**Keywords:** Chrysocolla characterization; Thermal analysis; Pre-Hispanic copper metallurgy  
-**Abstract:** Ujina-Collahuasi is an archaeological site located in the Atacama Desert in Chile, renowned as a major center for copper production during the pre-Inca and Inca periods. Pre-Hispanic metallurgists utilized bench-shaped granodiorite furnaces to smelt ore, leveraging the wind to achieve high temperatures and extract copper in the form of metallic beads. The resulting slag, rich in silicon, exhibits various mineralogical phases, notably yellow-green or yellow-orange phases that are of particular interest. These phases, rich in copper and silicon, may be attributed to the prevalence of chrysocolla among the ores used.  
-This study focuses on a characterization of chrysocolla, a copper silicate with an amorphous and controversial structure. At ambient temperature, several analytical techniques (PIXE, SEM-EDS, and solid-state NMR) were employed to overcome challenges related to its variable chemical composition and disordered crystalline structure. At high temperatures, the thermal decomposition of chrysocolla was investigated by heating several samples to different temperatures and characterizing them using various techniques (optical microscopy, XRD, IR spectroscopy, SEM-EDS). Additionally, an in-situ study was conducted, providing XRD scans of a sample subjected to increasing temperatures.  
-The results obtained enhance our understanding of the transformation of chrysocolla observed in the pre-Hispanic slag from Collahuasi and the evolution of metallurgical techniques. Previous studies have been supplemented by analyzing slags from excavations in the Ujina 10 sector, including three furnaces dated to different periods. The objective was to identify any changes in copper reduction techniques between the pre-Inca and the Inca occupation.
-:::
-
-
 
 <!--
 ::: {.callout-note collapse="true" appearance="minimal"}
