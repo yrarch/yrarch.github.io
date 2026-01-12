@@ -27,7 +27,7 @@ You can convert to your local time zone with, e.g., [timeanddate.com](https://ww
 
 :::
 
-**_Hidden in the_ fumier _: geoarchaeological insights into the herding practices of the Auaritas (La Palma, Canary Islands)_**  
+<strong><em>Hidden in the </em>fumier<em>: geoarchaeological insights into the herding practices of the Auaritas (La Palma, Canary Islands)</em></strong>
 
 **Enrique Fernández-Palacios** (University of Kiel, Germany)  
 
@@ -43,7 +43,7 @@ Herding has been traditionally considered as a crucial activity among the indige
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## January 30^th^ – Enrique Fernández-Palacios (University of Kiel, Germany)
 **Time:** 1:00 pm (UTC)  
-**Title:** Hidden in the *fumier* : geoarchaeological insights into the herding practices of the Auaritas (La Palma, Canary Islands)  
+**Title:** Hidden in the *fumier*: geoarchaeological insights into the herding practices of the Auaritas (La Palma, Canary Islands)  
 **Keywords:** Geoarchaeology, Island archaeology, Lipid biomarkers, Pastoralism, Phytoliths, Soil micromorphology  
 **Abstract:** Herding has been traditionally considered as a crucial activity among the indigenous societies of the Canary Islands. However, the archaeological data that contributes to our understanding of these pre-colonial herding practices remains limited. This presentation summarizes the investigation conducted at two Auarita rockshelter sites in the island of La Palma (Canary Islands), Belmaco (Villa de Mazo) and Buracas Cave A (Garafía), which aims at providing new insights into their occupation as places for sheltering livestock. This research has been carried out from a multiproxy geoarchaeological perspective, combining soil micromorphology, lipid biomarkers and phytolith analyses, and integrating previous knowledge from the sites’ excavations as well as other archaeological records including zooarchaeology and archaeobotany. Results indicate that the archaeosedimentary deposits at Belmaco and Buracas Cave A were formed as a consequence of ruminant dung and plant material accumulation related to the use of the sites for sheltering livestock. These accumulations were burned intermittently over time to sanitize and reuse the space, leading to the formation of fumier deposits. This research has also approached the use of plant resources associated with herding practices among La Palma indigenous communities, including fuel, bedding, and insect-repellent materials. This work generally contributes to advancing our knowledge on the interactions between Canarian indigenous societies and their insular settings under the dynamic environmental conditions of the pre-colonial period in the Canary Islands.
 :::
