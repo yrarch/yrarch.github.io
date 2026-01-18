@@ -32,6 +32,8 @@ website:
         href: https://www.facebook.com/profile.php?id=61559076328370
       - icon: twitter
         href: https://twitter.com/yrarchaeometry 
+      - icon: linkedin
+        href: https://www.linkedin.com/company/young-researchers-in-archaeometry
       - about.qmd
 
 format:
