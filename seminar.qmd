@@ -12,7 +12,7 @@ The time slots of each presentation will be accommodated to be the most comforta
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting.
 (Meeting-ID: 988 6914 5922; code: YRA-S2026).
 
-## Next presentation: February 24^th^, at 10:00 am (UTC)
+## Next presentation: March 5^th^, at 3:00 pm (UTC)
 
 ::: {.column-margin}
 
@@ -23,22 +23,20 @@ Click [here](https://zoom.us/j/98869145922?pwd=s3MMqiEdM9LbEXfImob0Sr0UY7hRYc.1)
 **Code:** YRA-S2026  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20260224T100000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20260305T150000&p1=1440).
 
 :::
 
-_**Health and diet change in the eastern Alps, late Antique--early medieval period**_
+_**Cooking vessels in Minoan Crete: an interdisciplinary study of their function and use**_
 
-**Magdalena T. Srienc-Ściesiek** (Austrian Archaeological Institute & University of Vienna, Austria)  
+**Evgenia Tsafou** (University of Louvain, Belgium)  
 
-**Keywords:** Eastern Alps, Diet reconstruction, Stable isotopes, Paleopathology, radiocarbon dating  
+**Keywords:** Interdisciplinary approach, Organic residue analysis, Molecular, Microbotanical, Cooking vessels  
 
 **Abstract:**  
-The eastern Alpine region was a connective zone between the 5^th^ -- 11^th^ centuries CE and was repeatedly reshaped by political realignment, shifting settlement patterns, and changing economic ties. These transformations are examined through their expression in foodways and population health. Cemetery populations from the Jaun Valley (Podjuna) in southern Carinthia and comparative assemblages from the Kranj region south of the Karawanks provide the basis for a multi-proxy reconstruction of diet and health across the Late Antique--Early Medieval centuries.  
-Carbon and nitrogen stable isotope analysis of bone collagen (δ^13^C, δ^15^N) is combined with macroscopic paleopathology and dental evidence to investigate subsistence practices and physiological stress. Particular attention is given to childhood vulnerability, assessed through skeletal and dental markers of developmental disruption and nutritional or infectious stress among non-adults. Diachronic change is explored at Jaunstein by linking isotopic signatures of dietary input with skeletal and oral health indicators, supported by direct radiocarbon dating. Broader regional patterning is evaluated by extending isotope analysis to additional Jaun Valley cemeteries and to comparative material from Kranj, allowing similarities and contrasts to be assessed across communities separated by the Karawanks but connected through movement and exchange.  
-Overall, the findings suggest broadly cereal-centered foodways within mixed farming economies, alongside persistent physiological strain. Non-adults show the clearest evidence of vulnerability, indicating that early life remained a key point at which nutritional and infectious stress was most strongly expressed. At the same time, the combined dietary and pathological signals emphasize variability rather than a single trajectory of change, pointing to locally contingent strategies shaped by environment, labor, and connectivity across the Karawanks.  
+This paper presents a holistic approach applied to the study of the function and use of Minoan cooking vessels, based on an interdisciplinary methodology developed for the purposes of this research. The methodology integrates morphological, technological, and use-wear analyses with organic residue analysis, alongside the contextualisation of the results. The ceramic cooking vessels analysed date to the Middle and Late Bronze Age Aegean (1750--1200 BC) and originate from two neighbouring Minoan settlements on the island of Crete, Sissi and Malia. A range of utilitarian vessel shapes and types was examined, enabling the identification of a wide spectrum of organic substances preserved within the ceramics. This paper presents the results obtained from the analytical methods and discusses the new insights gained into the function and use of cooking vessels, considered in combination with the other approaches applied, as well as into Minoan culinary practices more broadly. In addition, the methodological strategy behind the integration of the two analytical techniques, together with the challenges encountered during their implementation, are critically assessed.  
 
-![](assets/img/Seminar/2026-01_Srienc-Sciesiek_copyright.jpg)  
+![](assets/img/Seminar/2026-03_Tsafou_copyright.jpg)  
 
 ## Programme - 2026
 
@@ -53,12 +51,19 @@ Overall, the findings suggest broadly cereal-centered foodways within mixed farm
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## February 24^th^ – Magdalena T. Srienc-Ściesiek (Austrian Archaeological Institute & University of Vienna, Austria)
 **Time:** 10:00 am (UTC)  
-**Title:** Health and diet change in the eastern Alps, late Antique--early medieval period  
+**Title:** Health and diet change in the eastern Alps, late Antique--early Medieval period  
 **Keywords:** Eastern Alps, Diet reconstruction, Stable isotopes, Paleopathology, radiocarbon dating  
 **Abstract:** The eastern Alpine region was a connective zone between the 5^th^ -- 11^th^ centuries CE and was repeatedly reshaped by political realignment, shifting settlement patterns, and changing economic ties. These transformations are examined through their expression in foodways and population health. Cemetery populations from the Jaun Valley (Podjuna) in southern Carinthia and comparative assemblages from the Kranj region south of the Karawanks provide the basis for a multi-proxy reconstruction of diet and health across the Late Antique--Early Medieval centuries.  
 Carbon and nitrogen stable isotope analysis of bone collagen (δ^13^C, δ^15^N) is combined with macroscopic paleopathology and dental evidence to investigate subsistence practices and physiological stress. Particular attention is given to childhood vulnerability, assessed through skeletal and dental markers of developmental disruption and nutritional or infectious stress among non-adults. Diachronic change is explored at Jaunstein by linking isotopic signatures of dietary input with skeletal and oral health indicators, supported by direct radiocarbon dating. Broader regional patterning is evaluated by extending isotope analysis to additional Jaun Valley cemeteries and to comparative material from Kranj, allowing similarities and contrasts to be assessed across communities separated by the Karawanks but connected through movement and exchange.  
 Overall, the findings suggest broadly cereal-centered foodways within mixed farming economies, alongside persistent physiological strain. Non-adults show the clearest evidence of vulnerability, indicating that early life remained a key point at which nutritional and infectious stress was most strongly expressed. At the same time, the combined dietary and pathological signals emphasize variability rather than a single trajectory of change, pointing to locally contingent strategies shaped by environment, labor, and connectivity across the Karawanks.
+:::
 
+::: {.callout-note collapse="true" appearance="minimal"}
+## March 5^th^ – Evgenia Tsafou (University of Louvain, Belgium)
+**Time:** 3:00 pm (UTC)  
+**Title:** Cooking vessels in Minoan Crete: an interdisciplinary study of their function and use  
+**Keywords:** Interdisciplinary approach, Organic residue analysis, Molecular, Microbotanical, Cooking vessels  
+**Abstract:** This paper presents a holistic approach applied to the study of the function and use of Minoan cooking vessels, based on an interdisciplinary methodology developed for the purposes of this research. The methodology integrates morphological, technological, and use-wear analyses with organic residue analysis, alongside the contextualisation of the results. The ceramic cooking vessels analysed date to the Middle and Late Bronze Age Aegean (1750--1200 BC) and originate from two neighbouring Minoan settlements on the island of Crete, Sissi and Malia. A range of utilitarian vessel shapes and types was examined, enabling the identification of a wide spectrum of organic substances preserved within the ceramics. This paper presents the results obtained from the analytical methods and discusses the new insights gained into the function and use of cooking vessels, considered in combination with the other approaches applied, as well as into Minoan culinary practices more broadly. In addition, the methodological strategy behind the integration of the two analytical techniques, together with the challenges encountered during their implementation, are critically assessed.
 :::
 
 ## Previous years' programme
