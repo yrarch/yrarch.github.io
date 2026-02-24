@@ -5,108 +5,88 @@ lightbox: true
 
 ::: {.callout-note}
 ## YRA2026 Key dates
-**March 1^st^** -- [Abstract submission]() opens  
-**May 1^st^** -- Deadline for [abstract submission]()  
-<!-- **May 15^th^** -- **EXTENDED** Deadline for [abstract submission]()  -->
+**March 1^st^** -- [Abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7) opens  
+**May 1^st^** -- Deadline for [abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7)  
+<!-- **May 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7)  -->
 **June 15^th^** -- Announcement of abstracts decisions  
-**June 15^th^** -- [Registration]() opens  
-**Aug 1^st^** -- [Registration]() closes **for presenters**  
+**June 15^th^** -- [Registration](https://forms.gle/CCEFcsETfG1rPqsQ9) opens  
+**Aug 1^st^** -- [Registration](https://forms.gle/CCEFcsETfG1rPqsQ9) closes **for presenters**  
 **Aug 15^th^** -- Preliminary program available  
-**Sept 1^st^** -- [Registration]() closes **for participants**  
+**Sept 1^st^** -- [Registration](https://forms.gle/CCEFcsETfG1rPqsQ9) closes **for participants**  
 **Oct 1^st^** -- Meeting details and final program available  
 **Oct 28^th^ -- 30^th^** -- YRA2026 in Reykjavik  
 **Nov 15^th^** -- Certificates sent to participants  
+
 :::
 
-## Save the date! 
 
-YRA2026 will be hosted by the National Museum of Iceland in Reykjavik (Iceland) from 28 to 30 October 2026. More information will follow soon. 
-
-## Proceedings of YRA2025
-YRA2025 teamed up with the editorial board of *[Archeometriai Műhely](http://www.ace.hu/am/indexe.html)* to publish the workshop proceedings as full-length peer-reviewed articles. *Archeometriai Műhely* is a diamond open access journal, meaning that publication and access to its articles are free of charge. More information will follow soon. Submission deadline for the proceedings is 31^st^ January 2026. 
-
-
-<!--
 ## General information 
 
 
-::: {.column-margin}
+:::: {.column-margin}
 Organised by:  
-[![...](assets/img/...)](https://...)  
+[![University of Iceland](assets/img/Logo_HI.png)](https://english.hi.is/)  
 &nbsp;  
 
-Hosted at: [![...](assets/img/...)](https://...)  
+Hosted at: [![Logo National Museum of Iceland](assets/img/Logo_NationalMuseum.png)](https://www.thjodminjasafn.is/en)  
 &nbsp;  
 
 Sponsored by:
 
-::: {layout="[ 50 , 50 ]"}
+[![](assets/img/SAS_logo.png){width=50% fig-align="center"}](https://socarchsci.org)  
 
-::: {#column-empty}
-[![](assets/img/SAS_logo.png)](https://socarchsci.org)
+[![](assets/img/Logo_HR.png)](https://www.ru.is/en)  
 
-:::
-
-:::
-
-[![](assets/img/...)](https://...)
-
-:::
-
-:::
+[![](assets/img/Logo_Felag.png)](https://felagfornleifafraedinga.is/)
 
 Organised by:  
-[...](team.qmd#...)  
+[Maren von Mallinckrodt](team.qmd#maren-von-mallinckrodt)  
+[Joe W. Walser III](team.qmd#joe-walser-iii)  
+[Cecilia Collins](team.qmd#cecilia-rose-collins)  
+Enrique Fernández-Palacios  
+[Paola Pizzo](team.qmd#paola-pizzo)  
+[Vasiliki Anevlavi](team.qmd#vasiliki-anevlavi)  
+[Justina Stonytė](team.qmd#justina-stonytė)  
+Poorva Salvi  
 
-:::
+::::
 
-We are happy to announce that the 9^th^ Workshop Young Researchers in Archaeometry will be held at ..., in ..., ... . The conference will be held in person from ... to ..., 2026 and will welcome early career researchers (masters, PhD, post-docs up to six years after their PhD) in archaeological sciences and cultural heritage studies.
+We are happy to announce that the 9th Workshop Young Researchers in Archaeometry will be held in the National Museum of Iceland in Reykjavík. The conference will be held in person from 28^th^ to 30^th^ of October 2026 and will welcome early career researchers (masters, PhD, post-docs up to six years after their PhD) in archaeological sciences and cultural heritage studies. 
 
-With this workshop, we aim to offer a relaxed atmosphere to encourage interdisciplinary exchange between early career researchers. We are pleased to invite you for oral and poster contributions in all fields of natural sciences about archaeological and anthropological topics. In particular, early career researchers in archaeology, art history, anthropology, biological anthropology, environmental archaeology, chemistry, conservation, cultural heritage, earth science, and material science are welcome to submit an abstract for an oral presentation or poster.
--->
+With this workshop, we aim to offer a relaxed atmosphere to encourage interdisciplinary exchange between early career researchers. We are pleased to invite you for oral and poster contributions in all fields of natural sciences about archaeological and anthropological topics. In particular, early career researchers in archaeology, art history, anthropology, biological anthropology, environmental archaeology, chemistry, conservation, cultural heritage, earth science, and material science are welcome to submit an abstract for an oral presentation or poster. 
+
+Send us your abstract (max. 200 words) until **May 1^st^, 2026** via the [submission form](https://forms.gle/pUR3Cq5sZAgNfRSb7).  
+
+More information and a first program with information about the social events will follow soon. 
 
 <!-- 
 ## Registration
 Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Registration is possible for everyone, also if you are not presenting. Workshop fees are 30 €. SAS members receive a 5 € discount; you can join SAS before 15 September to benefit from the discount. 
 -->
 
-<!-- Send us your abstract (max. 250 words) until  **June 15^th^ 2025** (extended deadline) via the [submission form](https://forms.gle/txhdzYgtvHt5LEoh6). -->
-
-
 <!-- Abstract submission is closed. The submitted abstracts are now evaluated. -->
 
-<!--
+
 ## SAS Travel Award 
 
 The [Society for Archaeological Sciences](https://socarchsci.org) (SAS) sponsors a single travel award of USD 250 to support one student/ECR from [low and middle income countries](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) and/or with financial need. 
--->
 
-<!--
-The application for the SAS Travel award is integrated in the [abstract submission form](https://forms.gle/txhdzYgtvHt5LEoh6). Applications will be evaluated after abstract submission closed. The evaluation will be based on the applicant's career status, location of affiliation, availability of alternative funding sources, and an motivation letter of 200 to 250 words. The SAS Travel Award will only be bestowed to an applicant with an abstract accepted for presentation at YRA2025. 
--->
+The application for the SAS Travel award is integrated in the [abstract submission form](https://forms.gle/pUR3Cq5sZAgNfRSb7). Applications will be evaluated after abstract submission closed. The evaluation will be based on the applicant's career status, location of affiliation, availability of alternative funding sources, and a motivation letter of 200 to 250 words. The SAS Travel Award will only be bestowed to an applicant with an abstract accepted for presentation at YRA2026. 
 
-<!--
 # How to get to the venue
 
 ## Venue
-The conference is hosted by the Faculty of Humanities at Eötvös Loránd University (ELTE) ([open location in GoogleMaps](https://maps.app.goo.gl/cdamQSp5MtepgMnn9)). It is easily accessible by public transport:
+The conference is hosted by the [National Museum of Iceland (Suðurgata 41, 102 Reykjavík)](https://maps.app.goo.gl/MwwsrAMZHbqqbpPv7). 
 
-* Metro lines M2 (Astoria stop), M4 (Kálvin Square stop), M1 and M3 (Deák Ferenc Square stop), 
-* Buses lines 5, 7, 8, 107, 110, 112, 133, 178, 233, and 239 (Astoria stop).
+It is easily accessible by walk from the city center and by public transport or bus bus. The closest bus stops are Háskóli Íslands and Þjóðminjasafn. Bus tickets are purchased via the [Klappið app](https://www.klappid.is/en), which also functions as a journey planner and allows you to organize your transportation within the city. 
 
-The conference will be held at [Building A of the campus](https://www.elte.hu/content/trefort-kerti-campus.c3c.64?m=136).
+The conference will be held in the lecture hall located in the National Museum, right next to the museum’s café. 
+
 
 ## Travel to Budapest
 
-* By plane: [Liszt Ferenc International Airport](https://www.bud.hu/en) connects Budapest with most of the major European cities. Budapest is easily accessible from the airport by both public transport and taxi. The 100E bus takes the passengers directly to the city centre and conference venue, stopping at Astoria stop. It departs to the airport from Deák Ferenc Square and Kálvin Square stops.
-* By train: Budapest is directly accessible by train from many major European cities via both state-owned and private railway companies, see for example <https://jegy.mav.hu/>. Most of the international lines arrive at Keleti Railway Station or Kelenföld Railway Station, both of which are easily accessible by metro.
-* By bus: International coach services such as [Flixbus](https://global.flixbus.com/) connect Budapest with the larger cities of several neighbouring countries. Most of the bus terminals are easily accessible by metro.
-* By car: Budapest can be easily reached via numerous public highways, for which a highway vignette is required. Please look up the fares and how to purchase a vignette at <https://toll-charge.hu/en>. Please keep in mind that the parking is paid in most parts of the city, including the venue of the conference.
--->
+[Keflavík International Airport](https://www.kefairport.com/) connects Iceland with most of the major European cities and major airports in the US and Canada. The most convenient option to get from the international airport to the city center of Reykjavík is the [Flybus](https://www.re.is/tour/flybus/), which takes you to Reykjavík in around 45 minutes. As of February 2026, a single journey costs 3,999 ISK (~ 27 EUR / 32 USD / 24 GBP). Tickets can be purchased [online](https://www.re.is/tour/flybus/) or at the airport. A 20% discount code is available for all workshop presenters. The code will be shared shortly before the workshop and is valid until 7^th^ of November 2026. The discount code is valid for online bookings only. It must not be shared with anyone else! 
 
-<!--
-
-More information and a first programme with information about the social events will follow soon. 
 
 <!-- The text blocks below can be used as template for upcoming announcements -->
 
@@ -141,4 +121,10 @@ All times are given in Central European Time (UTC+2).
 |10:10 -- 10:30|[*Tracing the cultural and trade relations of the Spanish Empire and the Lesser Caribbean Antilles in the 16^th^ and 17^th^ centuries through ceramic analysis*](abstracts/2024-.qmd)<br />**Sonia Pujals Blanch**, Jaume Buxeda i Garrigós, Roberta  Mentesana|
 
 :::
+-->
+
+<!--
+## Save the date! 
+
+YRA2026 will be hosted by the National Museum of Iceland in Reykjavik (Iceland) from 28 to 30 October 2026. More information will follow soon. 
 -->
