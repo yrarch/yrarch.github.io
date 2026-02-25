@@ -3,37 +3,6 @@ title: "Meet the team"
 lightbox: true
 ---
 
-<!--
-## Andrea Mészáros 
-
-::: {layout="[ 25 , 75 ]"}
-
-::: {#column-image}
-![](assets/img/AMészáros.png)
-:::
-
-::: {#column-text}
-Andrea (Eötvös Loránd University) is a doctoral student in the Department of Archaeology at the ELTE Faculty of Humanities, Doctoral School of History. She completed her bachelor and master studies at the Department of Migration Periods. Her doctoral thesis is on the bead material of the Avar cemeteries around Tiszafüred, their composition, and their distribution and trade situation in the Carpathian Basin in the Early Middle Ages.
-:::
-
-:::
--->
-<!-- 
-## Anna Karligkioti [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9237-7830)
-
-::: {layout="[ 25 , 75 ]"}
-
-::: {#column-image}
-![](assets/img/Anna.png)
-:::
-
-::: {#column-text}
-Anna (Cyprus Institute) is a PhD candidate in Bioarchaeology, funded by the A.G. Leventis Chair for Archaeological Sciences. In her Ph.D titled *Biocultural transformations in central mainland Greece from the Classical to the Roman era*, under the supervision of Associate Professor E. Nikita, Anna is combining osteoarchaeological evidence, mortuary data and historical information, aiming to examine biocultural determinants of identity and social differentiation, expressed through health inequalities, differential access to dietary resources, genetic affiliation and activity patterns in the Greco-Roman world. Anna joined the Cyprus Institute in July 2018 after studying Prehistoric Archaeology at Aristotle University of Thessaloniki, Greece (2018), Human Osteology and Funerary Archaeology at the University of Sheffield, UK (2014) and History and Archaeology at the University of Ioannina, Greece (2010). Since then, she got engaged with projects examining population dynamics and mobility of past populations, spanning classical and late antiquity until post-medieval/Ottoman era Cyprus. In addition, she is currently a research associate at the Phaleron Bioarchaeology project of the American School of Classical Studies at Athens in Greece.
-:::
-
-:::
--->
-
 ## Baptiste Solard [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8215-5721)
 
 ::: {layout="[ 25 , 75 ]"}
@@ -61,37 +30,18 @@ Cecilia is a Postdoctoral Research Associate at the Institute for Biomedical and
 
 :::
 
-<!--
-## Chase Minos [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8880-880X)
-
+## Enrique Fernández-Palacios [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3055-0009)
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/Chase.png)
+![](assets/img/EFernandez-Palacios.png)
 :::
 
 ::: {#column-text}
-Chase (Cyprus Institute) is a PhD candidate in the Science and Technology in Archaeology and Culture Research Centre. He completed his undergraduate degree at the University of St Andrews, and has an MPhil from the University of Cambridge as well as an MSc in experimental archaeology from University College Dublin. Chase is currently a Marie Skłodowska-Curie doctoral fellow part of the premodern plasters and ceramics international training network (PlaCe-ITN). In his PhD, he investigates how raw materials and clay recipes were affected by the use of a new technology, the potter's wheel, during the Late Bronze Age on Cyprus, and uses an integrated approach involving thin-section petrography, chemical analyses and experimental archaeology.
+Enrique holds a Degree in Archaeology by Universidad Complutense de Madrid (Spain) and specialized in geoarchaeology and archaeometry after completing a MSc in Archaeological Sciences at University of Tübingen (Germany). Since then, he has continued his research in geoarchaeology focusing on analytical techniques such as soil micromorphology, lipid biomarker analysis, and phytolith analysis, which he applied for his PhD project carried out at the University of La Laguna (Spain). As member of the Archaeological Micromorphology and Biomarkers (AMBI) Lab research group, his doctoral dissertation focused on the study of pastoral activities conducted by the indigenous communities of La Palma (Canary Islands) from a geoarchaeological and biomolecular perspective. Currently, he holds a postdoc position at Kiel University (Germany) as a member of the Ethnomicroarchaeology (EMA) Lab research group.
 :::
 
 :::
--->
-
-<!--
-## Enikő Somogyvári-Lajtár
-
-::: {layout="[ 25 , 75 ]"}
-
-::: {#column-image}
-![](assets/img/ESomogyvári-Lajtár.png)
-:::
-
-::: {#column-text}
-Enikő (Eötvös Loránd University, Hungary) is a PhD candidate in bioarchaeology at the Institute of Archaeological Sciences, Eötvös Loránd University, Hungary. In her PhD titled Diet and lifestyle in the Neolithic — According to the stable isotope geochemical research of Polgár-Ferenci-hát and Polgár-Csőszhalom sites under the supervision of Senior Research Fellow, Dr. A. Anders. Enikő combines stable isotope geochemical results on human remains with the previous archaeological and physical anthropological information to examine dietary habits and lifestyles at individual and population levels. She also wrote her Bachelor's and Master's thesis on archaeological dietary reconstruction using stable isotope geochemical methods. She is currently a junior research fellow in the Archaeometry and Bioarchaeology Research Group at the Institute for Geological and Geochemical Research, HUN-REN RCAES, Budapest, Hungary.
-:::
-
-:::
--->
 
 ## Joe Walser III [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9329-579X)
 ::: {layout="[ 25 , 75 ]"}
@@ -164,6 +114,21 @@ Paola (Czech Academy of Sciences) is a postdoctoral researcher at the Institute 
 
 :::
 
+## Poorva Salvi [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0009-1248-6398)
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/img/PSalvi.png)
+:::
+
+::: {#column-text}
+Poorva is a PhD scholar at the Archaeological Sciences Centre, Indian Institute of Technology (IIT) Gandhinagar, India. Her research operates at the intersection of Archaeology and Digital Humanities, with a focus on integrating cutting-edge technology into heritage studies. She is exploring the iconometry and iconography of Badami Chalukyan (6th–8th CE) and Hoysala (10th–13th CE) sculptures from Karnataka, India, through a digital lens. By employing non-invasive recording methods such as photogrammetry and Lidar, she is developing and refining methodologies to digitally analyse sculptural proportions and forms. At its core, her research seeks to uncover the scientific principles of sculpture-making as articulated in ancient Indian Sanskrit treatises. By juxtaposing theoretical frameworks with sculptural analysis, she aims to interpret the symbiotic relationship between textual knowledge and practical execution in early Indian art. 
+
+Additionally, she has contributed to research in Archaeozoology by conducting use-wear analysis of bones from the Sorath Harappan period in India. Her project on the Iconographic Traditions of Lakshmi-Narasimha Temple of Harnahalli: Sculptural Art of Hoysala Dynasty received support from UNESCO-Sahapedia. She has also participated in archaeological excavations, worked as an Archaeological Assistant in Telangana’s state museum, and presented her research at international conferences. 
+:::
+
+:::
+
 ## Prudence Robert [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-4133-6734)
 
 ::: {layout="[ 25 , 75 ]"}
@@ -192,22 +157,6 @@ Sinem (Universität Tübingen) is a PhD candidate at the University of Tübingen
 
 :::
 
-<!--
-## Tamanna Jahan Keya 
-
-::: {layout="[ 25 , 75 ]"}
-
-::: {#column-image}
-![](assets/img/TJahan.png)
-:::
-
-::: {#column-text}
-Tamanna (Jahangirnagar University) is a post-graduate student in the Department of Archaeology at Jahangirnagar University, a well-known public university in Bangladesh. She completed her Bachelor of Social Science at Jahangirnagar University in the Department of Archaeology. In her master's thesis, she investigates the chemical composition of uninscribed cast copper coins, their minting process and the nature of the copper coins’ corrosion. Currently, she is working as a graduate researcher in the Department of Archaeology, Jahangirnagar University. Moreover, she worked as an assistant researcher in several archaeometry research projects funded by the Faculty of Arts and Humanities, Jahangirnagar University. Since her 2^nd^ year of undergraduate education, she participated in several archaeological excavations across various regions of Bangladesh. Her research focusing area is archaeometallurgy, more specifically ancient copper metallurgy. Her research works attempt to fill the scientific gap existing in the analysis of ancient metal artifacts in the Bangladesh context.
-:::
-
-:::
--->
-
 ## Thomas Rose [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
 
 ::: {layout="[ 25 , 75 ]"}
@@ -217,7 +166,7 @@ Tamanna (Jahangirnagar University) is a post-graduate student in the Department 
 :::
 
 ::: {#column-text}
-Thomas (Deutsches Bergbau-Museum Bochum) is researcher at the research area Archaeometallurgy of the Deutsches Bergbau-Museum Bochum in the DFG-funded project "GlobaLID -- Building an interface between geochemistry and archaeometry to create a new research infrastructure with a global perspective". He gained expertise in ancient copper metallurgy with focus on the Chalcolithic Southern Levant and stable metal isotope systems and is maintainer of the R package ChronochRt. He is executive board member of the Gesellschaft für Naturwissenschaftliche Archäologie ARCHAEOMETRIE e.V and council member of the Historical Metallurgy Society. More info at [copper-smelting.com](https://copper-smelting.com/). 
+Thomas is Assistant Professor at the Department of Materials Science and Engineering, Massachusetts Institute of Technology. He gained expertise in ancient copper metallurgy with focus on the Chalcolithic Southern Levant and stable metal isotope systems and is contributing, among others, to TerraLID, the research data infrastructure fpr lead isotope data in archaeology and the R package ASTR -- Archaeometric Standards and Tools in R. He is also council member of the Historical Metallurgy Society and in this role one of the editors of the journal *Historical Metallurgy*. More info at [copper-smelting.com](https://copper-smelting.com/). 
 :::
 
 :::
