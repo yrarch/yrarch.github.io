@@ -24,30 +24,35 @@ lightbox: true
 
 
 :::: {.column-margin}
-Organised by:  
-[![University of Iceland](assets/img/Logo_HI.png)](https://english.hi.is/)  
+Hosted at: [![Logo National Museum of Iceland](assets/img/Logo_NationalMuseum.png)](https://www.thjodminjasafn.is/en)  
 &nbsp;  
 
-Hosted at: [![Logo National Museum of Iceland](assets/img/Logo_NationalMuseum.png)](https://www.thjodminjasafn.is/en)  
+Organised by:  
+
+[![](assets/img/Logo_HI.png){width=50% fig-align="center"}](https://english.hi.is/)  
+
+[![](assets/img/Logo_HR.png)](https://www.ru.is/en)  
+
 &nbsp;  
 
 Sponsored by:
 
 [![](assets/img/SAS_logo.png){width=50% fig-align="center"}](https://socarchsci.org)  
 
-[![](assets/img/Logo_HR.png)](https://www.ru.is/en)  
-
 [![](assets/img/Logo_Felag.png)](https://felagfornleifafraedinga.is/)
+
+[![](assets/img/Logo_ReykjavikExcursions.png)](https://www.re.is/)
+
 
 Organised by:  
 [Maren von Mallinckrodt](team.qmd#maren-von-mallinckrodt)  
 [Joe W. Walser III](team.qmd#joe-walser-iii)  
 [Cecilia Collins](team.qmd#cecilia-rose-collins)  
-Enrique Fernández-Palacios  
+[Enrique Fernández-Palacios](team.qmd#enrique-fernández-palacios)  
 [Paola Pizzo](team.qmd#paola-pizzo)  
 [Vasiliki Anevlavi](team.qmd#vasiliki-anevlavi)  
 [Justina Stonytė](team.qmd#justina-stonytė)  
-Poorva Salvi  
+[Poorva Salvi](team.qmd#poorva-salvi)  
 
 ::::
 
@@ -78,12 +83,12 @@ The application for the SAS Travel award is integrated in the [abstract submissi
 ## Venue
 The conference is hosted by the [National Museum of Iceland (Suðurgata 41, 102 Reykjavík)](https://maps.app.goo.gl/MwwsrAMZHbqqbpPv7). 
 
-It is easily accessible by walk from the city center and by public transport or bus bus. The closest bus stops are Háskóli Íslands and Þjóðminjasafn. Bus tickets are purchased via the [Klappið app](https://www.klappid.is/en), which also functions as a journey planner and allows you to organize your transportation within the city. 
+It is easily accessible by walk from the city center and by bus. The closest bus stops are Háskóli Íslands and Þjóðminjasafn. Bus tickets are purchased via the [Klappið app](https://www.klappid.is/en), which also functions as a journey planner and allows you to organize your transportation within the city. 
 
 The conference will be held in the lecture hall located in the National Museum, right next to the museum’s café. 
 
 
-## Travel to Budapest
+## Travel to Reykjavik
 
 [Keflavík International Airport](https://www.kefairport.com/) connects Iceland with most of the major European cities and major airports in the US and Canada. The most convenient option to get from the international airport to the city center of Reykjavík is the [Flybus](https://www.re.is/tour/flybus/), which takes you to Reykjavík in around 45 minutes. As of February 2026, a single journey costs 3,999 ISK (~ 27 EUR / 32 USD / 24 GBP). Tickets can be purchased [online](https://www.re.is/tour/flybus/) or at the airport. A 20% discount code is available for all workshop presenters. The code will be shared shortly before the workshop and is valid until 7^th^ of November 2026. The discount code is valid for online bookings only. It must not be shared with anyone else! 
 
