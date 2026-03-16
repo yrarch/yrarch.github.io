@@ -1,0 +1,18 @@
+---
+title: 'Cooking vessels in Minoan Crete: an interdisciplinary study of their function and use'
+date: "2026"
+date-format: "YYYY"
+Event: Seminar
+categories: [Interdisciplinary approach, Organic residue analysis, Molecular, Microbotanical, Cooking vessels]
+author: 
+  - name: Evgenia Tsafou
+    orcid: 0000-0003-2091-5526
+    corresponding: true
+    email: evgeniatsafou@gmail.com
+---
+  
+*This paper was presented at the YRA seminar series in March 2026.*
+
+This paper presents a holistic approach applied to the study of the function and use of Minoan cooking vessels, based on an interdisciplinary methodology developed for the purposes of this research. The methodology integrates morphological, technological, and use-wear analyses with organic residue analysis, alongside the contextualisation of the results. The ceramic cooking vessels analysed date to the Middle and Late Bronze Age Aegean (1750--1200 BC) and originate from two neighbouring Minoan settlements on the island of Crete, Sissi and Malia. A range of utilitarian vessel shapes and types was examined, enabling the identification of a wide spectrum of organic substances preserved within the ceramics. This paper presents the results obtained from the analytical methods and discusses the new insights gained into the function and use of cooking vessels, considered in combination with the other approaches applied, as well as into Minoan culinary practices more broadly. In addition, the methodological strategy behind the integration of the two analytical techniques, together with the challenges encountered during their implementation, are critically assessed.  
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
