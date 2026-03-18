@@ -27,20 +27,27 @@ lightbox: true
 Hosted at: [![Logo National Museum of Iceland](assets/img/Logo_NationalMuseum.png)](https://www.thjodminjasafn.is/en)  
 &nbsp;  
 
+<!--
 Organised by:  
 
-[![](assets/img/Logo_HR.png)](https://www.ru.is/en)  
+...
 
 &nbsp;  
+-->
 
 Sponsored by:
 
 [![](assets/img/SAS_logo.png){width=50% fig-align="center"}](https://socarchsci.org)  
 
-[![](assets/img/Logo_Felag.png)](https://felagfornleifafraedinga.is/)
-
 [![](assets/img/Logo_ReykjavikExcursions.png)](https://www.re.is/)
 
+&nbsp;  
+
+Supported by:
+
+[![](assets/img/Logo_HR.png)](https://www.ru.is/en)  
+
+[![](assets/img/Logo_Felag.png)](https://felagfornleifafraedinga.is/)
 
 Organised by:  
 [Maren von Mallinckrodt](team.qmd#maren-von-mallinckrodt)  
