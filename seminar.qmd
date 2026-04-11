@@ -5,9 +5,9 @@ lightbox: true
 
 ## New Seminar Series
 
-We are happy to announce a new Seminar Series with monthly presentations highlighting exciting research of ECRs!  
-Each month, we will host an online 1-hour meeting, with about 30 minutes presentations followed by a discussion on the topic. ECRs from around the globe will be invited to present diverse topics, reflecting the multidisciplinary character of archaeological sciences. We aim to have these talks in a relaxed atmosphere, with discussions around a cup of morning coffee, a lunch break, or an afternoon tea depending on the time zone of the participants.  
-The time slots of each presentation will be accommodated to be the most comfortable for the presenter and listeners from their targeted research area.
+In June 2024, we lauched a new Seminar Series with monthly presentations highlighting exciting research of ECRs!  
+Each month, we host an online 1-hour meeting, with about 30 minutes presentations followed by a discussion on the topic. ECRs from around the globe are invited to present diverse topics, reflecting the multidisciplinary character of archaeological sciences. We aim to have these talks in a relaxed atmosphere, with discussions around a cup of morning coffee, a lunch break, or an afternoon tea depending on the time zone of the participants.  
+The time slots of each presentation are accommodated to be the most comfortable for the presenter and listeners from their targeted research area.
 
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting.
 (Meeting-ID: 988 6914 5922; code: YRA-S2026).
@@ -27,7 +27,7 @@ You can convert to your local time zone with, e.g., [timeanddate.com](https://ww
 
 :::
 
-_**CWall painting techniques in Roman Cyprus – a case study from the Agora of Nea Paphos**_
+_**Wall painting techniques in Roman Cyprus – a case study from the Agora of Nea Paphos**_
 
 **Paola Pizzo** (Institute of Archaeology in Brno & Institute of Theoretical and Applied Mechanics, Czech Republic)  
 
