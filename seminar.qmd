@@ -12,7 +12,7 @@ The time slots of each presentation will be accommodated to be the most comforta
 The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting.
 (Meeting-ID: 988 6914 5922; code: YRA-S2026).
 
-## Next presentation: March 5^th^, at 3:00 pm (UTC)
+## Next presentation: April 24^th^, at 12:30 pm (UTC)
 
 ::: {.column-margin}
 
@@ -23,20 +23,23 @@ Click [here](https://zoom.us/j/98869145922?pwd=s3MMqiEdM9LbEXfImob0Sr0UY7hRYc.1)
 **Code:** YRA-S2026  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20260305T150000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20260424T123000&p1=1440).
 
 :::
 
-_**Cooking vessels in Minoan Crete: an interdisciplinary study of their function and use**_
+_**CWall painting techniques in Roman Cyprus – a case study from the Agora of Nea Paphos**_
 
-**Evgenia Tsafou** (University of Louvain, Belgium)  
+**Paola Pizzo** (Institute of Archaeology in Brno & Institute of Theoretical and Applied Mechanics, Czech Republic)  
 
-**Keywords:** Interdisciplinary approach, Organic residue analysis, Molecular, Microbotanical, Cooking vessels  
+**Keywords:** Pigments, Binder analysis, Wall painting techniques, Hellenistic and Roman wall paintings, Cypriot archaeology  
 
 **Abstract:**  
-This paper presents a holistic approach applied to the study of the function and use of Minoan cooking vessels, based on an interdisciplinary methodology developed for the purposes of this research. The methodology integrates morphological, technological, and use-wear analyses with organic residue analysis, alongside the contextualisation of the results. The ceramic cooking vessels analysed date to the Middle and Late Bronze Age Aegean (1750--1200 BC) and originate from two neighbouring Minoan settlements on the island of Crete, Sissi and Malia. A range of utilitarian vessel shapes and types was examined, enabling the identification of a wide spectrum of organic substances preserved within the ceramics. This paper presents the results obtained from the analytical methods and discusses the new insights gained into the function and use of cooking vessels, considered in combination with the other approaches applied, as well as into Minoan culinary practices more broadly. In addition, the methodological strategy behind the integration of the two analytical techniques, together with the challenges encountered during their implementation, are critically assessed.  
+Cypriot wall paintings have been a constant object of study since the earliest archaeological discoveries on the island. However, most of the research has been focused on the iconography of these artefacts, rather than on the production technologies. In fact, to date, studies of wall paintings with a multidisciplinary approach remain underperformed in Cyprus. This research examines twenty wall plaster samples with traces of paint from Nea Paphos, dated from the Hellenistic to the Roman period. Using a range of analytical methods, the study investigates both pigments and their substratum in order to compare them with historical records and previously published data from coeval contexts.
+The results show that locally available pigments were used, consistently with ancient sources such as Pliny and Vitruvius. However, unlike mentioned in several studies relating to Cypriot wall paintings, the pigmented surfaces from Nea Paphos were not only frescoes *sensu stricto*, but painted in a combination of fresco, secco, and mezzo fresco techniques.  
 
-![](assets/img/Seminar/2026-03_Tsafou_copyright.jpg)  
+![](assets/img/Seminar/2026-04_Pizzo.jpg)  
+© Pizzo et al. 2025 
+
 
 ## Programme - 2026
 
@@ -66,6 +69,22 @@ Overall, the findings suggest broadly cereal-centered foodways within mixed farm
 **Abstract:** This paper presents a holistic approach applied to the study of the function and use of Minoan cooking vessels, based on an interdisciplinary methodology developed for the purposes of this research. The methodology integrates morphological, technological, and use-wear analyses with organic residue analysis, alongside the contextualisation of the results. The ceramic cooking vessels analysed date to the Middle and Late Bronze Age Aegean (1750--1200 BC) and originate from two neighbouring Minoan settlements on the island of Crete, Sissi and Malia. A range of utilitarian vessel shapes and types was examined, enabling the identification of a wide spectrum of organic substances preserved within the ceramics. This paper presents the results obtained from the analytical methods and discusses the new insights gained into the function and use of cooking vessels, considered in combination with the other approaches applied, as well as into Minoan culinary practices more broadly. In addition, the methodological strategy behind the integration of the two analytical techniques, together with the challenges encountered during their implementation, are critically assessed.
 :::
 
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## April 24^th^ – Paola Pizzo (Institute of Archaeology in Brno & Institute of Theoretical and Applied Mechanics, Czech Republic)
+**Time:** 12:30 pm (UTC)  
+**Title:** Wall painting techniques in Roman Cyprus – a case study from the Agora of Nea Paphos  
+**Keywords:** Pigments, Binder analysis, Wall painting techniques, Hellenistic and Roman wall paintings, Cypriot archaeology  
+**Abstract:** Cypriot wall paintings have been a constant object of study since the earliest archaeological discoveries on the island. However, most of the research has been focused on the iconography of these artefacts, rather than on the production technologies. In fact, to date, studies of wall paintings with a multidisciplinary approach remain underperformed in Cyprus. This research examines twenty wall plaster samples with traces of paint from Nea Paphos, dated from the Hellenistic to the Roman period. Using a range of analytical methods, the study investigates both pigments and their substratum in order to compare them with historical records and previously published data from coeval contexts.
+The results show that locally available pigments were used, consistently with ancient sources such as Pliny and Vitruvius. However, unlike mentioned in several studies relating to Cypriot wall paintings, the pigmented surfaces from Nea Paphos were not only frescoes *sensu stricto*, but painted in a combination of fresco, secco, and mezzo fresco techniques.  
+:::
+
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## May 21^st^ – Sigríður Sunna Ebenesersdóttir (University of Iceland, Iceland)
+*More information coming soon*  
+:::
+
 ## Previous years' programme
 
 ::: {.panel-tabset}
@@ -81,7 +100,7 @@ Overall, the findings suggest broadly cereal-centered foodways within mixed farm
 |Nov. 11^th^|*The technology of polychrome glazed ceramics in Ifriqiya: new data from the Medjerda Valley*<br>**Veronica Occari**, Heike Möller, Corisand Fenwick, Patrick Quinn,  Ian C. Freestone,  Moheddine Chaouali, Philipp von Rummel|
 |Dec. 10^th^ |[*Chrysocolla at high temperatures: understanding Pre-Hispanic metallurgy through Collahuasi slag analysis (Tarapaca, Chile)*](https://www.yra-ecr.org/abstracts/2024-S12.html)<br>**Sibylle Manya**, Benoît Mille, Valentina Figueroa Larre, Thierry Bataille, Laurent Le Pollès, Jean-Baptiste d’Espinose de Lacaillerie|
 
-## 2024
+## 2025
 
 |||
 |--|----------|
