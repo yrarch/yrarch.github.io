@@ -1,0 +1,21 @@
+---
+title: 'Wall painting techniques in Roman Cyprus – a case study from the Agora of Nea Paphos'
+date: "2026"
+date-format: "YYYY"
+Event: Seminar
+categories: [Pigments, Binder analysis, Wall painting techniques, Hellenistic and Roman wall paintings, Cypriot archaeology]
+author: 
+  - name: Paola Pizzo
+    orcid: 0009-0004-7915-4797
+    corresponding: true
+    email: pizzo@itam.cas.cz
+---
+  
+*This paper was presented at the YRA seminar series in April 2026.*
+
+Cypriot wall paintings have been a constant object of study since the earliest archaeological discoveries on the island. However, most of the research has been focused on the iconography of these artefacts, rather than on the production technologies. In fact, to date, studies of wall paintings with a multidisciplinary approach remain underperformed in Cyprus. This research examines twenty wall plaster samples with traces of paint from Nea Paphos, dated from the Hellenistic to the Roman period. Using a range of analytical methods, the study investigates both pigments and their substratum in order to compare them with historical records and previously published data from coeval contexts.
+The results show that locally available pigments were used, consistently with ancient sources such as Pliny and Vitruvius. However, unlike mentioned in several studies relating to Cypriot wall paintings, the pigmented surfaces from Nea Paphos were not only frescoes *sensu stricto*, but painted in a combination of fresco, secco, and mezzo fresco techniques.  
+
+The research presented here was published in 2025. [Check the article here](https://doi.org/10.1007/s12520-025-02316-1).
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

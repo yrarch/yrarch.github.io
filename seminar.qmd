@@ -5,40 +5,39 @@ lightbox: true
 
 ## New Seminar Series
 
-In June 2024, we lauched a new Seminar Series with monthly presentations highlighting exciting research of ECRs!  
+In June 2024, we launched a new Seminar Series with monthly presentations highlighting exciting research of ECRs!  
 Each month, we host an online 1-hour meeting, with about 30 minutes presentations followed by a discussion on the topic. ECRs from around the globe are invited to present diverse topics, reflecting the multidisciplinary character of archaeological sciences. We aim to have these talks in a relaxed atmosphere, with discussions around a cup of morning coffee, a lunch break, or an afternoon tea depending on the time zone of the participants.  
 The time slots of each presentation are accommodated to be the most comfortable for the presenter and listeners from their targeted research area.
 
-The talks will be held online via Zoom. Click [here](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ) to join the Zoom meeting.
+The talks will be held online via Zoom. [Click here to join the Zoom meeting](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ).
 (Meeting-ID: 988 6914 5922; code: YRA-S2026).
 
-## Next presentation: April 24^th^, at 12:30 pm (UTC)
+## Next presentation: May 21^st^, at 2:00 pm (UTC)
 
 ::: {.column-margin}
 
 ::: {.callout}
 ## Seminar Zoom link 
-Click [here](https://zoom.us/j/98869145922?pwd=s3MMqiEdM9LbEXfImob0Sr0UY7hRYc.1) to join the Zoom meeting.  
+[Click here to join the Zoom meeting](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ).  
 **Meeting-ID:** 988 6914 5922  
 **Code:** YRA-S2026  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20260424T123000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20260521T140000&p1=1440).
 
 :::
 
-_**Wall painting techniques in Roman Cyprus – a case study from the Agora of Nea Paphos**_
+_**Population genomics of the North Atlantic: what ancient and modern genomes reveal about the Viking Age and its aftermath**_
 
-**Paola Pizzo** (Institute of Archaeology in Brno & Institute of Theoretical and Applied Mechanics, Czech Republic)  
+**Sigríður Sunna Ebenesersdóttir** (University of Iceland & National Museum of Iceland, Iceland)  
 
-**Keywords:** Pigments, Binder analysis, Wall painting techniques, Hellenistic and Roman wall paintings, Cypriot archaeology  
+**Keywords:** Ancient DNA, Population genomics, Demographic history, North Atlantic, Vikings  
 
 **Abstract:**  
-Cypriot wall paintings have been a constant object of study since the earliest archaeological discoveries on the island. However, most of the research has been focused on the iconography of these artefacts, rather than on the production technologies. In fact, to date, studies of wall paintings with a multidisciplinary approach remain underperformed in Cyprus. This research examines twenty wall plaster samples with traces of paint from Nea Paphos, dated from the Hellenistic to the Roman period. Using a range of analytical methods, the study investigates both pigments and their substratum in order to compare them with historical records and previously published data from coeval contexts.
-The results show that locally available pigments were used, consistently with ancient sources such as Pliny and Vitruvius. However, unlike mentioned in several studies relating to Cypriot wall paintings, the pigmented surfaces from Nea Paphos were not only frescoes *sensu stricto*, but painted in a combination of fresco, secco, and mezzo fresco techniques.  
+Ancient DNA research has transformed our ability to reconstruct the demographic histories of human populations. By sequencing the genomes of ancient individuals, we can observe directly how migration and admixture shaped past populations, rather than inferring these processes from modern variation alone. In this talk, I present findings from ancient and modern genomes spanning Iceland, Scandinavia, and the broader North Atlantic. Iceland was settled around 1,100 years ago, at the height of the Viking Age, as part of a Norse expansion that left clear genetic signatures across the region. I explore how this founding event shaped the Icelandic gene pool over time, trace patterns of ancestry and mobility in medieval Scandinavia, and examine how major historical events disrupted the movement of people across northern Europe. Together, these studies reveal how migration, isolation, and demographic change have left their mark on the populations of the North Atlantic world.  
 
-![](assets/img/Seminar/2026-04_Pizzo.jpg)  
-© Pizzo et al. 2025 
+![](assets/img/Seminar/2026-05_Ebenesersdottir.jpg)  
+Skeleton of an Icelandic woman who died more than 1,000 years ago. © Í. Brynjólfsson, National Museum of Iceland 
 
 
 ## Programme - 2026
@@ -73,7 +72,7 @@ Overall, the findings suggest broadly cereal-centered foodways within mixed farm
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## April 24^th^ – Paola Pizzo (Institute of Archaeology in Brno & Institute of Theoretical and Applied Mechanics, Czech Republic)
 **Time:** 12:30 pm (UTC)  
-**Title:** Wall painting techniques in Roman Cyprus – a case study from the Agora of Nea Paphos  
+**Title:** [Wall painting techniques in Roman Cyprus – a case study from the Agora of Nea Paphos](https://www.yra-ecr.org/abstracts/2026-S04.html)  
 **Keywords:** Pigments, Binder analysis, Wall painting techniques, Hellenistic and Roman wall paintings, Cypriot archaeology  
 **Abstract:** Cypriot wall paintings have been a constant object of study since the earliest archaeological discoveries on the island. However, most of the research has been focused on the iconography of these artefacts, rather than on the production technologies. In fact, to date, studies of wall paintings with a multidisciplinary approach remain underperformed in Cyprus. This research examines twenty wall plaster samples with traces of paint from Nea Paphos, dated from the Hellenistic to the Roman period. Using a range of analytical methods, the study investigates both pigments and their substratum in order to compare them with historical records and previously published data from coeval contexts.
 The results show that locally available pigments were used, consistently with ancient sources such as Pliny and Vitruvius. However, unlike mentioned in several studies relating to Cypriot wall paintings, the pigmented surfaces from Nea Paphos were not only frescoes *sensu stricto*, but painted in a combination of fresco, secco, and mezzo fresco techniques.  
@@ -82,7 +81,10 @@ The results show that locally available pigments were used, consistently with an
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## May 21^st^ – Sigríður Sunna Ebenesersdóttir (University of Iceland, Iceland)
-*More information coming soon*  
+**Time:** 2:00 pm (UTC)  
+**Title:** Population genomics of the North Atlantic: what ancient and modern genomes reveal about the Viking Age and its aftermath  
+**Keywords:** Ancient DNA, Population genomics, Demographic history, North Atlantic, Vikings  
+**Abstract:** Ancient DNA research has transformed our ability to reconstruct the demographic histories of human populations. By sequencing the genomes of ancient individuals, we can observe directly how migration and admixture shaped past populations, rather than inferring these processes from modern variation alone. In this talk, I present findings from ancient and modern genomes spanning Iceland, Scandinavia, and the broader North Atlantic. Iceland was settled around 1,100 years ago, at the height of the Viking Age, as part of a Norse expansion that left clear genetic signatures across the region. I explore how this founding event shaped the Icelandic gene pool over time, trace patterns of ancestry and mobility in medieval Scandinavia, and examine how major historical events disrupted the movement of people across northern Europe. Together, these studies reveal how migration, isolation, and demographic change have left their mark on the populations of the North Atlantic world.
 :::
 
 ## Previous years' programme
