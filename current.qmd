@@ -6,8 +6,8 @@ lightbox: true
 ::: {.callout-note}
 ## YRA2026 Key dates
 **March 1^st^** -- [Abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7) opens  
-**May 1^st^** -- Deadline for [abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7)  
-<!-- **May 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7)  -->
+<!-- **May 1^st^** -- Deadline for [abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7)  -->
+**May 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7)  
 **June 15^th^** -- Announcement of abstracts decisions  
 **June 15^th^** -- [Registration](https://forms.gle/CCEFcsETfG1rPqsQ9) opens  
 **Aug 1^st^** -- [Registration](https://forms.gle/CCEFcsETfG1rPqsQ9) closes **for presenters**  
@@ -37,7 +37,17 @@ Organised by:
 
 Sponsored by:
 
+::: {layout="[ 50 , 50 ]"}
+
+::: {#column-image}
 [![](assets/img/SAS_logo.png){width=50% fig-align="center"}](https://socarchsci.org)  
+:::
+
+::: {#column-image}
+[![](assets/img/ISBA_logo-9_FINAL_whiteback_thinDNA-r.svg)](https://www.isbarch.org/)
+:::
+
+:::
 
 [![](assets/img/Logo_ReykjavikExcursions.png)](https://www.re.is/)
 
@@ -65,12 +75,12 @@ We are happy to announce that the 9th Workshop Young Researchers in Archaeometry
 
 With this workshop, we aim to offer a relaxed atmosphere to encourage interdisciplinary exchange between early career researchers. We are pleased to invite you for oral and poster contributions in all fields of natural sciences about archaeological and anthropological topics. In particular, early career researchers in archaeology, art history, anthropology, biological anthropology, environmental archaeology, chemistry, conservation, cultural heritage, earth science, and material science are welcome to submit an abstract for an oral presentation or poster. 
 
-Send us your abstract (max. 200 words) until **May 1^st^, 2026** via the [submission form](https://forms.gle/pUR3Cq5sZAgNfRSb7).  
+Send us your abstract (max. 200 words) until **May 15^th^, 2026** via the [submission form](https://forms.gle/pUR3Cq5sZAgNfRSb7).  
 
 More information and a first program with information about the social events will follow soon. 
 
 ## Registration and fees
-Registration will open on 15^th^ June. You can participate in the workshop also if you are not presenting. Workshop fees are 60 € and SAS members receive a 5 € discount. You can join SAS before 1^st^ September to benefit from the discount. 
+Registration will open on 15^th^ June. You can participate in the workshop also if you are not presenting. Workshop fees are 60 € and SAS members receive a 5 € discount. You can join SAS before September 1^st^ to benefit from the discount. 
 
 <!-- 
 ## Registration
