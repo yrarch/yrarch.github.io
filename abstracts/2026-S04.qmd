@@ -1,5 +1,5 @@
 ---
-title: 'Wall painting techniques in Roman Cyprus – a case study from the Agora of Nea Paphos'
+title: 'Wall painting techniques in Roman Cyprus -- a case study from the Agora of Nea Paphos'
 date: "2026"
 date-format: "YYYY"
 Event: Seminar

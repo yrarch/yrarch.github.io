@@ -12,7 +12,7 @@ The time slots of each presentation are accommodated to be the most comfortable 
 The talks will be held online via Zoom. [Click here to join the Zoom meeting](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ).
 (Meeting-ID: 988 6914 5922; code: YRA-S2026).
 
-## Next presentation: May 21^st^, at 2:00 pm (UTC)
+## Next presentation: June 30^th^, at 8:00 am (UTC)
 
 ::: {.column-margin}
 
@@ -23,21 +23,23 @@ The talks will be held online via Zoom. [Click here to join the Zoom meeting](ht
 **Code:** YRA-S2026  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20260521T140000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20260630T080000&p1=1440).
 
 :::
 
-_**Population genomics of the North Atlantic: what ancient and modern genomes reveal about the Viking Age and its aftermath**_
+_**Rethinking early Cycladic metallurgy: evidence from Keros--Dhaskalio**_
 
-**Sigríður Sunna Ebenesersdóttir** (University of Iceland & National Museum of Iceland, Iceland)  
+**Demetris Ioannides** (The Cyprus Institute, Cyprus)  
 
-**Keywords:** Ancient DNA, Population genomics, Demographic history, North Atlantic, Vikings  
+**Keywords:** Archaeometallurgy, Early Bronze Age, Greece, Aegean  
 
 **Abstract:**  
-Ancient DNA research has transformed our ability to reconstruct the demographic histories of human populations. By sequencing the genomes of ancient individuals, we can observe directly how migration and admixture shaped past populations, rather than inferring these processes from modern variation alone. In this talk, I present findings from ancient and modern genomes spanning Iceland, Scandinavia, and the broader North Atlantic. Iceland was settled around 1,100 years ago, at the height of the Viking Age, as part of a Norse expansion that left clear genetic signatures across the region. I explore how this founding event shaped the Icelandic gene pool over time, trace patterns of ancestry and mobility in medieval Scandinavia, and examine how major historical events disrupted the movement of people across northern Europe. Together, these studies reveal how migration, isolation, and demographic change have left their mark on the populations of the North Atlantic world.  
+The island of Keros, situated in the central Cyclades, hosted the world's earliest maritime sanctuary during the Early Cycladic (EC) II and III periods. Just off its west coast, the islet of Dhaskalio accommodated a major EC complex where metalworking --- alongside obsidian blade production --- constituted one of the principal productive activities. This talk presents a comprehensive overview of the archaeometallurgical evidence from the Keros--Dhaskalio site complex, spanning the site's three main occupational phases (c. 2750--2250 BCE).  
+The evidence reveals a metallurgical sequence of remarkable scope and complexity. The discovery of copper smelting activities renders Keros a unique case within the Cyclades during the Early Bronze Age, while extensive metalworking focusing on the production of arsenical copper, lead artefacts, and possible silver and gold sets the settlement of Dhaskalio apart from the rest of EC settlements with metalworking evidence, confirming it as a major metalworking centre.  
+The significance of these activities becomes even more striking when considering that all ores had to be imported, given the complete absence of local mineral resources. Far from merely practical, this metallurgical enterprise likely reflected the community's social identity, connectivity, and status. The knowledge, skill, and symbolic importance associated with metal production were central to the community's social fabric, underscoring the cultural weight of these operations within the Early Cycladic world.  
 
-![](assets/img/Seminar/2026-05_Ebenesersdottir.jpg)  
-Skeleton of an Icelandic woman who died more than 1,000 years ago. © Í. Brynjólfsson, National Museum of Iceland 
+![](assets/img/Seminar/2026-06_Ioannides.jpg)  
+View of Dhaskalio. © G. Kladis, 2025. 
 
 
 ## Programme - 2026
@@ -72,7 +74,7 @@ Overall, the findings suggest broadly cereal-centered foodways within mixed farm
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## April 24^th^ – Paola Pizzo (Institute of Archaeology in Brno & Institute of Theoretical and Applied Mechanics, Czech Republic)
 **Time:** 12:30 pm (UTC)  
-**Title:** [Wall painting techniques in Roman Cyprus – a case study from the Agora of Nea Paphos](https://www.yra-ecr.org/abstracts/2026-S04.html)  
+**Title:** [Wall painting techniques in Roman Cyprus -- a case study from the Agora of Nea Paphos](https://www.yra-ecr.org/abstracts/2026-S04.html)  
 **Keywords:** Pigments, Binder analysis, Wall painting techniques, Hellenistic and Roman wall paintings, Cypriot archaeology  
 **Abstract:** Cypriot wall paintings have been a constant object of study since the earliest archaeological discoveries on the island. However, most of the research has been focused on the iconography of these artefacts, rather than on the production technologies. In fact, to date, studies of wall paintings with a multidisciplinary approach remain underperformed in Cyprus. This research examines twenty wall plaster samples with traces of paint from Nea Paphos, dated from the Hellenistic to the Roman period. Using a range of analytical methods, the study investigates both pigments and their substratum in order to compare them with historical records and previously published data from coeval contexts.
 The results show that locally available pigments were used, consistently with ancient sources such as Pliny and Vitruvius. However, unlike mentioned in several studies relating to Cypriot wall paintings, the pigmented surfaces from Nea Paphos were not only frescoes *sensu stricto*, but painted in a combination of fresco, secco, and mezzo fresco techniques.  
@@ -82,9 +84,28 @@ The results show that locally available pigments were used, consistently with an
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## May 21^st^ – Sigríður Sunna Ebenesersdóttir (University of Iceland, Iceland)
 **Time:** 2:00 pm (UTC)  
-**Title:** Population genomics of the North Atlantic: what ancient and modern genomes reveal about the Viking Age and its aftermath  
+**Title:** [Population genomics of the North Atlantic: what ancient and modern genomes reveal about the Viking Age and its aftermath](https://www.yra-ecr.org/abstracts/2026-S03.html)  
 **Keywords:** Ancient DNA, Population genomics, Demographic history, North Atlantic, Vikings  
 **Abstract:** Ancient DNA research has transformed our ability to reconstruct the demographic histories of human populations. By sequencing the genomes of ancient individuals, we can observe directly how migration and admixture shaped past populations, rather than inferring these processes from modern variation alone. In this talk, I present findings from ancient and modern genomes spanning Iceland, Scandinavia, and the broader North Atlantic. Iceland was settled around 1,100 years ago, at the height of the Viking Age, as part of a Norse expansion that left clear genetic signatures across the region. I explore how this founding event shaped the Icelandic gene pool over time, trace patterns of ancestry and mobility in medieval Scandinavia, and examine how major historical events disrupted the movement of people across northern Europe. Together, these studies reveal how migration, isolation, and demographic change have left their mark on the populations of the North Atlantic world.
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## June 30^th^ – Demetris Ioannides (The Cyprus Institute, Cyprus)
+**Time:** 8:00 am (UTC)  
+**Title:** Rethinking early Cycladic metallurgy: evidence from Keros--Dhaskalio  
+**Keywords:** Archaeometallurgy, Early Bronze Age, Greece, Aegean  
+**Abstract:** The island of Keros, situated in the central Cyclades, hosted the world's earliest maritime sanctuary during the Early Cycladic (EC) II and III periods. Just off its west coast, the islet of Dhaskalio accommodated a major EC complex where metalworking --- alongside obsidian blade production --- constituted one of the principal productive activities. This talk presents a comprehensive overview of the archaeometallurgical evidence from the Keros--Dhaskalio site complex, spanning the site's three main occupational phases (c. 2750--2250 BCE).  
+The evidence reveals a metallurgical sequence of remarkable scope and complexity. The discovery of copper smelting activities renders Keros a unique case within the Cyclades during the Early Bronze Age, while extensive metalworking focusing on the production of arsenical copper, lead artefacts, and possible silver and gold sets the settlement of Dhaskalio apart from the rest of EC settlements with metalworking evidence, confirming it as a major metalworking centre.  
+The significance of these activities becomes even more striking when considering that all ores had to be imported, given the complete absence of local mineral resources. Far from merely practical, this metallurgical enterprise likely reflected the community's social identity, connectivity, and status. The knowledge, skill, and symbolic importance associated with metal production were central to the community's social fabric, underscoring the cultural weight of these operations within the Early Cycladic world.
+:::
+
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## July 21^st^ – Dimitris Filioglou (The M.H. Wiener Laboratory for Archaeological Science, Greece)
+**Time:** 11:00 am (UTC)  
+**Title:** Examining the human-animal-environment relationship in Thebes (central Greece) during the middle and late Neolithic period  
+**Keywords:** Zooarchaeology, Ichthyoarchaeology, Animal husbandry, Paleodiet, Middle/Late Byzantine Thebes  
+**Abstract:** This presentation investigates animal husbandry, fishing techniques, diet and their socioeconomic implications within the changing political landscape of Late Byzantine Thebes (13th--15th centuries CE) through an integrated zooarchaeological approach. It draws evidence from faunal assemblages from 9 refuse pits (bothroi) on the Ismenion Hill, an area with some habitation in southeastern Thebes. Results indicate a reliance on caprines---especially sheep---as the dominant livestock, suggesting an organized system of mutton production. Pigs and cattle likely played a supplementary role in inhabitants’ diet and economic activities, at least in the examined households. A portion of the herds were likely in-house stalled while deadstock was processed in a standardized way. Fish remains indicate a marked reliance on aquatic resources from near-shore, coastal marine environments, with a notable abundance of the gilthead seabream (Sparus aurata). Furthermore, while Thebes experienced successive foreign rule from  the 13th century onward, continuity in animal exploitation during these times suggests resilience in local foodways. Ismenion Hill residents matched the general trends in animal exploitation and meat consumption seen in other regions of the Greek peninsula since the first centuries of the Byzantine Period. These findings contribute significantly to the underexplored field of Byzantine zooarchaeology and shed light on subsistence strategies in medieval Greece.
 :::
 
 ## Previous years' programme

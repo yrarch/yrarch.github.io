@@ -1,0 +1,18 @@
+---
+title: 'Population genomics of the North Atlantic: what ancient and modern genomes reveal about the Viking Age and its aftermath'
+date: "2026"
+date-format: "YYYY"
+Event: Seminar
+categories: [Ancient DNA, Population genomics, Demographic history, North Atlantic, Vikings]
+author: 
+  - name: Sigríður Sunna Ebenesersdóttir
+    orcid: 0000-0001-5912-4401
+    corresponding: true
+    email: sunnaeben@hi.is
+---
+  
+*This paper was presented at the YRA seminar series in May 2026.*
+
+Ancient DNA research has transformed our ability to reconstruct the demographic histories of human populations. By sequencing the genomes of ancient individuals, we can observe directly how migration and admixture shaped past populations, rather than inferring these processes from modern variation alone. In this talk, I present findings from ancient and modern genomes spanning Iceland, Scandinavia, and the broader North Atlantic. Iceland was settled around 1,100 years ago, at the height of the Viking Age, as part of a Norse expansion that left clear genetic signatures across the region. I explore how this founding event shaped the Icelandic gene pool over time, trace patterns of ancestry and mobility in medieval Scandinavia, and examine how major historical events disrupted the movement of people across northern Europe. Together, these studies reveal how migration, isolation, and demographic change have left their mark on the populations of the North Atlantic world.  
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
