@@ -56,20 +56,6 @@ Joe completed a BA in Anthropology at Temple University, MSc in Palaeopathology 
 
 :::
 
-
-## Justina Stonytė [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0002-5722-7727)
-::: {layout="[ 25 , 75 ]"}
-
-::: {#column-image}
-![](assets/yra-logo.svg)
-:::
-
-::: {#column-text}
-Justina (Center for Physical Sciences and Technology, Lithuania) is a PhD candidate in Chemistry. Her doctoral research, titled “Uncovering Chemical Fungal Footprints in Archaeological Samples” bridges molecular biology, electrochemistry, and bioarchaeology. Her work aims to develop innovative analytical methods for heritage science and to shed light on the overlooked relationships between humans and fungi in the past.
-:::
-
-:::
-
 ## Kyriaki Tsirtsi [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-1861-7987)
 
 ::: {layout="[ 25 , 75 ]"}
