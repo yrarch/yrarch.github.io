@@ -5,11 +5,11 @@ lightbox: true
 
 ::: {.callout-note}
 ## YRA2026 Key dates
-**March 1^st^** -- [Abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7) opens  
+~~**March 1^st^** -- [Abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7) opens~~  
 <!-- **May 1^st^** -- Deadline for [abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7)  -->
-**May 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7)  
-**June 15^th^** -- Announcement of abstracts decisions  
-**June 15^th^** -- [Registration](https://forms.gle/CCEFcsETfG1rPqsQ9) opens  
+~~**May 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7)~~  
+~~**June 15^th^** -- Announcement of abstracts decisions~~  
+~~**June 15^th^** -- [Registration](https://forms.gle/CCEFcsETfG1rPqsQ9) opens~~  
 **Aug 1^st^** -- [Registration](https://forms.gle/CCEFcsETfG1rPqsQ9) closes **for presenters**  
 **Aug 15^th^** -- Preliminary program available  
 **Sept 1^st^** -- [Registration](https://forms.gle/CCEFcsETfG1rPqsQ9) closes **for participants**  
@@ -75,16 +75,18 @@ We are happy to announce that the 9th Workshop Young Researchers in Archaeometry
 
 With this workshop, we aim to offer a relaxed atmosphere to encourage interdisciplinary exchange between early career researchers. We are pleased to invite you for oral and poster contributions in all fields of natural sciences about archaeological and anthropological topics. In particular, early career researchers in archaeology, art history, anthropology, biological anthropology, environmental archaeology, chemistry, conservation, cultural heritage, earth science, and material science are welcome to submit an abstract for an oral presentation or poster. 
 
+<!--
 Send us your abstract (max. 200 words) until **May 15^th^, 2026** via the [submission form](https://forms.gle/pUR3Cq5sZAgNfRSb7).  
 
 More information and a first program with information about the social events will follow soon. 
+-->
 
 ## Registration and fees
-Registration will open on 15^th^ June. You can participate in the workshop also if you are not presenting. Workshop fees are 60 € and SAS members receive a 5 € discount. You can join SAS before September 1^st^ to benefit from the discount. 
+Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Workshop fees are 60 € and SAS members receive a 5 € discount. You can join SAS before September 1^st^ to benefit from the discount. You can participate in the workshop also if you are not presenting. 
 
 <!-- 
 ## Registration
-Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). 
+Please register through [this form](https://forms.gle/vJCm7feYgBijP4FGA). Workshop fees are 60 € and SAS members receive a 5 € discount. You can join SAS before September 1^st^ to benefit from the discount. You can participate in the workshop also if you are not presenting. 
 -->
 
 <!-- Abstract submission is closed. The submitted abstracts are now evaluated. -->
@@ -100,7 +102,9 @@ Social events will be included in the regular program when it is available.
 
 The [Society for Archaeological Sciences](https://socarchsci.org) (SAS) sponsors a single travel award of USD 250 to support one student/ECR from [low and middle income countries](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) and/or with financial need. 
 
+<!--
 The application for the SAS Travel award is integrated in the [abstract submission form](https://forms.gle/pUR3Cq5sZAgNfRSb7). Applications will be evaluated after abstract submission closed. The evaluation will be based on the applicant's career status, location of affiliation, availability of alternative funding sources, and a motivation letter of 200 to 250 words. The SAS Travel Award will only be bestowed to an applicant with an abstract accepted for presentation at YRA2026. 
+-->
 
 # How to get to the venue
 
