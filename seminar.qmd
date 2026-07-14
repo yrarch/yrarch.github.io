@@ -23,11 +23,11 @@ The talks will be held online via Zoom. [Click here to join the Zoom meeting](ht
 **Code:** YRA-S2026  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20260721T100000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20260721T110000&p1=1440).
 
 :::
 
-_**Examining the human-animal-environment relationship in Thebes (central Greece) during the middle and late Neolithic period**_
+_**Examining the human-animal-environment relationship in Thebes (central Greece) during the middle and late Byzantine period**_
 
 **Dimitris Filioglou** (The M.H. Wiener Laboratory for Archaeological Science, Greece)  
 
@@ -100,7 +100,7 @@ The significance of these activities becomes even more striking when considering
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## July 21^st^ – Dimitris Filioglou (The M.H. Wiener Laboratory for Archaeological Science, Greece)
 **Time:** 11:00 am (UTC)  
-**Title:** Examining the human-animal-environment relationship in Thebes (central Greece) during the middle and late Neolithic period  
+**Title:** Examining the human-animal-environment relationship in Thebes (central Greece) during the middle and late Byzantine period  
 **Keywords:** Zooarchaeology, Ichthyoarchaeology, Animal husbandry, Paleodiet, Middle/Late Byzantine Thebes  
 **Abstract:** This presentation investigates animal husbandry, fishing techniques, diet and their socioeconomic implications within the changing political landscape of Late Byzantine Thebes (13th--15th centuries CE) through an integrated zooarchaeological approach. It draws evidence from faunal assemblages from 9 refuse pits (bothroi) on the Ismenion Hill, an area with some habitation in southeastern Thebes. Results indicate a reliance on caprines---especially sheep---as the dominant livestock, suggesting an organized system of mutton production. Pigs and cattle likely played a supplementary role in inhabitants’ diet and economic activities, at least in the examined households. A portion of the herds were likely in-house stalled while deadstock was processed in a standardized way. Fish remains indicate a marked reliance on aquatic resources from near-shore, coastal marine environments, with a notable abundance of the gilthead seabream (Sparus aurata). Furthermore, while Thebes experienced successive foreign rule from  the 13th century onward, continuity in animal exploitation during these times suggests resilience in local foodways. Ismenion Hill residents matched the general trends in animal exploitation and meat consumption seen in other regions of the Greek peninsula since the first centuries of the Byzantine Period. These findings contribute significantly to the underexplored field of Byzantine zooarchaeology and shed light on subsistence strategies in medieval Greece.
 :::
