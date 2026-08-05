@@ -10,8 +10,8 @@ lightbox: true
 ~~**May 15^th^** -- **EXTENDED** Deadline for [abstract submission](https://forms.gle/pUR3Cq5sZAgNfRSb7)~~  
 ~~**June 15^th^** -- Announcement of abstracts decisions~~  
 ~~**June 15^th^** -- [Registration](https://forms.gle/CCEFcsETfG1rPqsQ9) opens~~  
-**Aug 1^st^** -- [Registration](https://forms.gle/CCEFcsETfG1rPqsQ9) closes **for presenters**  
-**Aug 15^th^** -- Preliminary program available  
+~~**Aug 1^st^** -- [Registration](https://forms.gle/CCEFcsETfG1rPqsQ9) closes **for presenters**~~  
+~~**Aug 15^th^** -- Preliminary program available~~  
 **Sept 1^st^** -- [Registration](https://forms.gle/CCEFcsETfG1rPqsQ9) closes **for participants**  
 **Oct 1^st^** -- Meeting details and final program available  
 **Oct 28^th^ -- 30^th^** -- YRA2026 in Reykjavik  
@@ -135,7 +135,7 @@ All times are given in Greenwich Meridian Time (UTC+0).
 ## **Oct. 29^th^**
 
 |||
-|----|----|
+|--|--------|
 |10:00 -- 13:00|*Guided tour through the National Museum of Iceland; lunch*|
 |||
 ||**Session 4: Landscape- and Zooarchaeology: Iceland**|
@@ -183,8 +183,8 @@ All times are given in Greenwich Meridian Time (UTC+0).
 |13:45 -- 13:50|*Exploring the purpose of suspected intoxicant paraphernalia from La Hueca-Sorcé (Puerto Rico) with a non-destructive, multianalytical approach*<br />**Judith Margarita López Aceves** (University of Leicester, United Kingdom)|
 |13:50 -- 13:55|*Combined Scientific Dating and Materials Analysis of Salisbury Cathedral, United Kingdom*<br />**Kutsi Akcicek** (Department of Engineering Science, University of Oxford, United Kingdom)|
 |||
-|13:55 -- 15:30|*Posters session with coffee break*|
-|15:30 -- 15:45|*Travel award ceremony, closing*|
+|13:55 -- 15:30|**Posters session** with *coffee break*|
+|15:30 -- 15:45|Travel award ceremony, closing|
 
 
 :::
