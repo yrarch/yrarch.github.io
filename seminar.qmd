@@ -12,7 +12,7 @@ The time slots of each presentation are accommodated to be the most comfortable 
 The talks will be held online via Zoom. [Click here to join the Zoom meeting](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ).
 (Meeting-ID: 988 6914 5922; code: YRA-S2026).
 
-## Next presentation: July 21^st^, at 11:00 am (UTC)
+## Next presentation: September 30^th^, at 9:00 am (UTC)
 
 ::: {.column-margin}
 
@@ -23,20 +23,22 @@ The talks will be held online via Zoom. [Click here to join the Zoom meeting](ht
 **Code:** YRA-S2026  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20260721T110000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20260930T090000&p1=1440).
 
 :::
 
-_**Examining the human-animal-environment relationship in Thebes (central Greece) during the middle and late Byzantine period**_
+_**Reading medieval landscapes through soils: geoarchaeological insights from Uherské Hradiště, Czech Republic**_
 
-**Dimitris Filioglou** (The M.H. Wiener Laboratory for Archaeological Science, Greece)  
+**Katarína Adameková** (Institute of Archaeology of the Czech Academy of Sciences, Czech Republic)  
 
-**Keywords:** Zooarchaeology, Ichthyoarchaeology, Animal husbandry, Paleodiet, Middle/Late Byzantine Thebes  
+**Keywords:** Geoarchaeology, Medieval settlement, Anthropogenic soils, Soil micromorphology  
 
 **Abstract:**  
-This presentation investigates animal husbandry, fishing techniques, diet and their socioeconomic implications within the changing political landscape of Late Byzantine Thebes (13th--15th centuries CE) through an integrated zooarchaeological approach. It draws evidence from faunal assemblages from 9 refuse pits (bothroi) on the Ismenion Hill, an area with some habitation in southeastern Thebes. Results indicate a reliance on caprines---especially sheep---as the dominant livestock, suggesting an organized system of mutton production. Pigs and cattle likely played a supplementary role in inhabitants’ diet and economic activities, at least in the examined households. A portion of the herds were likely in-house stalled while deadstock was processed in a standardized way. Fish remains indicate a marked reliance on aquatic resources from near-shore, coastal marine environments, with a notable abundance of the gilthead seabream (Sparus aurata). Furthermore, while Thebes experienced successive foreign rule from  the 13th century onward, continuity in animal exploitation during these times suggests resilience in local foodways. Ismenion Hill residents matched the general trends in animal exploitation and meat consumption seen in other regions of the Greek peninsula since the first centuries of the Byzantine Period. These findings contribute significantly to the underexplored field of Byzantine zooarchaeology and shed light on subsistence strategies in medieval Greece.  
+Medieval anthropogenic soils and sediments preserve complex records of human activity, environmental change and landscape transformation. Their interpretation can be particularly challenging in floodplain settings, where anthropogenic, pedogenetic and fluvial processes interact and repeatedly modify the archaeological record. This talk presents a geoarchaeological investigation of a well-preserved sequence of anthropogenic soils and floodplain sediments from Uherské Hradiště, an important settlement and trade centre on the Morava River in the Czech Republic. Archaeological evidence is combined with soil micromorphology, physical and geochemical analyses, palaeobotanical data and chronological information to reconstruct the formation of Dark Earth and changing patterns of land use from the Early to the High Medieval period. Initial settlement activities began around the transition between the 7th and 8th centuries CE, followed by increasing human impact and evidence of craft and market-related activities during the Great Moravian period, in the 9th century CE. After a hiatus in the 10th--12th centuries AD, the site saw re-establishment in the 13th century CE, marking the early formation of the urbanisation in Uherské Hradiště. Despite repeated flooding, the settlement in the area was renewed repeatedly. Together with evidence of long-distance trade, this proves the importance of the place located on the commercial waterway of the Morava River. New findings reveal that this settlement could have played a more essential role in the Early Mediaeval era than previously expected.  
 
-![](assets/img/Seminar/2026-07_Filioglou_copyright.jpg)  
+The research presented here was published in 2025 and can be found [here](https://doi.org/10.1016/j.catena.2025.108734).  
+
+![](assets/img/Seminar/2026-09_Adamekova_copyright.jpg)  
 
 
 ## Programme - 2026
@@ -103,6 +105,15 @@ The significance of these activities becomes even more striking when considering
 **Title:** Examining the human-animal-environment relationship in Thebes (central Greece) during the middle and late Byzantine period  
 **Keywords:** Zooarchaeology, Ichthyoarchaeology, Animal husbandry, Paleodiet, Middle/Late Byzantine Thebes  
 **Abstract:** This presentation investigates animal husbandry, fishing techniques, diet and their socioeconomic implications within the changing political landscape of Late Byzantine Thebes (13th--15th centuries CE) through an integrated zooarchaeological approach. It draws evidence from faunal assemblages from 9 refuse pits (bothroi) on the Ismenion Hill, an area with some habitation in southeastern Thebes. Results indicate a reliance on caprines---especially sheep---as the dominant livestock, suggesting an organized system of mutton production. Pigs and cattle likely played a supplementary role in inhabitants’ diet and economic activities, at least in the examined households. A portion of the herds were likely in-house stalled while deadstock was processed in a standardized way. Fish remains indicate a marked reliance on aquatic resources from near-shore, coastal marine environments, with a notable abundance of the gilthead seabream (Sparus aurata). Furthermore, while Thebes experienced successive foreign rule from  the 13th century onward, continuity in animal exploitation during these times suggests resilience in local foodways. Ismenion Hill residents matched the general trends in animal exploitation and meat consumption seen in other regions of the Greek peninsula since the first centuries of the Byzantine Period. These findings contribute significantly to the underexplored field of Byzantine zooarchaeology and shed light on subsistence strategies in medieval Greece.
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## September 30^th^ – Katarína Adameková (Institute of Archaeology of the Czech Academy of Sciences, Czech Republic)
+**Time:** 9:00 am (UTC)  
+**Title:** Reading medieval landscapes through soils: geoarchaeological insights from Uherské Hradiště, Czech Republic  
+**Keywords:** Geoarchaeology, Medieval settlement, Anthropogenic soils, Soil micromorphology  
+**Abstract:** Medieval anthropogenic soils and sediments preserve complex records of human activity, environmental change and landscape transformation. Their interpretation can be particularly challenging in floodplain settings, where anthropogenic, pedogenetic and fluvial processes interact and repeatedly modify the archaeological record. This talk presents a geoarchaeological investigation of a well-preserved sequence of anthropogenic soils and floodplain sediments from Uherské Hradiště, an important settlement and trade centre on the Morava River in the Czech Republic. Archaeological evidence is combined with soil micromorphology, physical and geochemical analyses, palaeobotanical data and chronological information to reconstruct the formation of Dark Earth and changing patterns of land use from the Early to the High Medieval period. Initial settlement activities began around the transition between the 7th and 8th centuries CE, followed by increasing human impact and evidence of craft and market-related activities during the Great Moravian period, in the 9th century CE. After a hiatus in the 10th--12th centuries AD, the site saw re-establishment in the 13th century CE, marking the early formation of the urbanisation in Uherské Hradiště. Despite repeated flooding, the settlement in the area was renewed repeatedly. Together with evidence of long-distance trade, this proves the importance of the place located on the commercial waterway of the Morava River. New findings reveal that this settlement could have played a more essential role in the Early Mediaeval era than previously expected.  
+The research presented here was published in 2025 and can be found [here](https://doi.org/10.1016/j.catena.2025.108734).
 :::
 
 ## Previous years' programme
