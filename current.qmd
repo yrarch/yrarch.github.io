@@ -47,6 +47,10 @@ Sponsored by:
 [![](assets/img/ISBA_logo-9_FINAL_whiteback_thinDNA-r.svg)](https://www.isbarch.org/)
 :::
 
+::: {#column-image}
+[![](assets/img/ITAM_logo_a2_color.png){width=50% fig-align="center"}](https://itam.cas.cz/en)  
+:::
+
 :::
 
 [![](assets/img/Logo_ReykjavikExcursions.png)](https://www.re.is/)
@@ -148,7 +152,7 @@ All times are given in Greenwich Meridian Time (UTC+0).
 ||**Session 5: Lithics and Mortars I**|
 |14:20 -- 14:40|*Preliminary Characterisation Results of Roman Concrete from the Podium Temple in Antioch on the Orontes*<br />**Kutsi Akcicek** (Department of Engineering Science, University of Oxford, United Kingdom)|
 |14:40 -- 15:00|*Small Datasets and Big Questions on Marble Networks in Roman Southeastern Thrace*<br />**Vasiliki Anevlavi** (National Hellenic Research Foundation, Athens, Greece; Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria)|
-|15:00 -- 15:20|*Plastering Church II: socioeconomical aspects of plaster production from Mikulčice stronghold (Czech Republic)*<br />**Paola Pizzo** (Centre for Multidisciplinary Archaeology, Institute of Archaeology, Czech Academy of Sciences, Brno, Czech Republic)|
+|15:00 -- 15:20|*Painting technique in Mikulčice's church VI: colour palette and innovations*<br />**Paola Pizzo** (Centre for Multidisciplinary Archaeology, Institute of Archaeology, Czech Academy of Sciences, Brno, Czech Republic)|
 |15:20 -- 15:40|*The slag, extra slag and some more slag from the Slag heap of Cerro de los Almadenes, Spain*<br />**Anna-Maria Sdralia** (Department of Prehistory and Archaeology, University of Granada, Granada, Spain)|
 |||
 |15:40 -- 16:00|*Coffee break*|
