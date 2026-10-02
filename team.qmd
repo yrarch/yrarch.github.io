@@ -8,7 +8,7 @@ lightbox: true
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/Baptiste_150x150.png)
+![](assets/img/team/BSolard.png)
 :::
 
 ::: {#column-text}
@@ -21,7 +21,7 @@ Baptiste (Universität Tübingen) completed his Diplôme d’ingénieur chimiste
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/CCollins.png)
+![](assets/img/team/CCollins.png)
 :::
 
 ::: {#column-text}
@@ -30,11 +30,24 @@ Cecilia is a Postdoctoral Research Associate at the Institute for Biomedical and
 
 :::
 
+## Delaney Lynn Dammeyer [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0002-3424-628X)
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/img/team/DDammeyer.png)
+:::
+
+::: {#column-text}
+Delaney (University of Iceland) completed their bachelors degree in Sociology-Anthropology with a concentration in Archaeology at Elizabethtown College. In 2024, they graduated a master's in Historical Archaeology from the University of Iceland, completing and presenting their thesis 'On Water: An Entangled Landscape Approach at Kirkjubæjarklaustur and Þingeyraklaustur.' In 2024, they also started their PhD at the University of Iceland on comparing water management at North Atlantic medieval monasteries in Iceland and Scotland, a project which is done in collaboration with St. Andrews University in Scotland. Delaney's research interests are environmental history, landscape archaeology and spatial analysis.
+:::
+
+:::
+
 ## Enrique Fernández-Palacios [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3055-0009)
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/EFernandez-Palacios.png)
+![](assets/img/team/EFernandez-Palacios.png)
 :::
 
 ::: {#column-text}
@@ -47,7 +60,7 @@ Enrique holds a Degree in Archaeology by Universidad Complutense de Madrid (Spai
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/JWalser.png)
+![](assets/img/team/JWalser.png)
 :::
 
 ::: {#column-text}
@@ -61,7 +74,7 @@ Joe completed a BA in Anthropology at Temple University, MSc in Palaeopathology 
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/Kyriaki.png)
+![](assets/img/team/KTsirtsi.png)
 :::
 
 ::: {#column-text}
@@ -78,7 +91,7 @@ In MedisFood, Kyriaki holds a Post-Doctorate position where she explores the lon
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/MvMallinckrodt.png)
+![](assets/img/team/MvMallinckrodt.png)
 :::
 
 ::: {#column-text}
@@ -91,7 +104,7 @@ Maren is a PhD candidate in Biological Anthropology at the University of Iceland
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/PPizzo.png)
+![](assets/img/team/PPizzo.png)
 :::
 
 ::: {#column-text}
@@ -104,7 +117,7 @@ Paola (Czech Academy of Sciences) is a postdoctoral researcher at the Institute 
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/PSalvi.png)
+![](assets/img/team/PSalvi.png)
 :::
 
 ::: {#column-text}
@@ -120,7 +133,7 @@ Additionally, she has contributed to research in Archaeozoology by conducting us
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/PRobert.png)
+![](assets/img/team/PRobert.png)
 :::
 
 ::: {#column-text}
@@ -134,7 +147,7 @@ Prudence (Ghent University) is a PhD candidate in bioarchaeology at Archeos, the
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/Sinem_150x150.png)
+![](assets/img/team/SHaciosmanoglu.png)
 :::
 
 ::: {#column-text}
@@ -148,7 +161,7 @@ Sinem (Universität Tübingen) is a PhD candidate at the University of Tübingen
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/TRose.png)
+![](assets/img/team/TRose.png)
 :::
 
 ::: {#column-text}
@@ -163,7 +176,7 @@ Thomas is Assistant Professor at the Department of Materials Science and Enginee
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/VAnevlavi.png)
+![](assets/img/team/VAnevlavi.png)
 :::
 
 ::: {#column-text}
@@ -177,7 +190,7 @@ Vasiliki (Austrian Archaeological Institute) studied the Master of Science in Cu
 ::: {layout="[ 25 , 75 ]"}
 
 ::: {#column-image}
-![](assets/img/VMozgai.png)
+![](assets/img/team/VMozgai.png)
 :::
 
 ::: {#column-text}
