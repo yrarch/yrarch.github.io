@@ -1,0 +1,25 @@
+---
+title: 'Dietary responses to environmental and cultural changes: compound-specific isotope evidence from Epipaleolithic L''Aven des Iboussières (France)'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Paleodiet, Amino acids, Compound-specific isotope analysis]
+author: 
+  - name: Timon Zirlewagen
+    orcid: 0009-0004-3919-054X
+    corresponding: true
+    email: timon.zirlewagen@student.uni-tuebingen.de
+  - name: Dorothée G. Drucker
+    orcid: 0000-0003-0854-4371
+  - name: Susanne Greiff
+    orcid: 0000-0002-9298-3395
+  - name: Hervé Bocherens
+    orcid: 0000-0002-0494-0126
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+Quantifying the contribution of freshwater resources to human diet at the Pleistocene/Holocene transition remains an important challenge in human evolutionary studies. Previous research, for example in Northern France, Central Germany and Northwestern Croatia indicated a higher reliance on aquatic resources during the end of the Pleistocene based on bulk collagen isotope data of nitrogen, carbon and sulfur. However, overlaps in carbon and nitrogen isotope data between freshwater and terrestrial fauna can limit precise interpretations of concrete dietary protein sources.
+This ongoing study therefore applies compound-specific nitrogen isotope analysis of individual amino acids to multiple human and faunal bone remains from the burial site L'Aven des Iboussières (ca. 10,100-9500 BCE) in southern France. Our aim is to estimate their trophic relationships as well as improve known data about dietary practices during the cold phase of the Younger Dryas. Additionally, geographical contextualizations are used to explore regional dietary contrasts. By combining compound-specific nitrogen data with bulk nitrogen, carbon and sulfur isotope data, this analysis aims to provide a more robust framework for reconstructing the human subsistence during the Younger Dryas. It also seeks to address limitations in paleodietary research in the context of environmental changes.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

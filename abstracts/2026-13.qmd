@@ -1,0 +1,26 @@
+---
+title: 'Small datasets and big questions on marble networks in Roman southeastern Thrace'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Marble provenance, Roman Thrace, Archaeometry, Stable isotope analysis, ICP-MS geochemistry]
+author: 
+  - name: Vasiliki Anevlavi
+    orcid: 0000-0001-7332-1129
+    corresponding: true
+    email: vasiliki.anevlavi@oeaw.ac.at
+  - name: Petya Andreeva
+    orcid: 0000-0001-6749-3880
+  - name: Kalina Petkova
+    orcid: 0009-0001-8518-419X
+  - name: Ivan Voykov
+    orcid: 0000-0003-1190-928X
+  - name: Walter Prochaska
+    orcid: 0000-0003-3047-2976
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+Previous archaeometric studies in Eastern Thrace established an extensive network of marble sources used during the Roman period, particularly for the construction and decoration of the Villa Armira, as well as for artefacts distributed across the Roman province of Thrace. Earlier provenance studies based on stable isotope analysis (δ¹³C and δ¹⁸O) and ICP-MS geochemistry highlighted the importance of local and regional marble supply networks in the region. This contribution presents new provenance data from two recently studied objects, a statuette and a funerary stele, which challenge previous assumptions regarding stone supply patterns in the region. Contrary to expectations, the analyses indicate a preference for regional and supra-regional marble sources rather than nearby local quarries. Although based on a limited number of samples, these results raise important questions concerning the complexity of marble circulation, trade connections, and material selection in Roman Thrace. The study demonstrates how even a small dataset can significantly reshape current interpretations of ancient stone procurement and exchange networks in Southeastern Europe.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

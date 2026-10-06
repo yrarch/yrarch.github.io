@@ -1,0 +1,27 @@
+---
+title: 'Equid eating: isotopic analysis insights from Palaeolithic wild horses in the Pyrenees'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Zooarchaeology, Enamel carbonate analysis, Interdisciplinary study, Paleoenvironment reconstruction]
+author: 
+  - name: Jett Liska
+    orcid: 0009-0006-6475-5703
+    corresponding: true
+    email: jett.liska@student.uni-tuebingen.de
+  - name: Dorothée G. Drucker
+    orcid: 0000-0003-0854-4371
+  - name: Britt M. Starkovich
+    orcid: 0000-0001-9199-0887
+  - name: Florent Rivals
+  - name: Cynthia González-Olivares
+  - name: Marta Sánchez de la Torre
+  - name: Xavier Mangado Llach
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+Montlleó is an open-air archaeological site in the Pyrenees (Catalonia,
+Spain) seasonally occupied by hunter-gatherers during and after the Last Glacial Maximum (LGM), with strategic access to a wide variety of ecosystems. During this last glacial stage, the Pyrenean area underwent alternating extreme cold and temperate conditions, leading to the contraction and expansion of grassy steppes and deciduous forests. Montlleó contains layers dating to the LGM, including the Upper Solutrean and Badegoulian (23000 – 20000 cal BP) and just after the LGM, in the Lower Magdalenian (19500 – 17500 cal BP). At Montlleó, wild horses (Equus ferus) represent most of the large herbivores hunted by people. Their tooth enamel can be sampled in small parallel lines along the crown axis to track changes in δ¹³C and δ¹⁸O values across incremental tooth formation. These isotope values are respectively influenced by the animal’s diet and water intake, which can show seasonal trends. This study uses a multi-layer isotopic analysis complemented by microwear analysis, which reflects the last weeks of dietary history, to infer the environmental behavior of E. ferus at Montlleó. This provides further insights into the surrounding environments and habitats exploited by humans during and after the LGM in a mountainous context.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

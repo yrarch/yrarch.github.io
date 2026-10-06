@@ -1,0 +1,19 @@
+---
+title: 'Archaeometric analysis on archival ceramics: a look at the Woolley Collection from Alalakh at the Ashmolean Museum'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Petrography, Ceramics, SEM-EDS, pXRF, Near East]
+author: 
+  - name: Mikayla Coad
+    orcid: 0009-0004-1750-2688
+    corresponding: true
+    email: mikayla.coad@arch.ox.ac.uk
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+The Northern Levant during the Middle Bronze and Late Bronze Age was subject to frequent changes in political control. As borders were transient in the ancient world, Alalakh (Tel Atchana, Türkiye) experienced numerous hegemonic changes throughout the MBA-LBA. By analyzing the daily-use wares from the Woolley excavation of Alalakh, this research will enable a greater understanding of the Northern Levant’s cultural milieu through the lens of ceramic technology and function. There is a dearth of studies making archival museum material relevant to modern excavations at many Near Eastern sites, including Alalakh. As these historic excavations often lacked adequate recording and studies, this research aims to use archaeometric analysis to investigate questions surrounding such material.
+This paper presents the preliminary results of the pXRF analysis, thin-section ceramic petrographic analysis, and SEM-EDS analysis done on the Leonard Woolley material housed at the Ashmolean Museum of Art and Archaeology. pXRF was used to analyse complete vessels and sherds to offer a comparison and benchmark for the more precise analytical methods used. Focusing on a suite of archaeometric techniques will enable this research to be comparable, accurate, reliable, and replicable on other archival and non-archival research; the overall goal of this work.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

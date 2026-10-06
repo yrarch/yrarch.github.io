@@ -1,0 +1,20 @@
+---
+title: 'Painting techniques in Mikulčice''s church VI: colour palette and innovations'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Plasters, Mortars, Binder analysis, Lime technologies, Ecclesiastic architecture, Medieval archaeology]
+author: 
+  - name: Paola Pizzo
+    orcid: 0009-0004-7915-4797
+    corresponding: true
+    email: paola.c.pizzo@gmail.com
+  - name: Marek Hladík
+    orcid: 0000-0002-0724-9867
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+Ecclesiastic architecture in early medieval Great Moravia is a testimony of the Christianization process started in the 9th century in this region. The construction of churches was a socioeconomic effort often requiring close connection to a central authority able to manage raw materials procurement, processing, and effective building. In the context of Mikulčice, one of the most prominent fortified urban agglomerations in Great Moravia, archaeologists have unearthed at least nine confirmed churches in use over the short-span life of the settlement (roughly between 9th-10th century). This paper focuses in particular on church VI and on the mortars employed for its decoration. The samples have been analysed through scanning electron microscopy in an attempt of characterizing both the binders and the pigmented layers with a minimally invasive sampling. This approach allowed for the identification of painting techniques, which have been compared to previous studies on similar plasters from the same site.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

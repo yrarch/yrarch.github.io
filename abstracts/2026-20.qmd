@@ -1,0 +1,18 @@
+---
+title: 'Re-categorisation patina on lithics based on XRF data'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Patina, X-ray fluorescence, Patina typology, Material culture, Trace elements]
+author: 
+  - name: Tiberius Bateman
+    orcid: 0009-0009-5511-931X
+    corresponding: true
+    email: Tiberius.Bateman@gmail.com
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+The analytical potential of patina to be used in lithic analysis is explored in this paper, challenging the notion that patina is only a post-depositional by-product that obscures use- wear traces. Historically, patina has been inconsistently defined and underutilised for archaeological analysis, though it is argued that this is not the case. Methods used focus on a combination of a synthetic literature review and an experimental case study involving XRF and statistical analysis. The results contribute significant findings to what has traditionally been presented in patina studies, finding that some elements located on certain types of patina are compositionally distinct from other types, resulting in new types of patina being presented.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

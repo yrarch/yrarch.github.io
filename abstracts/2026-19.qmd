@@ -1,0 +1,22 @@
+---
+title: 'New compositional data from Hopo, Papua New Guinea: temper analysis and the debate over Gulf pottery manufacture'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Lapita pottery, Petrography, SEM-EDS, Temper analysis, Provenance]
+author: 
+  - name: Sarah Macindoe-Baker
+    corresponding: true
+    email: sarahcmb@icloud.com
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+Provenance studies of Lapita pottery fuel arguments about migration and exchange along the south coast of Papua New Guinea. Recent work that has proposed that late Lapita vessels found outside the Gulf of Papua were manufactured within the region has relied on temper composition alone, despite the absence of confirmed production sites.
+
+This study presents new compositional data from three dentate-stamped sherds from Hopo (~ 2550 cal BP), combining SEM‑EDS and petrography with quantitative mineral frequency counting, and discusses what valid conclusions can be drawn. Tempers are broadly consistent with Gulf Province sands, yet variation among the sherds illustrates that ‘Gulf temper’ is a spectrum rather than a diagnostic fingerprint. 
+
+Rather than simply adding data, this paper argues for a reframing of how temper analysis is conducted and interpreted. Drawing together separate studies from across the south coast, I show that provenance claims based on selected mineral similarities risk ignoring the wider geological landscape. Compositional data are suggestive, not proof, when unaccompanied by archaeological evidence for manufacturing. Geochemical and mineralogical insight must be paired with production evidence and catchment-scale mineral chemistry; one part of the equation cannot answer the question on its own.
+
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

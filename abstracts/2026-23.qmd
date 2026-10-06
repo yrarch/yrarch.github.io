@@ -1,0 +1,28 @@
+---
+title: 'Combined scientific dating and materials analysis of Salisbury Cathedral, United Kingdom'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Dendrochronology, Radiocarbon dating, Archaeometallurgy, Wrought iron, Micro-CT scanning, Digital image correlation]
+author: 
+  - name: Kutsi Akcicek
+    corresponding: true
+    email: kebl7186@ox.ac.uk
+  - name: Jiaxu Zuo
+  - name: Heather Viles
+  - name: Sinan Acikgoz
+  - name: Daniel Miles
+  - name: Christopher Bronk Ramsey
+  - name: Darren Davies
+  - name: Danny McCarroll
+  - name: Neil Loader
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+Ring-width and isotope dendrochronology alongside radiocarbon dating were used to refine the construction history of Salisbury Cathedral, United Kingdom. Timber analysis from the spire scaffold shows that seven timbers have a felling date range of 1352–78, shifting construction later into the 14th century than previously assumed. Three timbers date to spring 1737, matching documented repairs in 1738. At the Old Deanery, analysis of timbers indicates construction in or shortly after winter 1249/50. This revised chronology strengthens its significance in the development of English carpentry.
+
+Additionally, microstructural, chemical and mechanical analysis of wrought irons from the 14th century tower of Salisbury Cathedral has also been undertaken. Microscopy and micro CT scanning reveals slag inclusion distributions. Chemical analysis using EDX indicates direct process manufacture. Mechanical testing shows low yield strength and limited ductility and digital image correlation and acoustic emission analysis identify dominant failure modes in wrought irons. 
+
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

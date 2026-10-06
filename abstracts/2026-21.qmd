@@ -1,0 +1,22 @@
+---
+title: 'From seals to SEAD: incorporating mammal bones into a database'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Zooarchaeology, Osteology, Environmental archaeology, Digital archaeology, Environmental reconstruction, Database]
+author: 
+  - name: Victoria McKee
+    corresponding: true
+    email: vimc0007@ad.umu.se / ob.victoriam@gmail.com
+  - name: Athena Konstandara
+    orcid: 0009-0007-4390-4885
+  - name: Ershad Gholamrezaie
+  - name: Philip I. Buckland
+    orcid: 0000-0002-2430-0839
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+The Strategic Environmental Archaeology Database (SEAD) provides the scientific community with easy access to data for past environmental reconstruction. While the current database provides plenty of proxy data (e.g., dendrochronology, soil analysis, palaeoentomology, etc.), it currently lacks osteological/zooarchaeological data. Here, we demonstrate a pilot study in introducing a framework with how animal bone data can be ingested into SEAD. Identified species were assigned ecological habitat classifications (“ecocodes”) and dietary patterns to aid in reconstructing past environments. A case study of seven sites in Northern Sweden is used to illustrate the new framework, and how it fits into the wider structure of SEAD. This research also showcases the potential for future developments to the framework, such as including osteometrics, tooth wear analyses, and species associations.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

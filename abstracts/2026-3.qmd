@@ -1,0 +1,18 @@
+---
+title: 'Shaping little lives: bioarchaeological insights into childhood at Biniadrís Cave during late Bronze Age Menorca, Spain'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Osteoarchaeology, Amelogenin, Weaning]
+author: 
+  - name: Michelle Pfeiffer
+    corresponding: true
+    email: mi.pfeiffer@student.uni-tuebingen.de
+  - name: Marta Díaz-Zorita Bonilla
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+Biniadrís cave (Menorca, Spain) is a small natural cave, with minor anthropogenic modifications, at the southeastern gorge of Calescoves, Menorca. The 18 m2 surface of the cave is entirely covered by commingled human remains in extraordinary state of preservation. This study will identify and analyse the human remains from the excavation campaigns 2024 and 2026. Additionally, amelogenin peptide analysis of human tooth enamel, and incremental dentine analysis of 50 selected mandibles will be conducted. The subsequent statistical analysis will ensure a detailed analysis to check whether there is an imbalance on the ratio of biological sex, and to explore the potential reasons. Additionally, a comparison of treatment and caretaking during early childhood will be conducted on individuals that survived their early childhood and individuals that did not. Thus, we will investigate the weaning practices, which might have had an influence on the individual’s health. Overall, social, economic, cultural, end ecological factors will be investigated, relating to early childhood subsistence strategies, resource availability, identity, belief, and status. This study will mark the first detailed analysis of the subadult record of Biniadrís cave, and therefore help to reach a more holistic understanding of Menorca’s non adults population.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

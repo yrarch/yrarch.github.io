@@ -1,0 +1,19 @@
+---
+title: 'Exploring the purpose of suspected intoxicant paraphernalia from La Hueca-Sorcé (Puerto Rico) with a non-destructive, multianalytical approach'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Organic residue analysis, Metabolomics, Intoxicants, Caribbean]
+author: 
+  - name: Judith Margarita López Aceves
+    corresponding: true
+    email: jmla3@leicester.ac.uk
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+Snuffing bowls—ceramic bowls with one or two spouts— and libation vessels have been associated in Caribbean archaeology to the cohoba ritual described by the first European colonisers. This ritual involved the nasal consumption of cohoba, a plant or group of plants with hallucinogenic properties that still have not been fully identified. There is also another layer of uncertainty: the paraphernalia described in the earlier chronicles does not match the materials recovered archaeologically, which complicates any attempt to interpret these vessels with confidence.
+For this study, I applied a multi-analytical, untargeted, and metabolomic approach to ceramic spouts identified as parts of snuffing bowls from La Hueca–Sorcé, in Vieques, Puerto Rico, dated from as early as AD 5 to 1530. The analytical techniques used include pyrolysis-GC/MS, SPME-GC/MS (both in headspace and direct immersion), and UHPLC-IMS-QTOF-HRMS. 
+One of the aims of this study is to use analytical chemistry as a way to explore more possibilities for understanding these materials, rather than to provide definitive identifications.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

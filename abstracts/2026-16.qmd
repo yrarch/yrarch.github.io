@@ -1,0 +1,22 @@
+---
+title: 'Petrography online! Integration of petrographic ceramic data in the SEAD infrastructure'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Digital archaeology, Ceramic petrology, Database, Ceramics]
+author: 
+  - name: Athena Konstandara
+    orcid: 0009-0007-4390-4885
+    corresponding: true
+    email: athena.konstandara@gmail.com
+  - name: Victoria McKee;
+  - name: Ershad Gholamrezaie
+  - name: Philip I. Buckland
+    orcid: 0000-0002-2430-0839
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+This research project concerns the integration and visualization of petrographic ceramic data in an open access database. The Strategic Environmental Archaeology Database (SEAD) is an open access research data infrastructure. Its aims are the storage, management, dissemination, and analysis of empirical data on subjects ranging from past human activity to long term environmental and climate change. At this time, a number of online databases integrating petrographic data have been developed that are either no longer available, not yet available, or require fees. The ultimate goal of this project is to provide ceramics specialists with a research tool for petrography which is combined with typological, contextual, and—in the future—elemental data. This one-stop-shop for fabric comparison offers direct comparisons of both semi-quantitative data and pictures, which can be invaluable in a technique that relies so heavily on visualisation.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

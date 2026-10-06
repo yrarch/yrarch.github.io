@@ -1,0 +1,22 @@
+---
+title: 'Quantifying authorship: 3D surface metrology for identifying individual practice in Magdalenian mammoth engravings from Gönnersdorf (Germany, ca. 15,800 BP)'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Traceology, Authorship, Handedness, Palaeolithic]
+author: 
+  - name: Hanna McNulty
+    corresponding: true
+    email: hannamcnulty1@gmail.com
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+This paper examines the technical traces of artistic production with engraved mammoth depictions from the Magdalenian site of Gönnersdorf (Germany, ca. 15,800 BP). 
+The research asks whether engraving technique can provide a measurable basis for identifying individual practice in Palaeolithic art. This study integrates a macroscopic, stylistic analysis alongside a traceological analysis. Methods include microscopy, reflectance transformation imaging (RTI) and high-resolution 3D surface metrology to analyse incision depth, tool morphology, laterality and more.
+
+Digital Surf MountainsMap software facilitates this quantitative analysis through extracted cross-sectional profiles that can be analysed to reveal tool pressure and wear and even if the engraver had a right- or left-hand dominance. 
+
+The results demonstrate that recurring technical traits in mammoth representations at Gönnersdorf often correspond with stylistic groupings, allowing the identification of a preliminary group of probable authors, each with unique stylistic preferences and technical profiles. By grounding this authorship study in emerging digital methods, this research addresses longstanding criticisms of subjectivity within authorship studies, highlighting the human presence of Palaeolithic art with measurable evidence, rather than subjective.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

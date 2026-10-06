@@ -1,0 +1,20 @@
+---
+title: 'Developing a baseline to achieve greater mobility granularity within a historic wetland landscape (Nene Valley, Northamptonshire, Britain 4th-6th CE)'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Sulfur stable isotopes, Radiogenic strontium, Late Antiquity, Post-Roman Britain, Isotopic baseline]
+author: 
+  - name: Alvaro Felipe Ortega González
+    corresponding: true
+    email: afog1@leicester.ac.uk
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+The transition from late Antiquity to the early Middle Ages in Britain remains a lively debate, largely due to scarce contemporary written sources. To bridge these gaps, researchers are increasingly turning to archaeological sciences —specifically aDNA and isotope analysis— to reveal a far more nuanced and regionally diverse picture of life and movement of the period.
+Traditionally, oxygen and strontium isotopic systems have been used to track mobility. While strontium offers good discrimination in north-western Europe, oxygen often lacks the precision needed to distinguish between different areas of Britain. Recent research by Lamb et al. (2023) highlights the potential of sulfur stable isotopes to discriminate exogenous values in wetland regions. However, sulfur presence in animal and plant tissues depends on many variables, therefore its use has been quite limited. 
+To use this isotopic system and control the variables that affect it, it is essential to create a solid baseline. This paper presents the creation of a multi-isotopic baseline (C, N, S, Sr) using archaeological animal samples of pigs and sheep/goats, and modern plant samples from the Nene Valley, Northamptonshire, England. This baseline is the foundation of a multi-isotopic study of human remains dated between the 4th and 7th centuries CE
+
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

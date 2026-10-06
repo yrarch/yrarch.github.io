@@ -1,0 +1,20 @@
+---
+title: 'Mineralogical and chemical analysis and comparison of Dark Faced Ware dating to the Amuq B and C periods at Tell Kurdu'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Amuq Plain, Dark-faced wares, Petrographic analysis, Tell Kurdu, XRD, XRF]
+author: 
+  - name: Zeynep Tok
+    orcid: 0009-0002-0789-7554
+    corresponding: true
+    email: zeynepptok@gmail.com
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+Tell Kurdu, located in the province of Hatay, in southern Türkiye, is the largest prehistoric settlement in the Amuq Plain. This study presents petrographic, mineralogical and elemental comparison of pottery dating to the Amuq B and C periods. Although a wide range of pottery wares are represented in these phases, the present study focuses on Dark Faced Burnished Ware (DFBW) and Dark Faced Unburnished Ware (DFuBW), two groups thought to have been produced locally and to exhibit continuity across both periods.
+The Amuq B period, dated to the second half of the 7th millennium BCE, and the Amuq C period, representing the first half of the 6th millennium BCE, provide important sequences for examining changes in ceramic production. The results indicate a decline in the proportion of DFBW from Amuq B to Amuq C, while DFuBW becomes more prominent in the Amuq C Period. By situating compositional and technological data within the stratigraphic and cultural sequence of Tell Kurdu, this study contributes to a deeper understanding of pottery production and community identity in the prehistoric Amuq Valley. It offers new insights into the dynamics of technological change during the late 7th and early 6th millennia BCE in the northern Levant.
+
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

@@ -1,0 +1,24 @@
+---
+title: 'Preliminary characterisation results of Roman concrete from the Podium Temple in Antioch on the Orontes'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Roman concrete, Micro-CT scanning, Digital image correlation, Digital volume correlation]
+author: 
+  - name: Kutsi Akcicek
+    corresponding: true
+    email: kebl7186@ox.ac.uk
+  - name: Heather Viles
+  - name: Parnian Nemati
+  - name: Duygu Ergenc
+  - name: Baran Bozyigit
+  - name: Irem Bozyigit
+  - name: Hatice Pamir
+  - name: Sinan Acikgoz
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+There has been recent increased interest in the mechanical response of Roman concrete, especially with regards to its earthquake resistance. In this study, material samples from the Podium Temple in Antioch on the Orontes were subjected to optical and mechanical characterisation and preliminary results will be presented. Optical analysis results of micro-CT scans using segmentation identify the volumetric phase percentage of voids, aggregates and binder in analysed samples. Mechanical testing (uniaxial compression testing, Brazilian sample testing and semi circular bend testing) was paired with full field deformation measurements using digital image correlation and digital volume correlation. From these preliminary tests, key mechanical parameters such as compressive strength, tensile strength, fracture toughness and Young’s modulus were quantified. This study highlights the applications of advanced in situ imaging techniques to offer new insights into the durability of Roman concretes.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

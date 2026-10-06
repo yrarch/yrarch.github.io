@@ -1,0 +1,27 @@
+---
+title: 'Soil, seeds and shielings: the palaeoecology of transhumance in Iceland'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Archaeobotany, Palynology, Palaeoecology, Environmental archaeology, Transhumance]
+author: 
+  - name: Snædís Sunna Thorlacius
+    orcid: 0009-0000-3177-7750
+    corresponding: true
+    email: sst9@hi.is
+  - name: Egill Erlendsson
+    orcid: 0000-0002-2264-3504
+  - name: Dawn Elise Mooney
+    orcid: 0000-0002-3115-4657
+  - name: Susanne Claudia Möckel
+    orcid: 0000-0001-7592-9170
+  - name: Elín Ósk Hreiðarsdóttir
+  - name: Árni Daníel Júlíusson
+    orcid: 0000-0003-4518-7801
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+Shielings used to play a vital role in the Icelandic agricultural system for a millennium, until they were abandoned around 1900. They served as sites of transhumance where domestic animals were brought for grazing during the summer to spare the infields and maximise the land use. Shielings are most often located in the inlands and uplands of the country, typically in a marginal hinterland of the parent farm. This PhD project focuses on the palaeoecology of shielings in Iceland, applying macro-botanical analysis on samples from inside shieling ruins along with palynological and lithological analysis on peatland cores from their vicinity. The combined methods have the potential to demonstrate the environmental changes prior to, during and after the shielings were in use as well as shedding light on potential plant use by the temporary inhabitants of the shielings. In this talk palaeoecological data from two different shielings belonging to Reykholt in Borgarfjörður will be presented, adding to our knowledge on farming strategies in Iceland since the arrival of settlers in the late 9th century until modern times.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

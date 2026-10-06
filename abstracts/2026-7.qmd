@@ -1,0 +1,18 @@
+---
+title: 'Archaeobotanical studies from the Hellenistic to Roman cemetery on the island of Tinos (Cyclades, Greece)'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Archaeobotany, Hellenistic to Roman period, Greece, Cremations, Grave goods, Vegetation reconstruction]
+author: 
+  - name: Thorsten Jakobitsch
+    orcid: 0000-0001-9951-7445
+    corresponding: true
+    email: thorsten.jakobitsch@oeaw.ac.at
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+In present-day Greece, archaeobotanical research has largely focused on the Neolithic, Bronze Age, and Iron Age, while plant use in Antiquity remains comparatively understudied. In most cases, archaeobotany has not been integrated into Classical Archaeology, often due to the assumption that ancient written sources sufficiently document the use of plants. However, these texts provide only a partial picture and do not encompass all aspects of daily life and plant exploitation. During a rescue excavation on the Cycladic Island of Tinos, a Hellenistic to Roman-period cemetery containing inhumation burials, cremation burials, and remains of funeral pyres was uncovered. Sediment samples were systematically collected for archaeobotanical analysis. These samples yielded not only charred seeds, fruits, and leaves, but also substantial quantities of charcoal. The material provided valuable insights into grave offerings, the selection of fuelwood for cremations, and the vegetation of ancient Tinos. Olive appears to have been a key food resource on the island, alongside cereals, figs, and grapes. The fuelwood used for cremations was selected from evergreen oak and olive wood. Additional macroremains, including charred leaves of various plant species, point to the exploitation of phrygana vegetation, the characteristic low shrubland of the eastern Mediterranean, which dominates the island today.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 

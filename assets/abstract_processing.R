@@ -4,15 +4,15 @@
 
 library(googlesheets4)
 
-date <- "2025" # year of workshop
-location <- "Budapest" # Location of workshop
+date <- "2026" # year of workshop
+location <- "Reykjavík" # Location of workshop
 
-data <- read_sheet("1Yz18tbx8ZIVPMRdXqlD3ljjKgGQcfAfokckkDIPQBHM", range = "A:BO", col_types = "c")
+data <- read_excel("assets/YRA2026_List_of_abstracts.xlsx")
 
 data <- subset(
   data, select = c(
-    "Running_order",
-    "Email Address", 
+    "Order",
+    "Email address", 
     "Title of abstract", 
     "Keywords", 
     "Abstract", 
@@ -23,9 +23,12 @@ data <- subset(
   )
 )
 
-names(data) <- c("Running_order", "Mail", "Title", "Keywords", "Abstract", paste0("Author_", 1:11), paste0("Affiliation_", 1:11), paste0("ORCID_", 1:11), paste0("Institution_", 1:9))
+names(data) <- c("Order", "Mail", "Title", "Keywords", "Abstract", paste0("Author_", 1:10), paste0("Affiliation_", 1:10), paste0("ORCID_", 1:10), paste0("Institution_", 1:10))
 
 data$Keywords <- gsub(";", ",", data$Keywords)
+
+data$Order <- as.numeric(data$Order)
+
 
 # create article
 
@@ -33,7 +36,7 @@ for (i in 1:nrow(data)) {
   
   cat(
     '---', 
-    paste0("title: '", data$Title[i], "'"), 
+    paste0("title: '", gsub("'", "''", data$Title[i]), "'"),
     paste0('date: "', date, '"'), 
     'date-format: "YYYY"',
     'Event: Workshop',
@@ -82,10 +85,6 @@ for (i in 1:nrow(data)) {
     if (!is.na(data$Author_10[i])) {paste0('  - name: ', data$Author_10[i])},
     if (!is.na(data$ORCID_10[i])) {paste0('    orcid: ', data$ORCID_10[i])}, 
     
-    # Author 1
-    if (!is.na(data$Author_11[i])) {paste0('  - name: ', data$Author_11[i])},
-    if (!is.na(data$ORCID_11[i])) {paste0('    orcid: ', data$ORCID_11[i])}, 
-    
     '---', 
     '',
     paste0('*This paper was presented at the YRA Workshop ', date, ' in ', location, '.*'), 
@@ -94,7 +93,7 @@ for (i in 1:nrow(data)) {
     '', 
     '[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). ',
     sep = "\n", 
-    file = paste0('abstracts/', date, "-", data$Running_order[i], '.qmd')
+    file = paste0("abstracts/", date, "-", data$Order[i], ".qmd")
   )
 }
 

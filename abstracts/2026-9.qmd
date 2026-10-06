@@ -1,0 +1,25 @@
+---
+title: 'The palaeoecology of birch woods in Iceland'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Palaeoecology, Palynology, Lipid biomarkers]
+author: 
+  - name: Didrik Tveit
+    corresponding: true
+    email: dit5@hi.is
+  - name: Egill Erlendsson
+    orcid: 0000-0002-2264-3504
+  - name: Scott J. Riddell
+    orcid: 0000-0003-4589-3925
+  - name: Wesley Farnsworth
+    orcid: 0000-0001-7375-2228
+  - name: David K. Wright
+    orcid: 0000-0003-1704-0423
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+My PhD project reconstructs the long-term ecological history of downy birch (Betula pubescens) woodlands in Iceland during the late Holocene, with a particular focus on the period following Norse settlement (Landnám) in the late 9th century. Iceland has ambitious afforestation targets, making it critical to understand how native birch woodlands have historically responded to climate variability, human impact, and fire disturbance. Using an integrated palaeoecological approach, combining geochemical proxies (n-alkanes, PAHs, and faecal biomarkers) with traditional methods (pollen analysis, microscopic charcoal, and CFS) I reconstruct woodland resilience, anthropogenic change, and paleofire regimes over millennial timescales. These long-term baselines, unattainable from modern monitoring alone, will inform afforestation planning, conservation priorities, and wildfire risk management in Iceland.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
