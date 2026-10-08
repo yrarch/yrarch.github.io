@@ -29,6 +29,17 @@ data$Keywords <- gsub(";", ",", data$Keywords)
 
 data$Order <- as.numeric(data$Order)
 
+clean_abstract <- function(x) {
+  x <- gsub("\r\n|\r", "\n", x)           # unify line breaks
+  x <- gsub("[ \t]+\n", "\n", x)          # remove spaces at line ends
+  x <- gsub("\n[ \t]+", "\n", x)          # remove spaces at line starts
+  x <- gsub("\n{2,}", "\n", x)            # one or several returns become a single return
+  x <- trimws(x)
+  gsub("\n", "  \n", x)                   # two spaces + return = line break in Markdown
+}
+
+data$Abstract <- clean_abstract(data$Abstract)
+
 
 # create article
 
