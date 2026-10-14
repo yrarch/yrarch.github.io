@@ -65,7 +65,7 @@ Overall, the findings suggest broadly cereal-centered foodways within mixed farm
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## March 5^th^ – Evgenia Tsafou (University of Louvain, Belgium)
 **Time:** 3:00 pm (UTC)  
-**Title:** [Cooking vessels in Minoan Crete: an interdisciplinary study of their function and use](https://www.yra-ecr.org/abstracts/2026-S03.html)  
+**Title:** [Cooking vessels in Minoan Crete: an interdisciplinary study of their function and use](abstracts/2026-S03.qmd)  
 **Keywords:** Interdisciplinary approach, Organic residue analysis, Molecular, Microbotanical, Cooking vessels  
 **Abstract:** This paper presents a holistic approach applied to the study of the function and use of Minoan cooking vessels, based on an interdisciplinary methodology developed for the purposes of this research. The methodology integrates morphological, technological, and use-wear analyses with organic residue analysis, alongside the contextualisation of the results. The ceramic cooking vessels analysed date to the Middle and Late Bronze Age Aegean (1750--1200 BC) and originate from two neighbouring Minoan settlements on the island of Crete, Sissi and Malia. A range of utilitarian vessel shapes and types was examined, enabling the identification of a wide spectrum of organic substances preserved within the ceramics. This paper presents the results obtained from the analytical methods and discusses the new insights gained into the function and use of cooking vessels, considered in combination with the other approaches applied, as well as into Minoan culinary practices more broadly. In addition, the methodological strategy behind the integration of the two analytical techniques, together with the challenges encountered during their implementation, are critically assessed.
 :::
@@ -74,7 +74,7 @@ Overall, the findings suggest broadly cereal-centered foodways within mixed farm
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## April 24^th^ – Paola Pizzo (Institute of Archaeology in Brno & Institute of Theoretical and Applied Mechanics, Czech Republic)
 **Time:** 12:30 pm (UTC)  
-**Title:** [Wall painting techniques in Roman Cyprus -- a case study from the Agora of Nea Paphos](https://www.yra-ecr.org/abstracts/2026-S04.html)  
+**Title:** [Wall painting techniques in Roman Cyprus -- a case study from the Agora of Nea Paphos](abstracts/2026-S04.qmd)  
 **Keywords:** Pigments, Binder analysis, Wall painting techniques, Hellenistic and Roman wall paintings, Cypriot archaeology  
 **Abstract:** Cypriot wall paintings have been a constant object of study since the earliest archaeological discoveries on the island. However, most of the research has been focused on the iconography of these artefacts, rather than on the production technologies. In fact, to date, studies of wall paintings with a multidisciplinary approach remain underperformed in Cyprus. This research examines twenty wall plaster samples with traces of paint from Nea Paphos, dated from the Hellenistic to the Roman period. Using a range of analytical methods, the study investigates both pigments and their substratum in order to compare them with historical records and previously published data from coeval contexts.
 The results show that locally available pigments were used, consistently with ancient sources such as Pliny and Vitruvius. However, unlike mentioned in several studies relating to Cypriot wall paintings, the pigmented surfaces from Nea Paphos were not only frescoes *sensu stricto*, but painted in a combination of fresco, secco, and mezzo fresco techniques.  
@@ -84,7 +84,7 @@ The results show that locally available pigments were used, consistently with an
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## May 21^st^ – Sigríður Sunna Ebenesersdóttir (University of Iceland, Iceland)
 **Time:** 2:00 pm (UTC)  
-**Title:** [Population genomics of the North Atlantic: what ancient and modern genomes reveal about the Viking Age and its aftermath](https://www.yra-ecr.org/abstracts/2026-S03.html)  
+**Title:** [Population genomics of the North Atlantic: what ancient and modern genomes reveal about the Viking Age and its aftermath](abstracts/2026-S03.qmd)  
 **Keywords:** Ancient DNA, Population genomics, Demographic history, North Atlantic, Vikings  
 **Abstract:** Ancient DNA research has transformed our ability to reconstruct the demographic histories of human populations. By sequencing the genomes of ancient individuals, we can observe directly how migration and admixture shaped past populations, rather than inferring these processes from modern variation alone. In this talk, I present findings from ancient and modern genomes spanning Iceland, Scandinavia, and the broader North Atlantic. Iceland was settled around 1,100 years ago, at the height of the Viking Age, as part of a Norse expansion that left clear genetic signatures across the region. I explore how this founding event shaped the Icelandic gene pool over time, trace patterns of ancestry and mobility in medieval Scandinavia, and examine how major historical events disrupted the movement of people across northern Europe. Together, these studies reveal how migration, isolation, and demographic change have left their mark on the populations of the North Atlantic world.
 :::
@@ -92,7 +92,7 @@ The results show that locally available pigments were used, consistently with an
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## June 30^th^ – Demetris Ioannides (The Cyprus Institute, Cyprus)
 **Time:** 8:00 am (UTC)  
-**Title:** Rethinking early Cycladic metallurgy: evidence from Keros--Dhaskalio  
+**Title:** [Rethinking early Cycladic metallurgy: evidence from Keros--Dhaskalio](abstracts/2026-S06.qmd)  
 **Keywords:** Archaeometallurgy, Early Bronze Age, Greece, Aegean  
 **Abstract:** The island of Keros, situated in the central Cyclades, hosted the world's earliest maritime sanctuary during the Early Cycladic (EC) II and III periods. Just off its west coast, the islet of Dhaskalio accommodated a major EC complex where metalworking --- alongside obsidian blade production --- constituted one of the principal productive activities. This talk presents a comprehensive overview of the archaeometallurgical evidence from the Keros--Dhaskalio site complex, spanning the site's three main occupational phases (c. 2750--2250 BCE).  
 The evidence reveals a metallurgical sequence of remarkable scope and complexity. The discovery of copper smelting activities renders Keros a unique case within the Cyclades during the Early Bronze Age, while extensive metalworking focusing on the production of arsenical copper, lead artefacts, and possible silver and gold sets the settlement of Dhaskalio apart from the rest of EC settlements with metalworking evidence, confirming it as a major metalworking centre.  
@@ -103,7 +103,7 @@ The significance of these activities becomes even more striking when considering
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## July 21^st^ – Dimitris Filioglou (The M.H. Wiener Laboratory for Archaeological Science, Greece)
 **Time:** 11:00 am (UTC)  
-**Title:** Examining the human-animal-environment relationship in Thebes (central Greece) during the middle and late Byzantine period  
+**Title:** [Examining the human-animal-environment relationship in Thebes (central Greece) during the middle and late Byzantine period](abstracts/2026-S07.qmd)  
 **Keywords:** Zooarchaeology, Ichthyoarchaeology, Animal husbandry, Paleodiet, Middle/Late Byzantine Thebes  
 **Abstract:** This presentation investigates animal husbandry, fishing techniques, diet and their socioeconomic implications within the changing political landscape of Late Byzantine Thebes (13th--15th centuries CE) through an integrated zooarchaeological approach. It draws evidence from faunal assemblages from 9 refuse pits (bothroi) on the Ismenion Hill, an area with some habitation in southeastern Thebes. Results indicate a reliance on caprines---especially sheep---as the dominant livestock, suggesting an organized system of mutton production. Pigs and cattle likely played a supplementary role in inhabitants’ diet and economic activities, at least in the examined households. A portion of the herds were likely in-house stalled while deadstock was processed in a standardized way. Fish remains indicate a marked reliance on aquatic resources from near-shore, coastal marine environments, with a notable abundance of the gilthead seabream (Sparus aurata). Furthermore, while Thebes experienced successive foreign rule from  the 13th century onward, continuity in animal exploitation during these times suggests resilience in local foodways. Ismenion Hill residents matched the general trends in animal exploitation and meat consumption seen in other regions of the Greek peninsula since the first centuries of the Byzantine Period. These findings contribute significantly to the underexplored field of Byzantine zooarchaeology and shed light on subsistence strategies in medieval Greece.
 :::
@@ -111,7 +111,7 @@ The significance of these activities becomes even more striking when considering
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## September 30^th^ – Katarína Adameková (Institute of Archaeology of the Czech Academy of Sciences, Czech Republic)
 **Time:** 9:00 am (UTC)  
-**Title:** Reading medieval landscapes through soils: geoarchaeological insights from Uherské Hradiště, Czech Republic  
+**Title:** [Reading medieval landscapes through soils: geoarchaeological insights from Uherské Hradiště, Czech Republic](abstracts/2026-S09.qmd)  
 **Keywords:** Geoarchaeology, Medieval settlement, Anthropogenic soils, Soil micromorphology  
 **Abstract:** Medieval anthropogenic soils and sediments preserve complex records of human activity, environmental change and landscape transformation. Their interpretation can be particularly challenging in floodplain settings, where anthropogenic, pedogenetic and fluvial processes interact and repeatedly modify the archaeological record. This talk presents a geoarchaeological investigation of a well-preserved sequence of anthropogenic soils and floodplain sediments from Uherské Hradiště, an important settlement and trade centre on the Morava River in the Czech Republic. Archaeological evidence is combined with soil micromorphology, physical and geochemical analyses, palaeobotanical data and chronological information to reconstruct the formation of Dark Earth and changing patterns of land use from the Early to the High Medieval period. Initial settlement activities began around the transition between the 7th and 8th centuries CE, followed by increasing human impact and evidence of craft and market-related activities during the Great Moravian period, in the 9th century CE. After a hiatus in the 10th--12th centuries AD, the site saw re-establishment in the 13th century CE, marking the early formation of the urbanisation in Uherské Hradiště. Despite repeated flooding, the settlement in the area was renewed repeatedly. Together with evidence of long-distance trade, this proves the importance of the place located on the commercial waterway of the Morava River. New findings reveal that this settlement could have played a more essential role in the Early Mediaeval era than previously expected.  
 The research presented here was published in 2025 and can be found [here](https://doi.org/10.1016/j.catena.2025.108734).
@@ -120,12 +120,22 @@ The research presented here was published in 2025 and can be found [here](https:
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## October 9^th^ – Carolin Marie Meckes (Goethe University Frankfurt am Main, Germany)
 **Time:** 12:00 pm (UTC)  
-**Title:** The late antique glass workshop in the area of the *villa rustica* HA 488 – preliminary results  
-Late Antiquity, Roman glass, Glassworking, Glass types, Hambach Forest  
+**Title:** [The late antique glass workshop in the area of the *villa rustica* HA 488 -- preliminary results](abstracts/2026-S10.qmd)  
+**Keywrods:** Late Antiquity, Roman glass, Glassworking, Glass types, Hambach Forest  
 **Abstract:** Following the designation of Colonia Claudia Ara Agrippinensium (Cologne) as the capital of Lower Germania, the hinterland of Cologne, particularly during the 1st and 2nd centuries, was heavily settled and used for agriculture. However, this led to an abrupt end with the imperial crises of the 3rd century, resulting in conversion, downsizing or abandonment of the rural estates. With the gradual stabilisation and restructuring of the Roman Empire at the beginning of Late Antiquity, the former, now ruinous sites were reused or repurposed, and were settled by craftsmen who ran workshops.
 In the case of the area now occupied by the Hambach opencast lignite mine in the hinterland of Cologne, these were primarily glass craftsmen who set up their glass workshops in several abandoned *villae rusticae*. These are being archaeologically documented in the run-up to lignite extraction. 
 Numerous studies have already addressed questions concerning the production of raw glass and the use of Roman glass types, and it has already been established that the so-called Hambach glass workshops were, without exception, secondary operations. However, questions remain regarding the precise chronological classification of the glass types, which may shed light on trade relations, resource management and the organisation of the workshops.
 Therefore, the focus on the PhD Project is the investigation of a *villa rustica*, the so-called HA 488, which, during its late antique phase of subsequent use, is to be examined archaeologically and archaeometrically using EPMA and ICP-MS analysis and compared with samples from well-dated grave finds.
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## November – Sinem Hacıosmanoğlu (University of Tübingen, Germany)
+*More information coming soon.*
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## December – Tamara Michaelis (Leiden University, The Netherlands)
+*More information coming soon.*
 :::
 
 ## Previous years' programme
@@ -138,27 +148,27 @@ Therefore, the focus on the PhD Project is the investigation of a *villa rustica
 |--|----------|
 |June 3^rd^|*Copper technologies in Taiwan and the Philippines during the Metal Age*<br>**Mélissa Cadet**|
 |July 1^st^|*Tinos’ lost ancient serpentinite quarry (Cyclades, Greece): an interdisciplinary approach*<br>**Alkiviadis Sideridis**|
-|Sept. 10^th^ |[*Plant and insect remains as indicators for waterlogged dung layers – The example of the Neolithic lakeshore settlement Mooswinkel in the Austrian Alps*](https://www.yra-ecr.org/abstracts/2024-S09.html)<br>**Thorsten Jakobitsch**|
-|Oct. 10^th^ |[*Biomolecular insights into Magdalenian ungulates from Petersfels (Hegau Jura, southwestern Germany) via ZooMS and stable isotope analysis*](https://www.yra-ecr.org/abstracts/2024-S10.html)<br>**Madison McCartin**|
+|Sept. 10^th^ |[*Plant and insect remains as indicators for waterlogged dung layers – The example of the Neolithic lakeshore settlement Mooswinkel in the Austrian Alps*](abstracts/2024-S09.qmd)<br>**Thorsten Jakobitsch**|
+|Oct. 10^th^ |[*Biomolecular insights into Magdalenian ungulates from Petersfels (Hegau Jura, southwestern Germany) via ZooMS and stable isotope analysis*](abstracts/2024-S10.qmd)<br>**Madison McCartin**|
 |Nov. 11^th^|*The technology of polychrome glazed ceramics in Ifriqiya: new data from the Medjerda Valley*<br>**Veronica Occari**, Heike Möller, Corisand Fenwick, Patrick Quinn,  Ian C. Freestone,  Moheddine Chaouali, Philipp von Rummel|
-|Dec. 10^th^ |[*Chrysocolla at high temperatures: understanding Pre-Hispanic metallurgy through Collahuasi slag analysis (Tarapaca, Chile)*](https://www.yra-ecr.org/abstracts/2024-S12.html)<br>**Sibylle Manya**, Benoît Mille, Valentina Figueroa Larre, Thierry Bataille, Laurent Le Pollès, Jean-Baptiste d’Espinose de Lacaillerie|
+|Dec. 10^th^ |[*Chrysocolla at high temperatures: understanding Pre-Hispanic metallurgy through Collahuasi slag analysis (Tarapaca, Chile)*](abstracts/2024-S12.qmd)<br>**Sibylle Manya**, Benoît Mille, Valentina Figueroa Larre, Thierry Bataille, Laurent Le Pollès, Jean-Baptiste d’Espinose de Lacaillerie|
 
 ## 2025
 
 |||
 |--|----------|
-|Jan. 30^th^|[*Archaeobotany and social change in the Neolithic and Bronze Age Aegean: perspectives from the eastern fringes*](https://www.yra-ecr.org/abstracts/2025-S01.html)<br>**Tom Maltas**|
+|Jan. 30^th^|[*Archaeobotany and social change in the Neolithic and Bronze Age Aegean: perspectives from the eastern fringes*](abstracts/2025-S01.qmd)<br>**Tom Maltas**|
 |Feb. 17^th^|*Life and death in Byzantine Ephesos (Turkey): contributions from the integration of archaeothanatological and biological data*<br>**Caroline Partiot**, Elise Baudoin, Martin Steskal|
-|Mar. 6^th^|[*Colored sculptures under study: archaeometrical and symbolic approaches to pigments in pre-Columbian Ecuador*](https://www.yra-ecr.org/abstracts/2025-S03.html)<br>**Alejandra Sánchez Polo**|
-|Apr. 1^st^|[*Identifying Bronze Age alloying practices in the western and central Balkans*](https://www.yra-ecr.org/abstracts/2025-S04_1.html)<br>**Nicole Mittermair**|
-|Apr. 9^th^|[*Discover STON: a practical tool to study petrographic images and beyond!*](https://www.yra-ecr.org/abstracts/2025-S04_2.html)<br>**Evgenia Dammer, Romain Thomas**|
-|May 16^th^|[*Of landscape biographies and sediment archives: reconstructing the landscape history of the Kreuttal microregion in Lower Austria*](https://www.yra-ecr.org/abstracts/2025-S05.html)<br>**Doris Jetzinger**|
-|June 17^th^|[*Tracing ancient practices through archaeo-metabolomics: a new window into the sensory and medicinal landscapes of the past*](https://www.yra-ecr.org/abstracts/2025-S06.html)<br>**Barbara Huber**|
-|July 1^st^|[*Accelerated thermal and freeze-thaw cycling effects on the durability of Greek marble in built heritage*](https://www.yra-ecr.org/abstracts/2025-S07.html)<br>**Meilin Lyu**|
-|Sept. 16^th^|[*Egyptian blue production: a diachronic perspective*](https://www.yra-ecr.org/abstracts/2025-S09.html)<br>**Ilia Kovalev**|
-|Oct. 29^th^|[*Zooarchaeology and isotopic evidence for subsistence in Fuerteventura: the animals of the Majos (Canary Islands)*](https://www.yra-ecr.org/abstracts/2025-S10.html)<br>**Aitor Brito Mayor**|
+|Mar. 6^th^|[*Colored sculptures under study: archaeometrical and symbolic approaches to pigments in pre-Columbian Ecuador*](abstracts/2025-S03.qmd)<br>**Alejandra Sánchez Polo**|
+|Apr. 1^st^|[*Identifying Bronze Age alloying practices in the western and central Balkans*](abstracts/2025-S04_1.qmd)<br>**Nicole Mittermair**|
+|Apr. 9^th^|[*Discover STON: a practical tool to study petrographic images and beyond!*](abstracts/2025-S04_2.qmd)<br>**Evgenia Dammer, Romain Thomas**|
+|May 16^th^|[*Of landscape biographies and sediment archives: reconstructing the landscape history of the Kreuttal microregion in Lower Austria*](abstracts/2025-S05.qmd)<br>**Doris Jetzinger**|
+|June 17^th^|[*Tracing ancient practices through archaeo-metabolomics: a new window into the sensory and medicinal landscapes of the past*](abstracts/2025-S06.qmd)<br>**Barbara Huber**|
+|July 1^st^|[*Accelerated thermal and freeze-thaw cycling effects on the durability of Greek marble in built heritage*](abstracts/2025-S07.qmd)<br>**Meilin Lyu**|
+|Sept. 16^th^|[*Egyptian blue production: a diachronic perspective*](abstracts/2025-S09.qmd)<br>**Ilia Kovalev**|
+|Oct. 29^th^|[*Zooarchaeology and isotopic evidence for subsistence in Fuerteventura: the animals of the Majos (Canary Islands)*](abstracts/2025-S10.qmd)<br>**Aitor Brito Mayor**|
 |Nov. 14^th^|*Worlds on a string. On beads and exchange in Merovingian northern Gaul*<br>**Mette Langbroek**|
-|Dec. 2^nd^|[*Investigating handmade pottery in Roman Thrace through an integrated analytical approach*](https://www.yra-ecr.org/abstracts/2025-S12.html)<br>**Petra Tušlová**, Silvia Amicone, Noémie S. Müller, Richard Thér, Veronika Brychová, Karolína Králová, Martina Kohoutková, Evangelia Kiriatzi|
+|Dec. 2^nd^|[*Investigating handmade pottery in Roman Thrace through an integrated analytical approach*](abstracts/2025-S12.qmd)<br>**Petra Tušlová**, Silvia Amicone, Noémie S. Müller, Richard Thér, Veronika Brychová, Karolína Králová, Martina Kohoutková, Evangelia Kiriatzi|
 :::
 
 <!--

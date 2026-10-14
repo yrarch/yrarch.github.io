@@ -138,7 +138,7 @@ All times are given in Greenwich Meridian Time (UTC+0).
 
 |||
 |--|--------|
-|10:00 -- 13:00|*Guided tour through the National Museum of Iceland*<br />*Lunch break (self-paid)*|
+|11:00 -- 13:00|*Guided tour through the National Museum of Iceland*<br />*Lunch break (self-paid)*|
 |||
 ||**Session 3: Landscape- and Zooarchaeology: Iceland**|
 |13:00 -- 13:20|[*The palaeoecology of birch woods in Iceland*](abstracts/2026-9.qmd)<br />**Didrik Tveit** (University of Iceland, Reykjavík, Iceland)|

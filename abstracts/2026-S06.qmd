@@ -1,0 +1,20 @@
+---
+title: 'Rethinking early Cycladic metallurgy: evidence from Keros--Dhaskalio'
+date: "2026"
+date-format: "YYYY"
+Event: Seminar
+categories: [Archaeometallurgy, Early Bronze Age, Greece, Aegean]
+author: 
+  - name: Demetris Ioannides
+    orcid: 0000-0002-2137-9625
+    corresponding: true
+    email: d.ioannides@cyi.ac.cy
+---
+
+*This paper was presented at the YRA seminar series in June 2026.*
+
+The island of Keros, situated in the central Cyclades, hosted the world's earliest maritime sanctuary during the Early Cycladic (EC) II and III periods. Just off its west coast, the islet of Dhaskalio accommodated a major EC complex where metalworking --- alongside obsidian blade production --- constituted one of the principal productive activities. This talk presents a comprehensive overview of the archaeometallurgical evidence from the Keros--Dhaskalio site complex, spanning the site's three main occupational phases (c. 2750--2250 BCE).\
+The evidence reveals a metallurgical sequence of remarkable scope and complexity. The discovery of copper smelting activities renders Keros a unique case within the Cyclades during the Early Bronze Age, while extensive metalworking focusing on the production of arsenical copper, lead artefacts, and possible silver and gold sets the settlement of Dhaskalio apart from the rest of EC settlements with metalworking evidence, confirming it as a major metalworking centre.\
+The significance of these activities becomes even more striking when considering that all ores had to be imported, given the complete absence of local mineral resources. Far from merely practical, this metallurgical enterprise likely reflected the community's social identity, connectivity, and status. The knowledge, skill, and symbolic importance associated with metal production were central to the community's social fabric, underscoring the cultural weight of these operations within the Early Cycladic world.
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
