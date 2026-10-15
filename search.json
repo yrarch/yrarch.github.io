@@ -1029,6 +1029,13 @@
     "text": "YRA aims to give early career researchers (ECRs) in the archaeological sciences the opportunity to present their research in a friendly environment surrounded only by young students from the same field. We welcome all persons involved in archaeometry research of different nationalities and levels, from master students to first postdoctoral fellows.\nWith our mailing list, we offer ECRs a possibility to interact with each other between the workshops. While announced here as the major communication outlet for the YRA workshops beside the webpage, any subscriber is welcomed to use it for, e.g., sharing job advertisements, searching for collaborators, or having discussions about any topic related to archaeological sciences and/or being an early career researcher."
   },
   {
+    "objectID": "index.html#in-memory-of-thomas-rose",
+    "href": "index.html#in-memory-of-thomas-rose",
+    "title": "Young Researchers in Archaeometry",
+    "section": "In Memory of Thomas Rose",
+    "text": "In Memory of Thomas Rose\nIt is with profound sadness that we remember Thomas Rose, one of the founders and true soul of the Young Researchers in Archaeometry (YRA) network, who passed away on September 2nd, 2026, due to injuries sustained during a bicycle accident, at only 37.\nThomas was one of the persons who started the YRA and gave the network its original direction and spirit. What began as his initiative to bring young researchers in archaeological science together gradually developed into an international network and a recurring meeting point for early-career researchers from across the field. From the very beginning, Thomas was the driving force behind it.\nAs his own career progressed, he never left YRA behind. He continued to support each new generation of organisers, making sure that there was continuity from one workshop to the next and that the network would keep moving forward. There were endless organisational meetings from different corners of the world, countless messages and discussions, and, above all, the pleasure of meeting again at our annual YRA workshops, at conferences, and wherever our professional paths happened to cross.\nFor Thomas, every YRA workshop was both a professional and a personal achievement. He saw what had started as a small meeting grow into something much larger and more established: an international workshop series, a website, a mailing list, online tutorials and resources, a monthly seminar series, and a community that continued to expand while remaining true to the purpose with which he had created it. He was also especially proud of the YRA logo he designed in 2022. It has accompanied the network ever since and now carries an entirely new significance. It remains one of the most visible reminders of Thomas and of the extraordinary amount of time, energy and care that he invested in YRA.\nWhat made Thomas so important to the network, however, went far beyond its organisation. He brought warmth, enthusiasm and a genuine sense of community to YRA. He had a natural ability to bring people together, encourage younger colleagues, and turn professional encounters into lasting friendships and collaborations.\nThe YRA Network that exists today is one of Thomas’s lasting legacies. Every future workshop, every new collaboration and every young researcher who becomes part of this community will carry forward something that began with him.\nThank you, Thomas, for creating YRA, for believing in it, and for everything you gave to all of us.\nYou will always be at the heart of this network."
+  },
+  {
     "objectID": "index.html#defining-early-career-researchers",
     "href": "index.html#defining-early-career-researchers",
     "title": "Young Researchers in Archaeometry",
@@ -1141,13 +1148,6 @@
     "text": "Sinem Hacıosmanoğlu \n\n\n\n\n\n\nSinem (Universität Tübingen) is a PhD candidate at the University of Tübingen, Germany, Department of Geoscience, Institute for Archeological Sciences. She completed her bachelor (BSc) and master (MSc) at Istanbul Technical University (Turkey) in the Department of Geological Engineering. In her PhD project, she investigates clay resources and ancient ceramics from the Late Bronze Age and the Iron Age in Cilicia, Southeast Anatolia, Eastern Mediterranean by using several disciplines, such as mineralogy, petrography, geochemistry and field geology. In addition, she is working as a research assistant on several projects funded by the German Research Foundation (DFG) and hosted at the Competence Center Archaeometry - Baden-Württemberg (CCA-BW). Since 2023, she has been contributing as a scientific researcher at the Leibniz-Zentrum für Archäologie (LEIZA) focusing on Roman Pottery from Speicher."
   },
   {
-    "objectID": "team.html#thomas-rose",
-    "href": "team.html#thomas-rose",
-    "title": "Meet the team",
-    "section": "Thomas Rose ",
-    "text": "Thomas Rose \n\n\n\n\n\n\nThomas is Assistant Professor at the Department of Materials Science and Engineering, Massachusetts Institute of Technology. He gained expertise in ancient copper metallurgy with focus on the Chalcolithic Southern Levant and stable metal isotope systems and is contributing, among others, to TerraLID, the research data infrastructure fpr lead isotope data in archaeology and the R package ASTR – Archaeometric Standards and Tools in R. He is also council member of the Historical Metallurgy Society and in this role one of the editors of the journal Historical Metallurgy. More info at copper-smelting.com."
-  },
-  {
     "objectID": "team.html#vasiliki-anevlavi",
     "href": "team.html#vasiliki-anevlavi",
     "title": "Meet the team",
@@ -1160,5 +1160,12 @@
     "title": "Meet the team",
     "section": "Viktória Mozgai ",
     "text": "Viktória Mozgai \n\n\n\n\n\n\nViktória is a researcher of the Archaeometry and Bioarchaeology Research Group at the Institute for Geological and Geochemical Research, HUN-REN Research Centre for Astronomy and Earth Sciences, Budapest. She defended her PhD titled Detailed examination of late Roman silver finds (including the Seuso Treasure) from Pannonia –The use of the results in the archeometric research of objects in 2023 at the Doctoral School of Earth Sciences, Faculty of Science, Eötvös Loránd University, Budapest. Her main research field is the detailed archaeometric study of archaeological and historical gold-, silver- and copper-based alloy objects and their decoration techniques (gilding, niello- and garnet inlays). She is involved in several research projects on artefacts from prehistoric to early medieval times."
+  },
+  {
+    "objectID": "team.html#thomas-rose-september-2026",
+    "href": "team.html#thomas-rose-september-2026",
+    "title": "Meet the team",
+    "section": "Thomas Rose († September 2026) ",
+    "text": "Thomas Rose († September 2026) \n\n\n\n\n\n\nThomas received his first bachelor’s degree in archaeology from the University of Tübingen, followed by a second bachelor’s and master’s degrees in geosciences from Goethe University Frankfurt and earned his PhD in archaeology through a joint doctoral program at Ben-Gurion University of the Negev in Israel and Sapienza University of Rome in Italy. After his PhD, Thomas held various research and coordination roles in Germany at the Deutsches Bergbau Museum Bochum and Goethe University Frankfurt. In January 2026, he was appointed Assistant Professor of Material Science at the Massachusetts Institute of Technology (MIT) and became a member of the MIT’s Center for Materials Research in Archaeology (CMRAE).\nThomas’ expertise centred on ancient copper metallurgy with focus on the Chalcolithic Southern Levant and stable metal isotope systems. He contributed, among others, to TerraLID, the research data infrastructure for lead isotope data in archaeology and the R package ASTR – Archaeometric Standards and Tools in R. He was a council member of the Historical Metallurgy Society and in this role one of the editors of the journal Historical Metallurgy."
   }
 ]
