@@ -156,21 +156,6 @@ Sinem (Universität Tübingen) is a PhD candidate at the University of Tübingen
 
 :::
 
-## Thomas Rose [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
-
-::: {layout="[ 25 , 75 ]"}
-
-::: {#column-image}
-![](assets/img/team/TRose.png)
-:::
-
-::: {#column-text}
-Thomas is Assistant Professor at the Department of Materials Science and Engineering, Massachusetts Institute of Technology. He gained expertise in ancient copper metallurgy with focus on the Chalcolithic Southern Levant and stable metal isotope systems and is contributing, among others, to TerraLID, the research data infrastructure fpr lead isotope data in archaeology and the R package ASTR -- Archaeometric Standards and Tools in R. He is also council member of the Historical Metallurgy Society and in this role one of the editors of the journal *Historical Metallurgy*. More info at [copper-smelting.com](https://copper-smelting.com/). 
-:::
-
-:::
-
-
 ## Vasiliki Anevlavi [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-7332-1129)
 
 ::: {layout="[ 25 , 75 ]"}
@@ -195,6 +180,22 @@ Vasiliki (Austrian Archaeological Institute) studied the Master of Science in Cu
 
 ::: {#column-text}
 Viktória is a researcher of the Archaeometry and Bioarchaeology Research Group at the Institute for Geological and Geochemical Research, HUN-REN Research Centre for Astronomy and Earth Sciences, Budapest. She defended her PhD titled Detailed examination of late Roman silver finds (including the Seuso Treasure) from Pannonia –The use of the results in the archeometric research of objects  in 2023 at the Doctoral School of Earth Sciences, Faculty of Science, Eötvös Loránd University, Budapest. Her main research field is the detailed archaeometric study of archaeological and historical gold-, silver- and copper-based alloy objects and their decoration techniques (gilding, niello- and garnet inlays). She is involved in several research projects on artefacts from prehistoric to early medieval times.
+:::
+
+:::
+
+
+## Thomas Rose († September 2026) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
+
+::: {layout="[ 25 , 75 ]"}
+
+::: {#column-image}
+![](assets/img/team/TRose.png)
+:::
+
+::: {#column-text}
+Thomas received his first bachelor’s degree in archaeology from the University of Tübingen, followed by a second bachelor’s and master’s degrees in geosciences from Goethe University Frankfurt and earned his PhD in archaeology through a joint doctoral program at Ben-Gurion University of the Negev in Israel and Sapienza University of Rome in Italy. After his PhD, Thomas held various research and coordination roles in Germany at the Deutsches Bergbau Museum Bochum and Goethe University Frankfurt. In January 2026, he was appointed Assistant Professor of Material Science at the Massachusetts Institute of Technology (MIT) and became a member of the MIT’s Center for Materials Research in Archaeology (CMRAE).  
+Thomas’ expertise centred on ancient copper metallurgy with focus on the Chalcolithic Southern Levant and stable metal isotope systems. He contributed, among others, to TerraLID, the research data infrastructure for lead isotope data in archaeology and the R package ASTR -- Archaeometric Standards and Tools in R. He was a council member of the Historical Metallurgy Society and in this role one of the editors of the journal *Historical Metallurgy*.
 :::
 
 :::
