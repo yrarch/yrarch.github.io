@@ -172,8 +172,9 @@ All times are given in Greenwich Meridian Time (UTC+0).
 |13:35 -- 13:40|[*From seals to SEAD: incorporating mammal bones into a database*](abstracts/2026-21.qmd)<br />**Victoria McKee** (Department of Historical, Philosophical and Religious Studies, Umeå University, Sweden)|
 |13:40 -- 13:45|[*Exploring the purpose of suspected intoxicant paraphernalia from La Hueca-Sorcé (Puerto Rico) with a non-destructive, multianalytical approach*](abstracts/2026-22.qmd)<br />**Judith Margarita López Aceves** (University of Leicester, United Kingdom)|
 |13:45 -- 13:50|[*Combined scientific dating and materials analysis of Salisbury Cathedral, United Kingdom*](abstracts/2026-23.qmd)<br />**Kutsi Akcicek** (Department of Engineering Science, University of Oxford, United Kingdom)|
+|13:50 -- 13:55|[*Multidisciplinary pXRF research in the Campiglia Marittima mining district (Tuscany, Italy): reconstructing the diachronic production history of the Madonna di Fucinaia site*](abstracts/2026-24.qmd)<br />**Niccolò Parnetti** (Department of History Sciences and Cultural Heritage, University of Siena, Siena, Italy)|
 |||
-|13:50 -- 15:30|**Posters Q&A** and *Coffee break*|
+|13:55 -- 15:30|**Posters Q&A** and *Coffee break*|
 |15:30|Travel award and Thomas Rose Price ceremony<br />Closing|
 
 :::

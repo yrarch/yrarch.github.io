@@ -1,0 +1,18 @@
+---
+title: 'Multidisciplinary pXRF research in the Campiglia Marittima mining district (Tuscany, Italy): reconstructing the diachronic production history of the Madonna di Fucinaia site'
+date: "2026"
+date-format: "YYYY"
+Event: Workshop
+categories: [Archaeometallurgy, pXRF, Diachrony]
+author: 
+  - name: Niccolò Parnetti
+    orcid: 0009-0000-1633-5719
+    corresponding: true
+    email: n.parnetti@student.unisi.it
+---
+
+*This paper was presented at the YRA Workshop 2026 in Reykjavík.*
+
+This study presents a diachronic reconstruction of the Madonna di Fucinaia site (Tuscany, Italy), analyzed within the productive context of the Capattoli Valley. As part of the MINERS project (Bianchi et al. 2024), the research investigates the pre-industrial productive landscape, a central theme of the University of Siena’s investigations since the 1980s. The primary objective is a critical re-evaluation of the site's archaeometallurgical evidence by integrating archival and bibliographical source systems and historical cartography in georeferences ambient with a systematic geochemical survey via pXRF. This investigation resolves the interpretative uncertainties surrounding this multi-stratified site, outlining a complex chronological sequence (8th century BCE -- mid-16th century CE) characterized by shifting functions: from a potential settlement to a funerary area, and subsequently to a metal-productive site. Notably, the new pXRF data, cross-referenced with XRF and ICP-MS data from the copper slag deposits
+
+[![CC-BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp; This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
