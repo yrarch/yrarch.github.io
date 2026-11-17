@@ -12,7 +12,7 @@ The time slots of each presentation are accommodated to be the most comfortable 
 The talks will be held online via Zoom. [Click here to join the Zoom meeting](https://zoom.us/j/98869145922?pwd=A9qUQ6PRS3wb3Nsj0wd3HQLHUlIqtS.1 ).
 (Meeting-ID: 988 6914 5922; code: YRA-S2026).
 
-## Next presentation: October 9^th^, at 12:00 am (UTC)
+## Next presentation: November 30^th^, at 2:00 pm (UTC)
 
 ::: {.column-margin}
 
@@ -23,23 +23,22 @@ The talks will be held online via Zoom. [Click here to join the Zoom meeting](ht
 **Code:** YRA-S2026  
 :::
 
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20261009T120000&p1=1440).
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20261130T140000&p1=1440).
 
 :::
 
-**_The late antique glass workshop in the area of the_** **villa rustica** **_HA 488 -- preliminary results_**
+**_Between Cypriot connections and local traditions: an archaeometric view of Iron Age “Cypro-Cilician” White Painted ware from Sirkeli Höyük (Cilicia, Türkiye)_**
 
-**Carolin Marie Meckes** (Goethe University Frankfurt am Main, Germany)  
+**Sinem Hacıosmanoğlu** (University of Tübingen, Germany)  
 
-**Keywords:** Late Antiquity, Roman glass, Glassworking, Glass types, Hambach Forest  
+**Keywords:** Cilicia, Iron Age, White Painted ware, Ceramic petrography, LA-ICP-MS, XRPD, Ceramic provenance, Production technology, Cyprus-Cilicia interaction  
 
 **Abstract:**  
-Following the designation of Colonia Claudia Ara Agrippinensium (Cologne) as the capital of Lower Germania, the hinterland of Cologne, particularly during the 1st and 2nd centuries, was heavily settled and used for agriculture. However, this led to an abrupt end with the imperial crises of the 3rd century, resulting in conversion, downsizing or abandonment of the rural estates. With the gradual stabilisation and restructuring of the Roman Empire at the beginning of Late Antiquity, the former, now ruinous sites were reused or repurposed, and were settled by craftsmen who ran workshops.
-In the case of the area now occupied by the Hambach opencast lignite mine in the hinterland of Cologne, these were primarily glass craftsmen who set up their glass workshops in several abandoned *villae rusticae*. These are being archaeologically documented in the run-up to lignite extraction. 
-Numerous studies have already addressed questions concerning the production of raw glass and the use of Roman glass types, and it has already been established that the so-called Hambach glass workshops were, without exception, secondary operations. However, questions remain regarding the precise chronological classification of the glass types, which may shed light on trade relations, resource management and the organisation of the workshops.
-Therefore, the focus on the PhD Project is the investigation of a *villa rustica*, the so-called HA 488, which, during its late antique phase of subsequent use, is to be examined archaeologically and archaeometrically using EPMA and ICP-MS analysis and compared with samples from well-dated grave finds.  
+Sirkeli Höyük, an urban centre of the Iron Age kingdom of Que (Hiyawa) in the Cilician Plain of southern Anatolia, preserves a continuous sequence of Iron Age occupation. Among its painted ceramics, “Cypro-Cilician” White Painted Ware represents a prominent group. Its stylistic affinities with Cypriot ceramic traditions have raised questions about provenance, production practices, and cultural interaction between Cilicia and Cyprus.  
+This presentation investigates the provenance and production technology of White Painted Ware from Sirkeli Höyük through thin-section petrography, geochemical analysis (LA-ICP-MS), and mineralogical analysis (XRPD). Comparisons with previously published archaeometric data on regional Iron Age pottery and clay samples collected from the Ceyhan Plain provide a framework for examining raw-material selection, clay processing, and firing practices. The results suggest close connections with local raw-material resources and ceramic traditions, offering new perspectives on how Cypriot stylistic influences were incorporated into ceramic production in Iron Age Cilicia.
+  
 
-![](assets/img/seminar/2026-10_Meckes_copyright.jpg)  
+![](assets/img/seminar/2026-11_Haciosmanoglu.jpg)  
 
 
 ## Programme - 2026
@@ -129,8 +128,12 @@ Therefore, the focus on the PhD Project is the investigation of a *villa rustica
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
-## November – Sinem Hacıosmanoğlu (University of Tübingen, Germany)
-*More information coming soon.*
+## November 30^th^ – Sinem Hacıosmanoğlu (University of Tübingen, Germany)
+**Time:** 2:00 pm (UTC)  
+**Title:** Between Cypriot connections and local traditions: an archaeometric view of Iron Age “Cypro-Cilician” White Painted ware from Sirkeli Höyük (Cilicia, Türkiye)  
+**Keywrods:** Cilicia, Iron Age, White Painted ware, Ceramic petrography, LA-ICP-MS, XRPD, Ceramic provenance, Production technology, Cyprus-Cilicia interaction  
+**Abstract:** Sirkeli Höyük, an urban centre of the Iron Age kingdom of Que (Hiyawa) in the Cilician Plain of southern Anatolia, preserves a continuous sequence of Iron Age occupation. Among its painted ceramics, “Cypro-Cilician” White Painted Ware represents a prominent group. Its stylistic affinities with Cypriot ceramic traditions have raised questions about provenance, production practices, and cultural interaction between Cilicia and Cyprus.  
+This presentation investigates the provenance and production technology of White Painted Ware from Sirkeli Höyük through thin-section petrography, geochemical analysis (LA-ICP-MS), and mineralogical analysis (XRPD). Comparisons with previously published archaeometric data on regional Iron Age pottery and clay samples collected from the Ceyhan Plain provide a framework for examining raw-material selection, clay processing, and firing practices. The results suggest close connections with local raw-material resources and ceramic traditions, offering new perspectives on how Cypriot stylistic influences were incorporated into ceramic production in Iron Age Cilicia.
 :::
 
 ::: {.callout-note collapse="true" appearance="minimal"}
